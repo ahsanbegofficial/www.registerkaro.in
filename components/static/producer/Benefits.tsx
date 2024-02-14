@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import bft from '../../../assets/images/pvt-reg/benefit.svg'
+import bft from '../../../assets/images/producer/advantages.svg'
 
 export const Benefits = () => {
   return (

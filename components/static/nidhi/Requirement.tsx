@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import bft from '../../../assets/images/nidhi-reg/requiremen.svg'
+import bft from '../../../assets/images/nidhi-reg/requirements.svg'
 
 export const Requirement = () => {
   return (

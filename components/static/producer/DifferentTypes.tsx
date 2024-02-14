@@ -1,10 +1,10 @@
 import Image from 'next/image'
 import React from 'react'
-import bft from '../../../assets/images/pvt-reg/benefit.svg'
+import bft from '../../../assets/images/producer/typeofProducer.svg'
 
 export const DifferentTypes = () => {
   return (
-    <div className='benefits flex w-80 m-auto mobile-flex-column' id='Differnt'>
+    <div className='benefits flex w-80 m-auto mobile-flex-column-reverse' id='Differnt'>
       <div className='flex-5'>
           <p>Following are the different types of Producer Companies in India:</p>
           <p><strong>Agricultural Producer Company:</strong> This type of Producer Company is set up by agriculturalists, farmers, or producers who are involved in the crop’s cultivation, poultry or dairy farming. The primary objective of an agricultural company is to increase the income of its members & improve their agricultural practices.</p>

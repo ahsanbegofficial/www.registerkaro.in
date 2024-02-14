@@ -1,13 +1,13 @@
 import Image from 'next/image'
 import React from 'react'
-import bft from '../../../assets/images/pvt-reg/benefit.svg'
+import bft from '../../../assets/images/producer/activites.svg'
 
 
 export const ActivityPerform = () => {
   return (
-    <div className='benefits flex w-80 m-auto mobile-flex-column' id='ActivityPerform'>
-        <div className='flex-5'>
-          <Image alt="The benefits of private limited company in india and these are Separate Legal Entity, Ease in Raising Funds, Limited Liability, Easy Transferable, Limited Liability and ESOP" className="benefits-img w-100" height={600} loading="lazy" src={bft} />
+    <div className='flex w-80 m-auto mobile-flex-column' id='ActivityPerform'>
+        <div className='flex-3 ActivityPerform '>
+          <Image alt="The benefits of private limited company in india and these are Separate Legal Entity, Ease in Raising Funds, Limited Liability, Easy Transferable, Limited Liability and ESOP" className="benefits-img w-100" height={500}  loading="lazy" src={bft} />
       </div>
       <div className='flex-5'>
         <p>Following is the list of activities performed by a Producer Company in India:</p>
