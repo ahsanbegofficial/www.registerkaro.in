@@ -1,0 +1,67 @@
+{
+  "header": {
+    "about": {
+      "link": "about",
+      "title": "About",
+      "isDropdown": false
+    },
+    "whyUs": {
+      "link": "why-us",
+      "title": "Why us",
+      "isDropdown": false
+    },
+    "whatwedo": {
+      "link": "what-we-do",
+      "title": "what we do",
+      "isDropdown": false
+    },
+    "plans": {
+      "link": "pricing",
+      "title": "plans",
+      "isDropdown": false
+    },
+    "partners": {
+      "link": "partners",
+      "title": "partners",
+      "isDropdown": false
+    },
+    "faq": {
+      "link": "faq",
+      "title": "Faq",
+      "isDropdown": false
+    },
+    "team": {
+      "link": "team",
+      "title": "Team",
+      "isDropdown": false
+    },
+    "testimonial": {
+      "link": "#testimonial",
+      "title": "Reviews",
+      "isDropdown": false
+    }
+  },
+  "blog": {
+    "logo": "RegisterKaro",
+    "home": {
+      "link": "/",
+      "title": "Home",
+      "isDropdown": false
+    },
+    "blog": {
+      "link": "/blogs",
+      "title": "Blog",
+      "isDropdown": false
+    },
+    "authors": {
+      "link": "/blogs/authors",
+      "title": "Authors",
+      "isDropdown": false
+    },
+    "category": {
+      "link": "/blogs/category",
+      "title": "Categories",
+      "isDropdown": false
+    }
+  }
+}

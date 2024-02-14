@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "LLP",
+        "subtitle": "Registration",
+        "description": "Register your LLP easily with us at an affordable cost",
+        "link": "llp-registration"
+    },
+    {
+        "id": 2,
+        "title": "OPC",
+        "subtitle": "Registration",
+        "description": "Take the first step towards entrepreneurial success with OPC registration",
+        "link": "one-person-company"
+    },
+    {
+        "id": 3,
+        "title": "GST Registration",
+        "subtitle": "Registration",
+        "description": "Stay tax compliant and boost your business with GST registration",
+        "link": "/gst-registration"
+    },
+    {
+        "id": 4,
+        "title": "Trademark",
+        "subtitle": "Registration",
+        "description": "Get your brand registered as a Trademark with IPIndia.",
+        "link": "/trademark-registration"
+    },
+    {
+        "id": 5,
+        "title": "Annual Compliance",
+        "subtitle": "For Private Company",
+        "description": "Protect your company with our reliable annual compliance services at a budget-friendly cost",
+        "link": "/private-limited-company-compliance"
+    },
+    {
+        "id": 6,
+        "title": "FSSAI",
+        "subtitle": "Registration",
+        "description": "Secure your food business future with our comprehensive FSSAI registration solutions",
+        "link": "/fssai-registration"
+    }
+]

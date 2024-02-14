@@ -1,0 +1,162 @@
+.serviceId {
+  font-family: "Helvetica";
+  width: 100%;
+  .cross {
+    border-style: none !important;
+    background-color: transparent !important;
+    color: white !important;
+  }
+  .header-service {
+    // background-image: url("../../../assets//images/organic/bgColor.webp");
+    // background-size: cover;
+    // background-repeat: no-repeat;
+    // background-position: center center;
+    border: 1px solid white;
+    display: flex;
+    padding: 40px 70px;
+    gap: 100px;
+    position: relative;
+    overflow: hidden;
+    img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+    }
+    .header-content {
+      flex: 7;
+      padding-top: 70px;
+      h1 {
+        font-size: 42px;
+        line-height: 1.2;
+        font-weight: 500;
+      }
+      small {
+        color: #2b8ade;
+      }
+      .youtube-btn {
+        display: flex;
+        gap: 1rem;
+        align-items: center;
+        border-style: none;
+        background-color: transparent;
+        .img {
+          max-width: 100%;
+          height: auto;
+          color: transparent;
+        }
+        .underline {
+          font-size: 14px;
+          font-weight: 500;
+          text-align: start;
+          text-decoration-line: underline;
+          cursor: pointer;
+        }
+      }
+      .business {
+        margin-top: 20px;
+        font-size: 24px;
+        .font-weight-700 {
+          font-weight: 700;
+        }
+      }
+    }
+
+    .zoho {
+      flex: 3;
+    }
+  }
+  .content-body {
+    display: flex;
+    flex-direction: row;
+    padding: 80px;
+    gap: 150px;
+    position: relative;
+    .content {
+      flex: 6;
+    }
+    .sidebar {
+      flex: 3;
+      .sticky {
+        position: sticky;
+        top: 80px;
+      }
+    }
+  }
+  .partners {
+    text-align: center;
+    h2 {
+      font-weight: 700;
+      font-size: 14px;
+    }
+    .Slide {
+      margin-top: 20px;
+      padding: 20px;
+    }
+  }
+  table {
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    font-size: 16px;
+    td,
+    th {
+      padding: 20px;
+      font-weight: lighter;
+      border: 1px solid #ffa229;
+    }
+    th {
+      color: white;
+      background-color: #164760;
+    }
+    .first {
+      border-radius: 25px 0px 0px 0px;
+      border: none;
+    }
+    .last {
+      border-radius: 0px 25px 0px 0px;
+      border: none;
+    }
+  }
+  @media screen and (max-width: 1200px) {
+    .display-1200-none {
+      display: none;
+    }
+    .header-service {
+      flex-direction: column;
+      gap: 40px;
+      padding: 0px 70px 40px 70px;
+      .zoho {
+        width: 500px;
+        margin: auto;
+      }
+    }
+    .content-body {
+      padding: 80px;
+      gap: 0px;
+      position: static;
+      display: block;
+    }
+  }
+  @media screen and (max-width: 900px) {
+    figure {
+      display: none;
+    }
+    .content-body {
+      padding: 40px;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .header-service {
+      padding: 0px 20px 40px 20px;
+      .zoho {
+        width: auto;
+      }
+    }
+    .content-body {
+      padding: 40px 15px;
+    }
+  }
+}

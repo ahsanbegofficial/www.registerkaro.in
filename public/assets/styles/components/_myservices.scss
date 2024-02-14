@@ -1,0 +1,11 @@
+.myservices {
+  @media screen and (max-width: 600px) {
+    .our-services-bg {
+      padding: 40px !important;
+      margin-top: 20px;
+      div {
+        margin-top: 0px !important;
+      }
+    }
+  }
+}

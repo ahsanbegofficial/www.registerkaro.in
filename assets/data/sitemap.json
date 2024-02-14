@@ -1,0 +1,1987 @@
+{
+    "Startup": {
+        "Business Registrations": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/private-limited-company-registration",
+                    "title": "Private Limited Company Registration"
+                },
+                {
+                    "link": "/public-limited-company-registration",
+                    "title": "Public Limited Company Registration"
+                },
+                {
+                    "link": "/llp-registration",
+                    "title": "LLP Registration"
+                },
+                {
+                    "link": "/one-person-company",
+                    "title": "One Person Company Registration"
+                },
+                {
+                    "link": "/partnership-firm-registration",
+                    "title": "Partnership Firm Registration"
+                },
+                {
+                    "link": "/sole-proprietorship-registration",
+                    "title": "Sole Proprietorship Registration"
+                },
+                {
+                    "link": "/indian-subsidiary-registration",
+                    "title": "Indian Subsidiary Registration"
+                },
+                {
+                    "link": "/nidhi-company-registration",
+                    "title": "Nidhi Company Registration"
+                },
+                {
+                    "link": "/producer-company-registration",
+                    "title": "Producer Company Registration"
+                }
+            ]
+        },
+        "NGO": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/section-8-company-registration",
+                    "title": "Section 8 Company Registration"
+                },
+                {
+                    "link": "/trust-registration",
+                    "title": "Trust Registration"
+                },
+                {
+                    "link": "/society-registration",
+                    "title": "Society Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "FCRA Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "12A and 80G Registration"
+                }
+            ]
+        },
+        "Compliances": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/llp-compliance",
+                    "title": "Annual Compliance of LLP"
+                },
+                {
+                    "link": "/private-limited-company-compliance",
+                    "title": "Annual Compliance For Private Limited"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Annual Compliance of Public Limited"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "XBRL Filing Validation tool"
+                },
+                {
+                    "link": "/nidhi-company-compliance",
+                    "title": "Nidhi Company Annual Compliance"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Section 8 Annual Compliance"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Global Compliance and Reporting"
+                }
+            ]
+        },
+        "Business Conversion": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "Conversion of Private Limited To Public Limited"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Partnership To LLP"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "OPC to Company"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Proprietorship To Private Limited"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "LLP to Company"
+                }
+            ]
+        },
+        "Change In Business": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/change-in-director",
+                    "title": "Change In Directors"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Change in Registered Office"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Change in object clause"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Change in Capital structure"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Share Transfer"
+                },
+                {
+                    "link": "/increase-authorized-capital",
+                    "title": "Increase in Authorized Share Capital"
+                },
+                {
+                    "link": "/winding-up-of-a-company",
+                    "title": "Winding Up of a Company"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Removal of Directors Disqualification"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Revival of Struck Off Companies"
+                }
+            ]
+        },
+        "Business Agreements": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "Memorandum of Understanding"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Franchise Agreement"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Joint Venture Agreement"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Founders Agreement"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Share Purchase Agreement"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Shareholders Agreement"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Master Service Agreement"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Service Level Agreement"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Commercial Documentation"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Vendor Agreement"
+                }
+            ]
+        },
+        "General Agreements": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "Non Disclosure Agreement"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Consulting Agreement"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Employment Contract"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Will"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Gift Deed"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Sales Deed"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Rental Agreement"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Legal Notice"
+                }
+            ]
+        },
+        "Investment & Funding": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "Business Plan Consultant"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Business Plan Consulting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Business Plan Review"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Investor Pitch Deck"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Term Sheet"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Investment-management"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Business valuation Consulting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Valuation Consulting services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "HR Consulting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Executive search and HR solutions"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Capital market consulting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Outbound Investment Structuring"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Inbound Investment Structuring"
+                }
+            ]
+        }
+    },
+    "Licenses": {
+        "Government Registrations & Licenses": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/iec-registration",
+                    "title": "IEC Registration"
+                },
+                {
+                    "link": "/esi-registration",
+                    "title": "ESI Registration"
+                },
+                {
+                    "link": "/epf-registration",
+                    "title": "EPF Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "RERA Registration"
+                },
+                {
+                    "link": "/msme-registration-online",
+                    "title": "MSME Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "NSIC Registration"
+                },
+                {
+                    "link": "/shop-and-establishment-act-registration",
+                    "title": "Shop and Establishment Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "RNI Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "RCMC Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "WMI Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Political Party Registration in India"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "STP Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Non- STP Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Amazon Seller Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Flipkart Seller Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Paytm Seller Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Shopclues Seller Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Snapdeal Seller Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Cosmetic Registration in India"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Drug License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Music License For Restaurant"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Music License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Trade License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Eating House License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "AYUSH License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "BAR License in India"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Gumasta License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "OSP License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Dot Osp License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "ISP License in India"
+                }
+            ]
+        },
+        "FSSAI": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/fssai-registration",
+                    "title": "FSSAI License"
+                },
+                {
+                    "link": "/state-fssai-license-registration",
+                    "title": "FSSAI State License"
+                },
+                {
+                    "link": "/fssai-central-license",
+                    "title": "FSSAI Central License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "FSSAI Compliance Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "FSSAI Annual Return"
+                },
+                {
+                    "link": "/basic-fssai-registration-renewal",
+                    "title": "FSSAI License Renewal"
+                }
+            ]
+        },
+        "IPR": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "Trademark Hearing"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Wordmark Registration in India"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Logo Registration in India"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Brand Name Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Patent Revocation"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Copyright Objection"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Registration OF Geographical Indication (GI)"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Copyright Licensing"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Design Registration Renewal and Restoration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Trademark Opposition"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Trademark Licensing"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Copyright Assignment"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Patent Opposition"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Copyright Disclaimer"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Trademark Renewal"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Trademark Classes Finder"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Indian Patent Search"
+                },
+                {
+                    "link": "/trademark-registration",
+                    "title": "Trademark Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Trademark Objection"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Trademark Rectification"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Trademark Assignment"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Patent Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Copyright Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Design Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "International Trademark Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Intellectual Property Dispute"
+                }
+            ]
+        },
+        "ISO": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "ISO 16001 Certification"
+                },{
+                    "link": "/sitemap",
+                    "title": "ISO 14001 EMS"
+                },{
+                    "link": "/sitemap",
+                    "title": "ISO 22000 FSMS"
+                },{
+                    "link": "/sitemap",
+                    "title": "ISO 9001 2015"
+                },{
+                    "link": "/sitemap",
+                    "title": "ISO 50001 Energy Management"
+                },{
+                    "link": "/sitemap",
+                    "title": "ISO 45001 certification"
+                },{
+                    "link": "/sitemap",
+                    "title": "ISO 20000 Certification"
+                },{
+                    "link": "/sitemap",
+                    "title": "ISO 31000 Certification"
+                },{
+                    "link": "/sitemap",
+                    "title": "ISO 13485 Certification"
+                },{
+                    "link": "/sitemap",
+                    "title": "ISO 21101:2014 Certification"
+                },{
+                    "link": "/sitemap",
+                    "title": "ISO 37001:2016 Certification"
+                },{
+                    "link": "/sitemap",
+                    "title": "ISO 27001 ISMS Certification"
+                },{
+                    "link": "/sitemap",
+                    "title": "ISO 39001 Certification"
+                },{
+                    "link": "/sitemap",
+                    "title": "ISO 2768-1 Certification"
+                },{
+                    "link": "/sitemap",
+                    "title": "ISO Registration"
+                }
+            ]
+        }
+    },
+    "Tax & Audit": {
+        "Taxation-Registration & Return Filing": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/gst-registration",
+                    "title": "GST Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Professional Tax Karnataka"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Professional Tax in Maharashtra"
+                },
+                {
+                    "link": "/gstr9-filings",
+                    "title": "GST Return Filing"
+                },
+                {
+                    "link": "/income-tax-filing-online",
+                    "title": "Income Tax Return Filing"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "PF Return"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "ESI Return"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "TDS Return Filing"
+                }
+            ]
+        },
+        "Taxation & Advisory Services": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "Corporate Tax"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Corporate Tax and Regulatory Compliance"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Tax Preparation Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "International tax Planning"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Income Tax Notice"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Tax Litigation"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Accounting Advisory and Financial Reporting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Transfer Pricing in India"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "TP Planning, Documentation and assistance in Compliance"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Domestic Transfer Pricing"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Implementation of IND AS"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "IPO Readiness Advisory Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Inbound Investment Advisory"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Dispute Advisory Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "M&A Advisory and Investment Banking"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Global expansion Advisory"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "GST Advisory Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Goods and Services Tax advisory and compliance"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Tax Function Optimization"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Manufacturing Consulting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "System & organisational control"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Ind-advisory"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "BFSI Consulting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Employee benefits plan"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "International Tax Advisory Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Corporate Tax Advisory Services"
+                }
+            ]
+        },
+        "Audit": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "Income Tax Audit"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Secretarial Audit in India"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Global Audit Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "audit-accounting-assurance"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "NBFC AUDIT"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Stock Audit Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Internal Audit and Controls Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Management Audit"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Audit Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Advertising Audit"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Media Audit"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Cinema Audit"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Internal audit co-sourcing"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Virtual Audit Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Insurance Audit"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Human Resource Audit"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Internal Auditing Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Virtual Audit"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "NGO Audit"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Public Limited Audit"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Private Limited Audit"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Financial Statement Audit"
+                }
+            ]
+        }
+    },
+    "Regulatory": {
+        "RBI Registration": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "NBFC Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Takeover of NBFC"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "NBFC Marketing"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Conversion of NBFC Into Bank"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "NBFC Account Aggregator License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "NBFC Collaboration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Peer to Peer Lending License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Full Fledged Money Changers"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Prepaid Wallet License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Payment Aggregator License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Payment Bank License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Microfinance Company Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Small Finance Bank License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Core Investment Company Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Asset Reconstruction Company Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "MTSS (Money Transfer Service Scheme)"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Credit Co-operative society"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Housing Finance Company Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Housing Cooperative Society Registration"
+                }
+            ]
+        },
+        "SEBI Registration": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "Registration of Mutual Fund with SEBI"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Alternative Investment Fund Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Collective Investment Schemes"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Credit Rating Agency SEBI Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Depository Participant SEBI Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Foreign Portfolio Investment SEBI"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Asset Management Company Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Investment Advisors registration with SEBI"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Portfolio Manager Registration With SEBI"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Registrar and Share Transfer Agent Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Registration of Underwriters with SEBI"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Venture Capital Company Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Merchant Bankers License in India"
+                }
+            ]
+        },
+        "IRDA Services": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "Insurance Broker License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Insurance Web Aggregator License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Insurance Company License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Insurance Marketing firm"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Insurance Self-Network Platform"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Insurance surveyors and loss assessors Registration"
+                }
+            ]
+        },
+        "FEMA Advisory": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "Foreign Exchange Regulations"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "External Commercial Borrowings Compliance Advisory"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Inbound Investment under FEMA"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Outbound Investment under FEMA"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Foreign Direct Investment under the Approval Route"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Establishment of Foreign Office in India"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Compliance under FEMA"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "FEMA Compliance for Insurance Companies"
+                }
+            ]
+        },
+        "BIS Services": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/bis-certification",
+                    "title": "BIS Certification"
+                },{
+                    "link": "/sitemap",
+                    "title": "Eco Mark Scheme Certification"
+                },{
+                    "link": "/isi-mark-certification",
+                    "title": "ISI Mark Certification"
+                },{
+                    "link": "/bis-crs-certification",
+                    "title": "BIS CRS Registration"
+                },{
+                    "link": "/hallmark-registration",
+                    "title": "Hallmark Registration"
+                },{
+                    "link": "/sitemap",
+                    "title": "BIS LAB Recognition Scheme"
+                },{
+                    "link": "/sitemap",
+                    "title": "Assaying and Hallmarking Centre"
+                },{
+                    "link": "/bis-certification-for-power-banks",
+                    "title": "BIS CRS Certification for Power Banks"
+                },{
+                    "link": "/sitemap",
+                    "title": "AGMARK License"
+                },{
+                    "link": "/sitemap",
+                    "title": "BIS Certification for Toys"
+                },{
+                    "link": "/bis-fmcs-certification",
+                    "title": "FMCS BIS Certification"
+                },{
+                    "link": "/sitemap",
+                    "title": "Development, Planning & Implementation of CSR Strategy"
+                }
+            ]
+        },
+        "CDSCO Services": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "Drug License"
+                },
+                {
+                    "link": "/medical-device-registration",
+                    "title": "Medical Device Registration"
+                },{
+                    "link": "/cdsco-registration",
+                    "title": "CDSCO Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "CDSCO Cosmetic Import Registration"
+                },{
+                    "link": "/sitemap",
+                    "title": "CDSCO Medical Device Import License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "ADC NOC"
+                },{
+                    "link": "/sitemap",
+                    "title": "Cosmetic Manufacturing License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "CDSCO Test License"
+                },{
+                    "link": "/sitemap",
+                    "title": "In Vitro Diagnostic Device Manufacturing License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "InVitro Diagnostic Device Import License"
+                },{
+                    "link": "/sitemap",
+                    "title": "Drug Export NOC"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Dual-Use NOC"
+                },{
+                    "link": "/sitemap",
+                    "title": "CDSCO Drugs Import License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Manufacturing Drug License"
+                },{
+                    "link": "/sitemap",
+                    "title": "Retail Drug License"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Wholesale Drug License"
+                }
+            ]
+        },
+        "Legal Metrology": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "Model Approval Certificate for Weights and Measures"
+                },{
+                    "link": "/sitemap",
+                    "title": "Packaged Commodity Registration"
+                },{
+                    "link": "/sitemap",
+                    "title": "LMPC Importer License"
+                },{
+                    "link": "/sitemap",
+                    "title": "Legal Metrology Dealer License"
+                },{
+                    "link": "/sitemap",
+                    "title": "Legal Metrology Manufacturer License"
+                },{
+                    "link": "/sitemap",
+                    "title": "Legal Metrology Repairer License"
+                },{
+                    "link": "/sitemap",
+                    "title": "Legal Metrology License Renewal"
+                },{
+                    "link": "/sitemap",
+                    "title": "Legal Metrology Compliance & Audit"
+                },{
+                    "link": "/sitemap",
+                    "title": "Legal Metrology Act Registration"
+                }
+            ]
+        }
+    },
+    "International Business": {
+        "Industry": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "Outlook Consumer Retail E-commerce Business India"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Outlook of Healthcare Sector In India"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Restaurant Business"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Future of Automobile Industry in India"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Future of Media Technology Entertainment in India"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "E-commerce Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Micro Finance Institution"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Non Profit Organization"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Food and beverages"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Future of Real Estate Sector Business in India"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Retail"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Agritech"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Renewal Energy"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Fashion and Home Furnishing"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Gems-and-jewellery"
+                }
+            ]
+        },
+        "Global-USA": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/usa-company-registration",
+                    "title": "US Company Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Professional Corporation in USA"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Non Profit Corporation Registration in the USA"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Foreign Qualification Service in the USA"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Different Corporate Structures in USA"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Amendment Filing Service in USA"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Obtaining EIN in USA"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Doing Business as DBA in USA"
+                }
+            ]
+        },
+        "Global-Singapore": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "Procedure for Registration of Trademark in Singapore"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "GST Registration in Singapore"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "GST Reconciliation - Singapore"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "License for Finance Company in Singapore"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Audit Requirement - Singapore"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Patent Registration in Singapore"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Bank Account Opening Services - Singapore"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Strategic Alliances in Singapore"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Money Changer License in Singapore"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Buy-Shelf Company in Singapore"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "LLC Registration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Representative Office in Singapore"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Corporate Tax- Singapore"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration - Singapore"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Resident Director Services -Singapore"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Exempted Private Limited Companies in Singapore"
+                }
+            ]
+        },
+        "Global-Hongkong": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "MSO License in Hongkong"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Formation - Hongkong"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Change Registered Office - Hongkong"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Resident Director Services- Hongkong"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "MSO License- Hongkong"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Invest in Hong Kong- Hongkong"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Buy Shelf Company - Hongkong"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Annual Compliance- Hongkong"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "SVF License- Hongkong"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Seychelles Company- Hongkong"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Secretary Services- Hongkong"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Tax Services- Hongkong"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Money Lending License- Hongkong"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Immigration Process- Hongkong"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Due Diligence Services- Hongkong"
+                }
+            ]
+        },
+        "Company Formation-Different Countries": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "Company Formation in Dubai"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in China"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Canada"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company incorporation in United Kingdom"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company formation in France"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company formation in Germany"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company formation in Japan"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Netherlands"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Ireland"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in New Zealand"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Norway"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Poland"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Russia"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Australia"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Bangladesh"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Vietnam"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Abu Dhabi"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Fujairah"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Ras Al Khaimah"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Sharjah"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Indonesia"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Philippines"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Thailand"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Turkey"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Incorporation in Israel"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Yemen"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Jordan"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company incorporation in Bahrain"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Cyprus"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Malta"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Kuwait"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Saudi Arabia"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Formation in Oman"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Incorporation of Company in Palestine"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Finland"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Romania"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Luxembourg"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Spain"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Sweden"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Cambodia"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in East Timor"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Company Registration in Myanmar"
+                }
+            ]
+        }
+    },
+    "Other Services": {
+        "Finance Business Compliance": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "NBFC Annual Compliance"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Funding in NBFC"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Appeal Against NBFC License Cancellation"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Financial Intelligence Unit India"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Central KYC Registry in India"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "aml-regulatory-compliance"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Money Changer Compliance"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "MCA Compliance for Insurance Company"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "IRDA Compliance for Insurance Company"
+                }
+            ]
+        },
+        "VCFO": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "CFO Support Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Virtual CFO Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Cash Flow Management"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "IFRS Reporting Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Finance and Accounting Outsourcing"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Financial Process Outsourcing"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Financial Reporting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Strategic Planning"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Wealth-management"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Estate-planning"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Enterprise and Strategy Risk"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Services For Non Executive Directors"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Legal Process Outsourcing"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Leadership Development and Organizational Change"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Revenue Recognition"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Human Resource Outsourcing"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Compensation and Benefits"
+                }
+            ]
+        },
+        "Finance & Accounting": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "Accounts Payable Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Accounts Receivables Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Forensic accounting and investigation"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Finance and Accounting Modernization"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Lease Accounting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "NBFC Accounting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Cross Border Accounting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Fund-administration-finance-and-accounting-services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Cross Border Accounting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Financial Investigations and Forensic Accounting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "EPC Projects, O&M Accounting & Administration"
+                }
+            ]
+        },
+        "Transaction Support": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "IPO Support"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Mergers and Acquisitions Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Valuation"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Corporate Restructuring"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Financial Due Diligence"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Cybersecurity and Data Privacy Due Diligence"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Operations Due Diligence"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "IT Due Diligence"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Due Diligence services"
+                }
+            ]
+        },
+        "Risk & Assurance": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "Risk and Assurance Service"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Global Documentation"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "IFRS Conversion Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Risk Management Process Automation"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Working Capital Enhancement"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Credit Risk Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Third-party Risk Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Base Erosion Profit Shifting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Fraud and Misconduct Investigation"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Compliance Risk Management"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Fraud Risk Management"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Value Chain Management"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Supply Chain Management"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Operations and Supply Chain"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Labour-law-compliance-review-risk-management"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "EPC Project Management"
+                }
+            ]
+        },
+        "Software & Technology": {
+            "link": "/sitemap",
+            "topics": [
+                {
+                    "link": "/sitemap",
+                    "title": "NBFC Software"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Nidhi Company Software"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Peer to Peer Lending Software"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Lending software solutions"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "CFO Software"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "P2P Lending Software"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Digital transformation consulting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Data Analytics Consulting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "IT enabled services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "IT Infrastructure Consulting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Forensic Technology Services"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Deal Analytics"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Digital Lending"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Customer Relationship Management (CRM) Solutions"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Technology Risk Consulting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Fintech Consulting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Cybersecurity consulting"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Cybersecurity and data privacy"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Healthtech"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Application Development and Integration"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "IT systems assurance and IT solutions"
+                },
+                {
+                    "link": "/sitemap",
+                    "title": "Edutech"
+                }
+            ]
+        }
+    }
+}

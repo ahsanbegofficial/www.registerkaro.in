@@ -1,0 +1,26 @@
+.faq {
+  &__image {
+    position: relative;
+    img {
+      border-radius: 10px;
+      z-index: 2;
+    }
+  }
+  .faqs-accordion {
+    .accordion-item {
+      border-bottom: none;
+      margin-bottom: 12px;
+      border-radius: 6px;
+      box-shadow: 2px 0px 15px 5px $color-shadow;
+      overflow: hidden;
+    }
+  }
+  .headText {
+    color: #ffa229;
+  }
+  @media (min-width: 321px) and (max-width: 480px) {
+    .contentDiv {
+      margin-top: -3rem;
+    }
+  }
+}

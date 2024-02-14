@@ -1,0 +1,45 @@
+.google-review {
+  font-family: Helvetica;
+  font-style: normal;
+  background: transparent;
+  gap: 1rem;
+  align-items: center;
+  width: fit-content;
+  display: flex;
+  font-weight: 600;
+  margin-top: 1.3rem;
+  padding: 20px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  .google-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  .content {
+    p {
+      margin-bottom: 0.5rem;
+      font-size: 18px;
+    }
+    .rating-flex {
+      display: flex;
+      flex-direction: row;
+      gap: 0.75rem;
+      div {
+        display: flex;
+        flex-direction: row;
+        gap: 0.75rem;
+        align-items: center;
+        .first {
+          font-size: 14px;
+          padding-right: 10px;
+          margin: 0;
+        }
+        .second {
+          font-size: 14px;
+          margin: 0;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,181 @@
+.position {
+  position: relative;
+  height: auto;
+  width: 100%;
+  .business-main-form {
+    display: flex;
+    flex-direction: row;
+    padding: 20px 0px;
+    padding-right: 80px;
+    padding-left: 40px;
+    font-family: Helvetica;
+    .active-main-container {
+      padding: 0px;
+      // border: 1px solid #8f8f8f;
+      color: black !important;
+      width: 100%;
+      margin-top: 20px;
+      padding-bottom: 10px;
+      .display-flex {
+        display: flex;
+        flex-direction: row;
+        div {
+          flex: 1;
+        }
+      }
+      .active {
+        margin: 10px 20px 20px 20px;
+      }
+      .all-btn {
+        display: flex;
+        cursor: pointer;
+        margin-bottom: 10px;
+        div {
+          flex: 1;
+          text-align: center;
+          padding: 10px 0px;
+          border-right: 1px solid #c1c1c1;
+          border-bottom: 1px solid #c1c1c1;
+          background-color: lightgray;
+        }
+        .active-btn {
+          border-bottom: transparent;
+          background-color: white;
+          position: relative;
+          &::before {
+            content: "";
+            display: block;
+            position: absolute;
+            top: -5px;
+            left: 50%;
+            transform: translate(-50%);
+            width: calc(100% + 2px);
+            height: 5px;
+            background-color: #fe9c28;
+          }
+        }
+        .fifth {
+          border-right: none;
+          border-top: none;
+        }
+      }
+      .document-flex {
+        display: flex;
+        gap: 40px;
+      }
+      .none {
+        display: none;
+      }
+      .tooltip {
+        position: relative;
+        display: inline-block;
+        border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+        opacity: 1;
+      }
+
+      .tooltip .tooltiptext {
+        visibility: hidden;
+        width: 120px;
+        background-color: black;
+        color: #fff;
+        text-align: center;
+        padding: 5px 0;
+        border-radius: 6px;
+        position: absolute;
+        z-index: 1;
+      }
+
+      .tooltip:hover .tooltiptext {
+        visibility: visible;
+      }
+    }
+
+    .pl-5 {
+      padding-left: 5px;
+    }
+    .pl-10 {
+      padding-left: 10px;
+    }
+    .black {
+      color: #1f4e66 !important;
+      font-weight: 600;
+    }
+    .right-main-form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .business-reviews {
+      margin-bottom: 30px;
+    }
+    .price-color {
+      color: #fe9c28;
+    }
+    .flex {
+      display: flex;
+      &:nth-child(1) {
+        width: 300px;
+      }
+      &:nth-child(2) {
+        width: 400px;
+      }
+    }
+    .box-shadow {
+      background-color: white;
+      box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    }
+    .test {
+      background-color: white;
+      padding: 10px 20px !important;
+      .fw-600 {
+        font-weight: 600;
+      }
+      .text-color {
+        color: #164760;
+      }
+      .hero-content {
+        margin-bottom: 60px;
+      }
+      .flex-image-name {
+        display: flex;
+        flex-direction: row;
+        // border: 1px solid green;
+        gap: 20px;
+      }
+      .flex-test {
+        display: flex;
+        flex-direction: row;
+        padding: 10px 20px;
+        background-color: white;
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+      }
+    }
+  }
+}
+.business-main-form-bottom {
+  z-index: -1;
+  height: 200px;
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
+  background: rgb(238, 165, 5);
+  background: linear-gradient(
+    90deg,
+    rgba(238, 165, 5, 1) 4%,
+    rgba(255, 228, 88, 1) 89%
+  );
+}
+.circle-position {
+  position: absolute;
+  bottom: 130px;
+  right: 0px;
+  z-index: -2;
+  padding: 0;
+  img {
+    padding: 0;
+    margin: 0;
+  }
+}
+.color-black {
+  color: black !important;
+}

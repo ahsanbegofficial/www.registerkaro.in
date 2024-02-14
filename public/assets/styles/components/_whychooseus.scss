@@ -1,0 +1,19 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.why-choose-us {
+  .brandNameF {
+    color: #164760;
+  }
+  .brandNameL {
+    color: #ffa229;
+  }
+  .card{
+    width: 13rem;
+    height: 14rem;
+    border-radius: 25px;
+    box-shadow: 0px 0px 10px gray;
+  }
+}

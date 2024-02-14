@@ -1,0 +1,1508 @@
+{
+    "private-limited-company-registration": {
+        "registrationName": "Private Limited Company Registration",
+        "hero": {
+            "pack_includes": [
+                "2 DIN and DSC for two Directors",
+                "Drafting of MoA & AoA",
+                "Registration fees and stamp duty",
+                "Company Incorporation Certificate",
+                "Company PAN and TAN",
+                "ZohoBooks subscription"
+            ],
+            "companyDes": "Get your Private Limited Company Registration",
+            "price": "Rs.1,999/-",
+            "days": "14 days",
+            "companyName": "Private Limited Company Registration In",
+            "subtitle": " of Private Limited Company Registration",
+            "subtitle2": " required For Private Limited Company Registration"
+        },
+        "faq": {
+            "subtitle": "Frequently asked questions",
+            "title": "We turn potential customers into leads.",
+            "description": "Over points before unpleasant lady attending considered nearer projecting noisy praise listening. Sister principle delicate this reached attempted companions husband what unwilling regular departure suppose excuse.",
+            "faqItem": [
+                {
+                    "id": 1,
+                    "title": "What are the rules for picking a name for a private limited company?",
+                    "description": "The registrar of companies (RoC) across India expect applicants to follow a few naming guidelines. Some of them are subjective, which means that approval can depend on the opinion of the officer handling your application. However, the more closely you follow the rules listed below, the better your chances of approval. First, however, do ensure that your name is available."
+                },
+                {
+                    "id": 2,
+                    "title": "How much time is needed for setting up a private limited company in India?",
+                    "description": "If you have all the documents in order, it will take no longer than 15 days. However, this is dependent on the workload of the registrar."
+                },
+                {
+                    "id": 3,
+                    "title": "Do I need to be physically present during this process?",
+                    "description": "No, new company registration is a fully online process. As all documents are filed electronically, you would not need to be physically present at all. You would need to send us scanned copies of all the required documents & forms."
+                },
+                {
+                    "id": 4,
+                    "title": "What documents are required to complete the process?",
+                    "description": "All directors must provide identity and address proof, as well as a copy of the PAN card (for Indian nationals) and passport (for foreign nationals). No-objection certificate must be submitted by the owner of the registered office premises."
+                },
+                {
+                    "id": 5,
+                    "title": "Does a private limited company have continuous existence?",
+                    "description": "Yes, so long as the annual compliances are met, the private limited company will continue to exist. If you do not comply with the requirements, it will go dormant, until it is struck off the register altogether."
+                },
+                {
+                    "id": 6,
+                    "title": "Is it necessary to have a company’s books audited?",
+                    "description": "Yes, a private limited company must hire an auditor, no matter what its revenues. In fact, an auditor must be appointed within 30 days of incorporation. Compliance is important with a private limited company, given that penalties for non-compliance can run into lakhs of rupees and even lead to the blacklisting of directors."
+                },
+                {
+                    "id": 7,
+                    "title": "What are articles of association and memorandum of association?",
+                    "description": "These documents contain the rules, vision and mission of your organisation, and define, among other things, the exact business and the roles and responsibilities of shareholders and directors."
+                },
+                {
+                    "id": 8,
+                    "title": "Are two directors necessary for a private limited company registration?",
+                    "description": "Yes, a minimum of two directors are needed for a private limited company. The maximum members can be 200. You can register as a one person company, if you are the sole owner of the company."
+                },
+                {
+                    "id": 9,
+                    "title": "What is the minimum capital needed to form a private limited company?",
+                    "description": "There is no minimum capital required for starting a private limited company."
+                },
+                {
+                    "id": 10,
+                    "title": "Can the director of a private limited company be a salaried person?",
+                    "description": "Yes, a salaried person can become the director in a private limited, LLP or OPC private limited company. One needs to check the employment agreement if that allows for such provisions. In a lot of cases, the employers are quite comfortable with the fact that their employee is a director in another company."
+                },
+                {
+                    "id": 11,
+                    "title": "Can a limited liability partnership (LLP) be converted to a private limited company?",
+                    "description": "No, one cannot convert an LLP into a private limited company as it is not a MCA. The LLP Act, 2008 and the Companies Act, 2013, both don’t have any provisions on conversion of the LLP in a private limited company. However, if one wants to expand their business they can register a new private limited company with the same name. The LLP company needs to just issue a no objection certificate."
+                },
+                {
+                    "id": 12,
+                    "title": "Can one register a private limited company on their home address?",
+                    "description": "Yes, the company can be registered at the owner's home address. A copy of the utility bill is required to be submitted."
+                },
+                {
+                    "id": 13,
+                    "title": "If there are no partners available, then can one register their family members in the company?",
+                    "description": "Yes, it is good to register a family member as a partner. At a later stage one can change this or transfer shares of the directors."
+                },
+                {
+                    "id": 14,
+                    "title": "Does one have to be present in person for the incorporation of a private limited company?",
+                    "description": "The entire procedure is done online and one does not have to be present at our office or any other place for the incorporation. A scanned copy of the documents has to be sent via mail. They get the company incorporation certificate from the MCA via courier at the business address."
+                },
+                {
+                    "id": 15,
+                    "title": "Can NRIs/foreign nationals become directors in a private limited company?",
+                    "description": "Yes, a NRI or a foreign national can become a director of a private limited company. He or she must obtain a DIN from the Indian RoC. They can also hold a controlling stake in the company. As long as at least one director on the board of directors is an Indian resident"
+                }
+            ]
+        },
+        "benefits": [
+            {
+                "name": "Limited Liability Protection to Directors personal assets",
+                "color": "#ffa229",
+                "content": "Many times startups need to borrow money and take things on credit. In case of normal Partnerships, Partners personal savings and property would be at risk incase business is not able to repay its loans. In a private limited company, only investment in business is lost, personal assets of the directors are safe.",
+                "image": "assets/images/privatebenefit/liability.png"
+            },
+            {
+                "name": "Better image and credibility in Market",
+                "color": "#164760",
+                "content": "Private limited company is popular and well known business structure. Corporate Customers, Vendors and Govt. Agencies prefer to deal with Private Limited Company instead of proprietorship or normal partnerships.",
+                "image": "assets/images/privatebenefit/businessman.png"
+            },
+            {
+                "name": "Easy to raise fund,capital and loans",
+                "color": "#ffa229",
+                "content": "Private limited company enjoys wide options to raise funds through bank loans, Angel Investors, Venture Capitalists, in comparison to LLPs and OPCs. This wide ranges of options amke it more profitable to run a private limited company",
+                "image": "assets/images/privatebenefit/funding.png"
+            },
+            {
+                "name": "Favorite Business structure for Investors",
+                "color": "#164760",
+                "content": "Investors love to invest in Private Limited companies as it is well structured and less strings attached. Most important it is very easy to exit from a private limited company. Morover decision making authoriity is with limited people which reasults into less flutuactions..",
+                "image": "assets/images/privatebenefit/favo.png"
+            },
+            {
+                "name": "Easy to attract Employees and workers",
+                "color": "#ffa229",
+                "content": "For startups putting together a team and keeping them for long time is a challenge, due to confidence attached to private limited structure, it is easy to hire people as well as motivate them with corporate designations and stock options. More offerings make it more attractive",
+                "image": "assets/images/privatebenefit/easytoattract.png"
+            },
+            {
+                "name": "Quite easy to sell and deal with",
+                "color": "#164760",
+                "content": "Private Ltd. is easy to sell, very less documentation and cost is involved in selling a Private limited company . Therefore desolution of a private limited company is easier and cheaper as compared to other forms of company in the field . And so it is easy to deal with.",
+                "image": "assets/images/privatebenefit/sell.png"
+            }
+        ],
+        "documents": [
+            {
+                "name": "PAN CARD",
+                "color": "#ffa229",
+                "content": "All the director/shareholders are required to provide their PAN at the time of registering LLP. PAN card acts as a primary ID proof.",
+                "image": "assets/images/documents/PANCARD.png"
+            },
+            {
+                "name": "PHOTOGRAPH",
+                "color": "#164760",
+                "content": "Latest Passport size photograph of Shareholders and Directors Is required for the further process",
+                "image": "assets/images/documents/CAMERA.png"
+            },
+            {
+                "name": "IDENTITY PROOF",
+                "color": "#ffa229",
+                "content": "Aadhar card and Voter ID/ Passport/ Driving License of Shareholders and Directors.",
+                "image": "assets/images/documents/IDCARD.png"
+            },
+            {
+                "name": "DIRECTOR’S ADDRESS PROOF",
+                "color": "#164760",
+                "content": "Latest Telephone Bill /Electricity Bill/ Bank Account Statement of Shareholders and Directors.",
+                "image": "assets/images/documents/dir-add.png"
+            },
+            {
+                "name": "BUSINESS ADDRESS PROOF",
+                "color": "#ffa229",
+                "content": "Latest Electricity Bill/ Telephone Bill of the registered office address.",
+                "image": "assets/images/documents/map.png"
+            },
+            {
+                "name": "NOTE",
+                "color": "#164760",
+                "content": "In case of NRI or Foreign National, documents of director (s) must be notarized or apostilled.",
+                "image": "assets/images/documents/notes.png"
+            }
+        ],
+        "member": {
+            "h1": "What to keep in mind while Registering a",
+            "pfirst": "As defined by the Companies Act 2013, we must guarantee",
+            "psecond": "that the checklist requirements are met.",
+            "firstContent": {
+                "h2": "Two Directors",
+                "p": "A private limited company must have at least two directors, with a maximum of fifteen. A minimum of one of the company's directors must be a resident of India."
+            },
+            "secondContent": {
+                "h2": "Unique Name",
+                "p": "The name of your business must be unique. The suggested name should not match with any existing companies or trademarks in India."
+            },
+            "thirdContent": {
+                "h2": "Minimum Capital Contribution",
+                "p": "There is no minimum capital amount for a company. A company should have an authorized capital of at least ₹1 lakh."
+            },
+            "fourthContent": {
+                "h2": "Registered Office",
+                "p": "The registered office of a company does not have to be commercial space. Even a rented home can be the registered office, so long as an NOC is obtained from the landlord."
+            },
+            "memberformobile": [
+                {
+                    "id": 1,
+                    "title": "Two Directors",
+                    "text": "A private limited company must have at least two directors, with a maximum of fifteen. A minimum of one of the company's directors must be a resident of India."
+                },
+                {
+                    "id": 2,
+                    "title": "Unique Name",
+                    "text": "The name of your business must be unique. The suggested name should not match with any existing companies or trademarks in India."
+                },
+                {
+                    "id": 3,
+                    "title": "Minimum Capital Contribution",
+                    "text": "There is no minimum capital amount for a company. A company should have an authorized capital of at least ₹1 lakh."
+                },
+                {
+                    "id": 4,
+                    "title": "Registered Office",
+                    "text": "The registered office of a company does not have to be commercial space. Even a rented home can be the registered office, so long as an NOC is obtained from the landlord."
+                }
+            ]
+        }
+    },
+    "producer-company-registration": {
+        "registrationName": "Producer Company Registration",
+        "hero": {
+            "pack_includes": [
+                "DIN and DSC for 5 directors",
+                "Drafting of MoA & AoA",
+                "Government Stamp duty",
+                "Company Incorporation Certificate",
+                "Company PAN and TAN",
+                "ZohoBooks subscription"
+            ],
+            "companyDes": "Register your company online",
+            "price": "Rs.9,999/-",
+            "days": "10-14 days",
+            "companyName": "Producer Company Registration In",
+            "subtitle": " of Producer Company Registration",
+            "subtitle2": " required For Producer Company Registration"
+        },
+        "faq": {
+            "subtitle": "Frequently asked questions",
+            "title": "We turn potential customers into leads.",
+            "description": "Over points before unpleasant lady attending considered nearer projecting noisy praise listening. Sister principle delicate this reached attempted companions husband what unwilling regular departure suppose excuse.",
+            "faqItem": [
+                {
+                    "id": 1,
+                    "title": "How much time is needed for setting up a producer company in India?",
+                    "description": "Expect it to take 15 days to complete the entire procedure. This will, however, depend on whether you have all your papers in order and the workload of the RoC."
+                },
+                {
+                    "id": 2,
+                    "title": "What are the rules for picking a name for a producer company?",
+                    "description": "Every company has two parts to its name. The first part is unique. For example, 'WIPRO' or 'MERCEDES-BENZ'. The second part describes the business activity of the company. For example, 'Legal Solutions' or 'Technologies'. This second part must be as descriptive as possible. The name of the company must end with 'Producer Company Limited'"
+                },
+                {
+                    "id": 3,
+                    "title": "What documents need to be submitted to start a producer company?",
+                    "description": "Most importantly, all directors must have an identity and address proof and rights to practice on the property they are operating on. The owner of the registered office will also need to submit an NoC, stating that the company may operate from that location."
+                },
+                {
+                    "id": 4,
+                    "title": "Will my producer company have a continuous existence?",
+                    "description": "All companies are legal entities by themselves. Therefore, they have a continuous existence. The only way a producer company can cease to exist (other than shutting it down voluntarily) is if the annual compliances are not met or if the creditors/courts force its closure."
+                },
+                {
+                    "id": 5,
+                    "title": "Will the books of a producer company need auditing?",
+                    "description": "Yes, a producer company must have its books audited from its very first year. And in case turnover crosses Rs. 5 crore, it must employ a full-time company secretary to manage its affairs."
+                },
+                {
+                    "id": 6,
+                    "title": "Is office required for starting a producer company?",
+                    "description": "An address in India where the registered office of the Company will be situated is required. The premises can be a commercial / agricultural / residential where communication from the MCA will be received."
+                }
+            ]
+        },
+        "benefits": [
+            {
+                "name": "Seperate Legal Entity",
+                "color": "#ffa229",
+                "content": "Many times business need to borrow money and take high investment decisions. Public Ltd. Company is the best option for entrepreneurs with larger investment requirements. In case of normal Partnerships, Partners personal savings and property would be at risk incase business is not able to repay its loans or business goes into loss. In a Public limited company, only investment in shares of the business is lost, personal assets of the directors are safe.",
+                "image": "assets/images/privatebenefit/liability.png"
+            },
+            {
+                "name": "Loans & Investments",
+                "color": "#164760",
+                "content": "Public limited company is popular and well known business structure. Corporate Customers, Vendors and Govt. Agencies prefer to deal with Public Limited Company instead of proprietorship or normal partnerships.",
+                "image": "assets/images/privatebenefit/businessman.png"
+            },
+            {
+                "name": "Limited Liability",
+                "color": "#ffa229",
+                "content": "Public Limited company can list itself in various stock exchanges in India and raise capital from stock market. Limited company also enjoys wide options to raise funds through bank loans, general public and Institutional investors.",
+                "image": "assets/images/privatebenefit/funding.png"
+            },
+            {
+                "name": "Acceptance of Deposit",
+                "color": "#164760",
+                "content": "Investors love to invest in Public Limited companies as it is well structured and transparent business structure.",
+                "image": "assets/images/privatebenefit/favo.png"
+            }
+        ],
+        "documents": [
+            {
+                "name": "ID CARD",
+                "color": "#ffa229",
+                "content": "All the director/shareholders are required to provide their PAN at the time of registering LLP. PAN card acts as a primary ID proof.",
+                "image": "assets/images/documents/PANCARD.png"
+            },
+            {
+                "name": "PHOTOGRAPH",
+                "color": "#164760",
+                "content": "Latest Passport size photograph of Shareholders and Directors Is required for the further process",
+                "image": "assets/images/documents/CAMERA.png"
+            },
+            {
+                "name": "RESIDENCE PROOF",
+                "color": "#ffa229",
+                "content": "Latest bank statement, telephone bill, mobile bill, electricity bill or gas bill should be submitted as a residence proof. Such bill or statement shouldn’t be more than 2 months old and must contain the name of partner as mentioned in PAN card.",
+                "image": "assets/images/documents/IDCARD.png"
+            },
+            {
+                "name": "DIRECTOR’S ADDRESS PROOF",
+                "color": "#164760",
+                "content": "Latest Telephone Bill /Electricity Bill/ Bank Account Statement of Shareholders and Directors.",
+                "image": "assets/images/documents/dir-add.png"
+            },
+            {
+                "name": "BUSINESS ADDRESS PROOF",
+                "color": "#ffa229",
+                "content": "Latest Electricity Bill/ Telephone Bill of the registered office address.",
+                "image": "assets/images/documents/map.png"
+            },
+            {
+                "name": "NOTE",
+                "color": "#164760",
+                "content": "In case of NRI or Foreign National, documents of director (s) must be notarized or apostilled.",
+                "image": "assets/images/documents/notes.png"
+            }
+        ],
+        "member": {
+            "h1": "What to keep in mind while Registering a",
+            "pfirst": "As defined by the Companies Act 2013, we must guarantee",
+            "psecond": "that the checklist requirements are met.",
+            "firstContent": {
+                "h2": "Five Directors",
+                "p": "A Producer company must have at least five directors at the time of incorporation."
+            },
+            "secondContent": {
+                "h2": "Unique Name",
+                "p": "The name of your business must be unique. The suggested name should not match with any existing companies or trademarks in India."
+            },
+            "thirdContent": {
+                "h2": "Minimum Capital Contribution",
+                "p": "There is no minimum capital amount for a company. A company should have an authorized capital of at least ₹1 lakh."
+            },
+            "fourthContent": {
+                "h2": "Registered Office",
+                "p": "The registered office of a company does not have to be commercial space. Even a rented home can be the registered office, so long as an NOC is obtained from the landlord."
+            },
+            "memberformobile": [
+                {
+                    "id": 1,
+                    "title": "Five Directors",
+                    "text": "A Producer company must have at least five directors at the time of incorporation."
+                },
+                {
+                    "id": 2,
+                    "title": "Unique Name",
+                    "text": "The name of your business must be unique. The suggested name should not match with any existing companies or trademarks in India."
+                },
+                {
+                    "id": 3,
+                    "title": "Minimum Capital Contribution",
+                    "text": "There is no minimum capital amount for a company. A company should have an authorized capital of at least ₹1 lakh."
+                },
+                {
+                    "id": 4,
+                    "title": "Registered Office",
+                    "text": "The registered office of a company does not have to be commercial space. Even a rented home can be the registered office, so long as an NOC is obtained from the landlord."
+                }
+            ]
+        }
+    },
+    "public-limited-company-registration": {
+        "registrationName": "Public Limited Company Registration",
+        "hero": {
+            "pack_includes": [
+                "3 DIN and DSC",
+                "Drafting of MoA & AoA",
+                "Government Stamp duty",
+                "Company Incorporation Certificate",
+                "Company PAN and TAN",
+                "ZohoBooks subscription",
+                "Approval letter from Central Govt",
+                "PF and ESIC Registration",
+                "PT registration in Maharashtra and Karnataka",
+                "Business Commencement certificate of the Company"
+            ],
+            "companyDes": "Register your company online",
+            "price": "Rs.9,999/-",
+            "days": "10-14 days",
+            "companyName": "Public Limited Company Registration In",
+            "subtitle": " of Public Limited Company Registration",
+            "subtitle2": " required For Public Limited Company Registration"
+        },
+        "faq": {
+            "subtitle": "Frequently asked questions",
+            "title": "We turn potential customers into leads.",
+            "description": "Over points before unpleasant lady attending considered nearer projecting noisy praise listening. Sister principle delicate this reached attempted companions husband what unwilling regular departure suppose excuse.",
+            "faqItem": [
+                {
+                    "id": 1,
+                    "title": "Do I have to physically visit ROC Office while Setting up company?",
+                    "description": "No. RegisterKaro provides a completely online Company Incorporation process. All legal documentation and visits are done by RegisterKaro."
+                },
+                {
+                    "id": 2,
+                    "title": "Is Public Limited Incorporation to be renewed every year?",
+                    "description": "No. Once the company is formed, it will be valid till it is officially closed down by the owners. No renewal or fees is required. However, every year companies have to file very basic returns with ROC office."
+                },
+                {
+                    "id": 3,
+                    "title": "What is a DIN?",
+                    "description": "Director Identification Number (DIN) is a unique identification number required for a person to become a director of a company. DIN is issued by ROC office (Ministry of Corporate Affairs) It is similar to a PAN Card number.DIN is to be mentioned in documents while appointing a person as a director of a company."
+                },
+                {
+                    "id": 4,
+                    "title": "What is a DSC?",
+                    "description": "A digital signature is electronic signature, which is in the form of codes. It is used for signing the electronic forms, filed with ROC for incorporation of Company. Digital Signature cannot be used in physical documents."
+                },
+                {
+                    "id": 5,
+                    "title": "What is Company name search? Why it is important for new company registration?",
+                    "description": "Company name is very important part in registration of company. The company name is divided into 3 Parts: 1) Keyword (brand name like TATA or Flipkart) 2) Activity word (i.e. showing nature of business like Software) 3) Business Type word (i.e. Pvt. Ltd. or LLP). For Incorporation of company, the suggested name should not match with existing companies or trademark."
+                },
+                {
+                    "id": 6,
+                    "title": "What is MOA & AOA of company?",
+                    "description": "MOA means Memorandum of Association and AOA means Articles of Association. These are the byelaws or rules based on which important matters like main business of the company or meetings is decided. These are standard legal documents prepared by Company Secretaries during registration of the Company."
+                },
+                {
+                    "id": 7,
+                    "title": "Can we change office address of the company after Incorporation?",
+                    "description": "Yes, company office address can be changed anytime after incorporation."
+                },
+                {
+                    "id": 8,
+                    "title": "What is capital of the Company?",
+                    "description": "Capital means investment made by shareholders into the company. Authorised capital is an amount up to which company can issue shares. This capital is mentioned during incorporation of the company based on which ROC registration fees and stamp duty is paid. Paid up capital is an actual investment which goes from shareholders into company bank account, against which share certificate is issue by the company."
+                },
+                {
+                    "id": 9,
+                    "title": "Do we have to deposit Share Capital in a Bank at the time of Incorporation?",
+                    "description": "No. After company is registered, it needs to open a company bank account and then, capital can be deposited into Company bank account."
+                },
+                {
+                    "id": 10,
+                    "title": "Does my business have to have some level of turnover to start Public Limited?",
+                    "description": "This is not true, a Public limited company is one of the mode of doing business, which means it can be started from scratch. For that matter even after incorporating a Public limited there is no obligation that the company must have sales or turnover."
+                },
+                {
+                    "id": 11,
+                    "title": "Does PF, GST is automatically applicable to Public Limited?",
+                    "description": "There is no automatic applicability. Provident Fund (PF), GST law applicability is same for all types of businesses like sole proprietorship, partnership firms and companies. These laws are applicable only after crossing certain threshold limits."
+                }
+            ]
+        },
+        "benefits": [
+            {
+                "name": "Limited Liability Protection to Directors personal assets",
+                "color": "#ffa229",
+                "content": "Many times startups need to borrow money and take things on credit. In case of normal Partnerships, Partners personal savings and property would be at risk incase business is not able to repay its loans. In a private limited company, only investment in business is lost, personal assets of the directors are safe.",
+                "image": "assets/images/privatebenefit/liability.png"
+            },
+            {
+                "name": "Better Image & Credibility in Market",
+                "color": "#164760",
+                "content": "Public limited company is popular and well known business structure. Corporate Customers, Vendors and Govt. Agencies prefer to deal with Public Limited Company instead of proprietorship or normal partnerships.",
+                "image": "assets/images/privatebenefit/businessman.png"
+            },
+            {
+                "name": "Easy to raise Funds & Loans",
+                "color": "#ffa229",
+                "content": "Public Limited company can list itself in various stock exchanges in India and raise capital from stock market. Limited company also enjoys wide options to raise funds through bank loans, general public and Institutional investors.",
+                "image": "assets/images/privatebenefit/funding.png"
+            },
+            {
+                "name": "Favorite Business structure for Investors",
+                "color": "#164760",
+                "content": "Investors love to invest in Public Limited companies as it is well structured and transparent business structure.",
+                "image": "assets/images/privatebenefit/favo.png"
+            },
+            {
+                "name": "Easy Transfer of shares",
+                "color": "#ffa229",
+                "content": "Most important it is very easy to exit from a Public limited company, only shares of the company need to be handed over to the purchaser along with the signed share transfer forms.",
+                "image": "assets/images/privatebenefit/easytoattract.png"
+            },
+            {
+                "name": "Most Suitable for Heavy Investment",
+                "color": "#164760",
+                "content": "Public Company is the best choice for businesses involving heavy investment.",
+                "image": "assets/images/privatebenefit/sell.png"
+            }
+        ],
+        "documents": [
+            {
+                "name": "ID CARD",
+                "color": "#ffa229",
+                "content": "All the director/shareholders are required to provide their PAN at the time of registering LLP. PAN card acts as a primary ID proof.",
+                "image": "assets/images/documents/PANCARD.png"
+            },
+            {
+                "name": "PHOTOGRAPH",
+                "color": "#164760",
+                "content": "Latest Passport size photograph of Shareholders and Directors Is required for the further process",
+                "image": "assets/images/documents/CAMERA.png"
+            },
+            {
+                "name": "RESIDENCE PROOF",
+                "color": "#ffa229",
+                "content": "Latest bank statement, telephone bill, mobile bill, electricity bill or gas bill should be submitted as a residence proof. Such bill or statement shouldn’t be more than 2 months old and must contain the name of partner as mentioned in PAN card.",
+                "image": "assets/images/documents/IDCARD.png"
+            },
+            {
+                "name": "DIRECTOR’S ADDRESS PROOF",
+                "color": "#164760",
+                "content": "Latest Telephone Bill /Electricity Bill/ Bank Account Statement of Shareholders and Directors.",
+                "image": "assets/images/documents/dir-add.png"
+            },
+            {
+                "name": "BUSINESS ADDRESS PROOF",
+                "color": "#ffa229",
+                "content": "Latest Electricity Bill/ Telephone Bill of the registered office address.",
+                "image": "assets/images/documents/map.png"
+            },
+            {
+                "name": "NOTE",
+                "color": "#164760",
+                "content": "In case of NRI or Foreign National, documents of director (s) must be notarized or apostilled.",
+                "image": "assets/images/documents/notes.png"
+            }
+        ],
+        "member": {
+            "h1": "What to keep in mind while Registering a",
+            "pfirst": "As defined by the Companies Act 2013, we must guarantee",
+            "psecond": "that the checklist requirements are met.",
+            "firstContent": {
+                "h2": "Three Directors",
+                "p": "A private limited company must have at least three directors, with a maximum of fifteen. A minimum of one of the company's directors must be a resident of India."
+            },
+            "secondContent": {
+                "h2": "Unique Name",
+                "p": "The name of your business must be unique. The suggested name should not match with any existing companies or trademarks in India."
+            },
+            "thirdContent": {
+                "h2": "Minimum Capital Contribution",
+                "p": "The minimum paid up capital for a public capital is Rs. ₹5 lakh. An Public company should have an authorized capital of at least ₹5 lakh."
+            },
+            "fourthContent": {
+                "h2": "Registered Office",
+                "p": "The registered office of a company does not have to be commercial space. Even a rented home can be the registered office, so long as an NOC is obtained from the landlord."
+            },
+            "memberformobile": [
+                {
+                    "id": 1,
+                    "title": "Three Directors",
+                    "text": "A private limited company must have at least three directors, with a maximum of fifteen. A minimum of one of the company's directors must be a resident of India."
+                },
+                {
+                    "id": 2,
+                    "title": "Unique Name",
+                    "text": "The name of your business must be unique. The suggested name should not match with any existing companies or trademarks in India."
+                },
+                {
+                    "id": 3,
+                    "title": "Minimum Capital Contribution",
+                    "text": "The minimum paid up capital for a public capital is Rs. ₹5 lakh. An Public company should have an authorized capital of at least ₹5 lakh."
+                },
+                {
+                    "id": 4,
+                    "title": "Registered Office",
+                    "text": "The registered office of a company does not have to be commercial space. Even a rented home can be the registered office, so long as an NOC is obtained from the landlord."
+                }
+            ]
+        }
+    },
+    "section-8-company-registration": {
+        "registrationName": "Section 8 Company Registration",
+        "hero": {
+            "pack_includes": [
+                "2 DIN and DSC",
+                "Drafting of MoA & AoA",
+                "Government Stamp duty",
+                "Company Incorporation Certificate",
+                "Company PAN and TAN",
+                "ZohoBooks subscription",
+                "Certificate of commencement of business",
+                "Section 8 approval letter"
+            ],
+            "companyDes": "Register your Section 8 company online",
+            "price": "Rs.9,999/-",
+            "days": "10-15 days",
+            "companyName": "Section 8 Company Registration In",
+            "subtitle": " of Section 8 Company Registration",
+            "subtitle2": " required For Section 8 Company Registration"
+        },
+        "faq": {
+            "subtitle": "Frequently asked questions",
+            "title": "We turn potential customers into leads.",
+            "description": "Over points before unpleasant lady attending considered nearer projecting noisy praise listening. Sister principle delicate this reached attempted companions husband what unwilling regular departure suppose excuse.",
+            "faqItem": [
+                {
+                    "id": 1,
+                    "title": "How many people are required to register a section 8 company?",
+                    "description": "A minimum of two people are required to register a section 8 company in India."
+                },
+                {
+                    "id": 2,
+                    "title": "Is an office required for starting a section 8 company?",
+                    "description": "An address in India where the registered office of the company will be situated is required. The premises can be Commercial/ Industrial/ Residential where communication from MCA will be received"
+                },
+                {
+                    "id": 3,
+                    "title": "Is physical presence required to start a section 8 company?",
+                    "description": "No, you will not have to be present at our office or appear at any office for the registration of a Section 8 Company. All the documents can be scanned and sent through email to our office. Some documents will also have to be couriered to our office."
+                },
+                {
+                    "id": 4,
+                    "title": "How long will it take to register a Sec 8 Co?",
+                    "description": "RegisterKaro can incorporate a Section 8 Company for in 15-20 days. The time taken for registration will depend on submission of relevant documents by the client and speed of Government Approvals. To ensure speedy registration, please ensure you have all the required documents prior to starting the registration process."
+                },
+                {
+                    "id": 5,
+                    "title": "How long is the registration of the Section 8 Company valid?",
+                    "description": "Once a Company is incorporated, it will be active and in-existence as long as the annual compliances are met with regularly. In case, annual compliances are not complied with, the Company will become a Dormant Company and maybe struck off from the register after a period of time. A struck-off Company can be revived for a period of upto 20 years."
+                },
+                {
+                    "id": 6,
+                    "title": "What is a Digital Signature Certificate?",
+                    "description": "A Digital Signature establishes the identity of the sender or signee electronically while filing documents through the Internet. The Ministry of Corporate Affairs (MCA) mandates that the Directors sign some of the application documents using their Digital Signature. Hence, a Digital Signature is required for all Directors and shareholders of a proposed Section 8 Company."
+                },
+                {
+                    "id": 7,
+                    "title": "What is a DIN?",
+                    "description": "Director Identification Number is a unique identification number assigned to all existing and proposed Directors of a Company. It is mandatory for all present or proposed Directors to have a Director Identification Number. Director Identification Number never expires and a person can have only one Director Identification Number."
+                },
+                {
+                    "id": 8,
+                    "title": "Can NRI's / Foreign Nationals be directors in a Section 8 company?",
+                    "description": "Yes, a NRI or Foreign National can be a Director in a Section 8 Company after obtaining Director Identification Number. However, atleast one Director on the Board of Directors must be a Resident India."
+                },
+                {
+                    "id": 9,
+                    "title": "What is SPICe Form 32?",
+                    "description": "In Feb 2020, MCA, i.e. Ministry of Corporate Affairs, came up with an e-form, viz SPICe form, that aims to simplify the incorporation process significantly. This Form has overcome the intricacy of the erstwhile incorporation process that also entails massive paperwork."
+                },
+                {
+                    "id": 10,
+                    "title": "Is Section 8 a small business company?",
+                    "description": "Section 2 (85) proviso (B) clearly states that the Section-8 company cannot be treated as a small company."
+                },
+                {
+                    "id": 11,
+                    "title": "Is it possible for LLP or a Partnership firm to be a member of Section 8 Company?",
+                    "description": "Companies Act, 2013 allows the LLP or a Partnership firm to be a member of a Section 8 Company."
+                },
+                {
+                    "id": 12,
+                    "title": "What is the difference between NGO and Section 8 companies?",
+                    "description": "An NGO intending to serve a charitable purpose in India could be registered under society, trust, and section 8 company. A charitable purpose is defined u/s 2 (15) of the IT Act."
+                },
+                {
+                    "id": 13,
+                    "title": "What's better, trust society or Section 8 company?",
+                    "description": "The cost factor involved in trusts is considerably minimal when contrasted with entity u/s 8 of the company Act. Section 8 companies have limited access to government-driven subsidies."
+                },
+                {
+                    "id": 14,
+                    "title": "Do Section 8 companies pay tax?",
+                    "description": "The tax obligations addressed by the section 8 company is more or less similar to the other registered organization (except NGOs). The profit is subjected to the tax slab rate of 30 %. If section 8 company is registered u/s 12AA of the IT Act, then its profits shall remain isolated from taxes."
+                },
+                {
+                    "id": 15,
+                    "title": "Is tax audit applicable to Section 8 companies?",
+                    "description": "The auditor is appointed in the purview of Section 139 of the Companies Act. Every first auditor of Section 8 entity is to be appointed within thirty days from the incorporation date. The auditor can be a person or a company. The auditors also dig down the financial filings of the company."
+                },
+                {
+                    "id": 16,
+                    "title": "Is AGM mandatory for Section 8 Company?",
+                    "description": "According to the Company Act, 2013, it is mandatory for the section 8 entities to conduct AGM in accordance with prescribed guidelines."
+                }
+            ]
+        },
+        "benefits": [
+            {
+                "name": "Lesser Regulation",
+                "color": "#ffa229",
+                "content": "Many privileges and exemptions are available to section 8 company under Company Law.",
+                "image": "assets/images/privatebenefit/liability.png"
+            },
+            {
+                "name": "No minimum Paid-up Capital",
+                "color": "#164760",
+                "content": "Exemption from requirement of Minimum Paid-up capital.",
+                "image": "assets/images/privatebenefit/businessman.png"
+            },
+            {
+                "name": "No goverment charges",
+                "color": "#ffa229",
+                "content": "Exemption of Stamp duty for registration",
+                "image": "assets/images/privatebenefit/funding.png"
+            },
+            {
+                "name": "Tax Deductions",
+                "color": "#164760",
+                "content": "Tax deductions to the donors of the Company u/s. 80G of the Income Tax.",
+                "image": "assets/images/privatebenefit/sell.png"
+            }
+        ],
+        "documents": [
+            {
+                "name": "ID CARD",
+                "color": "#ffa229",
+                "content": "All the directors/shareholders are required to provide their PAN at the time of registering their section 8 company. PAN card acts as a primary ID proof.",
+                "image": "assets/images/documents/PANCARD.png"
+            },
+            {
+                "name": "PHOTOGRAPH",
+                "color": "#164760",
+                "content": "Latest Passport size photograph of Shareholders and Directors Is required for the further process",
+                "image": "assets/images/documents/CAMERA.png"
+            },
+            {
+                "name": "RESIDENCE PROOF",
+                "color": "#ffa229",
+                "content": "Latest bank statement, telephone bill, mobile bill, electricity bill or gas bill should be submitted as a residence proof. Such bill or statement shouldn’t be more than 2 months old and must contain the name of partner as mentioned in PAN card.",
+                "image": "assets/images/documents/IDCARD.png"
+            },
+            {
+                "name": "DIRECTOR’S ADDRESS PROOF",
+                "color": "#164760",
+                "content": "Latest Telephone Bill /Electricity Bill/ Bank Account Statement of Shareholders and Directors.",
+                "image": "assets/images/documents/dir-add.png"
+            },
+            {
+                "name": "BUSINESS ADDRESS PROOF",
+                "color": "#ffa229",
+                "content": "Latest Electricity Bill/ Telephone Bill of the registered office address.",
+                "image": "assets/images/documents/map.png"
+            },
+            {
+                "name": "NOTE",
+                "color": "#164760",
+                "content": "In case of NRI or Foreign National, documents of director (s) must be notarized or apostilled.",
+                "image": "assets/images/documents/notes.png"
+            }
+        ],
+        "member": {
+            "h1": "What to keep in mind while Registering a",
+            "pfirst": "As defined by the Companies Act 2013, we must guarantee",
+            "psecond": "that the checklist requirements are met.",
+            "firstContent": {
+                "h2": "Two Directors",
+                "p": "Section 8 company must have at least two directors, with a maximum of fifteen. A minimum of one of the company's directors must be a resident of India."
+            },
+            "secondContent": {
+                "h2": "Unique Name",
+                "p": "The name of your business must be unique. The suggested name should not match with any existing companies or trademarks in India."
+            },
+            "thirdContent": {
+                "h2": "Minimum Capital Contribution",
+                "p": "There is no minimum capital amount for a company. A company should have an authorized capital of at least ₹1 lakh."
+            },
+            "fourthContent": {
+                "h2": "Registered Office",
+                "p": "The registered office of a company does not have to be commercial space. Even a rented home can be the registered office, so long as an NOC is obtained from the landlord."
+            },
+            "memberformobile": [
+                {
+                    "id": 1,
+                    "title": "Two Directors",
+                    "text": "Section 8 company must have at least two directors, with a maximum of fifteen. A minimum of one of the company's directors must be a resident of India."
+                },
+                {
+                    "id": 2,
+                    "title": "Unique Name",
+                    "text": "The name of your business must be unique. The suggested name should not match with any existing companies or trademarks in India."
+                },
+                {
+                    "id": 3,
+                    "title": "Minimum Capital Contribution",
+                    "text": "There is no minimum capital amount for a company. A company should have an authorized capital of at least ₹1 lakh."
+                },
+                {
+                    "id": 4,
+                    "title": "Registered Office",
+                    "text": "The registered office of a company does not have to be commercial space. Even a rented home can be the registered office, so long as an NOC is obtained from the landlord."
+                }
+            ]
+        }
+    },
+    "llp-registration": {
+        "registrationName": "LLP Registration",
+        "hero": {
+            "pack_includes": [
+                "DPIN and DSC",
+                "LLP Agreement",
+                "Fees & Stamp duty",
+                "LLP Incorporation Certificate",
+                "LLP PAN and TAN",
+                "ZohoBooks subscription",
+                "Filing of Form -3"
+            ],
+            "companyDes": "Get your LLP Registered",
+            "price": "Rs.1,999/-",
+            "days": "15 days",
+            "companyName": "LLP Company Registration In",
+            "subtitle": " of LLP Registration",
+            "subtitle2": " required For LLP Registration"
+        },
+        "faq": {
+            "subtitle": "Frequently asked questions",
+            "title": "We turn potential customers into leads.",
+            "description": "Over points before unpleasant lady attending considered nearer projecting noisy praise listening. Sister principle delicate this reached attempted companions husband what unwilling regular departure suppose excuse.",
+            "faqItem": [
+                {
+                    "id": 1,
+                    "title": "What is the eligibility of designated partners/partners in an LLP?",
+                    "description": "Any individual, or even a company or an LLP, can become a partner. However, only an individual can become a ‘designated partner’ in an LLP."
+                },
+                {
+                    "id": 2,
+                    "title": "I am an NRI. Can I form an LLP in India?",
+                    "description": "Yes, non-resident Indians and foreign nationals who are willing to enter into an LLP partnership can do so, provided they submit the necessary documents after getting it notarized by the concerned authorities. Although, at least one of the designated partners in an LLP should be the Indian national."
+                },
+                {
+                    "id": 3,
+                    "title": "What is an LLP agreement?",
+                    "description": "An LLP agreement is one that is made between the partners and the LLP regarding the relationship between the individual partners in the LLP. An LLP agreement usually consists of management policies, admission of new partners, profit sharing ratio, remuneration to partners and so on."
+                },
+                {
+                    "id": 4,
+                    "title": "What is the minimum number of partners required to start LLP?",
+                    "description": "According to the LLP Act, a minimum of two designated partners are required to start an LLP. The designated partners are responsible for fulfilling all the essential requirements involved in starting and running an LLP."
+                },
+                {
+                    "id": 5,
+                    "title": "What kind of start-ups commonly register LLPs?",
+                    "description": "Typically, only start-ups that will not be looking for venture capital funding register LLPs. This is because venture capitalists only invest in private and public limited companies."
+                },
+                {
+                    "id": 6,
+                    "title": "What is Digital Signature Certificate (DSC)?",
+                    "description": "Digital Signature Certificate (DSC) is a legally recognised method of signing documents electronically. A digital signature is a type of asymmetric cryptography used to simulate the security properties of a handwritten signature on paper. Digital signature schemes normally give two algorithms, one for signing that involves the user's secret or private key, and one for verifying signatures that involves the user's public key. The output of the signature process is called digital signature. Digital signature certificates are used by programs on the Internet and local machines to confirm the identity of a third party. Digital signatures have often confused with scanned copies of a physical written signature, which do not have any legal backing for authentication of electronic documents."
+                },
+                {
+                    "id": 7,
+                    "title": "What are the steps to incorporate LLP?",
+                    "description": "Name reservation: The first step to incorporate Limited liability partnership (LLP) is reservation of name of LLP. Applicant has to file eForm 1, for ascertaining availability and reservation of the name of a LLP business. Incorporate LLP: After reserving a name, user has to file eForm 2 for incorporating a new Limited Liability Partnership (LLP). eForm 2 contains the details of LLP proposed to be incorporated, partners’/ designated partners’ details and consent of the partners/ designated partners to act as partners/ designated partners. LLP Agreement: Execution of LLP Agreement is mandatory as per Section 23 of the Act. LLP Agreement is required to be filed with the registrar in eForm 3 within 30 days of incorporation of LLP."
+                },
+                {
+                    "id": 8,
+                    "title": "How can I apply for reserving LLP Name?",
+                    "description": "File LLP Form No. 1 (Application for reservation or change of name) by logging on to the LLP portal along with the fee prescribed and attaching the digital signature of the designated partner proposing to incorporate a LLP. Also, refer the LLP name availability guidelines prescribed under section-15 read with Rule-18 of LLP Rules, 2009."
+                },
+                {
+                    "id": 9,
+                    "title": "What is a Registered Office?",
+                    "description": "A Registered Office refers to the official correspondence address of an LLP or its principal place of business. The address of the Registered Office will be used for all official communications of the LLP. Registered office of an LLP can be shifted from one place to another in the same state or from one state to another after complying with legal requirements. The LLP shall affix the name and address of its registered office outside every office or place of business in a prominent position. Also, the name, registration number, ‘Registered with Limited Liability’ and address of its registered office should be mentioned in its business letters, bills and other official publications."
+                },
+                {
+                    "id": 10,
+                    "title": "Who is a partner of an LLP?",
+                    "description": "A partner in relation to an LLP means any person who becomes a partner in the liability partnership in accordance with the LLP agreement."
+                },
+                {
+                    "id": 11,
+                    "title": "Who can become a partner of an LLP?",
+                    "description": "An individual (who is capable of entering in to an agreement) or a body corporate can become a partner in an LLP. A body corporate means an LLP registered under the LLP Act, limited company registered under the Companies Act, a registered legal entity in any country registered under relevant laws of that country. However, it does not include a society or a corporation sole."
+                },
+                {
+                    "id": 12,
+                    "title": "Who is a Designated Partner?",
+                    "description": "A designated partner of an LLP means the partner who is responsible for carrying out all acts and things that are required for the functioning of the LLP in respect of compliance of provisions, filing of documents/returns/statements under the LLP Act and things as may be specified in the LLP agreement. An LLP should have a minimum of two designated partners who are individuals and at least one of them should be resident in India."
+                },
+                {
+                    "id": 13,
+                    "title": "What is Contribution?",
+                    "description": "Contribution means the amount contributed by each partner in the LLP as per the LLP agreement. The contribution is the liability of each partner and an LLP can recover the agreed contribution from the partner. A partner can contribute to the capital by cash, goods or services subject to applicable valuation."
+                },
+                {
+                    "id": 14,
+                    "title": "Is Foreign Direct Investment (FDI) Permitted in LLP?",
+                    "description": "Foreign Direct Investment (FDI) is permitted in LLPs under automatic route subject to the sectoral cap regulations. FDI in LLPs will not be allowed in sectors such as agricultural/plantation activity, print media or real estate business."
+                },
+                {
+                    "id": 15,
+                    "title": "What is LLPIN?",
+                    "description": "LLPIN is a 7-digit alpha numeric registration number allotted by Ministry of Corporate Affairs, Government of India, to an LLP. For example, AAA-0002 is the number allotted by the Ministry of Corporate Affairs to CompaniesInn Consulting LLP, the first LLP registered online in India."
+                },
+                {
+                    "id": 16,
+                    "title": "How to form/incorporate an LLP?",
+                    "description": "The procedure for formation of an LLP is very similar to that of a Private Limited Company incorporation procedure. A minimum of two Partners are required to start the LLP formation procedure and a registered office location is required within India. It is important to remember that FDI in LLP is allowed only with the prior approval of the Reserve Bank of India (RBI). Therefore, it is recommended that NRIs and Foreign National promoters opt to incorporate a Private Limited Company, where 100% FDI is allowed under the automatic route."
+                },
+                {
+                    "id": 17,
+                    "title": "What is the procedure for LLP registration in India?",
+                    "description": "LLP registration procedure is the easiest and transparent process as it has a blend of the benefits of a company and partnership firm namely, limited liability feature of a company and the flexibility of a Partnership firm. LLP registration process includes following steps: Get a digital signature (DSC) Apply for Director Identification Number (DIN) Get the name of the company approved through ‘Reserve your Unique Name’ service (RUN) Incorporation of LLP File ‘Limited Liability Partnership Agreement’"
+                },
+                {
+                    "id": 18,
+                    "title": "When should I file my annual report with ROC of an LLP?",
+                    "description": "LLPs in India must file its Annual Return within 60 days from the end of close of financial year and Statement of Account & Solvency within 30 days from the end of six months of close of financial year. Unlike Companies, LLPs mandatorily have to maintain their financial year, as April 1st to March 31st. Therefore, LLP annual return is due on May 30th and the Statement of Account & Solvency is due on October 30th of each financial year. In addition to the MCA annual return, LLPs must also mandatorily file an income tax return every year."
+                },
+                {
+                    "id": 19,
+                    "title": "Who can become a partner in LLP?",
+                    "description": "Any individual or body corporate may be a partner in an LLP. However, an individual shall not be capable of becoming a partner of an LLP, if— (a) he has been found to be of unsound mind by a Court of competent jurisdiction and the finding is in force; (b) he is an undischarged insolvent; or (c) he has applied to be adjudicated as an insolvent and his application is pending."
+                },
+                {
+                    "id": 20,
+                    "title": "Is it allowed by the CA Act 1949 to form LLP and practice?",
+                    "description": "Yes, A Chartered Accountant can practice as CA and form an LLP. However, All members of ICAI in practice who want to constitute separate LLPs are required to follow the provisions of the Limited Liability Partnership Act, 2008"
+                },
+                {
+                    "id": 21,
+                    "title": "Is it difficult to get Virtual Office Address to register your LLP in India?",
+                    "description": "It is not allowed to have a Virtual office address by ROC. However, you can opt for shared space for registering an LLP. Using a virtual office as a registered business address usually is not possible. While you can certainly run your business online, the ROC needs a physical location where it can contact you."
+                },
+                {
+                    "id": 22,
+                    "title": "What is the difference between partner and designated partner at LLP in India?",
+                    "description": "Designated partner are like Director and partners are like shareholders. The liability of the Partner is limited solely to Partnership Agreement. The Designated Partners are responsible towards the day to day functioning , liabilities prescribed by LLP Agreement as well as for all penalties imposed on Limited Liability Partners for contravention of any provisions applicable and to be complied with by the LLP."
+                },
+                {
+                    "id": 23,
+                    "title": "How do I close a current account of LLP?",
+                    "description": "Before closing a current account of an LLP, you need to make sure that there is no assets and balance lying in the bank account. Once there is no balance or assets in the bank account, the designated partners need to approach the banker with a request for closure and obtain a closure certificate from the bank that the account maintained with them has been closed which acts as a proof for closure of the bank account in the name of LLP."
+                },
+                {
+                    "id": 24,
+                    "title": "What is the liability of a partner in an LLP?",
+                    "description": "The obligation of an LLP whether under contractual arrangements or otherwise is the sole obligation of the LLP and will not extend to its partners. The obligations of the LLP are required to be met through the property of the LLP. The liability of a partner of an LLP, except in case of fraud, is limited to such partner’s contribution in the LLP as provided under the limited liability partnership agreement. A partner acts as an agent of only the LLP and not as an agent of the other partners of the LLP. An LLP can be held liable for wrongful acts or omissions of a partner which are undertaken by the partner as a part of the LLP’s business or with the authority of the LLP. However, an LLP will not be liable for acts undertaken by a partner if such partner does not have the requisite authority to undertake an action on behalf of the LLP and the person dealing with the LLP is aware that the partner does not have such authority."
+                }
+            ]
+        },
+        "benefits": [
+            {
+                "name": "Convenient",
+                "color": "#ffa229",
+                "content": "It is easy to start and manage a business like entrepreneurs. LLP agreements are customized in according to meet the needs of partners concerned. There is fewer formalities in areas of legal compilation, annual meeting, resolution as compared to any other Private Limited Company. For a detailed comparison between LLP and Private Limited read Choosing between LLP and Private Limited",
+                "image": "assets/images/privatebenefit/liability.png"
+            },
+            {
+                "name": "No minimum capital requirement",
+                "color": "#164760",
+                "content": "LLP can be started with the minimum amount of capital money. Capital may be in the form of tangible, movable asset like Land, machinery or intangible form.  Capital requirement in the case of a Private company( Requirements for Registration of a Private Company)  and Public Company(Requirements for registration of a Public Company) is Rs. 1, 00,000 and Rs. 5,00,000 respectively whereas no such mandatory capital requirement specified under the LLP.",
+                "image": "assets/images/privatebenefit/businessman.png"
+            },
+            {
+                "name": "No limit on owners of business",
+                "color": "#ffa229",
+                "content": "LLP may have partners varying from 2 to many. There is no limit for partners in LLP. An LLP requires a minimum 2 partners while there is no limit on the maximum number of partners in contrast to a private company wherein there is a restriction of not having more than 200 members.",
+                "image": "assets/images/privatebenefit/funding.png"
+            },
+            {
+                "name": "No requirement of compulsory Audit",
+                "color": "#164760",
+                "content": "LLPs are not required to audit the accounts. Any other company (Public, Private) are mandated to get their accounts audited by the auditing firm.LLP is required to audit their account in the following situation: When the contributions of the LLP exceeds Rs. 25 Lakhs, or When annual turnover of the LLP exceeds Rs. 40 Lakhs",
+                "image": "assets/images/privatebenefit/favo.png"
+            },
+            {
+                "name": "Savings from lower compliance burden",
+                "color": "#ffa229",
+                "content": "LLP have to face less compliance burden as they have to submit only two statements i.e. the Annual Return & Statement of Accounts and Solvency. Whereas in the case of private company, at Least 8 to 10 regulatory formalities and compliances are required to be duly completed. Read Annual Cost Comparison of Private Limited and LLP.",
+                "image": "assets/images/privatebenefit/easytoattract.png"
+            },
+            {
+                "name": "Taxation Aspect on LLP",
+                "color": "#164760",
+                "content": "LLP is not liable to pay the tax on the income and share of its partner. Thus, no dividend distribution tax is payable as under section 40(b).  Bonus, commission or remuneration, Interest to partners, any payment of salary, allowed as deduction.  Provision of ‘deemed dividend’ under income tax law, is not applicable to LLP.",
+                "image": "assets/images/privatebenefit/sell.png"
+            }
+        ],
+        "documents": [
+            {
+                "name": "ID CARD",
+                "color": "#ffa229",
+                "content": "All the partners are required to provide their PAN at the time of registering LLP. PAN card acts as a primary ID proof.",
+                "image": "assets/images/documents/PANCARD.png"
+            },
+            {
+                "name": "PHOTOGRAPH",
+                "color": "#164760",
+                "content": "Latest Passport size photograph of Shareholders and Directors Is required for the further process",
+                "image": "assets/images/documents/CAMERA.png"
+            },
+            {
+                "name": "RESIDENCE PROOF",
+                "color": "#ffa229",
+                "content": "Latest bank statement, telephone bill, mobile bill, electricity bill or gas bill should be submitted as a residence proof. Such bill or statement shouldn’t be more than 2 months old and must contain the name of partner as mentioned in PAN card.",
+                "image": "assets/images/documents/IDCARD.png"
+            },
+            {
+                "name": "DIRECTOR’S ADDRESS PROOF",
+                "color": "#164760",
+                "content": "Latest Telephone Bill /Electricity Bill/ Bank Account Statement of Shareholders and Directors.",
+                "image": "assets/images/documents/dir-add.png"
+            },
+            {
+                "name": "BUSINESS ADDRESS PROOF",
+                "color": "#ffa229",
+                "content": "Latest Electricity Bill/ Telephone Bill of the registered office address.",
+                "image": "assets/images/documents/map.png"
+            },
+            {
+                "name": "NOTE",
+                "color": "#164760",
+                "content": "In case of NRI or Foreign National, documents of director (s) must be notarized or apostilled.",
+                "image": "assets/images/documents/notes.png"
+            }
+        ],
+        "member": {
+            "h1": "What to keep in mind while Registering a",
+            "pfirst": "As defined by the Companies Act 2013, we must guarantee",
+            "psecond": "that the checklist requirements are met.",
+            "firstContent": {
+                "h2": "Two Directors",
+                "p": "A private limited company must have at least two directors, with a maximum of fifteen. A minimum of one of the company's directors must be a resident of India."
+            },
+            "secondContent": {
+                "h2": "Unique Name",
+                "p": "The name of your business must be unique. The suggested name should not match with any existing companies or trademarks in India."
+            },
+            "thirdContent": {
+                "h2": "Minimum Capital Contribution",
+                "p": "There is no minimum capital amount for a company. A company should have an authorized capital of at least ₹1 lakh."
+            },
+            "fourthContent": {
+                "h2": "Registered Office",
+                "p": "The registered office of a company does not have to be commercial space. Even a rented home can be the registered office, so long as an NOC is obtained from the landlord."
+            },
+            "memberformobile": [
+                {
+                    "id": 1,
+                    "title": "Two Directors",
+                    "text": "A private limited company must have at least two directors, with a maximum of fifteen. A minimum of one of the company's directors must be a resident of India."
+                },
+                {
+                    "id": 2,
+                    "title": "Unique Name",
+                    "text": "The name of your business must be unique. The suggested name should not match with any existing companies or trademarks in India."
+                },
+                {
+                    "id": 3,
+                    "title": "Minimum Capital Contribution",
+                    "text": "There is no minimum capital amount for a company. A company should have an authorized capital of at least ₹1 lakh."
+                },
+                {
+                    "id": 4,
+                    "title": "Registered Office",
+                    "text": "The registered office of a company does not have to be commercial space. Even a rented home can be the registered office, so long as an NOC is obtained from the landlord."
+                }
+            ]
+        }
+    },
+    "nidhi-company-registration": {
+        "registrationName": "Nidhi Company Registration",
+        "hero": {
+            "pack_includes": [
+                "3 DIN and DSC",
+                "Drafting of MoA & AoA",
+                "Government Stamp duty",
+                "Company Incorporation Certificate",
+                "Company PAN and TAN",
+                "ZohoBooks subscription",
+                "Approval letter from Central Govt"
+            ],
+            "companyDes": "Register your company online",
+            "price": "Rs.9,999/-",
+            "days": "15 days",
+            "companyName": "Nidhi Company Registration In",
+            "subtitle": " of Nidhi Registration",
+            "subtitle2": " required For Nidhi Registration"
+        },
+        "faq": {
+            "subtitle": "Frequently asked questions",
+            "title": "We turn potential customers into leads.",
+            "description": "Over points before unpleasant lady attending considered nearer projecting noisy praise listening. Sister principle delicate this reached attempted companions husband what unwilling regular departure suppose excuse.",
+            "faqItem": [
+                {
+                    "id": 1,
+                    "title": "What is Nidhi Company?",
+                    "description": "A Nidhi Company falls in the category of “Non-Banking Financial Companies (NBFCs)”, which does not require any license from the Reserve Bank of India (RBI). It is formed for the sole purpose of accepting deposits and lending loans to it’s members only. It works through it’s members only."
+                },
+                {
+                    "id": 2,
+                    "title": "What is the time period taken for setting up of a Nidhi Company?",
+                    "description": "Approximately, a time period of 15 business working days is needed for incorporating a Nidhi Company."
+                },
+                {
+                    "id": 3,
+                    "title": "Is it mandatory to use the word 'Nidhi Limited” at the end of the company name?",
+                    "description": "Yes, it is mandatory to use the word 'Nidhi Limited” in the company name. Nevertheless, the term 'Mutual Benefit” can also be used."
+                },
+                {
+                    "id": 4,
+                    "title": "What is the least number of individuals required to start a Nidhi Company?",
+                    "description": "At least three directors and seven shareholders are required for a Nidhi Company registration."
+                },
+                {
+                    "id": 5,
+                    "title": "Can a minor person become the director of a Nidhi Company?",
+                    "description": "No, a minor person is not allowed to become the director of a Nidhi Company. Only an individual who is 18 years old or more can become the Director of a Nidhi Company."
+                },
+                {
+                    "id": 6,
+                    "title": "Is it mandatory for the promoters to be there before the Authority for the purpose of Registration?",
+                    "description": "No, there is no need for the promoters to be there or to visit our office personally, as the registration process of Nidhi Company is completely online."
+                },
+                {
+                    "id": 7,
+                    "title": "Is there any restriction on the maximum number of members in a Nidhi Company?",
+                    "description": "No, there is no restriction on the maximum number of members. However, it is compulsory for a Nidhi Company to have a minimum of two hundred members within one year of commencement."
+                }
+            ]
+        },
+        "benefits": [
+            {
+                "name": "No RBI Requirement",
+                "color": "#ffa229",
+                "content": "Nidhi Company do not require RBI registration to do loan business in India",
+                "image": "assets/images/privatebenefit/liability.png"
+            },
+            {
+                "name": "Branches for Nidhi",
+                "color": "#164760",
+                "content": "Nidhi Company can open 3 branches after 3 years within the district.",
+                "image": "assets/images/privatebenefit/businessman.png"
+            },
+            {
+                "name": "Loan against security",
+                "color": "#ffa229",
+                "content": "Nidhi Company can lend only against gold, property, FD, Govt securities.",
+                "image": "assets/images/privatebenefit/funding.png"
+            },
+            {
+                "name": "Interest on loan",
+                "color": "#164760",
+                "content": "Nidhi Company can earn max 20% interest on loan on reducing balance method.",
+                "image": "assets/images/privatebenefit/favo.png"
+            },
+            {
+                "name": "Interest on deposits",
+                "color": "#ffa229",
+                "content": "Nidhi Company can accept FD, RD & savings and can earn 12% rate of interest",
+                "image": "assets/images/privatebenefit/easytoattract.png"
+            },
+            {
+                "name": "Lowest Price",
+                "color": "#164760",
+                "content": "Nidhi Company Registration at just ₹16,899/- (lowest price across web)",
+                "image": "assets/images/privatebenefit/sell.png"
+            }
+        ],
+        "documents": [
+            {
+                "name": "ID CARD",
+                "color": "#ffa229",
+                "content": "All the directors/shareholders are required to provide their PAN at the time of registering their nidhi company. PAN card acts as a primary ID proof.",
+                "image": "assets/images/documents/PANCARD.png"
+            },
+            {
+                "name": "PHOTOGRAPH",
+                "color": "#164760",
+                "content": "Latest Passport size photograph of Shareholders and Directors Is required for the further process",
+                "image": "assets/images/documents/CAMERA.png"
+            },
+            {
+                "name": "RESIDENCE PROOF",
+                "color": "#ffa229",
+                "content": "Latest bank statement, telephone bill, mobile bill, electricity bill or gas bill should be submitted as a residence proof. Such bill or statement shouldn’t be more than 2 months old and must contain the name of partner as mentioned in PAN card.",
+                "image": "assets/images/documents/IDCARD.png"
+            },
+            {
+                "name": "DIRECTOR’S ADDRESS PROOF",
+                "color": "#164760",
+                "content": "Latest Telephone Bill /Electricity Bill/ Bank Account Statement of Shareholders and Directors.",
+                "image": "assets/images/documents/dir-add.png"
+            },
+            {
+                "name": "BUSINESS ADDRESS PROOF",
+                "color": "#ffa229",
+                "content": "Latest Electricity Bill/ Telephone Bill of the registered office address.",
+                "image": "assets/images/documents/map.png"
+            },
+            {
+                "name": "NOTE",
+                "color": "#164760",
+                "content": "In case of NRI or Foreign National, documents of director (s) must be notarized or apostilled.",
+                "image": "assets/images/documents/notes.png"
+            }
+        ],
+        "member": {
+            "h1": "What to keep in mind while Registering a",
+            "pfirst": "As defined by the Companies Act 2013, we must guarantee",
+            "psecond": "that the checklist requirements are met.",
+            "firstContent": {
+                "h2": "Three Directors",
+                "p": "A nidhi company must have at least three directors, with a maximum of fifteen. A minimum of one of the company's directors must be a resident of India."
+            },
+            "secondContent": {
+                "h2": "Unique Name",
+                "p": "The name of your business must be unique. The suggested name should not match with any existing companies or trademarks in India."
+            },
+            "thirdContent": {
+                "h2": "Minimum Capital Contribution",
+                "p": "There is no minimum capital amount for a company. A company should have an authorized capital of at least ₹10 lakhs."
+            },
+            "fourthContent": {
+                "h2": "Registered Office",
+                "p": "The registered office of a company does not have to be commercial space. Even a rented home can be the registered office, so long as an NOC is obtained from the landlord."
+            },
+            "memberformobile": [
+                {
+                    "id": 1,
+                    "title": "Three Directors",
+                    "text": "A nidhi company must have at least three directors, with a maximum of fifteen. A minimum of one of the company's directors must be a resident of India."
+                },
+                {
+                    "id": 2,
+                    "title": "Unique Name",
+                    "text": "The name of your business must be unique. The suggested name should not match with any existing companies or trademarks in India."
+                },
+                {
+                    "id": 3,
+                    "title": "Minimum Capital Contribution",
+                    "text": "There is no minimum capital amount for a company. A company should have an authorized capital of at least ₹10 lakhs."
+                },
+                {
+                    "id": 4,
+                    "title": "Registered Office",
+                    "text": "The registered office of a company does not have to be commercial space. Even a rented home can be the registered office, so long as an NOC is obtained from the landlord."
+                }
+            ]
+        }
+    },
+    "one-person-company": {
+        "registrationName": "OPC Registration",
+        "hero": {
+            "pack_includes": [
+                "DIN and DSC",
+                "MoA & AoA",
+                "Fees & Stamp duty",
+                "Company Incorporation Certificate",
+                "OPC PAN and TAN",
+                "PF & ESIC Registration",
+                "Business Commencement Certificate",
+                "ZohoBooks Subscription"
+            ],
+            "companyDes": "Get your OPC Registered",
+            "price": "Rs.1,999/-",
+            "days": "15 days",
+            "companyName": "OPC Registration In",
+            "subtitle": " of OPC Registration",
+            "subtitle2": " required For OPC Registration"
+        },
+        "faq": {
+            "subtitle": "Frequently asked questions",
+            "title": "We turn potential customers into leads.",
+            "description": "Over points before unpleasant lady attending considered nearer projecting noisy praise listening. Sister principle delicate this reached attempted companions husband what unwilling regular departure suppose excuse.",
+            "faqItem": [
+                {
+                    "id": 1,
+                    "title": "What is Directors Identification Number (DIN)?",
+                    "description": "Directors Identification Number (DIN) is an identification number issued by the Ministry of Corporate Affairs, Government of India, to Directors of a company or Designated Partners of an LLP."
+                },
+                {
+                    "id": 2,
+                    "title": "How to Obtain a DIN?",
+                    "description": "New DIN will be allotted to a Director / Designated Partner while registeting a Company or LLP. Also, an Company / LLP can apply for a DIN for a proposed Director / Designated Partner."
+                },
+                {
+                    "id": 3,
+                    "title": "How many Persons required for registering an OPC?",
+                    "description": "ONE Person who is an Indian National and resident in India can register an OPC. Also it requires another person as Nominee Shareholder. So, in effect you need TWO People for registering an OPC. The Primary Shareholer can also be a Director."
+                },
+                {
+                    "id": 4,
+                    "title": "Who can become a Shareholder or Nominee Shareholder in an OPC ?",
+                    "description": "An India National (Individal), who is resident in India can only become a Shareholder or Nominee Shareholde in an OPC. Foreign Nationals, Non Resident Indians, Companies and LLPs cannot become a Shareholder or Nominee Shareholde in an OPC."
+                },
+                {
+                    "id": 5,
+                    "title": "Who can become a Director in an OPC?",
+                    "description": "Only individuals can become directors of the company. There is no restrictions for Foreign Nationals or Non Resident Indians to become a director of an OPC."
+                },
+                {
+                    "id": 6,
+                    "title": "How Many OPC's a person can register or become Nominee?",
+                    "description": "A Person can register only ONE OPC. Also a person can not become nominee in more than one OPC."
+                },
+                {
+                    "id": 7,
+                    "title": "What is Memorandum of Association (MOA)?",
+                    "description": "MOA is the charter document of a company. A company is created by registering a memorandum. MOA contains the name of a company, the state in which the registered office of the company is located, objectives, and its authorised capital. The MOA will be subscribed by the initial promoters of the company in their own handwriting. They will also have to write their name, father's name, residential address, occupation and the number of shares they agree to subscribe in the company. The MOA should also bear the signature of the witness who knows the subscribers."
+                },
+                {
+                    "id": 8,
+                    "title": "What is Articles of Association (AOA)?",
+                    "description": "AOA contains rules and regulations for the management of a company's internal affairs and conduct of its business. It defines the relationship of company between its members and directors and relation between members and directors. It also describes powers of directors. Further, the AOA describes the rights and duties of its members as well as the duties and responsibilities of its directors. In case of a private limited company, the AOA will contain the restrictions of transfer of shares, if any. Also, AOA usually contains the names of first directors of a company. The AOA will be subscribed by the initial promoters of the company in their own handwriting. Promoters will have to write their names, father's name, residential address, and occupation. The AOA should also bear the signature of the witness who knows the subscribers."
+                },
+                {
+                    "id": 9,
+                    "title": "Can the details of subscribers to the MOA & AOA can be amended?",
+                    "description": "The details of subscribers to the MOA & AOA cannot be amended or changed at any point of time during the life of the company, as it constitutes the document giving birth to a company. Subsequent changes in the shareholding or directorship of the company should be reflected in its internal records and will not affect the subscriber details in the MOA & AOA"
+                },
+                {
+                    "id": 10,
+                    "title": "What is Digital Signature Certificate (DSC)?",
+                    "description": "A digital signature is a type of asymmetric cryptography used to simulate the security properties of a handwritten signature on paper. Digital signature schemes normally give two algorithms, one for signing that involves the user's secret or private key, and one for verifying signatures that involves the user's public key. Digital signatures have often confused with scanned copies of a physical written signature, which do not have any legal backing for authentication of electronic documents."
+                },
+                {
+                    "id": 11,
+                    "title": "What is Registered Office?",
+                    "description": "Registered Office refers to the official correspondence address of a company or its principal place of business. The address of the Registered Office will be used for all official communications of the company. The company shall affix the name and address of its registered office outside every office or place of business in a prominent position. Also, the name and address of its registered office should be mentioned in its business letters, bills and other official publications."
+                },
+                {
+                    "id": 12,
+                    "title": "Whether the Registered Office can be changed?",
+                    "description": "Registered Office of the company can be shifted from one place to another in the same state or from one state to another after complying with legal requirements."
+                },
+                {
+                    "id": 13,
+                    "title": "What is Authorised Capital?",
+                    "description": "Authorised Capital or Registered Capital of a company is the upper limit of capital that a company can issue shares and collect money from shareholders. Company registration fee is payable to ROC and will be calculated on the basis of Authorised Capital. There is no requirement as to minimum Authorised Capital for registration of Company."
+                },
+                {
+                    "id": 14,
+                    "title": "What is subscribed capital?",
+                    "description": "Subscribed capital refers to the amount of capital agreed to be brought in by the shareholders to the company."
+                },
+                {
+                    "id": 15,
+                    "title": "What is paid up capital?",
+                    "description": "Paid up capital of a company refers to the amount of capital actually brought in by the shareholders to the company. Subscribers to the It is not necessary that subscribers should bring in the subscribed capital immediately after ncorporation. However, at the time of closing accounts for the first financial year, there should be a mimimum paid up capital of Rs.1,00,000."
+                },
+                {
+                    "id": 16,
+                    "title": "What is Corporate Identification Number (CIN)?",
+                    "description": "CIN is the number allotted to a company registered in India by the Ministry of Corporate Affairs, Government of India. CIN is a 21-digit number that contains the information such as status (listed / unlisted), NIC code of business activity, state of registration, year of registration, private or public and the sequential registration number in the respective state. For example - U74999KA2021PTC147303"
+                },
+                {
+                    "id": 17,
+                    "title": "Can a Minor be a Shareholder or Nomiee?",
+                    "description": "No. A minor can not become member or nominee of the One Person Company. Also a Minor cannot hold share with beneficial interest in an OPC."
+                },
+                {
+                    "id": 18,
+                    "title": "Whether OPC can do Non-Banking Financial and Investement?",
+                    "description": "An OPC is prohibited from carrying Non-Banking Financial activites ad and Investment in securities of other body corporates."
+                },
+                {
+                    "id": 19,
+                    "title": "When an OPC can be converted to Private Limited Company?",
+                    "description": "An OPC can be converted voluntarily into any other kind of company (Private Limited or Public Limited) only after 2 years from the date of incorporation. An OPC can be converted to any other kind of company with in 2 years of IncorporationIn only if the the Paid up Capital of OPC exceeds Rupees Fifty Lakhs of or its average annual turnover during a period of three consecutive financial years exceeds Rupees Two Crore."
+                },
+                {
+                    "id": 20,
+                    "title": "Why a Nominee is required in OPC?",
+                    "description": "The subscriber to the memorandum shall nominate another person as nominee after obtaining a written consent from such person. In the event of the shareholder death or incapacity to contract, the Nominee shall become the member of that OPC."
+                },
+                {
+                    "id": 21,
+                    "title": "Can the shareholder OPC change Nominee?",
+                    "description": "Yes. The sharehodder can change the nominee with an intimation in writing to the company at any time for any reason and can and nominate another person after obtaining the prior consent of new nominee."
+                },
+                {
+                    "id": 22,
+                    "title": "Can the Nominee withdraw his consent from OPC?",
+                    "description": "Yes. The Nominee can withdraw his consent by giving a notice in writing to the sole member and to the One Person Company. In such case, the sole member shall nominate another person as nominee within fifteen days of the receipt of the notice of withdrawal."
+                }
+            ]
+        },
+        "benefits": [
+            {
+                "name": "No Minimum Capital",
+                "color": "#ffa229",
+                "content": "There is No minimum capital is required to form a One Person Company.  It can be registered even with Rs. 10,000 as total Authorized Share capital.",
+                "image": "assets/images/privatebenefit/liability.png"
+            },
+            {
+                "name": "Separate Legal Entity",
+                "color": "#164760",
+                "content": "An OPC enjoys the benefit of Separate Legal Identity which clearly states that assets and liabilities of the business are not the assets and liabilities of the Directors or shareholders.",
+                "image": "assets/images/privatebenefit/businessman.png"
+            },
+            {
+                "name": "Limited Liability",
+                "color": "#ffa229",
+                "content": "A shareholder or the owner of a Company has a limited liability towards the company. His/her liability is limited up to the shares subscribed by him/her.",
+                "image": "assets/images/privatebenefit/funding.png"
+            },
+            {
+                "name": "Minimum compliances",
+                "color": "#164760",
+                "content": "For the purpose of Annual filing and other compliances, One Person Company is treated as a Private Limited Company. However, it is exempted from many compliances. It does not have to hold AGM every year.",
+                "image": "assets/images/privatebenefit/favo.png"
+            },
+            {
+                "name": "Builds Credibility",
+                "color": "#ffa229",
+                "content": "All the information relating to the one person company are made available in a public database. This feature makes it easy to authenticate the existence of the business that ultimately helps in improving business credibility.",
+                "image": "assets/images/privatebenefit/easytoattract.png"
+            },
+            {
+                "name": "Perpetual succession",
+                "color": "#164760",
+                "content": "The company keeps on existing in the eyes of law even in the case of death, insolvency, the bankruptcy of any of its member or shareholder. It continues as a legal person until it is legally dissolved.",
+                "image": "assets/images/privatebenefit/sell.png"
+            }
+        ],
+        "documents": [
+            {
+                "name": "ID CARD",
+                "color": "#ffa229",
+                "content": "The director/shareholder is required to provide their PAN at the time of registering one person company. PAN card acts as a primary ID proof.",
+                "image": "assets/images/documents/PANCARD.png"
+            },
+            {
+                "name": "PHOTOGRAPH",
+                "color": "#164760",
+                "content": "Latest Passport size photograph of Shareholder and Director Is required for the further process",
+                "image": "assets/images/documents/CAMERA.png"
+            },
+            {
+                "name": "RESIDENCE PROOF",
+                "color": "#ffa229",
+                "content": "Latest bank statement, telephone bill, mobile bill, electricity bill or gas bill should be submitted as a residence proof. Such bill or statement shouldn’t be more than 2 months old and must contain the name of partner as mentioned in PAN card.",
+                "image": "assets/images/documents/IDCARD.png"
+            },
+            {
+                "name": "DIRECTOR’S ADDRESS PROOF",
+                "color": "#164760",
+                "content": "Latest Telephone Bill /Electricity Bill/ Bank Account Statement of Shareholder and Director.",
+                "image": "assets/images/documents/dir-add.png"
+            },
+            {
+                "name": "BUSINESS ADDRESS PROOF",
+                "color": "#ffa229",
+                "content": "Latest Electricity Bill/ Telephone Bill of the registered office address.",
+                "image": "assets/images/documents/map.png"
+            },
+            {
+                "name": "NOTE",
+                "color": "#164760",
+                "content": "In case of NRI or Foreign National, documents of director (s) must be notarized or apostilled.",
+                "image": "assets/images/documents/notes.png"
+            }
+        ],
+        "member": {
+            "h1": "What to keep in mind while Registering a",
+            "pfirst": "As defined by the Companies Act 2013, we must guarantee",
+            "psecond": "that the checklist requirements are met.",
+            "firstContent": {
+                "h2": "One Director",
+                "p": "A one person company must have at least one director. The director must be resident of India."
+            },
+            "secondContent": {
+                "h2": "Unique Name",
+                "p": "The name of your business must be unique. The suggested name should not match with any existing companies or trademarks in India."
+            },
+            "thirdContent": {
+                "h2": "Minimum Capital Contribution",
+                "p": "There is no minimum capital amount for a company. A company should have an authorized capital of at least ₹1 lakh."
+            },
+            "fourthContent": {
+                "h2": "Registered Office",
+                "p": "The registered office of a company does not have to be commercial space. Even a rented home can be the registered office, so long as an NOC is obtained from the landlord."
+            },
+            "memberformobile": [
+                {
+                    "id": 1,
+                    "title": "One Director",
+                    "text": "A one person company must have at least one director. The director must be resident of India."
+                },
+                {
+                    "id": 2,
+                    "title": "Unique Name",
+                    "text": "The name of your business must be unique. The suggested name should not match with any existing companies or trademarks in India."
+                },
+                {
+                    "id": 3,
+                    "title": "Minimum Capital Contribution",
+                    "text": "There is no minimum capital amount for a company. A company should have an authorized capital of at least ₹1 lakh."
+                },
+                {
+                    "id": 4,
+                    "title": "Registered Office",
+                    "text": "The registered office of a company does not have to be commercial space. Even a rented home can be the registered office, so long as an NOC is obtained from the landlord."
+                }
+            ]
+        }
+    }
+}

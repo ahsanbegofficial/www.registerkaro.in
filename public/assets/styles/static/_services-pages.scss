@@ -1,0 +1,333 @@
+.services-pages {
+  font-family: roboto, sans-serif;
+  h3 {
+    font-size: 24px;
+    line-height: 120%;
+    font-weight: 550;
+    margin-top: 12px;
+    margin-bottom: 12px;
+  }
+  P {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+  }
+  .fs-20 {
+    font-size: 20px;
+  }
+  ol {
+    li {
+      font-size: 20px;
+      line-height: 32px;
+      margin-top: 8px;
+    }
+  }
+  .list-unstyled {
+    list-style-type: none;
+  }
+  .flex {
+    display: flex;
+    gap: 30px;
+  }
+  .flex-3 {
+    flex: 3;
+  }
+  .flex-4 {
+    flex: 4;
+  }
+  .flex-5 {
+    flex: 5;
+  }
+  .flex-6 {
+    flex: 6;
+  }
+  .flex-7 {
+    flex: 7;
+  }
+  .flex-column {
+    flex-direction: column;
+  }
+  .align-center {
+    align-items: center;
+  }
+  .justify-content-between {
+    justify-content: space-between;
+  }
+  .justify-content-center {
+    justify-content: center;
+  }
+  .m-auto {
+    margin: auto;
+  }
+  .flex-w-50 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  .grid {
+    display: grid;
+  }
+  .text-center {
+    text-align: center;
+  }
+  .text-justify {
+    text-align: justify;
+  }
+  .fw-700 {
+    font-weight: 700;
+  }
+  .h-auto {
+    height: auto;
+  }
+  .h-100 {
+    height: 100%;
+  }
+  .w-100 {
+    width: 100%;
+  }
+  .w-30 {
+    width: 30%;
+  }
+  .w-70 {
+    width: 70%;
+  }
+  .w-80 {
+    width: 80%;
+  }
+  .w-60 {
+    width: 60%;
+  }
+  .w-40 {
+    width: 40%;
+  }
+  .gap-20 {
+    gap: 20px;
+  }
+  .color-black {
+    color: black;
+  }
+  .main-heading {
+    font-size: 36px;
+    line-height: 120%;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 70px;
+    margin-bottom: 10px;
+  }
+  .heading-line {
+    margin: auto;
+    width: 100px;
+    height: 10px;
+    background-color: #ffb953;
+    margin-bottom: 40px;
+  }
+  .main-para {
+    font-size: 20px;
+    text-align: center;
+    font-weight: 400;
+    margin: auto;
+    margin-bottom: 40px;
+    width: 80%;
+  }
+  .small-heading {
+    border: 1px solid;
+    border-top: none;
+    border-color: #e6e6e6;
+    padding-bottom: 5px;
+    margin-bottom: 0.5rem;
+  }
+
+  .hero {
+    color: white;
+    display: flex;
+    padding: 40px 70px;
+    gap: 100px;
+    position: relative;
+    overflow: hidden;
+    .background-image {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+    }
+    .header-content {
+      flex: 7;
+      padding-top: 0px;
+      h4 {
+        font-size: 28px;
+        line-height: 120%;
+        font-weight: 550;
+      }
+      h5 {
+        font-size: 22px;
+        line-height: 120%;
+        font-weight: 550;
+      }
+      .packages {
+        .package {
+          margin-top: 10px;
+          align-items: center;
+          .rightArrow {
+            background-color: transparent;
+            height: 30px;
+            width: auto;
+            margin-right: 10px;
+          }
+        }
+      }
+      .Google-main-div {
+        height: 60px;
+        display: flex;
+        align-items: center;
+        flex-wrap: nowrap;
+        padding-top: 30px;
+        gap: 16px;
+        span {
+          vertical-align: middle;
+          font-weight: 600;
+          font-size: 18px;
+        }
+      }
+    }
+    .zoho {
+      flex: 3;
+    }
+  }
+  .process {
+    .page-point {
+      border: 1px solid #d2d2d3;
+      border-radius: 8px;
+      padding: 1rem 0;
+      background-color: #f4f7f9;
+    }
+    .certificate {
+      box-shadow: 0 0 8px #0c3c63;
+      transition: 0.3s;
+      border: 1px solid #e6e6e6;
+    }
+  }
+  .DocumentArrowWise {
+    li {
+      line-height: 32px;
+      .ulArrow-img {
+        margin-right: 8px;
+      }
+    }
+  }
+  .DocumentButtonWise {
+    h3 {
+      text-align: center;
+    }
+    .btn {
+      justify-content: space-between;
+      width: 100%;
+      box-shadow: 0px 0px 8px white;
+      color: black;
+      background-color: rgb(160, 157, 157);
+      margin: 6px 0px;
+      text-align: left;
+      border-radius: 25px;
+      position: relative;
+      padding: 1px 3px;
+      text-decoration: none;
+      transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+        border-color 0.15s ease-in-out;
+    }
+    .active-btn {
+      background-color: #0c3c63;
+      color: #fff;
+    }
+    .none {
+      display: none;
+    }
+  }
+  .checklist-divs {
+    flex: 25%;
+  }
+  .WhyRegisterkaro {
+    margin: auto;
+    width: 80%;
+    .divs {
+      flex-direction: column;
+      align-items: center;
+      flex: 25%;
+      text-align: center;
+      gap: 20px;
+      P {
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 28px;
+      }
+    }
+  }
+  table {
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    font-size: 16px;
+    td,
+    th {
+      padding: 20px;
+      font-weight: lighter;
+      border: 1px solid #e6e6e6;
+    }
+    th {
+      color: white;
+      background-color: gray;
+    }
+    .first {
+      border-radius: 25px 0px 0px 0px;
+      border: none;
+    }
+    .last {
+      border-radius: 0px 25px 0px 0px;
+      border: none;
+    }
+  }
+  .p-color-black {
+    p {
+      color: black;
+    }
+  }
+
+  @media screen and (max-width: 1400px) {
+    .hero {
+      gap: 10px;
+      .header-content {
+        flex: 6;
+      }
+      .zoho {
+        flex: 4;
+      }
+    }
+  }
+  @media screen and (max-width: 990px) {
+    .main-heading {
+      font-size: 28px;
+    }
+    .hero {
+      gap: 50px;
+    }
+    .mobile-flex-column {
+      flex-direction: column;
+    }
+    .mobile-flex-column-reverse {
+      flex-direction: column-reverse;
+    }
+  }
+  @media (max-width: 700px) {
+    table {
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      overflow-x: auto;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .hero {
+      padding: 40px 10px;
+      gap: 50px;
+    }
+  }
+}

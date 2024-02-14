@@ -1,0 +1,86 @@
+/**
+* MEDIA QUERY MANAGER
+**/
+@mixin media-breakpoint-up($breakpoint) {
+  @if $breakpoint ==lg {
+    @media (min-width: 992px) {
+      @content;
+    }
+  }
+
+  @else if $breakpoint ==md {
+    @media (min-width: 768px) and (max-width: 991px) {
+      @content;
+    }
+  }
+
+  @else if $breakpoint ==sm {
+    @media (max-width: 767px) {
+      @content;
+    }
+  }
+
+  @else if $breakpoint ==xs {
+    @media (max-width: 576px) {
+      @content;
+    }
+  }
+
+  @else {
+    // Handle the case when an invalid breakpoint is provided
+    @error "Invalid breakpoint: #{$breakpoint}";
+  }
+}
+
+// I added this above code
+
+
+@mixin respond($breakpoint) {
+  @if $breakpoint ==extraMini {
+    @media only screen and (max-width: 380px) {
+      @content;
+    }
+  }
+
+  @if $breakpoint ==mini {
+    @media only screen and (max-width: 450px) {
+      @content;
+    }
+  }
+
+  @if $breakpoint ==mini-phone {
+    @media only screen and (max-width: 480px) {
+      @content;
+    }
+  }
+
+  @if $breakpoint ==phone {
+    @media only screen and (max-width: 575px) {
+      @content;
+    }
+  }
+
+  @if $breakpoint ==tablet {
+    @media only screen and (max-width: 767px) {
+      @content;
+    }
+  }
+
+  @if $breakpoint ==laptop {
+    @media only screen and (max-width: 991px) {
+      @content;
+    }
+  }
+
+  @if $breakpoint ==desktop {
+    @media only screen and (max-width: 1199px) {
+      @content;
+    }
+  }
+
+  @if $breakpoint ==big-desktop {
+    @media only screen and (max-width: 1400px) {
+      @content;
+    }
+  }
+}

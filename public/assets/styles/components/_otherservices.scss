@@ -1,0 +1,45 @@
+.other-services {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  .cardContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    align-items: center;
+  }
+  .cardBorder {
+    border: 1px solid transparent;
+    height: 15rem;
+    width: 18rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  @media (min-width: 800px) {
+    .cardBorder {
+      transition: 0.75s ease-in-out;
+    }
+    .cardBorder:hover {
+      transform: scale(1.1);
+    }
+  }
+  @media (min-width: 650px) and (max-width: 990px) {
+    .cardContainer {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      justify-content: center;
+      align-items: center;
+    }
+  }
+  @media (max-width: 650px) {
+    .cardContainer {
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      justify-content: center;
+      align-items: center;
+    }
+    .cardContainer > div {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+}

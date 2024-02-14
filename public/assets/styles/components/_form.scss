@@ -1,0 +1,13 @@
+.zohoForm {
+  gap: 1rem;
+  .font-14{
+    font-size: 14px;
+  }
+  @media (max-width: 345px) {
+    flex-direction: column;
+    gap: 1px;
+  }
+  @media (max-width: 1000px) {
+    width: 400px;
+  }
+}

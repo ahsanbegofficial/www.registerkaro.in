@@ -1,0 +1,134 @@
+.paymentId {
+  font-family: "Helvetica";
+  margin-bottom: 110px;
+  padding: 0;
+  border: 1px solid white;
+  .completed {
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset,
+      rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+      rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    width: 500px;
+    margin: auto;
+    margin-top: 80px;
+    border-radius: 10px;
+    .main {
+      .upper {
+        display: flex;
+        flex-direction: row;
+        background-color: orange;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        padding: 40px;
+        .img {
+          height: 113px;
+          width: 113px;
+          background-color: white;
+          border-radius: 10px;
+        }
+        .heading {
+          margin: 30px 0px 0px 20px;
+          color: white;
+        }
+      }
+      .lower {
+        .lottie{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+        width: 100%;
+        text-align: center;
+        padding: 20px 0px 40px 0px;
+        .content {
+          margin-top: 20px;
+          .heading {
+            font-weight: 600;
+            font-size: 20px;
+          }
+          .p {
+            margin-top: 2px;
+            color: rgb(155, 155, 155);
+          }
+        }
+      }
+    }
+  }
+  .remaining {
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset,
+      rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+      rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    width: 500px;
+    margin: auto;
+    margin-top: 80px;
+    border-radius: 10px;
+    .main {
+      .upper {
+        display: flex;
+        flex-direction: row;
+        background-color: orange;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        padding: 40px;
+        .img {
+          height: 113px;
+          width: 113px;
+          background-color: white;
+          border-radius: 10px;
+        }
+        .heading {
+          margin: 30px 0px 0px 20px;
+          color: white;
+        }
+      }
+      .lower {
+        width: 100%;
+        padding: 20px;
+        .heading {
+          font-weight: 400;
+          font-size: 18px;
+        }
+        .content {
+          margin-top: 30px;
+          .p {
+            margin-top: 2px;
+            color: rgb(155, 155, 155);
+          }
+        }
+        button {
+          border-radius: 10px;
+          border: none;
+          margin-top: 20px;
+          padding: 15px;
+          width: 100%;
+          color: white;
+          background-color: orange;
+          font-size: 20px;
+          &:hover {
+            background-color: white;
+            color: orange;
+            border: 2px solid orange;
+          }
+        }
+      }
+    }
+  }
+  .oops {
+    padding-top: 160px;
+    padding-bottom: 120px;
+    .main {
+      margin: auto;
+      width: 500px;
+      .color {
+        color: orange;
+      }
+      .line {
+        height: 5px;
+        width: 60px;
+        background-color: orange;
+      }
+      .p{
+        margin-top: 10px;
+      }
+    }
+  }
+}

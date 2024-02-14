@@ -1,0 +1,6512 @@
+[
+  {
+    "row-list": "0111",
+    "row-list 2": "01111",
+    "row-list 3": "Growing of wheat"
+  },
+  {
+    "row-list": "0111",
+    "row-list 2": "01112",
+    "row-list 3": "Growing of jowar, bajra and millets"
+  },
+  {
+    "row-list": "0111",
+    "row-list 2": "01113",
+    "row-list 3": "Growing of other cereals"
+  },
+  {
+    "row-list": "0111",
+    "row-list 2": "01114",
+    "row-list 3": "Growing of pulses (dal) and other leguminous crops such as peas and beans,"
+  },
+  {
+    "row-list": "0111",
+    "row-list 2": "01115",
+    "row-list 3": "not used as oilseeds"
+  },
+  {
+    "row-list": "0111",
+    "row-list 2": "01116",
+    "row-list 3": "Growing of mustard oil seed"
+  },
+  {
+    "row-list": "0111",
+    "row-list 2": "01117",
+    "row-list 3": "Growing of groundnut oil seed"
+  },
+  {
+    "row-list": "0111",
+    "row-list 2": "01118",
+    "row-list 3": "Growing of sunflower oil seed"
+  },
+  {
+    "row-list": "0111",
+    "row-list 2": "01119",
+    "row-list 3": "Growing of soya bean oil seed"
+  },
+  {
+    "row-list": "0112",
+    "row-list 2": "01121",
+    "row-list 3": "Organic farming of basmati rice"
+  },
+  {
+    "row-list": "0112",
+    "row-list 2": "01122",
+    "row-list 3": "Organic farming of non-basmati rice"
+  },
+  {
+    "row-list": "0112",
+    "row-list 2": "01123",
+    "row-list 3": "Inorganic farming of basmati rice"
+  },
+  {
+    "row-list": "0112",
+    "row-list 2": "01124",
+    "row-list 3": "Inorganic farming of non-basmati rice"
+  },
+  {
+    "row-list": "0113",
+    "row-list 2": "01131",
+    "row-list 3": "Growing of asparagus, cabbages, cauliflower, broccoli, lettuce, chicory, spinach and other leafy or stem vegetables"
+  },
+  {
+    "row-list": "0113",
+    "row-list 2": "01132",
+    "row-list 3": "Growing  of  cucumbers,  gherkins,  aubergines,  tomatoes,  watermelons, cantaloupes , melons and other fruit-bearing vegetables"
+  },
+  {
+    "row-list": "0113",
+    "row-list 2": "01133",
+    "row-list 3": "Growing of onion"
+  },
+  {
+    "row-list": "0113",
+    "row-list 2": "01134",
+    "row-list 3": "Growing  of  carrots,  beets,turnips,  garlic,  leeks  and  other  root,  bulb vegetables(onion excluded)"
+  },
+  {
+    "row-list": "0113",
+    "row-list 2": "01135",
+    "row-list 3": "Growing of potatoes and other tubers such as sweet potatoes, cassava, yams"
+  },
+  {
+    "row-list": "0113",
+    "row-list 2": "01136",
+    "row-list 3": "Growing of mushrooms and truffles"
+  },
+  {
+    "row-list": "0113",
+    "row-list 2": "01137",
+    "row-list 3": "Growing of vegetable seeds (except beet seed)"
+  },
+  {
+    "row-list": "0113",
+    "row-list 2": "01139",
+    "row-list 3": "Growing of vegetables, n.e.c."
+  },
+  {
+    "row-list": "0114",
+    "row-list 2": "01140",
+    "row-list 3": "Growing of sugar cane"
+  },
+  {
+    "row-list": "0115",
+    "row-list 2": "01150",
+    "row-list 3": "Growing of tobacco"
+  },
+  {
+    "row-list": "0116",
+    "row-list 2": "01161",
+    "row-list 3": "Growing of cotton"
+  },
+  {
+    "row-list": "0116",
+    "row-list 2": "01162",
+    "row-list 3": "Growing of jute"
+  },
+  {
+    "row-list": "0116",
+    "row-list 2": "01169",
+    "row-list 3": "Growing of other fibre crops"
+  },
+  {
+    "row-list": "0119",
+    "row-list 2": "01191",
+    "row-list 3": "Growing of rose"
+  },
+  {
+    "row-list": "0119",
+    "row-list 2": "01192",
+    "row-list 3": "Growing of gladiolus"
+  },
+  {
+    "row-list": "0119",
+    "row-list 2": "01193",
+    "row-list 3": "Growing of other flowers, including production of cut flowers, flower buds"
+  },
+  {
+    "row-list": "0119",
+    "row-list 2": "01199",
+    "row-list 3": "and flower seeds"
+  },
+  {
+    "row-list": "0121",
+    "row-list 2": "01210",
+    "row-list 3": "Growing of grapes"
+  },
+  {
+    "row-list": "0122",
+    "row-list 2": "01221",
+    "row-list 3": "Growing of mangoes"
+  },
+  {
+    "row-list": "0122",
+    "row-list 2": "01222",
+    "row-list 3": "Growing of bananas"
+  },
+  {
+    "row-list": "0122",
+    "row-list 2": "01223",
+    "row-list 3": "Growing of pineapples"
+  },
+  {
+    "row-list": "0122",
+    "row-list 2": "01224",
+    "row-list 3": "Growing of lichchis"
+  },
+  {
+    "row-list": "0122",
+    "row-list 2": "01225",
+    "row-list 3": "Growing of guava"
+  },
+  {
+    "row-list": "0122",
+    "row-list 2": "01229",
+    "row-list 3": "Growing of other tropical and sub tropical fruits"
+  },
+  {
+    "row-list": "0123",
+    "row-list 2": "01231",
+    "row-list 3": "Growing of oranges"
+  },
+  {
+    "row-list": "0123",
+    "row-list 2": "01232",
+    "row-list 3": "Growing of mousambi (grape fruit)"
+  },
+  {
+    "row-list": "0123",
+    "row-list 2": "01233",
+    "row-list 3": "Growing of lemons and lime"
+  },
+  {
+    "row-list": "0123",
+    "row-list 2": "01239",
+    "row-list 3": "Growing of other citrus fruits"
+  },
+  {
+    "row-list": "0124",
+    "row-list 2": "01241",
+    "row-list 3": "Growing of apples"
+  },
+  {
+    "row-list": "0124",
+    "row-list 2": "01242",
+    "row-list 3": "Growing of appricots, peaches and nectarines"
+  },
+  {
+    "row-list": "0124",
+    "row-list 2": "01243",
+    "row-list 3": "Growing of cherries and sour cherries"
+  },
+  {
+    "row-list": "0124",
+    "row-list 2": "01249",
+    "row-list 3": "Growing of other pome fruits and stone fruits"
+  },
+  {
+    "row-list": "0125",
+    "row-list 2": "01251",
+    "row-list 3": "Growing of strawberries and other berries"
+  },
+  {
+    "row-list": "0125",
+    "row-list 2": "01252",
+    "row-list 3": "Growing  of  edible  nuts"
+  },
+  {
+    "row-list": "0125",
+    "row-list 2": "01259",
+    "row-list 3": "(almonds,  cashew  nuts,  chestnuts,  hazelnuts, pistachios, walnuts and other nuts)"
+  },
+  {
+    "row-list": "0126",
+    "row-list 2": "01261",
+    "row-list 3": "Growing of coconut"
+  },
+  {
+    "row-list": "0126",
+    "row-list 2": "01262",
+    "row-list 3": "Growing of olives and oil palms"
+  },
+  {
+    "row-list": "0126",
+    "row-list 2": "01269",
+    "row-list 3": "Growing of other oleaginous fruits"
+  },
+  {
+    "row-list": "0127",
+    "row-list 2": "01271",
+    "row-list 3": "Growing of tea"
+  },
+  {
+    "row-list": "0127",
+    "row-list 2": "01272",
+    "row-list 3": "Growing of coffee"
+  },
+  {
+    "row-list": "0127",
+    "row-list 2": "01273",
+    "row-list 3": "Growing of cocoa"
+  },
+  {
+    "row-list": "0127",
+    "row-list 2": "01279",
+    "row-list 3": "Growing of other beverage crops"
+  },
+  {
+    "row-list": "0128",
+    "row-list 2": "01281",
+    "row-list 3": "Growing of ginger"
+  },
+  {
+    "row-list": "0128",
+    "row-list 2": "01282",
+    "row-list 3": "Growing of chili"
+  },
+  {
+    "row-list": "0128",
+    "row-list 2": "01283",
+    "row-list 3": "Growing of cardamoms"
+  },
+  {
+    "row-list": "0128",
+    "row-list 2": "01284",
+    "row-list 3": "Growing of perennial and non-perennial spices and aromatic crops (pepper,capsicum, nutmeg, mace, anise, badian and fennel, cinnamon (canella),cloves, vanilla and other spices and aromatic crops)"
+  },
+  {
+    "row-list": "0128",
+    "row-list 2": "01285",
+    "row-list 3": "Growing of drug and narcotic crops"
+  },
+  {
+    "row-list": "0128",
+    "row-list 2": "01286",
+    "row-list 3": "Growing of plants used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes"
+  },
+  {
+    "row-list": "0128",
+    "row-list 2": "01287",
+    "row-list 3": "Growing of heena leaves (mehendi)"
+  },
+  {
+    "row-list": "0129",
+    "row-list 2": "01291",
+    "row-list 3": "Growing of rubber trees"
+  },
+  {
+    "row-list": "0129",
+    "row-list 2": "01292",
+    "row-list 3": "Growing of trees for extraction of sap"
+  },
+  {
+    "row-list": "0129",
+    "row-list 2": "01293",
+    "row-list 3": "Growing of bamboo and cane"
+  },
+  {
+    "row-list": "0129",
+    "row-list 2": "01299",
+    "row-list 3": "Growing of other perennial crops, n.e.c."
+  },
+  {
+    "row-list": "0130",
+    "row-list 2": "01301",
+    "row-list 3": "Growing of plants for planting"
+  },
+  {
+    "row-list": "0141",
+    "row-list 2": "01411",
+    "row-list 3": "Raising and breeding of cattle and buffaloes"
+  },
+  {
+    "row-list": "0141",
+    "row-list 2": "01412",
+    "row-list 3": "Production of milk from cows or buffaloes"
+  },
+  {
+    "row-list": "0141",
+    "row-list 2": "01413",
+    "row-list 3": "Production of bovine semen"
+  },
+  {
+    "row-list": "0142",
+    "row-list 2": "01420",
+    "row-list 3": "Raising of horses and other equines"
+  },
+  {
+    "row-list": "0143",
+    "row-list 2": "01430",
+    "row-list 3": "Raising and breeding of camels and camelids"
+  },
+  {
+    "row-list": "0144",
+    "row-list 2": "01441",
+    "row-list 3": "Raising and breeding of sheep and goats"
+  },
+  {
+    "row-list": "0144",
+    "row-list 2": "01442",
+    "row-list 3": "Production of milk from sheep or goat"
+  },
+  {
+    "row-list": "0144",
+    "row-list 2": "01443",
+    "row-list 3": "Production of raw wool"
+  },
+  {
+    "row-list": "0145",
+    "row-list 2": "01450",
+    "row-list 3": "Raising of swine/pigs (including breeding of swine/pigs)"
+  },
+  {
+    "row-list": "0146",
+    "row-list 2": "01461",
+    "row-list 3": "Raising and breeding of chickens and capons, ducks, geese, turkeys and"
+  },
+  {
+    "row-list": "0146",
+    "row-list 2": "01462",
+    "row-list 3": "guinea fowls chickens and capons, ducks, geese, turkeys and guinea fowls"
+  },
+  {
+    "row-list": "0146",
+    "row-list 2": "01463",
+    "row-list 3": "Production of eggs"
+  },
+  {
+    "row-list": "0149",
+    "row-list 2": "01491",
+    "row-list 3": "Raising and breeding of pet animals (cats, dogs, birds, hamsters etc.)"
+  },
+  {
+    "row-list": "0149",
+    "row-list 2": "01492",
+    "row-list 3": "Bee-keeping and production of honey and beeswax"
+  },
+  {
+    "row-list": "0149",
+    "row-list 2": "01493",
+    "row-list 3": "Raising of silk worms, production of silk worm cocoons"
+  },
+  {
+    "row-list": "0149",
+    "row-list 2": "01499",
+    "row-list 3": "Raising of other animals, n.e.c."
+  },
+  {
+    "row-list": "0150",
+    "row-list 2": "01500",
+    "row-list 3": "Mixed farming"
+  },
+  {
+    "row-list": "0161",
+    "row-list 2": "01611",
+    "row-list 3": "Agricultural activities on a fee or contract basis (preparation of fields, establishing a crop, treatment of crops, crop spraying, trimming of fruit trees and vines, transplanting of rice, thinning of beets, harvesting, pest control in connection with agriculture etc.)"
+  },
+  {
+    "row-list": "0161",
+    "row-list 2": "01612",
+    "row-list 3": "Operation of agricultural irrigation equipment"
+  },
+  {
+    "row-list": "0161",
+    "row-list 2": "01619",
+    "row-list 3": "Other supporting activities including agricultural gardening (excluding, parks and gardening activities),n.e.c."
+  },
+  {
+    "row-list": "0162",
+    "row-list 2": "01620",
+    "row-list 3": "Support activities for animal production"
+  },
+  {
+    "row-list": "0163",
+    "row-list 2": "01631",
+    "row-list 3": "Preparation of crops for primary markets, i.e. cleaning, trimming, grading,disinfecting"
+  },
+  {
+    "row-list": "0163",
+    "row-list 2": "01632",
+    "row-list 3": "Cotton ginning, cleaning and bailing"
+  },
+  {
+    "row-list": "0163",
+    "row-list 2": "01633",
+    "row-list 3": "Preparation of tobacco leaves"
+  },
+  {
+    "row-list": "0163",
+    "row-list 2": "01639",
+    "row-list 3": "Other post harvest crop activities, n.e.c."
+  },
+  {
+    "row-list": "0164",
+    "row-list 2": "01640",
+    "row-list 3": "Seed processing for propagation"
+  },
+  {
+    "row-list": "0170",
+    "row-list 2": "01700",
+    "row-list 3": "Hunting, trapping and related service activities"
+  },
+  {
+    "row-list": "0210",
+    "row-list 2": "02101",
+    "row-list 3": "Growing of standing timber (planting, replanting, transplanting, thinning  and conserving of forests and timber tracts)"
+  },
+  {
+    "row-list": "0210",
+    "row-list 2": "02102",
+    "row-list 3": "Other foresty activities including growing of pulpwood,firewood etc"
+  },
+  {
+    "row-list": "0210",
+    "row-list 2": "02109",
+    "row-list 3": "undefined"
+  },
+  {
+    "row-list": "0220",
+    "row-list 2": "02201",
+    "row-list 3": "Gathering and preparation of fire wood"
+  },
+  {
+    "row-list": "0220",
+    "row-list 2": "02202",
+    "row-list 3": "Logging camps and loggers primarily engaged in felling timber and producing wood in the rough such as pitprops, split poles, pickets, hewn, railway ties"
+  },
+  {
+    "row-list": "0220",
+    "row-list 2": "02203",
+    "row-list 3": "Production of charcoal in the forest (using traditional methods)"
+  },
+  {
+    "row-list": "0220",
+    "row-list 2": "02209",
+    "row-list 3": "Other logging activities, n.e.c."
+  },
+  {
+    "row-list": "0230",
+    "row-list 2": "02301",
+    "row-list 3": "Gathering of tendu leaves"
+  },
+  {
+    "row-list": "0230",
+    "row-list 2": "02302",
+    "row-list 3": "Gathering of lac, resins and rubber-like gums"
+  },
+  {
+    "row-list": "0230",
+    "row-list 2": "02303",
+    "row-list 3": "Gathering of wild growing mushrooms, truffles, berries, nuts, cork, balsams, vegetable hair, eelgrass, mosses, lichens"
+  },
+  {
+    "row-list": "0230",
+    "row-list 2": "02309",
+    "row-list 3": "Gathering of non-wood forest products, n.e.c."
+  },
+  {
+    "row-list": "0240",
+    "row-list 2": "02401",
+    "row-list 3": "Forestry service activities (forest management consulting services, forestry inventories, timber evaluation, forest pest control)"
+  },
+  {
+    "row-list": "0240",
+    "row-list 2": "02402",
+    "row-list 3": "Logging service activities such as transport of logs within the forest"
+  },
+  {
+    "row-list": "0311",
+    "row-list 2": "03111",
+    "row-list 3": "Fishing on a commercial basis including taking of marine crustaceans and molluscs in ocean and coastal waters"
+  },
+  {
+    "row-list": "0311",
+    "row-list 2": "03112",
+    "row-list 3": "Gathering of other marine organisms and materials such as natural pearls, sponges, coral and algae"
+  },
+  {
+    "row-list": "0311",
+    "row-list 2": "03113",
+    "row-list 3": "Activities of vessels engaged in fishing and in processing and preserving of fish"
+  },
+  {
+    "row-list": "0312",
+    "row-list 2": "03121",
+    "row-list 3": "Fishing and taking of freshwater crustaceans and molluscs on a commercial"
+  },
+  {
+    "row-list": "0312",
+    "row-list 2": "03122",
+    "row-list 3": "basis in inland waters"
+  },
+  {
+    "row-list": "0321",
+    "row-list 2": "03211",
+    "row-list 3": "Fish farming in sea water including farming of marine ornamental fish"
+  },
+  {
+    "row-list": "0321",
+    "row-list 2": "03212",
+    "row-list 3": "Culture of crustaceans, bivalves, other mollusks and other aquatic animals in sea water"
+  },
+  {
+    "row-list": "0321",
+    "row-list 2": "03213",
+    "row-list 3": "Growing of edible seaweeds"
+  },
+  {
+    "row-list": "0321",
+    "row-list 2": "03214",
+    "row-list 3": "Aquaculture activities in brackish waters and in salt water filled tanks or reservoirs"
+  },
+  {
+    "row-list": "0321",
+    "row-list 2": "03215",
+    "row-list 3": "Operation of fish hatcheries (marine)"
+  },
+  {
+    "row-list": "0321",
+    "row-list 2": "03219",
+    "row-list 3": "Other marine aquaculture, n.e.c."
+  },
+  {
+    "row-list": "0322",
+    "row-list 2": "03221",
+    "row-list 3": "Fish farming in freshwater including farming of freshwater ornamental fish"
+  },
+  {
+    "row-list": "0322",
+    "row-list 2": "03222",
+    "row-list 3": "Culture of freshwater crustaceans, bivalves, other mollusks and other aquatic animals"
+  },
+  {
+    "row-list": "0322",
+    "row-list 2": "03223",
+    "row-list 3": "Operation of fish hatcheries (fresh-water)"
+  },
+  {
+    "row-list": "0322",
+    "row-list 2": "03229",
+    "row-list 3": "Other freshwater aquaculture ctivities, n.e.c."
+  },
+  {
+    "row-list": "0510",
+    "row-list 2": "05101",
+    "row-list 3": "Opencast mining of hard coal"
+  },
+  {
+    "row-list": "0510",
+    "row-list 2": "05102",
+    "row-list 3": "Belowground mining of hard coal"
+  },
+  {
+    "row-list": "0510",
+    "row-list 2": "05103",
+    "row-list 3": "Cleaning, sizing, grading, pulverizing, compressing etc. of coal"
+  },
+  {
+    "row-list": "0510",
+    "row-list 2": "05109",
+    "row-list 3": "Other operations relating to mining and agglomeration of hard coal"
+  },
+  {
+    "row-list": "0520",
+    "row-list 2": "05201",
+    "row-list 3": "Opencast mining of lignite (brown coal)"
+  },
+  {
+    "row-list": "0520",
+    "row-list 2": "05202",
+    "row-list 3": "Belowground mining of lignite (brown coal)"
+  },
+  {
+    "row-list": "0520",
+    "row-list 2": "05203",
+    "row-list 3": "Washing, dehydrating, pulverizing, compressing of lignite"
+  },
+  {
+    "row-list": "0520",
+    "row-list 2": "05209",
+    "row-list 3": "Other operations relating to mining and agglomeration of lignite"
+  },
+  {
+    "row-list": "0610",
+    "row-list 2": "06101",
+    "row-list 3": "Off shore extraction of crude petroleum"
+  },
+  {
+    "row-list": "0610",
+    "row-list 2": "06102",
+    "row-list 3": "On shore extraction of crude petroleum"
+  },
+  {
+    "row-list": "0620",
+    "row-list 2": "06201",
+    "row-list 3": "Offshore Extraction of natural gas"
+  },
+  {
+    "row-list": "0620",
+    "row-list 2": "06202",
+    "row-list 3": "On shore Extraction of natural gas"
+  },
+  {
+    "row-list": "0710",
+    "row-list 2": "07100",
+    "row-list 3": "Mining of iron ores"
+  },
+  {
+    "row-list": "0721",
+    "row-list 2": "07210",
+    "row-list 3": "Mining of uranium and thorium ores"
+  },
+  {
+    "row-list": "0729",
+    "row-list 2": "07291",
+    "row-list 3": "Mining of copper ore"
+  },
+  {
+    "row-list": "0729",
+    "row-list 2": "07292",
+    "row-list 3": "Mining of aluminium ore (bauxite)"
+  },
+  {
+    "row-list": "0729",
+    "row-list 2": "07293",
+    "row-list 3": "Mining of manganese ore"
+  },
+  {
+    "row-list": "0729",
+    "row-list 2": "07294",
+    "row-list 3": "Mining of chromium ore"
+  },
+  {
+    "row-list": "0729",
+    "row-list 2": "07295",
+    "row-list 3": "Mining of precious metal ore (gold, silver)"
+  },
+  {
+    "row-list": "0729",
+    "row-list 2": "07296",
+    "row-list 3": "Mining of lead and znic ore"
+  },
+  {
+    "row-list": "0729",
+    "row-list 2": "07299",
+    "row-list 3": "Mining of other non-ferrous metal ores, n.e.c. (titanium ( ilmenite and"
+  },
+  {
+    "row-list": "0810",
+    "row-list 2": "08101",
+    "row-list 3": "Quarrying of marble"
+  },
+  {
+    "row-list": "0810",
+    "row-list 2": "08102",
+    "row-list 3": "Quarrying of granite"
+  },
+  {
+    "row-list": "0810",
+    "row-list 2": "08103",
+    "row-list 3": "Quarrying of slate and building and monumental stone other than marble and granite"
+  },
+  {
+    "row-list": "0810",
+    "row-list 2": "08104",
+    "row-list 3": "Mining of dolomite"
+  },
+  {
+    "row-list": "0810",
+    "row-list 2": "08105",
+    "row-list 3": "Mining of gypsum including selenite"
+  },
+  {
+    "row-list": "0810",
+    "row-list 2": "08106",
+    "row-list 3": "Operation of sand or gravel pits, basalt / porphyry, clay (ordinary), crushing and breaking of stone for use as a flux or raw material in lime or cement, manufacture or as building material, road metal or ballast and other materials for construction"
+  },
+  {
+    "row-list": "0810",
+    "row-list 2": "08107",
+    "row-list 3": "Mining/quarrying of limestone, limeshell, ‘kankar’ and other calcareous minerals including calcite, chalk and shale"
+  },
+  {
+    "row-list": "0810",
+    "row-list 2": "08108",
+    "row-list 3": "Mining of clays (kaolin, ball clay, wollastonite, bentonite, fuller's earth, fire clay etc.)"
+  },
+  {
+    "row-list": "0810",
+    "row-list 2": "08109",
+    "row-list 3": "Mining of refractory non-clay minerals (andalusite, kyanite, sillimanite,dunite, diaspore magnesite, diaspore, magnesite)"
+  },
+  {
+    "row-list": "0891",
+    "row-list 2": "08911",
+    "row-list 3": "Mining of native sulphur or pyrites and pyrrhotites valued chiefly for sulphur"
+  },
+  {
+    "row-list": "0891",
+    "row-list 2": "08912",
+    "row-list 3": "Mining of natural phosphates including apatite minerals"
+  },
+  {
+    "row-list": "0891",
+    "row-list 2": "08913",
+    "row-list 3": "Mining of earth colours (ochre including red oxide)."
+  },
+  {
+    "row-list": "0891",
+    "row-list 2": "08914",
+    "row-list 3": "Mining of fluorspar"
+  },
+  {
+    "row-list": "0891",
+    "row-list 2": "08915",
+    "row-list 3": "Mining of barytes"
+  },
+  {
+    "row-list": "0891",
+    "row-list 2": "08919",
+    "row-list 3": "Mining of potash bearing salts/minerals; borate minerals and other fertiliser and chemical minerals n.e.c."
+  },
+  {
+    "row-list": "0892",
+    "row-list 2": "08920",
+    "row-list 3": "Extraction and agglomeration of peat"
+  },
+  {
+    "row-list": "0893",
+    "row-list 2": "08931",
+    "row-list 3": "Salt mining, quarrying, screening etc."
+  },
+  {
+    "row-list": "0893",
+    "row-list 2": "08932",
+    "row-list 3": "Salt production by evaporation of sea water or other saline waters"
+  },
+  {
+    "row-list": "0899",
+    "row-list 2": "08991",
+    "row-list 3": "Mining of gemstones (agate, diamond, emerald, garnet (gem), jasper, rubby/saphire etc."
+  },
+  {
+    "row-list": "0899",
+    "row-list 2": "08992",
+    "row-list 3": "Mining and quarrying of abrasive materials (pumice stone, emery, corundum,garnet and other natural abrasives)"
+  },
+  {
+    "row-list": "0899",
+    "row-list 2": "08993",
+    "row-list 3": "Mining of mica"
+  },
+  {
+    "row-list": "0899",
+    "row-list 2": "08994",
+    "row-list 3": "Mining of natural graphite"
+  },
+  {
+    "row-list": "0899",
+    "row-list 2": "08995",
+    "row-list 3": "Mining of asbestos"
+  },
+  {
+    "row-list": "0899",
+    "row-list 2": "08996",
+    "row-list 3": "Mining of vermiculite, perlite and chlorites"
+  },
+  {
+    "row-list": "0899",
+    "row-list 2": "08997",
+    "row-list 3": "Mining of felspar and silica minerals including quartz, quartzite and fuch. Quartzite"
+  },
+  {
+    "row-list": "0899",
+    "row-list 2": "08998",
+    "row-list 3": "Mining of talc/ steatite"
+  },
+  {
+    "row-list": "0899",
+    "row-list 2": "08999",
+    "row-list 3": "Mining of laterite, diatomite and silicious fossil meals (e.g. diatomite); and other natural fluxes; natural asphalt or bitumen and other mining n.e.c."
+  },
+  {
+    "row-list": "0910",
+    "row-list 2": "09101",
+    "row-list 3": "Services incidental to off shore oil extraction"
+  },
+  {
+    "row-list": "0910",
+    "row-list 2": "09102",
+    "row-list 3": "Services incidental to on shore oil extraction"
+  },
+  {
+    "row-list": "0910",
+    "row-list 2": "09103",
+    "row-list 3": "Services incidental to off shore gas extraction"
+  },
+  {
+    "row-list": "0910",
+    "row-list 2": "09104",
+    "row-list 3": "Services incidental to on shore gas extraction"
+  },
+  {
+    "row-list": "0990",
+    "row-list 2": "09900",
+    "row-list 3": "Support activities for other mining and quarrying"
+  },
+  {
+    "row-list": 1010,
+    "row-list 2": 10101,
+    "row-list 3": "Mutton-slaughtering, preparation"
+  },
+  {
+    "row-list": 1010,
+    "row-list 2": 10102,
+    "row-list 3": "Beef-slaughtering, preparation"
+  },
+  {
+    "row-list": 1010,
+    "row-list 2": 10103,
+    "row-list 3": "Pork-slaughtering, preparation"
+  },
+  {
+    "row-list": 1010,
+    "row-list 2": 10104,
+    "row-list 3": "Poultry and other slaughtering, preparation"
+  },
+  {
+    "row-list": 1010,
+    "row-list 2": 10105,
+    "row-list 3": "Preservation, Processing and canning of meat"
+  },
+  {
+    "row-list": 1010,
+    "row-list 2": 10106,
+    "row-list 3": "Production of hides and skins originating from slaughterhouses"
+  },
+  {
+    "row-list": 1010,
+    "row-list 2": 10107,
+    "row-list 3": "Rendering of lard and other edible fats of animal origin"
+  },
+  {
+    "row-list": 1010,
+    "row-list 2": 10108,
+    "row-list 3": "Production and processing of animal offal"
+  },
+  {
+    "row-list": 1010,
+    "row-list 2": 10109,
+    "row-list 3": "Production, processing and preserving of other meat and meat products n.e.c."
+  },
+  {
+    "row-list": 1020,
+    "row-list 2": 10201,
+    "row-list 3": "Sun-drying of fish"
+  },
+  {
+    "row-list": 1020,
+    "row-list 2": 10202,
+    "row-list 3": "Artificial dehydration of fish and sea food"
+  },
+  {
+    "row-list": 1020,
+    "row-list 2": 10203,
+    "row-list 3": "Radiation preservation of fish and similar food"
+  },
+  {
+    "row-list": 1020,
+    "row-list 2": 10204,
+    "row-list 3": "Processing and preserving of fish crustacean and similar foods"
+  },
+  {
+    "row-list": 1020,
+    "row-list 2": 10205,
+    "row-list 3": "Processing and canning of fish"
+  },
+  {
+    "row-list": 1020,
+    "row-list 2": 10206,
+    "row-list 3": "Processing and canning of frog legs"
+  },
+  {
+    "row-list": 1020,
+    "row-list 2": 10207,
+    "row-list 3": "Production of fishmeal for human consumption or animal feed"
+  },
+  {
+    "row-list": 1020,
+    "row-list 2": 10209,
+    "row-list 3": "Production, processing and preservation of other fish products n.e.c."
+  },
+  {
+    "row-list": 1030,
+    "row-list 2": 10301,
+    "row-list 3": "Sun-drying of fruit and vegetables"
+  },
+  {
+    "row-list": 1030,
+    "row-list 2": 10302,
+    "row-list 3": "Artificial dehydration of fruit and vegetables"
+  },
+  {
+    "row-list": 1030,
+    "row-list 2": 10303,
+    "row-list 3": "Radiation preservation of fruit and vegetables"
+  },
+  {
+    "row-list": 1030,
+    "row-list 2": 10304,
+    "row-list 3": "Manufacture of fruit or vegetable juices and their concentrates, squashes and powder"
+  },
+  {
+    "row-list": 1030,
+    "row-list 2": 10305,
+    "row-list 3": "Manufacture of sauces, jams, jellies and marmalades"
+  },
+  {
+    "row-list": 1030,
+    "row-list 2": 10306,
+    "row-list 3": "Manufacture of pickles, chutney etc."
+  },
+  {
+    "row-list": 1030,
+    "row-list 2": 10307,
+    "row-list 3": "Canning of fruits and vegetables"
+  },
+  {
+    "row-list": 1030,
+    "row-list 2": 10308,
+    "row-list 3": "Manufacture of potato flour & meals and prepared meals of vegetables"
+  },
+  {
+    "row-list": 1030,
+    "row-list 2": 10309,
+    "row-list 3": "Preservation of fruit and vegetables n.e.c."
+  },
+  {
+    "row-list": 1040,
+    "row-list 2": 10401,
+    "row-list 3": "Manufacture of hydrogenated oil and vanaspati ghee"
+  },
+  {
+    "row-list": 1040,
+    "row-list 2": 10402,
+    "row-list 3": "Manufacture of vegetable oils and fats excluding corn oil"
+  },
+  {
+    "row-list": 1040,
+    "row-list 2": 10403,
+    "row-list 3": "Manufacture of edible animal oils and fats"
+  },
+  {
+    "row-list": 1040,
+    "row-list 2": 10404,
+    "row-list 3": "Manufacture of fish oil"
+  },
+  {
+    "row-list": 1040,
+    "row-list 2": 10405,
+    "row-list 3": "Manufacture of non-edible animal oil and fats"
+  },
+  {
+    "row-list": 1040,
+    "row-list 2": 10406,
+    "row-list 3": "Manufacture   of   oil   cakes   &   meals   incl.   residual   products,   e.g. Oleostearin,Palmstearin"
+  },
+  {
+    "row-list": 1040,
+    "row-list 2": 10407,
+    "row-list 3": "Manufacture of non-defatted flour or meals of oilseeds, oilnuts or kernels"
+  },
+  {
+    "row-list": 1040,
+    "row-list 2": 10409,
+    "row-list 3": "Manufacture of other vegetable oil, animal oil and fats n.e.c"
+  },
+  {
+    "row-list": 1050,
+    "row-list 2": 10501,
+    "row-list 3": "Manufacture of pasteurised milk whether or not in bottles/ polythene packs etc. (plain or flavoured)"
+  },
+  {
+    "row-list": 1050,
+    "row-list 2": 10502,
+    "row-list 3": "Manufacture of milk-powder, ice-cream powder and condensed milk except baby milk food"
+  },
+  {
+    "row-list": 1050,
+    "row-list 2": 10503,
+    "row-list 3": "Manufacture of baby milk foods"
+  },
+  {
+    "row-list": 1050,
+    "row-list 2": 10504,
+    "row-list 3": "Manufacture of cream, butter, cheese, curd, ghee, khoya etc."
+  },
+  {
+    "row-list": 1050,
+    "row-list 2": 10505,
+    "row-list 3": "Manufacture of ice-cream, kulfi etc."
+  },
+  {
+    "row-list": 1050,
+    "row-list 2": 10509,
+    "row-list 3": "Manufacture of other dairy products n.e.c."
+  },
+  {
+    "row-list": 1061,
+    "row-list 2": 10611,
+    "row-list 3": "Flour milling"
+  },
+  {
+    "row-list": 1061,
+    "row-list 2": 10612,
+    "row-list 3": "Rice milling"
+  },
+  {
+    "row-list": 1061,
+    "row-list 2": 10613,
+    "row-list 3": "Dal (pulses) milling"
+  },
+  {
+    "row-list": 1061,
+    "row-list 2": 10614,
+    "row-list 3": "Grain milling other than wheat, rice and dal"
+  },
+  {
+    "row-list": 1061,
+    "row-list 2": 10615,
+    "row-list 3": "Vegetable  milling"
+  },
+  {
+    "row-list": 1061,
+    "row-list 2": 10616,
+    "row-list 3": "(production  of  flour  or  meal  of  dried  leguminous vegetables(except dal), of roots or tubers, or of edible nuts)"
+  },
+  {
+    "row-list": 1061,
+    "row-list 2": 10617,
+    "row-list 3": "Manufacture of cereal breakfast foods obtained by roasting or swelling cereal grains"
+  },
+  {
+    "row-list": 1061,
+    "row-list 2": 10618,
+    "row-list 3": "Manufacture of flour mixes and prepared blended flour and dough for bread cakes, biscuits"
+  },
+  {
+    "row-list": 1061,
+    "row-list 2": 10619,
+    "row-list 3": "Manufacture of other readymade mixed powders like idli, gulabjamun etc."
+  },
+  {
+    "row-list": 1062,
+    "row-list 2": 10621,
+    "row-list 3": "Manufacture of starches from rice, potatoes, maize etc."
+  },
+  {
+    "row-list": 1062,
+    "row-list 2": 10622,
+    "row-list 3": "Manufacture of sago and sago products"
+  },
+  {
+    "row-list": 1062,
+    "row-list 2": 10623,
+    "row-list 3": "Manufacture of glucose, glucose syrup, maltose etc."
+  },
+  {
+    "row-list": 1062,
+    "row-list 2": 10624,
+    "row-list 3": "Manufacture of gluten"
+  },
+  {
+    "row-list": 1062,
+    "row-list 2": 10625,
+    "row-list 3": "Manufacture of tapioca and tapioca substitutes prepared from starch"
+  },
+  {
+    "row-list": 1062,
+    "row-list 2": 10626,
+    "row-list 3": "Manufacture of corn oil"
+  },
+  {
+    "row-list": 1062,
+    "row-list 2": 10629,
+    "row-list 3": "Manufacture of other starch products n.e.c."
+  },
+  {
+    "row-list": 1071,
+    "row-list 2": 10711,
+    "row-list 3": "Manufacture of bread"
+  },
+  {
+    "row-list": 1071,
+    "row-list 2": 10712,
+    "row-list 3": "Manufacture of biscuits, cakes, pastries, rusks etc."
+  },
+  {
+    "row-list": 1071,
+    "row-list 2": 10719,
+    "row-list 3": "Manufacture of other bakery products n.e.c."
+  },
+  {
+    "row-list": 1072,
+    "row-list 2": 10721,
+    "row-list 3": "Manufacture or refining of sugar (sucrose) from sugercane"
+  },
+  {
+    "row-list": 1072,
+    "row-list 2": 10722,
+    "row-list 3": "Manufacture of `gur’ from sugarcane"
+  },
+  {
+    "row-list": 1072,
+    "row-list 2": 10723,
+    "row-list 3": "Manufacture of `gur’ from other than sugarcane"
+  },
+  {
+    "row-list": 1072,
+    "row-list 2": 10724,
+    "row-list 3": "Manufacture of `khandsari’ sugar from sugarcane"
+  },
+  {
+    "row-list": 1072,
+    "row-list 2": 10725,
+    "row-list 3": "Manufacture of `khandsari’ suger from other than sugarcane"
+  },
+  {
+    "row-list": 1072,
+    "row-list 2": 10726,
+    "row-list 3": "Manufacture of `boora’ and candy from sugarcane"
+  },
+  {
+    "row-list": 1072,
+    "row-list 2": 10727,
+    "row-list 3": "Manufacture of `boora’ and candy from other than sugarcane"
+  },
+  {
+    "row-list": 1072,
+    "row-list 2": 10728,
+    "row-list 3": "Manufacture of molasses"
+  },
+  {
+    "row-list": 1072,
+    "row-list 2": 10729,
+    "row-list 3": "Manufacture of sugar from other sources (juice of palm, suger beet etc.)"
+  },
+  {
+    "row-list": 1073,
+    "row-list 2": 10731,
+    "row-list 3": "Manufacture of cocoa products"
+  },
+  {
+    "row-list": 1073,
+    "row-list 2": 10732,
+    "row-list 3": "Manufacture of chocolate and chocolate confectionery"
+  },
+  {
+    "row-list": 1073,
+    "row-list 2": 10733,
+    "row-list 3": "Manufacture of sugar confectionery (except sweetmeats)"
+  },
+  {
+    "row-list": 1073,
+    "row-list 2": 10734,
+    "row-list 3": "Manufacture sweetmeats includind dairy based sweetmeats"
+  },
+  {
+    "row-list": 1073,
+    "row-list 2": 10735,
+    "row-list 3": "Manufacture of chewing gum"
+  },
+  {
+    "row-list": 1073,
+    "row-list 2": 10736,
+    "row-list 3": "Preserving in sugar of fruit, nuts, fruit peels and other parts of plants"
+  },
+  {
+    "row-list": 1073,
+    "row-list 2": 10739,
+    "row-list 3": "Manufacture of other cocoa, chocolate, sugar confectionery products n.e.c."
+  },
+  {
+    "row-list": 1074,
+    "row-list 2": 10740,
+    "row-list 3": "Manufacture  of  macaroni,  noodles,  couscous  and  similar  farinaceous products"
+  },
+  {
+    "row-list": 1075,
+    "row-list 2": 10750,
+    "row-list 3": "Manufacture of prepared meals and dishes"
+  },
+  {
+    "row-list": 1079,
+    "row-list 2": 10791,
+    "row-list 3": "Processing and blending of tea including manufacture of instant tea"
+  },
+  {
+    "row-list": 1079,
+    "row-list 2": 10792,
+    "row-list 3": "Coffee curing, roasting, grinding blending etc. and manufacturing of coffee products"
+  },
+  {
+    "row-list": 1079,
+    "row-list 2": 10793,
+    "row-list 3": "Processing of edible nuts"
+  },
+  {
+    "row-list": 1079,
+    "row-list 2": 10794,
+    "row-list 3": "Manufacture of malted foods including foods for infants and handicapped"
+  },
+  {
+    "row-list": 1079,
+    "row-list 2": 10795,
+    "row-list 3": "Grinding and processing of spices"
+  },
+  {
+    "row-list": 1079,
+    "row-list 2": 10796,
+    "row-list 3": "Manufacture of papads, appalam and similar food products"
+  },
+  {
+    "row-list": 1079,
+    "row-list 2": 10797,
+    "row-list 3": "Manufacture of vitaminised high protein flour, frying of dal and other cereals"
+  },
+  {
+    "row-list": 1079,
+    "row-list 2": 10798,
+    "row-list 3": "Processing of salt into food-grade salt, e.g. iodized salt"
+  },
+  {
+    "row-list": 1079,
+    "row-list 2": 1079,
+    "row-list 3": "Other semi-processed, processed or instant foods n.e.c. except farinaceous products and malted foods and manufacturing activities like manufacture of egg powder, sambar powder etc. (this excludes the activities covered under 10619)"
+  },
+  {
+    "row-list": 1080,
+    "row-list 2": 10801,
+    "row-list 3": "Manufacture of cattle feed"
+  },
+  {
+    "row-list": 1080,
+    "row-list 2": 10802,
+    "row-list 3": "Manufacture of poultry feed"
+  },
+  {
+    "row-list": 1080,
+    "row-list 2": 10803,
+    "row-list 3": "Manufacture of prepared feeds for pets, including dogs, cats, birds, fish etc."
+  },
+  {
+    "row-list": 1080,
+    "row-list 2": 10809,
+    "row-list 3": "Manufacture of other animal feeds n.e.c."
+  },
+  {
+    "row-list": 1101,
+    "row-list 2": 11011,
+    "row-list 3": "Manufacture of distilled, potable, alcoholic beverages such as whisky,brandy, gin, “mixed drinks” etc."
+  },
+  {
+    "row-list": 1101,
+    "row-list 2": 11011,
+    "row-list 3": "Manufacture of country liquor"
+  },
+  {
+    "row-list": 1101,
+    "row-list 2": 11019,
+    "row-list 3": "Distilling, rectifying and blending of spirits"
+  },
+  {
+    "row-list": 1102,
+    "row-list 2": 11020,
+    "row-list 3": "Manufacture of wines"
+  },
+  {
+    "row-list": 1103,
+    "row-list 2": 11031,
+    "row-list 3": "Manufacture of beer"
+  },
+  {
+    "row-list": 1103,
+    "row-list 2": 11032,
+    "row-list 3": "Manufacture of malt liquors other than beer"
+  },
+  {
+    "row-list": 1103,
+    "row-list 2": 11033,
+    "row-list 3": "Manufacture of malt"
+  },
+  {
+    "row-list": 1103,
+    "row-list 2": 11039,
+    "row-list 3": "Manufacture of malt liquors and malt n.e.c."
+  },
+  {
+    "row-list": 1104,
+    "row-list 2": 11041,
+    "row-list 3": "Manufacture of aerated drinks"
+  },
+  {
+    "row-list": 1104,
+    "row-list 2": 11042,
+    "row-list 3": "Manufacture of synthetic flavoured concentrates and syrups"
+  },
+  {
+    "row-list": 1104,
+    "row-list 2": 11043,
+    "row-list 3": "Manufacture of mineral water"
+  },
+  {
+    "row-list": 1104,
+    "row-list 2": 11044,
+    "row-list 3": "Manufacture of ice"
+  },
+  {
+    "row-list": 1104,
+    "row-list 2": 11045,
+    "row-list 3": "Manufacture of soft drinks"
+  },
+  {
+    "row-list": 1104,
+    "row-list 2": 11049,
+    "row-list 3": "Manufacture of other non-alcoholic beverages n.e.c."
+  },
+  {
+    "row-list": 1200,
+    "row-list 2": 12001,
+    "row-list 3": "Stemming and redrying of tobacco"
+  },
+  {
+    "row-list": 1200,
+    "row-list 2": 12002,
+    "row-list 3": "Manufacture of bidi"
+  },
+  {
+    "row-list": 1200,
+    "row-list 2": 12003,
+    "row-list 3": "Manufacture of cigarettes, cigarette tobacco"
+  },
+  {
+    "row-list": 1200,
+    "row-list 2": 12004,
+    "row-list 3": "Manufacture of cigars and cheroots"
+  },
+  {
+    "row-list": 1200,
+    "row-list 2": 12005,
+    "row-list 3": "Manufacture of snuff"
+  },
+  {
+    "row-list": 1200,
+    "row-list 2": 12006,
+    "row-list 3": "Manufacture of zarda"
+  },
+  {
+    "row-list": 1200,
+    "row-list 2": 12007,
+    "row-list 3": "Manufacture of catechu(katha) and chewing lime"
+  },
+  {
+    "row-list": 1200,
+    "row-list 2": 12008,
+    "row-list 3": "Manufacture of pan masala and related products."
+  },
+  {
+    "row-list": 1200,
+    "row-list 2": 12009,
+    "row-list 3": "Manufacture of other tobacco products including chewing tobacco n.e.c."
+  },
+  {
+    "row-list": 1311,
+    "row-list 2": 13111,
+    "row-list 3": "Preparation and spinning of cotton fiber including blended* cotton"
+  },
+  {
+    "row-list": 1311,
+    "row-list 2": 13112,
+    "row-list 3": "Preparation and spinning of silk fiber including blended* silk"
+  },
+  {
+    "row-list": 1311,
+    "row-list 2": 13113,
+    "row-list 3": "Preparation and spinning of wool, including other animal hair and blended* wool including other animal hair"
+  },
+  {
+    "row-list": 1311,
+    "row-list 2": 13114,
+    "row-list 3": "Preparation and spinning of man-made fiber including blended* man-made fiber"
+  },
+  {
+    "row-list": 1311,
+    "row-list 2": 13119,
+    "row-list 3": "Preparation and spinning of jute, mesta and other natural fibers including blended natural fibers n.e.c.*Blended yarn/fabrics means, yarn/fabrics containing more than 50% of one fiber"
+  },
+  {
+    "row-list": 1312,
+    "row-list 2": 13121,
+    "row-list 3": "Weaving, manufacture of cotton and cotton mixture fabrics."
+  },
+  {
+    "row-list": 1312,
+    "row-list 2": 13122,
+    "row-list 3": "Weaving, manufacture of silk and silk mixture fabrics."
+  },
+  {
+    "row-list": 1312,
+    "row-list 2": 13123,
+    "row-list 3": "Weaving, manufacture of wool and wool mixture fabrics."
+  },
+  {
+    "row-list": 1312,
+    "row-list 2": 13124,
+    "row-list 3": "Weaving, manufacturing of man-made fiber and man-made mixture fabrics."
+  },
+  {
+    "row-list": 1312,
+    "row-list 2": 13129,
+    "row-list 3": "Weaving of jute, mesta and other natural fibers including blended natural fibers n.e.c."
+  },
+  {
+    "row-list": 1313,
+    "row-list 2": 13131,
+    "row-list 3": "Finishing of cotton and blended cotton textiles."
+  },
+  {
+    "row-list": 1313,
+    "row-list 2": 13132,
+    "row-list 3": "Finishing of silk and blended silk textiles."
+  },
+  {
+    "row-list": 1313,
+    "row-list 2": 13133,
+    "row-list 3": "Finishing of wool and blended wool textiles."
+  },
+  {
+    "row-list": 1313,
+    "row-list 2": 13134,
+    "row-list 3": "Finishing of man-made and blended man-made textiles."
+  },
+  {
+    "row-list": 1313,
+    "row-list 2": 13135,
+    "row-list 3": "Finishing of jute, mesta and other vegetable textiles fabrics"
+  },
+  {
+    "row-list": 1313,
+    "row-list 2": 13136,
+    "row-list 3": "Activity related to screen printing"
+  },
+  {
+    "row-list": 1313,
+    "row-list 2": 13139,
+    "row-list 3": "Other activities relating to finishing of textile n.e.c."
+  },
+  {
+    "row-list": 1391,
+    "row-list 2": 13911,
+    "row-list 3": "Manufacture of knitted and crocheted cotton fabrics"
+  },
+  {
+    "row-list": 1391,
+    "row-list 2": 13912,
+    "row-list 3": "Manufacture of knitted and crocheted woolen fabrics"
+  },
+  {
+    "row-list": 1391,
+    "row-list 2": 13913,
+    "row-list 3": "Manufacture of knitted and crocheted synthetic fabrics"
+  },
+  {
+    "row-list": 1391,
+    "row-list 2": 13919,
+    "row-list 3": "Manufacture of other knitted and crocheted fabrics"
+  },
+  {
+    "row-list": 1392,
+    "row-list 2": 13921,
+    "row-list 3": "Manufacture of curtains, bed covers and furnishings"
+  },
+  {
+    "row-list": 1392,
+    "row-list 2": 13922,
+    "row-list 3": "Manufacture of crocheted made up textile goods except apparel"
+  },
+  {
+    "row-list": 1392,
+    "row-list 2": 13923,
+    "row-list 3": "Manufacture of mosquito nets"
+  },
+  {
+    "row-list": 1392,
+    "row-list 2": 13924,
+    "row-list 3": "Manufacture of bedding, quilts pillows, sleeping bags etc."
+  },
+  {
+    "row-list": 1392,
+    "row-list 2": 13925,
+    "row-list 3": "Manufacture of tarpaulin"
+  },
+  {
+    "row-list": 1392,
+    "row-list 2": 13926,
+    "row-list 3": "Manufacture of blankets"
+  },
+  {
+    "row-list": 1392,
+    "row-list 2": 13929,
+    "row-list 3": "Manufacture of other made-up textile articles, except apparel n.e.c."
+  },
+  {
+    "row-list": 1393,
+    "row-list 2": 13931,
+    "row-list 3": "Manufacture of carpets and other floor coverings made of cotton"
+  },
+  {
+    "row-list": 1393,
+    "row-list 2": 13932,
+    "row-list 3": "Manufacture of carpets and other floor coverings made of wool"
+  },
+  {
+    "row-list": 1393,
+    "row-list 2": 13933,
+    "row-list 3": "Manufacture of carpets and other floor coverings made of silk"
+  },
+  {
+    "row-list": 1393,
+    "row-list 2": 13934,
+    "row-list 3": "Manufacture of carpets made of synthetic materials"
+  },
+  {
+    "row-list": 1393,
+    "row-list 2": 13935,
+    "row-list 3": "Manufacture of carpets, and other floor coverings made of jute, mesta and coir"
+  },
+  {
+    "row-list": 1393,
+    "row-list 2": 13939,
+    "row-list 3": "Manufacture of other floor coverings n.e.c."
+  },
+  {
+    "row-list": 1394,
+    "row-list 2": 13941,
+    "row-list 3": "Manufacture of thread, including thread ball making"
+  },
+  {
+    "row-list": 1394,
+    "row-list 2": 13942,
+    "row-list 3": "Manufacture of cordage or rope made of jute"
+  },
+  {
+    "row-list": 1394,
+    "row-list 2": 13943,
+    "row-list 3": "Manufacture of cordage or rope made of coir"
+  },
+  {
+    "row-list": 1394,
+    "row-list 2": 13944,
+    "row-list 3": "Manufacture of rope and cordage made of synthetic material"
+  },
+  {
+    "row-list": 1394,
+    "row-list 2": 13945,
+    "row-list 3": "Manufacture of knotted netting of twine, cordage or rope (other than mosquito net)"
+  },
+  {
+    "row-list": 1394,
+    "row-list 2": 13946,
+    "row-list 3": "Manufacture of tapes, newar and wicks"
+  },
+  {
+    "row-list": 1394,
+    "row-list 2": 13949,
+    "row-list 3": "Manufacture of other cordage or rope n.e.c."
+  },
+  {
+    "row-list": 1399,
+    "row-list 2": 13991,
+    "row-list 3": "Embroidery work and making of laces and fringes"
+  },
+  {
+    "row-list": 1399,
+    "row-list 2": 13992,
+    "row-list 3": "Zari work and other ornamental trimmings"
+  },
+  {
+    "row-list": 1399,
+    "row-list 2": 13993,
+    "row-list 3": "Manufacture of linolium and similar products"
+  },
+  {
+    "row-list": 1399,
+    "row-list 2": 13994,
+    "row-list 3": "Manufacture of gas mantles"
+  },
+  {
+    "row-list": 1399,
+    "row-list 2": 13995,
+    "row-list 3": "Manufacture of made-up canvas goods such tents, sails etc."
+  },
+  {
+    "row-list": 1399,
+    "row-list 2": 13996,
+    "row-list 3": "Manufacture of wadding of textile materials and articles of wadding such as sanitary napkins and tampoons"
+  },
+  {
+    "row-list": 1399,
+    "row-list 2": 13997,
+    "row-list 3": "Manufacture of metallised yarn or gimped yarn, rubber thread or cord covered with textile material, textile yarn or strip impregnated, covered or sheathed with rubber or plastic"
+  },
+  {
+    "row-list": 1399,
+    "row-list 2": 13998,
+    "row-list 3": "Manufacture of waterproof textile excluding tarpulin"
+  },
+  {
+    "row-list": 1399,
+    "row-list 2": 13999,
+    "row-list 3": "Manufacture of other textiles/textile products n.e.c."
+  },
+  {
+    "row-list": 1410,
+    "row-list 2": 14101,
+    "row-list 3": "Manufacture of all types of textile garments and clothing accessories"
+  },
+  {
+    "row-list": 1410,
+    "row-list 2": 14102,
+    "row-list 3": "Manufacture of rain coats of waterproof textile fabrics or plastic sheetings"
+  },
+  {
+    "row-list": 1410,
+    "row-list 2": 14103,
+    "row-list 3": "Manufacture of hats, caps and other clothing accessories such as gloves, belts, ties, cravats, hairnets etc."
+  },
+  {
+    "row-list": 1410,
+    "row-list 2": 14104,
+    "row-list 3": "Manufacture of wearing apparel made of leather and substitutes of leather"
+  },
+  {
+    "row-list": 1410,
+    "row-list 2": 14105,
+    "row-list 3": "Custom tailoring"
+  },
+  {
+    "row-list": 1410,
+    "row-list 2": 14109,
+    "row-list 3": "Manufacture of wearing apparel n.e.c."
+  },
+  {
+    "row-list": 1420,
+    "row-list 2": 14201,
+    "row-list 3": "Manufacture of wearing apparel and clothing accessories made of fur"
+  },
+  {
+    "row-list": 1420,
+    "row-list 2": 14202,
+    "row-list 3": "Manufacture of fur and skin rugs and other similar articles"
+  },
+  {
+    "row-list": 1420,
+    "row-list 2": 14209,
+    "row-list 3": "Manufacture of other fur products n.e.c."
+  },
+  {
+    "row-list": 1430,
+    "row-list 2": 14301,
+    "row-list 3": "Manufacture of knitted or crocheted wearing apparel and other made-up articles directly into shape (pullovers, cardigans, jerseys, waistcoats and similar articles)"
+  },
+  {
+    "row-list": 1430,
+    "row-list 2": 14309,
+    "row-list 3": "Manufacture of other knitted and crocheted apparel including hosiery"
+  },
+  {
+    "row-list": 1511,
+    "row-list 2": 15111,
+    "row-list 3": "Flaying and curing of raw hides and skins"
+  },
+  {
+    "row-list": 1511,
+    "row-list 2": 15112,
+    "row-list 3": "Tanning and finishing of sole leather"
+  },
+  {
+    "row-list": 1511,
+    "row-list 2": 15113,
+    "row-list 3": "Tanning and finishing of industrial leather"
+  },
+  {
+    "row-list": 1511,
+    "row-list 2": 15114,
+    "row-list 3": "Scraping, currying, tanning, bleaching, shearing and plucking and dyeing of fur skins and hides with the hair on"
+  },
+  {
+    "row-list": 1511,
+    "row-list 2": 15115,
+    "row-list 3": "Finishing of upper leather, lining leather and garment leather etc."
+  },
+  {
+    "row-list": 1511,
+    "row-list 2": 15116,
+    "row-list 3": "Embroidering and embossing of leather articles"
+  },
+  {
+    "row-list": 1511,
+    "row-list 2": 15119,
+    "row-list 3": "Other tanning, curing, finishing, embossing etc. of leather"
+  },
+  {
+    "row-list": 1512,
+    "row-list 2": 15121,
+    "row-list 3": "Manufacture of travel goods like suitcase, bags, holdalls etc."
+  },
+  {
+    "row-list": 1512,
+    "row-list 2": 15122,
+    "row-list 3": "Manufacture of purse, ladies’ handbags, artistic leather presented articles and novelties"
+  },
+  {
+    "row-list": 1512,
+    "row-list 2": 15123,
+    "row-list 3": "Manufacture of saddlery and harness"
+  },
+  {
+    "row-list": 1512,
+    "row-list 2": 15129,
+    "row-list 3": "Manufacture of other consumer goods of leather and substitutes of leather n.e.c"
+  },
+  {
+    "row-list": 1520,
+    "row-list 2": 15201,
+    "row-list 3": "Manufacture of leather footwear such as shoes, sandals, chappals, leather-cum-rubber/plastic cloth sandles and chappals"
+  },
+  {
+    "row-list": 1520,
+    "row-list 2": 15202,
+    "row-list 3": "Manufacture of footwear made primarily of vulcalized or moulded rubber and plastic."
+  },
+  {
+    "row-list": 1520,
+    "row-list 2": 15209,
+    "row-list 3": "Manufacture of other footwear n.e.c."
+  },
+  {
+    "row-list": 1610,
+    "row-list 2": 16101,
+    "row-list 3": "Sawing and planing of wood"
+  },
+  {
+    "row-list": 1610,
+    "row-list 2": 16102,
+    "row-list 3": "Manufacture of unassembled wooden flooring including parquet flooring"
+  },
+  {
+    "row-list": 1610,
+    "row-list 2": 16103,
+    "row-list 3": "Manufacture of wooden railway sleepers"
+  },
+  {
+    "row-list": 1610,
+    "row-list 2": 16109,
+    "row-list 3": "Activities related to saw milling and planing of wood n.e.c."
+  },
+  {
+    "row-list": 1621,
+    "row-list 2": 16211,
+    "row-list 3": "Manufacture of ply wood and veneer sheets"
+  },
+  {
+    "row-list": 1621,
+    "row-list 2": 16212,
+    "row-list 3": "Manufacture of particle board and fibreboard including densified wood"
+  },
+  {
+    "row-list": 1621,
+    "row-list 2": 16213,
+    "row-list 3": "Manufacture of flush doors and other boards or panels"
+  },
+  {
+    "row-list": 1621,
+    "row-list 2": 16219,
+    "row-list 3": "Manufacture of other plywood products n.e.c."
+  },
+  {
+    "row-list": 1622,
+    "row-list 2": 16221,
+    "row-list 3": "Manufacture of structural wooden goods (intended to be used primarily in the construction industry such as beams, rafters, roof struts, glue-laminated and metal connected, prefabricated wooden roof trusses, doors, windows, shutters and their frames, whether or not containing metal fittings, stairs, railings, wooden beadings and mouldings, shingles and shakes etc.)"
+  },
+  {
+    "row-list": 1622,
+    "row-list 2": 16222,
+    "row-list 3": "Manufacture of prefabricated buildings, or elements thereof, predominantly of wood"
+  },
+  {
+    "row-list": 1622,
+    "row-list 2": 16229,
+    "row-list 3": "Manufacture of builders’ carpentry and joinery n.e.c."
+  },
+  {
+    "row-list": 1623,
+    "row-list 2": 16231,
+    "row-list 3": "Manufacture of wooden boxes, barrels, vats, tubs, packing cases etc."
+  },
+  {
+    "row-list": 1623,
+    "row-list 2": 16232,
+    "row-list 3": "Manufacture of plywood chests"
+  },
+  {
+    "row-list": 1623,
+    "row-list 2": 16233,
+    "row-list 3": "Manufacture of market basketry, grain storage bins and similar products made of bamboo or reed"
+  },
+  {
+    "row-list": 1623,
+    "row-list 2": 16239,
+    "row-list 3": "Manufacture of other wooden containers and products entirely or mainly of cane, rattan, bamboo, willow, fibre, leaves and grass n.e.c."
+  },
+  {
+    "row-list": 1629,
+    "row-list 2": 16291,
+    "row-list 3": "Manufacture of wooden industrial goods"
+  },
+  {
+    "row-list": 1629,
+    "row-list 2": 16292,
+    "row-list 3": "Manufacture of cork and cork products"
+  },
+  {
+    "row-list": 1629,
+    "row-list 2": 16293,
+    "row-list 3": "Manufacture of wooden agricultural implements"
+  },
+  {
+    "row-list": 1629,
+    "row-list 2": 16294,
+    "row-list 3": "Manufacture of various articles made of bamboo, cane and grass"
+  },
+  {
+    "row-list": 1629,
+    "row-list 2": 16295,
+    "row-list 3": "Manufacture of broomsticks"
+  },
+  {
+    "row-list": 1629,
+    "row-list 2": 16296,
+    "row-list 3": "Manufacture of articles made of palm leaf, dhak leaf, screw-pine leaf and khajoor leaf; articles of vegetables fibre etc,."
+  },
+  {
+    "row-list": 1629,
+    "row-list 2": 16297,
+    "row-list 3": "Manufacture of products of pith and shalapith"
+  },
+  {
+    "row-list": 1629,
+    "row-list 2": 16299,
+    "row-list 3": "Manufacture of other wood products n.e.c."
+  },
+  {
+    "row-list": 1701,
+    "row-list 2": 17011,
+    "row-list 3": "Manufacture of pulp"
+  },
+  {
+    "row-list": 1701,
+    "row-list 2": 17012,
+    "row-list 3": "Manufacture of news print"
+  },
+  {
+    "row-list": 1701,
+    "row-list 2": 17013,
+    "row-list 3": "Manufacture of paper and paper rolls not further processed"
+  },
+  {
+    "row-list": 1701,
+    "row-list 2": 17014,
+    "row-list 3": "Manufacture of packing paper"
+  },
+  {
+    "row-list": 1701,
+    "row-list 2": 17015,
+    "row-list 3": "Manufacture   of   other   special   purpose   paper"
+  },
+  {
+    "row-list": 1701,
+    "row-list 2": 17016,
+    "row-list 3": "(excluding   computer"
+  },
+  {
+    "row-list": 1701,
+    "row-list 2": 17017,
+    "row-list 3": "stationary)"
+  },
+  {
+    "row-list": 1701,
+    "row-list 2": 17019,
+    "row-list 3": "Manufacture of paper board, straw board"
+  },
+  {
+    "row-list": 1702,
+    "row-list 2": 17021,
+    "row-list 3": "Manufacture of corrugated paper and paperboard"
+  },
+  {
+    "row-list": 1702,
+    "row-list 2": 17022,
+    "row-list 3": "Manufacture of corrugated paper board containers"
+  },
+  {
+    "row-list": 1702,
+    "row-list 2": 17023,
+    "row-list 3": "Manufacture of card board boxes"
+  },
+  {
+    "row-list": 1702,
+    "row-list 2": 17024,
+    "row-list 3": "Manufacture of sacks and bags of paper"
+  },
+  {
+    "row-list": 1702,
+    "row-list 2": 17029,
+    "row-list 3": "Manufacture of other containers of paper and paperboard n.e.c."
+  },
+  {
+    "row-list": 1709,
+    "row-list 2": 17091,
+    "row-list 3": "Manufacture of computer paper"
+  },
+  {
+    "row-list": 1709,
+    "row-list 2": 17092,
+    "row-list 3": "Manufacture of paper cups, saucers, plates, hoops, cones and other similar products"
+  },
+  {
+    "row-list": 1709,
+    "row-list 2": 17093,
+    "row-list 3": "Manufacture of printing, writing and photocopying paper ready for use"
+  },
+  {
+    "row-list": 1709,
+    "row-list 2": 17094,
+    "row-list 3": "Manufacture of paper pulp articles other than containers (such as egg trays)"
+  },
+  {
+    "row-list": 1709,
+    "row-list 2": 17095,
+    "row-list 3": "Manufacture of file cover/file boards, and similar articles."
+  },
+  {
+    "row-list": 1709,
+    "row-list 2": 17096,
+    "row-list 3": "Manufacture of wall paper"
+  },
+  {
+    "row-list": 1709,
+    "row-list 2": 17097,
+    "row-list 3": "Manufacture of carbon paper & stationary items"
+  },
+  {
+    "row-list": 1709,
+    "row-list 2": 17099,
+    "row-list 3": "Manufacture of other paper products n.e.c."
+  },
+  {
+    "row-list": 1811,
+    "row-list 2": 18111,
+    "row-list 3": "Printing of newspapers"
+  },
+  {
+    "row-list": 1811,
+    "row-list 2": 18112,
+    "row-list 3": "Printing of magazines and other periodicals, books and brochures, maps,atlases, posters etc."
+  },
+  {
+    "row-list": 1811,
+    "row-list 2": 18113,
+    "row-list 3": "Printing of postage stams, taxation stamps, cheques and other security, papers"
+  },
+  {
+    "row-list": 1811,
+    "row-list 2": 18114,
+    "row-list 3": "Printing of bank notes, currency notes"
+  },
+  {
+    "row-list": 1811,
+    "row-list 2": 18115,
+    "row-list 3": "Printing directly onto textiles, flexographic plastic, glass, metal, wood and ceramics"
+  },
+  {
+    "row-list": 1811,
+    "row-list 2": 18119,
+    "row-list 3": "Other printing activities like screen printing other than textile n.e.c."
+  },
+  {
+    "row-list": 1812,
+    "row-list 2": 18121,
+    "row-list 3": "Book and other similar sheet binding on account of others"
+  },
+  {
+    "row-list": 1812,
+    "row-list 2": 18122,
+    "row-list 3": "Engraving, etching and block making etc."
+  },
+  {
+    "row-list": 1812,
+    "row-list 2": 18129,
+    "row-list 3": "Other service activities related to printing n.e.c."
+  },
+  {
+    "row-list": 1820,
+    "row-list 2": 18200,
+    "row-list 3": "Reproduction of recorded media"
+  },
+  {
+    "row-list": 1910,
+    "row-list 2": 19101,
+    "row-list 3": "Production of coke and semi-coke products"
+  },
+  {
+    "row-list": 1910,
+    "row-list 2": 19109,
+    "row-list 3": "Manufacture of other coke oven products such as gas, crude coal and lignite tars etc."
+  },
+  {
+    "row-list": 1920,
+    "row-list 2": 19201,
+    "row-list 3": "Production of liquid and gaseous fuels, illuminating oils, lubricating oils or greases or other products from crude petroleum or bituminous minerals"
+  },
+  {
+    "row-list": 1920,
+    "row-list 2": 19202,
+    "row-list 3": "Manufacture of paraffin wax"
+  },
+  {
+    "row-list": 1920,
+    "row-list 2": 19203,
+    "row-list 3": "Bottling of LPG/CNG"
+  },
+  {
+    "row-list": 1920,
+    "row-list 2": 19204,
+    "row-list 3": "Manufacture of hard-coal and lignite fuel briquettes"
+  },
+  {
+    "row-list": 1920,
+    "row-list 2": 19209,
+    "row-list 3": "Manufacture of other petroleum n.e.c. (includes manufacture of petroleum jelly, micro-crystalline petroleum wax, slack wax, ozokerite, lignite wax, petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous minerals)"
+  },
+  {
+    "row-list": 2011,
+    "row-list 2": 20111,
+    "row-list 3": "Manufacture of liquefied or compressed inorganic industrial or medical gases (elemental gases, liquid or compressed air, refrigerant gases, mixed industrial gases etc.)"
+  },
+  {
+    "row-list": 2011,
+    "row-list 2": 20112,
+    "row-list 3": "Manufacture of inorganic acids except nitric acid"
+  },
+  {
+    "row-list": 2011,
+    "row-list 2": 20113,
+    "row-list 3": "Manufacture of tanning or dying extracts; tannings and their derivatives and colouring matter (including manufacture of indigo)"
+  },
+  {
+    "row-list": 2011,
+    "row-list 2": 20114,
+    "row-list 3": "Manufacture of dyes and pigments from any source in basic form or as concentrate"
+  },
+  {
+    "row-list": 2011,
+    "row-list 2": 20115,
+    "row-list 3": "Manufacture of turpentine and resins of vegetable origin"
+  },
+  {
+    "row-list": 2011,
+    "row-list 2": 20116,
+    "row-list 3": "Manufacture of basic chemical elements"
+  },
+  {
+    "row-list": 2011,
+    "row-list 2": 20117,
+    "row-list 3": "Manufacture of distilled water"
+  },
+  {
+    "row-list": 2011,
+    "row-list 2": 20118,
+    "row-list 3": "Manufacture of synthetic aromatic products"
+  },
+  {
+    "row-list": 2011,
+    "row-list 2": 20119,
+    "row-list 3": "Manufacture of organic and inorganic chemical compounds n.e.c."
+  },
+  {
+    "row-list": 2012,
+    "row-list 2": 20121,
+    "row-list 3": "Manufacture of urea and other organic fertilizers"
+  },
+  {
+    "row-list": 2012,
+    "row-list 2": 20122,
+    "row-list 3": "Manufacture of straight mixed, compound or complex inorganic fertilizers"
+  },
+  {
+    "row-list": 2012,
+    "row-list 2": 20123,
+    "row-list 3": "Manufacture of associated nitrogen products (nitric and sulphonitric acids,ammonia, ammonium chloride, ammonium carbonate, nitrites and nitrates of potassium)"
+  },
+  {
+    "row-list": 2012,
+    "row-list 2": 20129,
+    "row-list 3": "Manufacture of other fertilizers n.e.c."
+  },
+  {
+    "row-list": 2013,
+    "row-list 2": 20131,
+    "row-list 3": "Manufacture of plastic in primary forms (includes amino-resins,polyurethanes etc.)"
+  },
+  {
+    "row-list": 2013,
+    "row-list 2": 20132,
+    "row-list 3": "Manufacture of synthetic rubber in primary forms"
+  },
+  {
+    "row-list": 2013,
+    "row-list 2": 20133,
+    "row-list 3": "Manufacture of mixture of synthetic and natural or rubber like gums"
+  },
+  {
+    "row-list": 2021,
+    "row-list 2": 20211,
+    "row-list 3": "Manufacture of insecticides, rodenticides, fungicides, herbicides"
+  },
+  {
+    "row-list": 2021,
+    "row-list 2": 20212,
+    "row-list 3": "Manufacture of disinfectants (for agricultural and other use)"
+  },
+  {
+    "row-list": 2021,
+    "row-list 2": 20213,
+    "row-list 3": "Manufacture of anti-sprouting products, plant growth regulators"
+  },
+  {
+    "row-list": 2021,
+    "row-list 2": 20219,
+    "row-list 3": "Manufacture of other agrochemical products n.e.c."
+  },
+  {
+    "row-list": 2022,
+    "row-list 2": 20221,
+    "row-list 3": "Manufacture of paints and varnishes, enamels or lacquers"
+  },
+  {
+    "row-list": 2022,
+    "row-list 2": 20222,
+    "row-list 3": "Manufacture of prepared pigments, prepared opacifiers and prepared colours, vitrifiable enamels and glazes engobes and similar preparations of a kind used in the ceramic, enamelling or glass industry"
+  },
+  {
+    "row-list": 2022,
+    "row-list 2": 20223,
+    "row-list 3": "Manufacture of printing ink"
+  },
+  {
+    "row-list": 2022,
+    "row-list 2": 20224,
+    "row-list 3": "Manufacture of prepared pigments and other colouring matter of a kind used in the manufacture of paints or by artists or other painters"
+  },
+  {
+    "row-list": 2022,
+    "row-list 2": 20229,
+    "row-list 3": "Manufacture of caulking compounds and similar non-refractory filling or surfacing preparations, mastics, prepared paint or varnish removers, organic composite solvents and thinners and other related products n.e.c."
+  },
+  {
+    "row-list": 2023,
+    "row-list 2": 20231,
+    "row-list 3": "Manufacture of soap all forms"
+  },
+  {
+    "row-list": 2023,
+    "row-list 2": 20232,
+    "row-list 3": "Manufacture of cleaning and polishing products (preparations for perfuming or deodorizing rooms; artificial waxes and prepared waxes; polishes and creams for leather, wood, glass, metal etc.; scouring pastes and powders, including paper, wadding etc. coated or covered with these)"
+  },
+  {
+    "row-list": 2023,
+    "row-list 2": 20233,
+    "row-list 3": "Manufacture of detergent and similar washing agents excluding soap"
+  },
+  {
+    "row-list": 2023,
+    "row-list 2": 20234,
+    "row-list 3": "Manufacture of perfumes and cologne de-eau"
+  },
+  {
+    "row-list": 2023,
+    "row-list 2": 20235,
+    "row-list 3": "Manufacture of preparations for oral or dental hygiene (includes manufacture of toothpastes, toothpowder, mouthwash, oral, perfumes, dental fixative pastes and powders etc.)"
+  },
+  {
+    "row-list": 2023,
+    "row-list 2": 20236,
+    "row-list 3": "Manufacture of hair oil, shampoo, hair dye etc. (includes manufacture of shampoos, hair sprays, hair fixers, hair oils, hair creams, hair dyes and bleaches and preparations for permanent waving or straightening of the hair etc.)"
+  },
+  {
+    "row-list": 2023,
+    "row-list 2": 20237,
+    "row-list 3": "Manufacture of cosmetics and toileteries (includes manufacture of pre-shave, shaving or after shave preparations; personal deodorants and anti respirants; perfumed bath salts and other bath preparations; beauty or make-up preparations and preparations for the care of the skin, other than medicaments; manicure and pedicure preparations etc.)"
+  },
+  {
+    "row-list": 2023,
+    "row-list 2": 20238,
+    "row-list 3": "Manufacture  of 'agarbatti'  and  other  preparations  which  operate  by burning"
+  },
+  {
+    "row-list": 2023,
+    "row-list 2": 20239,
+    "row-list 3": "Manufacture of other perfumes and toilet preparations n.e.c."
+  },
+  {
+    "row-list": 2029,
+    "row-list 2": 20291,
+    "row-list 3": "Manufacture of matches"
+  },
+  {
+    "row-list": 2029,
+    "row-list 2": 20292,
+    "row-list 3": "Manufacture of explosives, ammunition and fire works"
+  },
+  {
+    "row-list": 2029,
+    "row-list 2": 20293,
+    "row-list 3": "Manufacture of essential oils; modification by chemical processes of oils and fats (e.g. by oxidation, polymerization etc.)"
+  },
+  {
+    "row-list": 2029,
+    "row-list 2": 20294,
+    "row-list 3": "Manufacture of photographic plates, films, sensitized paper and other sensitized  unexposed  materials,chemical  preparations  for  photographic uses"
+  },
+  {
+    "row-list": 2029,
+    "row-list 2": 20295,
+    "row-list 3": "Manufacture of gelatine and its derivatives, resinoids, glues, prepared adhesives, including rubber-based glues and adhesives"
+  },
+  {
+    "row-list": 2029,
+    "row-list 2": 20296,
+    "row-list 3": "Manufacture of chemical elements and compounds doped for use in electronics"
+  },
+  {
+    "row-list": 2029,
+    "row-list 2": 20297,
+    "row-list 3": "Manufacture of chemical products or preparations of a kind used in the textiles, paper, leather and like industries"
+  },
+  {
+    "row-list": 2029,
+    "row-list 2": 20299,
+    "row-list 3": "Manufacture   of   various   other   chemical   products   n.e.c.(antiknock preparations, anti-freeze preparations, liquids for hydraulic transmission, composite  diagnostic  or  laboratory  reagents,  writing  or  drawing  ink, chemical substance used in manufacturing of pesticides and other chemical products)"
+  },
+  {
+    "row-list": 2030,
+    "row-list 2": 20301,
+    "row-list 3": "Manufacture of synthetic or artificial filament tow"
+  },
+  {
+    "row-list": 2030,
+    "row-list 2": 20302,
+    "row-list 3": "Manufacture of synthetic or artificial filament staple fibre not textured"
+  },
+  {
+    "row-list": 2030,
+    "row-list 2": 20303,
+    "row-list 3": "Manufacture of synthetic or artificial filament yarn,  tenacity yarn whether or not textured including high tenacity yarn"
+  },
+  {
+    "row-list": 2030,
+    "row-list 2": 20304,
+    "row-list 3": "Manufacture of synthetic or artificial mono-filament or strip"
+  },
+  {
+    "row-list": 2100,
+    "row-list 2": 21001,
+    "row-list 3": "Manufacture  of  medicinal  substances  used  in  the  manufacture  of pharmaceuticals: antibiotics, endocrine products, basic vitamins; opium derivatives; sulpha drugs; serums and plasmas; salicylic acid, its salts and esters; glycosides and vegetable alkaloids; chemically pure suger etc."
+  },
+  {
+    "row-list": 2100,
+    "row-list 2": 21002,
+    "row-list 3": "Manufacture of allopathic pharmaceutical preparations"
+  },
+  {
+    "row-list": 2100,
+    "row-list 2": 21003,
+    "row-list 3": "Manufacture of `ayurvedic’ or `unani’ pharmaceutical preparation"
+  },
+  {
+    "row-list": 2100,
+    "row-list 2": 21004,
+    "row-list 3": "Manufacture of homoeopathic or biochemic pharmaceutical preparations"
+  },
+  {
+    "row-list": 2100,
+    "row-list 2": 21005,
+    "row-list 3": "Manufacture of veterinary preparations"
+  },
+  {
+    "row-list": 2100,
+    "row-list 2": 21006,
+    "row-list 3": "Manufacture of medical impregnated wadding, gauze, bandages, dressings,surgical gut string etc."
+  },
+  {
+    "row-list": 2100,
+    "row-list 2": 21009,
+    "row-list 3": "Manufacture of other pharmaceutical and botanical products n.e.c. like hina powder etc."
+  },
+  {
+    "row-list": 2211,
+    "row-list 2": 22111,
+    "row-list 3": "Manufacture of rubber tyres and tubes for motor vehicles, motorcycles,scooters, three-wheelers, tractors and aircraft"
+  },
+  {
+    "row-list": 2211,
+    "row-list 2": 22112,
+    "row-list 3": "Manufacture of rubber tyres and tubes for cycles and cycle-rickshaws"
+  },
+  {
+    "row-list": 2211,
+    "row-list 2": 22113,
+    "row-list 3": "Retreading of tyres; replacing or rebuilding of tread on used pneumatic tyres"
+  },
+  {
+    "row-list": 2211,
+    "row-list 2": 22119,
+    "row-list 3": "Manufacture of rubber tyres and tubes n.e.c."
+  },
+  {
+    "row-list": 2219,
+    "row-list 2": 22191,
+    "row-list 3": "Manufacture of rubber plates, sheets, strips, rods, tubes, pipes, hoses and profile -shapes etc."
+  },
+  {
+    "row-list": 2219,
+    "row-list 2": 22192,
+    "row-list 3": "Manufacture of rubber conveyor or transmission belts or belting"
+  },
+  {
+    "row-list": 2219,
+    "row-list 2": 22193,
+    "row-list 3": "Manufacture of rubber contraceptives"
+  },
+  {
+    "row-list": 2219,
+    "row-list 2": 22194,
+    "row-list 3": "Manufacture of rubber balloons"
+  },
+  {
+    "row-list": 2219,
+    "row-list 2": 22199,
+    "row-list 3": "Manufacture of other rubber products n.e.c."
+  },
+  {
+    "row-list": 2220,
+    "row-list 2": 22201,
+    "row-list 3": "Manufacture of semi-finished of plastic products (plastic plates, sheets,blocks, film, foil, strip etc.)"
+  },
+  {
+    "row-list": 2220,
+    "row-list 2": 22202,
+    "row-list 3": "Manufacture of tableware, kitchenware and other household articles and toilet articles of plastic, including manufacture of vacuum flasks and other vacuum vessels"
+  },
+  {
+    "row-list": 2220,
+    "row-list 2": 22203,
+    "row-list 3": "Manufacture of plastic articles for the packing of goods (plastic bags, sacks, containers, boxes, cases, carboys, bottles etc.)"
+  },
+  {
+    "row-list": 2220,
+    "row-list 2": 22204,
+    "row-list 3": "Manufacture of bathing tubs, wash-basins, lavatory pans and covers, flushing cisterns and similar sanitary-ware of plastics"
+  },
+  {
+    "row-list": 2220,
+    "row-list 2": 22205,
+    "row-list 3": "Manufacture of travel goods of plastics (suitcase, vanity bags, holdalls and similar articles)"
+  },
+  {
+    "row-list": 2220,
+    "row-list 2": 22206,
+    "row-list 3": "Manufacture of spectacle frames of plastic"
+  },
+  {
+    "row-list": 2220,
+    "row-list 2": 22207,
+    "row-list 3": "Manufacture  of  moulded  industrial  accessories  of  plastics (including"
+  },
+  {
+    "row-list": 2220,
+    "row-list 2": 22208,
+    "row-list 3": "electrical insulating fittings of plastics]"
+  },
+  {
+    "row-list": 2220,
+    "row-list 2": 22209,
+    "row-list 3": "Manufacture of polymer/ synthetic / PVC water storage tanks"
+  },
+  {
+    "row-list": 2310,
+    "row-list 2": 23101,
+    "row-list 3": "Manufacture of glass in primary or semi-manufactured forms (such as sheets & plate glass) including mirror sheets and wired, coloured, tinted, toughened or laminated glass"
+  },
+  {
+    "row-list": 2310,
+    "row-list 2": 23102,
+    "row-list 3": "Manufacture of glass fibre (including glass-wool) and yarn of glass fibre;nonwoven glass fabrics, mats, boards and similar non-woven products"
+  },
+  {
+    "row-list": 2310,
+    "row-list 2": 23103,
+    "row-list 3": "Manufacture of hollow glassware (bottles, jars etc.) for the conveyance or packing of goods"
+  },
+  {
+    "row-list": 2310,
+    "row-list 2": 23104,
+    "row-list 3": "Manufacture of laboratory or pharmaceutical glassware"
+  },
+  {
+    "row-list": 2310,
+    "row-list 2": 23105,
+    "row-list 3": "Manufacture of table or kitchen glassware"
+  },
+  {
+    "row-list": 2310,
+    "row-list 2": 23106,
+    "row-list 3": "Manufacture of glass bangles"
+  },
+  {
+    "row-list": 2310,
+    "row-list 2": 23107,
+    "row-list 3": "Manufacture of glass decoration pieces and glassware used in imitation jewellery"
+  },
+  {
+    "row-list": 2310,
+    "row-list 2": 23109,
+    "row-list 3": "Manufacture of other glassware/glass products: articles of glass used in construction such as glass blocks; clock or watch glasses, optical glass and optical glass elements not optically worked; and other glass products (including glass beads) n.e.c."
+  },
+  {
+    "row-list": 2391,
+    "row-list 2": 23911,
+    "row-list 3": "Manufacture of refractory mortars, concretes etc."
+  },
+  {
+    "row-list": 2391,
+    "row-list 2": 23912,
+    "row-list 3": "Manufacture of refractory bricks, blocks tiles and similar refractory ceramic constructional goods"
+  },
+  {
+    "row-list": 2391,
+    "row-list 2": 23913,
+    "row-list 3": "Manufacture of refractory ceramic products"
+  },
+  {
+    "row-list": 2391,
+    "row-list 2": 23919,
+    "row-list 3": "Manufacture of other refractory articles n.e.c."
+  },
+  {
+    "row-list": 2392,
+    "row-list 2": 23921,
+    "row-list 3": "Manufacture of bricks"
+  },
+  {
+    "row-list": 2392,
+    "row-list 2": 23922,
+    "row-list 3": "Manufacture of non-refractory ceramic sanitary wares: sinks, baths, water-closet pans, flushing cistern etc."
+  },
+  {
+    "row-list": 2392,
+    "row-list 2": 23923,
+    "row-list 3": "Manufacture of non-refractory ceramic pipes, conduits, guttering and pipe fittings"
+  },
+  {
+    "row-list": 2392,
+    "row-list 2": 23929,
+    "row-list 3": "Manufacture of other clay building materials"
+  },
+  {
+    "row-list": 2393,
+    "row-list 2": 23931,
+    "row-list 3": "Manufacture of articles of porcelain or china, earthenware, imitation porcelain or common pottery, including earthen statues"
+  },
+  {
+    "row-list": 2393,
+    "row-list 2": 23932,
+    "row-list 3": "Manufacture of ceramic tableware and other domestic or toilet articles"
+  },
+  {
+    "row-list": 2393,
+    "row-list 2": 23933,
+    "row-list 3": "Manufacture of statuettes and other ornamental ceramic articles"
+  },
+  {
+    "row-list": 2393,
+    "row-list 2": 23934,
+    "row-list 3": "Manufacture of electrical insulators and insulating fittings of ceramics"
+  },
+  {
+    "row-list": 2393,
+    "row-list 2": 23935,
+    "row-list 3": "Manufacture of ceramic laboratory, chemical and industrial products"
+  },
+  {
+    "row-list": 2393,
+    "row-list 2": 23939,
+    "row-list 3": "Manufacture of ceramic products n.e.c."
+  },
+  {
+    "row-list": 2394,
+    "row-list 2": 23941,
+    "row-list 3": "Manufacture of clinkers and cement"
+  },
+  {
+    "row-list": 2394,
+    "row-list 2": 23942,
+    "row-list 3": "Manufacture of portland cement, aluminous cement, slag cement and similar hydraulic cement"
+  },
+  {
+    "row-list": 2394,
+    "row-list 2": 23943,
+    "row-list 3": "Manufacture of asbestos cement"
+  },
+  {
+    "row-list": 2394,
+    "row-list 2": 23944,
+    "row-list 3": "Manufacture of quicklime, slaked lime and hydraulic lime chewing lime)"
+  },
+  {
+    "row-list": 2394,
+    "row-list 2": 23945,
+    "row-list 3": "Manufacture of plasters of calcined gypsum or calcined sulphate"
+  },
+  {
+    "row-list": 2394,
+    "row-list 2": 23949,
+    "row-list 3": "Manufacture of other cement and plaster n.e.c."
+  },
+  {
+    "row-list": 2395,
+    "row-list 2": 23951,
+    "row-list 3": "Manufacture of plaster statues and other plaster products"
+  },
+  {
+    "row-list": 2395,
+    "row-list 2": 23952,
+    "row-list 3": "Manufacture of articles articles of concrete, cement or artificial stone (tiles,bricks etc.)"
+  },
+  {
+    "row-list": 2395,
+    "row-list 2": 23953,
+    "row-list 3": "Manufacture of asbestos sheets"
+  },
+  {
+    "row-list": 2395,
+    "row-list 2": 23954,
+    "row-list 3": "Manufacture of R.C.C. bricks and blocks"
+  },
+  {
+    "row-list": 2395,
+    "row-list 2": 23955,
+    "row-list 3": "Manufacture of hume pipes and other pre-fabricated structural components of cement and/or concrete for building or civil engineering"
+  },
+  {
+    "row-list": 2395,
+    "row-list 2": 23956,
+    "row-list 3": "Manufacture of insulation boards of vegetable fibre, straw or wood waste, agglomerated with cement & other mineral binders."
+  },
+  {
+    "row-list": 2395,
+    "row-list 2": 23959,
+    "row-list 3": "Manufacture of other cement and asbestos cement products n.e.c."
+  },
+  {
+    "row-list": 2396,
+    "row-list 2": 23951,
+    "row-list 3": "Cutting, shaping and finishing of stone"
+  },
+  {
+    "row-list": 2399,
+    "row-list 2": 23991,
+    "row-list 3": "Manufacture of worked mica and mica products"
+  },
+  {
+    "row-list": 2399,
+    "row-list 2": 23992,
+    "row-list 3": "Manufacture of gypsum boards"
+  },
+  {
+    "row-list": 2399,
+    "row-list 2": 23993,
+    "row-list 3": "Manufacture of millstones, sharpening or polishing stones and natural or artificial abrasive products, including abrasive powder or grain on a base of textile material, paper, paper board or other material"
+  },
+  {
+    "row-list": 2399,
+    "row-list 2": 23994,
+    "row-list 3": "Manufacture of graphite products other than electrical articles"
+  },
+  {
+    "row-list": 2399,
+    "row-list 2": 23999,
+    "row-list 3": "Manufacture of other non-metallic mineral products n.e.c. (includes asbestos yarn and fabric, and articles of asbestos yarn and fabric such as clothing,headgear, footwear, cord, string, paper o felt; friction material with a basis of asbestos or other mineral substances or of cellulose including unmounted articles such as friction material; mineral insulating material (slag wool, rockwool and similar mineral wools, exfoliated vermiculite, expanded clays and similar insulating material); products of glass wool for heat-insulating; articles of asphalt or of similar material (e.g. coal tar pitch), gypsum and articles of other mineral substances)"
+  },
+  {
+    "row-list": 2410,
+    "row-list 2": 24101,
+    "row-list 3": "Manufacture of pig iron and spiegeleisen in pigs, blocks or other primary forms"
+  },
+  {
+    "row-list": 2410,
+    "row-list 2": 24102,
+    "row-list 3": "Manufacture of direct reduction of iron (sponge iron) and other spongy ferrous products"
+  },
+  {
+    "row-list": 2410,
+    "row-list 2": 24103,
+    "row-list 3": "Manufacture of steel in ingots or other primary forms, and other semi-finished products of steel"
+  },
+  {
+    "row-list": 2410,
+    "row-list 2": 24104,
+    "row-list 3": "Manufacture of ferro-alloys"
+  },
+  {
+    "row-list": 2410,
+    "row-list 2": 24105,
+    "row-list 3": "Manufacture of hot-rolled and cold-rolled products of steel"
+  },
+  {
+    "row-list": 2410,
+    "row-list 2": 24106,
+    "row-list 3": "Manufacture of tube and tube fittings of basic iron and steel"
+  },
+  {
+    "row-list": 2410,
+    "row-list 2": 24107,
+    "row-list 3": "Manufacture of railway track materials (unassembled rails) of steel"
+  },
+  {
+    "row-list": 2410,
+    "row-list 2": 24108,
+    "row-list 3": "Manufacture of wire of steel by cold drawing or stretching"
+  },
+  {
+    "row-list": 2410,
+    "row-list 2": 24109,
+    "row-list 3": "Manufacture of other basic iron and steel n.e.c"
+  },
+  {
+    "row-list": 2420,
+    "row-list 2": 24201,
+    "row-list 3": "Manufacture of Copper from ore, and other copper products and alloys"
+  },
+  {
+    "row-list": 2420,
+    "row-list 2": 24202,
+    "row-list 3": "Manufacture of Aluminium from alumina and by other methods and products of aluminium and alloys"
+  },
+  {
+    "row-list": 2420,
+    "row-list 2": 24203,
+    "row-list 3": "Manufacturing of lead, zinc and tin products and alloys"
+  },
+  {
+    "row-list": 2420,
+    "row-list 2": 24204,
+    "row-list 3": "Manufacturing of chrome, manganese and nickel products alloys"
+  },
+  {
+    "row-list": 2420,
+    "row-list 2": 24205,
+    "row-list 3": "Production and refining of precious metals (such as gold, silver platinum etc.) and alloys"
+  },
+  {
+    "row-list": 2420,
+    "row-list 2": 24209,
+    "row-list 3": "Manufacture of other non-ferrous metals n.e.c."
+  },
+  {
+    "row-list": 2431,
+    "row-list 2": 24311,
+    "row-list 3": "Manufacture of tubes, pipes and hollow profiles and of tube or pipe fittings of cast-iron/cast-steel"
+  },
+  {
+    "row-list": 2431,
+    "row-list 2": 24319,
+    "row-list 3": "Manufacture of other iron and steel casting and products thereof"
+  },
+  {
+    "row-list": 2432,
+    "row-list 2": 24320,
+    "row-list 3": "Casting of non-ferrous metals"
+  },
+  {
+    "row-list": 2511,
+    "row-list 2": 25111,
+    "row-list 3": "Manufacture of doors, windows and their frames, shutters and rolling shutters, gates and similer articles used on buildings"
+  },
+  {
+    "row-list": 2511,
+    "row-list 2": 25112,
+    "row-list 3": "Manufacture of metal frameworks or skeletons for construction and parts thereof ((towers, masts, trusses, bridges etc.)"
+  },
+  {
+    "row-list": 2511,
+    "row-list 2": 25113,
+    "row-list 3": "Manufacture of industrial frameworks in metal (frameworks for blast"
+  },
+  {
+    "row-list": 2511,
+    "row-list 2": 25119,
+    "row-list 3": "furnaces, lifting and handling equipment etc.)"
+  },
+  {
+    "row-list": 2512,
+    "row-list 2": 25121,
+    "row-list 3": "Manufacture of metal containers for compressed or liquefied gas"
+  },
+  {
+    "row-list": 2512,
+    "row-list 2": 25122,
+    "row-list 3": "Manufacture of metal reservoirs, tanks and similar containers"
+  },
+  {
+    "row-list": 2512,
+    "row-list 2": 25123,
+    "row-list 3": "Manufacture of central heating boilers and radiators and parts and accessories thereof"
+  },
+  {
+    "row-list": 2512,
+    "row-list 2": 25129,
+    "row-list 3": "Manufacture of other containers n.e.c."
+  },
+  {
+    "row-list": 2513,
+    "row-list 2": 25131,
+    "row-list 3": "Manufacture of steam or other vapour generating boilers and hot water boilers other than central heating boilers"
+  },
+  {
+    "row-list": 2513,
+    "row-list 2": 25132,
+    "row-list 3": "Manufacture of nuclear reactors, except isotope separators"
+  },
+  {
+    "row-list": 2513,
+    "row-list 2": 25133,
+    "row-list 3": "Manufacture of auxiliary plant for use with steam generators (condensers,economizers, superheaters, steam collectors and accumulators)"
+  },
+  {
+    "row-list": 2513,
+    "row-list 2": 25139,
+    "row-list 3": "Manufacture of other steam generators (except central heating hot water boilers), n.e.c."
+  },
+  {
+    "row-list": 2520,
+    "row-list 2": 25200,
+    "row-list 3": "Manufacture of weapons and ammunition"
+  },
+  {
+    "row-list": 2591,
+    "row-list 2": 25910,
+    "row-list 3": "Forging, pressing, stamping and roll-forming of metal; powder metallurgy"
+  },
+  {
+    "row-list": 2592,
+    "row-list 2": 25920,
+    "row-list 3": "Machining; treatment and coating of metals"
+  },
+  {
+    "row-list": 2593,
+    "row-list 2": 25931,
+    "row-list 3": "Manufacture of cutlery such as knives, forks, spoons, cleavers, choppers,razors,razor blades, scissors, hair clippers etc."
+  },
+  {
+    "row-list": 2593,
+    "row-list 2": 25932,
+    "row-list 3": "Manufacture of hand tools (non-power-driven) for agricultural/horticulture/ forestry"
+  },
+  {
+    "row-list": 2593,
+    "row-list 2": 25933,
+    "row-list 3": "Manufacture  of  hand  tools  such  as  pliers,  screwdrivers,  press  tools,blacksmiths’ tools, drills, punches, milling cutters etc."
+  },
+  {
+    "row-list": 2593,
+    "row-list 2": 25934,
+    "row-list 3": "Manufacture of padlocks, locks, keys, hinges and the like, hardware for buildings, furniture, vehicles etc."
+  },
+  {
+    "row-list": 2593,
+    "row-list 2": 25939,
+    "row-list 3": "Manufacture of general hardware (saws and sawblades, including circular sawblades and chainsaw blades, moulding boxes, vices, clamps etc.)"
+  },
+  {
+    "row-list": 2599,
+    "row-list 2": 25991,
+    "row-list 3": "Manufacture of metal fasteners (nails, rivets, tacks, pins, staples, washers and similar non-threaded products and nuts, bolts, screws and other threaded products"
+  },
+  {
+    "row-list": 2599,
+    "row-list 2": 25992,
+    "row-list 3": "Manufacture of containers such as tins and cans for food products and boxes"
+  },
+  {
+    "row-list": 2599,
+    "row-list 2": 25993,
+    "row-list 3": "Manufacture of metal cable and other articles made of wire (except for electric transmission)"
+  },
+  {
+    "row-list": 2599,
+    "row-list 2": 25994,
+    "row-list 3": "Manufacture of metal household articles (plates, saucers, pots, kettles,saucepans, frying pans and other non-electrical utensils, small hand-operated kitchen appliances and accessories)"
+  },
+  {
+    "row-list": 2599,
+    "row-list 2": 25995,
+    "row-list 3": "Manufacture of metal sanitaryware such as baths, sinks, washbasins and similar articles"
+  },
+  {
+    "row-list": 2599,
+    "row-list 2": 25996,
+    "row-list 3": "Manufacture of reinforced safes, vaults, strongroom doors, gates and metal goods for office use (other than office furniture) and other purposes"
+  },
+  {
+    "row-list": 2599,
+    "row-list 2": 25999,
+    "row-list 3": "Manufacture of other fabricated metal products n.e.c."
+  },
+  {
+    "row-list": 2610,
+    "row-list 2": 26101,
+    "row-list 3": "Manufacture of electronic capacitors,resistors, chokes, coils, trasformers(electronic) and similar components"
+  },
+  {
+    "row-list": 2610,
+    "row-list 2": 26102,
+    "row-list 3": "Manufacture of electron tubes, diodes, transistors and related discrete devices"
+  },
+  {
+    "row-list": 2610,
+    "row-list 2": 26103,
+    "row-list 3": "Manufacture of integrated circuits (analog, digital or hybrid)"
+  },
+  {
+    "row-list": 2610,
+    "row-list 2": 26104,
+    "row-list 3": "Manufacture of bare printed circuit boards, loading of components onto printed circuit boards; manufacture of interface cards (e.g. sound, video, controllers, network, modems)"
+  },
+  {
+    "row-list": 2610,
+    "row-list 2": 26105,
+    "row-list 3": "Manufacture of display components (plasma, polymer, LCD, LED)"
+  },
+  {
+    "row-list": 2610,
+    "row-list 2": 26106,
+    "row-list 3": "Manufacture of printer cables, monitor cables, USB cables, connectors etc."
+  },
+  {
+    "row-list": 2610,
+    "row-list 2": 26107,
+    "row-list 3": "Manufacture of microprocessors"
+  },
+  {
+    "row-list": 2610,
+    "row-list 2": 26109,
+    "row-list 3": "Manufacture of other electronic components n.e.c"
+  },
+  {
+    "row-list": 2620,
+    "row-list 2": 26201,
+    "row-list 3": "Manufacture of desktop computers, laptop computers, hand-held computers (e.g. PDA), mainframe computers and computer servers"
+  },
+  {
+    "row-list": 2620,
+    "row-list 2": 26202,
+    "row-list 3": "Manufacture of magnetic and optical storage devices such as magnetic disk drives, flash drives, CD, DVD and other storage devices"
+  },
+  {
+    "row-list": 2620,
+    "row-list 2": 26203,
+    "row-list 3": "Manufacture of monitors, keyboards, all types of mice, joysticks, and trackball accessories, dedicated computer terminals etc."
+  },
+  {
+    "row-list": 2620,
+    "row-list 2": 26204,
+    "row-list 3": "Manufacture of printers, scanners, including bar code scanners, smart card readers, virtual reality helmets, computer projectors (video beamers)"
+  },
+  {
+    "row-list": 2620,
+    "row-list 2": 26205,
+    "row-list 3": "Manufacture of computer terminals, like automatic teller machines (ATM’s),point-of-sale (POS) terminals not mechanically operated"
+  },
+  {
+    "row-list": 2620,
+    "row-list 2": 26209,
+    "row-list 3": "Manufacture of computers and peripheral equipment n.e.c."
+  },
+  {
+    "row-list": 2630,
+    "row-list 2": 26301,
+    "row-list 3": "Manufacture of radio and television studio and broadcasting equipment,including television cameras"
+  },
+  {
+    "row-list": 2630,
+    "row-list 2": 26302,
+    "row-list 3": "Manufacture of telephone and facsimile equipment, including telephone answering machines, PBX"
+  },
+  {
+    "row-list": 2630,
+    "row-list 2": 26303,
+    "row-list 3": "Manufacture of data communications equipment, such as bridges, routers, and gateways"
+  },
+  {
+    "row-list": 2630,
+    "row-list 2": 26304,
+    "row-list 3": "Manufacture of cable television equipment, transmitting and receiving antenna including dish, VSAT"
+  },
+  {
+    "row-list": 2630,
+    "row-list 2": 26305,
+    "row-list 3": "Manufacture of pagers, cellular phones and other mobile communication equipment"
+  },
+  {
+    "row-list": 2630,
+    "row-list 2": 26309,
+    "row-list 3": "Manufacture of other communication equipments n.e.c."
+  },
+  {
+    "row-list": 2640,
+    "row-list 2": 26401,
+    "row-list 3": "Manufacture of televisions, television monitors and displays"
+  },
+  {
+    "row-list": 2640,
+    "row-list 2": 26402,
+    "row-list 3": "Manufacture video cassette recorders and duplicating equipment"
+  },
+  {
+    "row-list": 2640,
+    "row-list 2": 26403,
+    "row-list 3": "Manufacture of audio recording and duplicating systems"
+  },
+  {
+    "row-list": 2640,
+    "row-list 2": 26404,
+    "row-list 3": "Manufacture of radio receivers"
+  },
+  {
+    "row-list": 2640,
+    "row-list 2": 26405,
+    "row-list 3": "Manufacture of stereo equipment, speaker systems, amplifiers for musical instruments and public address systems, microphones, karaoke machines,headphones (e.g. radio, stereo, computer)"
+  },
+  {
+    "row-list": 2640,
+    "row-list 2": 26406,
+    "row-list 3": "Manufacture of CD and DVD players"
+  },
+  {
+    "row-list": 2640,
+    "row-list 2": 26409,
+    "row-list 3": "Manufacture of other electronic consumer goods n.e.c. (this includes non-television video camera)"
+  },
+  {
+    "row-list": 2651,
+    "row-list 2": 26511,
+    "row-list 3": "Manufacture of physical properties testing and inspection equipment"
+  },
+  {
+    "row-list": 2651,
+    "row-list 2": 26512,
+    "row-list 3": "Manufacture of automotive emissions testing equipment"
+  },
+  {
+    "row-list": 2651,
+    "row-list 2": 26513,
+    "row-list 3": "Manufacture of consumption meters for electricity, water or gas, flow meters and counting meters"
+  },
+  {
+    "row-list": 2651,
+    "row-list 2": 26514,
+    "row-list 3": "Manufacture of meteorological instruments"
+  },
+  {
+    "row-list": 2651,
+    "row-list 2": 26515,
+    "row-list 3": "Manufacture of radar equipment, GPS devices, search, detection, navigation,"
+  },
+  {
+    "row-list": 2651,
+    "row-list 2": 26516,
+    "row-list 3": "aeronautical and nautical equipment"
+  },
+  {
+    "row-list": 2651,
+    "row-list 2": 26517,
+    "row-list 3": "Manufacture  of  laboratory  analytical  instruments  and  miscellaneous laboratory apparatus for measuring and testing such as scales, balances,incubators etc."
+  },
+  {
+    "row-list": 2651,
+    "row-list 2": 26519,
+    "row-list 3": "Manufacture of industrial process control equipment"
+  },
+  {
+    "row-list": 2652,
+    "row-list 2": 26521,
+    "row-list 3": "Manufacture of watches and clocks, including instrument panel clocks (except time-recording equipment)"
+  },
+  {
+    "row-list": 2652,
+    "row-list 2": 26522,
+    "row-list 3": "Manufacture of components for clocks and watches (springs, jewels, dials, hands, plates, bridges and other parts); watch and clock cases, including cases of precious metals"
+  },
+  {
+    "row-list": 2652,
+    "row-list 2": 26523,
+    "row-list 3": "Manufacture of time-recording equipments such as time-clock, parking meters etc."
+  },
+  {
+    "row-list": 2652,
+    "row-list 2": 26529,
+    "row-list 3": "Manufacture of other watches and clocks n.e.c."
+  },
+  {
+    "row-list": 2660,
+    "row-list 2": 26600,
+    "row-list 3": "Manufacture   of   irradiation,   electromedical   and   electrotherapeutic"
+  },
+  {
+    "row-list": 2670,
+    "row-list 2": 26700,
+    "row-list 3": "Manufacture of optical instruments and equipment"
+  },
+  {
+    "row-list": 2680,
+    "row-list 2": 26800,
+    "row-list 3": "Manufacture of magnetic and optical media"
+  },
+  {
+    "row-list": 2710,
+    "row-list 2": 27101,
+    "row-list 3": "Manufacture of power generators (except battery charging alternators for internal combustion engines), motor generator sets (except turbine generator set units)"
+  },
+  {
+    "row-list": 2710,
+    "row-list 2": 27102,
+    "row-list 3": "Manufacture  of  electric  power  distribution  transformers,  arc-welding transformers, fluorescent ballasts, transmission and distribution voltage regulators"
+  },
+  {
+    "row-list": 2710,
+    "row-list 2": 27103,
+    "row-list 3": "Manufacture of electric motors (except internal combustion engine starting motors)"
+  },
+  {
+    "row-list": 2710,
+    "row-list 2": 27104,
+    "row-list 3": "Manufacture of electricity distribution and control apparatus (electrical apparatus for switching or protecting electrical circuits (e.g. switches, fuses, voltage limiters, surge suppressors, junction boxes etc.) for a voltage other bases equipped with two or more of the above apparatus for electricity control or distribution of electricity including power capacitors.)"
+  },
+  {
+    "row-list": 2720,
+    "row-list 2": 27201,
+    "row-list 3": "Manufacture of primary cells and primary batteries nd rechargable batteries, cells containing manganese oxide, mercuric oxide silver oxide or other material"
+  },
+  {
+    "row-list": 2720,
+    "row-list 2": 27202,
+    "row-list 3": "Manufacture of electric accumulator incuding parts thereof (separators, containers, covers)"
+  },
+  {
+    "row-list": 2731,
+    "row-list 2": 27310,
+    "row-list 3": "Manufacture of fibre optic cables for data transmission or live transmission of images"
+  },
+  {
+    "row-list": 2732,
+    "row-list 2": 27320,
+    "row-list 3": "Manufacture of other electronic and electric wires and cables (insulated wire and cable made of steel, copper, aluminium)"
+  },
+  {
+    "row-list": 2733,
+    "row-list 2": 27331,
+    "row-list 3": "Manufacture of switch, switch box, lamp holders, lugs etc."
+  },
+  {
+    "row-list": 2733,
+    "row-list 2": 27339,
+    "row-list 3": "Manufacture of other wiring devices and fittings n.e.c."
+  },
+  {
+    "row-list": 2740,
+    "row-list 2": 27400,
+    "row-list 3": "Manufacture of electric lighting equipment"
+  },
+  {
+    "row-list": 2750,
+    "row-list 2": 27501,
+    "row-list 3": "Manufacture of domestic electric appliances such as refrigerators, washing machines, vacuum cleaners, mixers, grinders etc."
+  },
+  {
+    "row-list": 2750,
+    "row-list 2": 27502,
+    "row-list 3": "Manufacture of domestic electrothermic appliances such as electric water"
+  },
+  {
+    "row-list": 2750,
+    "row-list 2": 27503,
+    "row-list 3": "heaters, space heaters, irons, ovens, toasters, microwave ovens etc"
+  },
+  {
+    "row-list": 2750,
+    "row-list 2": 27504,
+    "row-list 3": "Manufacture of electric fans (except exhaust fans)"
+  },
+  {
+    "row-list": 2750,
+    "row-list 2": 27509,
+    "row-list 3": "Manufacture of domestic non-electric cooking and heating equipment such as non-electric space heaters, cooking ranges, grates, stoves, water heaters, cooking appliances, plate warmers"
+  },
+  {
+    "row-list": 2790,
+    "row-list 2": 27900,
+    "row-list 3": "Manufacture of other electrical equipment"
+  },
+  {
+    "row-list": 2811,
+    "row-list 2": 28110,
+    "row-list 3": "Manufacture of engines and turbines, except aircraft, vehicle and cycle engines"
+  },
+  {
+    "row-list": 2812,
+    "row-list 2": 28120,
+    "row-list 3": "Manufacture of fluid power equipment"
+  },
+  {
+    "row-list": 2813,
+    "row-list 2": 28131,
+    "row-list 3": "Manufacture of hand pumps"
+  },
+  {
+    "row-list": 2813,
+    "row-list 2": 28132,
+    "row-list 3": "Manufacture of other pumps, compressors, taps and valves etc."
+  },
+  {
+    "row-list": 2814,
+    "row-list 2": 28140,
+    "row-list 3": "Manufacture of bearings, gears, gearing and driving elements"
+  },
+  {
+    "row-list": 2815,
+    "row-list 2": 28150,
+    "row-list 3": "Manufacture of ovens, furnaces and furnace burners"
+  },
+  {
+    "row-list": 2816,
+    "row-list 2": 28161,
+    "row-list 3": "Manufacture of lifts, escalators and moving walkways"
+  },
+  {
+    "row-list": 2816,
+    "row-list 2": 28162,
+    "row-list 3": "Manufacture of other lifting and handling equipment and parts thereof"
+  },
+  {
+    "row-list": 2817,
+    "row-list 2": 28170,
+    "row-list 3": "Manufacture of office machinery and equipment"
+  },
+  {
+    "row-list": 2818,
+    "row-list 2": 28180,
+    "row-list 3": "Manufacture of power-driven hand tools"
+  },
+  {
+    "row-list": 2819,
+    "row-list 2": 28191,
+    "row-list 3": "Manufacture of refrigerating or freezing equipment f industrial use, including assemblies of major components"
+  },
+  {
+    "row-list": 2819,
+    "row-list 2": 28192,
+    "row-list 3": "Manufacture of air-conditioning machines, including motor vehicles air-conditioners"
+  },
+  {
+    "row-list": 2819,
+    "row-list 2": 28193,
+    "row-list 3": "Manufacture of fire extinguishers and other equipment for projecting,dispersing or spraying liquids or powders whether or not hand-operated,including sand blasting machines, stream cleaning machines etc."
+  },
+  {
+    "row-list": 2819,
+    "row-list 2": 28194,
+    "row-list 3": "Manufacture  of  weighing  machinery(other  than  sensitive  laboratory balances)"
+  },
+  {
+    "row-list": 2819,
+    "row-list 2": 28195,
+    "row-list 3": "Manufacture of filtering and purifying machinery or apparatus for liquids and gases"
+  },
+  {
+    "row-list": 2819,
+    "row-list 2": 28199,
+    "row-list 3": "Manufacture of other general purpose machinery n.e.c. ( fans intended for industrial applications, exhaust hoods for commercial, laboratory or industrial use; calendering or other rolling machines other than for metals or glass; gaskets and similar joints made of a combination of materials or layers of the same material and other general purpose machinery including manufacture of parts and accessories for general purpose machinery and equipment.)"
+  },
+  {
+    "row-list": 2821,
+    "row-list 2": 28211,
+    "row-list 3": "Manufacture of tractors used in agriculture and forestry"
+  },
+  {
+    "row-list": 2821,
+    "row-list 2": 28212,
+    "row-list 3": "Manufacture of ploughs, manure spreaders, seeders, harrows and similar agricultural machinery for soil preparation, planting or fertilizing, harvesting or threshing machinery"
+  },
+  {
+    "row-list": 2821,
+    "row-list 2": 28213,
+    "row-list 3": "Manufacture of spraying machinery for agricultural use"
+  },
+  {
+    "row-list": 2821,
+    "row-list 2": 28219,
+    "row-list 3": "Manufacture of other agricultural and forestry machinery n.e.c."
+  },
+  {
+    "row-list": 2822,
+    "row-list 2": 28221,
+    "row-list 3": "Manufacture  of  machine  tools  for  turning,  drilling,  milling,  shaping,planning, boring, grinding etc."
+  },
+  {
+    "row-list": 2822,
+    "row-list 2": 28222,
+    "row-list 3": "Manufacture of electroplating machinery"
+  },
+  {
+    "row-list": 2822,
+    "row-list 2": 28223,
+    "row-list 3": "Manufacture of parts and accessories for the machine tools listed above"
+  },
+  {
+    "row-list": 2822,
+    "row-list 2": 28229,
+    "row-list 3": "Manufacture of metal-forming machinery and machine tools n.e.c"
+  },
+  {
+    "row-list": 2823,
+    "row-list 2": 28230,
+    "row-list 3": "Manufacture of machinery for metallurgy"
+  },
+  {
+    "row-list": 2824,
+    "row-list 2": 28241,
+    "row-list 3": "Manufacture of continuous-action elevators and conveyors for underground use"
+  },
+  {
+    "row-list": 2824,
+    "row-list 2": 28242,
+    "row-list 3": "Manufacture of boring, cutting, sinking and tunnelling machinery (whether or not for underground use)"
+  },
+  {
+    "row-list": 2824,
+    "row-list 2": 28243,
+    "row-list 3": "Manufacture of earth-moving machinery (bulldozers, angle-dozers, graders scrapers, levellers, mechanical shovels, shovel loaders, off-road dumping trucks etc.)"
+  },
+  {
+    "row-list": 2824,
+    "row-list 2": 28244,
+    "row-list 3": "Manufacture of tracklaying tractors and tractors used in construction or mining"
+  },
+  {
+    "row-list": 2824,
+    "row-list 2": 28245,
+    "row-list 3": "Manufacture of concrete and mortar mixers, piledrivers and pile-extractors,mortar spreaders, bitumen spreaders, concrete surfacing machinery"
+  },
+  {
+    "row-list": 2824,
+    "row-list 2": 28246,
+    "row-list 3": "Manufacture of parts and accessories for machinery/equipment used by construction and mining industries"
+  },
+  {
+    "row-list": 2824,
+    "row-list 2": 28249,
+    "row-list 3": "Manufacture of other machinery for mining, quarrying and construction n.e.c."
+  },
+  {
+    "row-list": 2825,
+    "row-list 2": 28251,
+    "row-list 3": "Manufacture of machinery for the dairy industry"
+  },
+  {
+    "row-list": 2825,
+    "row-list 2": 28252,
+    "row-list 3": "Manufacture of machinery for the grain milling industry"
+  },
+  {
+    "row-list": 2825,
+    "row-list 2": 28253,
+    "row-list 3": "Manufacture of presses, crushers etc. used to make wine, cider, fruit juices etc."
+  },
+  {
+    "row-list": 2825,
+    "row-list 2": 28254,
+    "row-list 3": "Manufacture of machinery for the bakery industry or for making macaroni,noodles, pasta etc."
+  },
+  {
+    "row-list": 2825,
+    "row-list 2": 28255,
+    "row-list 3": "Manufacture of machinery for the extraction or preparation of animal or vegetable fats or oils"
+  },
+  {
+    "row-list": 2825,
+    "row-list 2": 28256,
+    "row-list 3": "Manufacture of machinery for the preparation of tobacco and for the making of cigarettes or cigars, or for pipe or chewing tobacco or snuff"
+  },
+  {
+    "row-list": 2825,
+    "row-list 2": 28259,
+    "row-list 3": "Manufacture of other machinery for the industrial preparation or manufacture of food or drink n.e.c. (including tea or coffee making machines)"
+  },
+  {
+    "row-list": 2826,
+    "row-list 2": 28261,
+    "row-list 3": "Manufacture  of  machinery  for  preparation  of  textile  fibers,  spinning machines, machines for preparing textile yarns, weaving machines (looms) including hand looms, knitting machines"
+  },
+  {
+    "row-list": 2826,
+    "row-list 2": 28262,
+    "row-list 3": "Manufacture of textile printing machinery"
+  },
+  {
+    "row-list": 2826,
+    "row-list 2": 28263,
+    "row-list 3": "Manufacture  of  machinery  for  washing,  bleaching,  dyeing,  dressing, finishing coating or impregnating textile fabrics, machines for reeling, unreeling, folding, cutting or pinking textile fabrics, and similar machinery for fabric processing"
+  },
+  {
+    "row-list": 2826,
+    "row-list 2": 28264,
+    "row-list 3": "Manufacture of ironing machines, commercial washing and drying machines, dry-cleaning machines and other laundry machinery"
+  },
+  {
+    "row-list": 2826,
+    "row-list 2": 28265,
+    "row-list 3": "Manufacture of sewing machines, sewing machine heads and sewing machine needles (whether or not for household use)"
+  },
+  {
+    "row-list": 2826,
+    "row-list 2": 28266,
+    "row-list 3": "Manufacture of machinery for preparing, tanning or working hides, skins or leather, machinery for making or repairing footwear or other articles of hides, skins, leather or fur skins"
+  },
+  {
+    "row-list": 2826,
+    "row-list 2": 28269,
+    "row-list 3": "Manufacture of other machinery for textiles, apparel and leather production n.e.c."
+  },
+  {
+    "row-list": 2829,
+    "row-list 2": 28291,
+    "row-list 3": "Manufacture of machinery for making paper pulp, paper, paperboard and articles of paper board"
+  },
+  {
+    "row-list": 2829,
+    "row-list 2": 28292,
+    "row-list 3": "Manufacture of machinery for working soft rubber or plastics or for the manufacture of products of these materials"
+  },
+  {
+    "row-list": 2829,
+    "row-list 2": 28293,
+    "row-list 3": "Manufacture of printing and bookbinding machines and machines for activities supporting printing on a variety of materials (other than textiles)"
+  },
+  {
+    "row-list": 2829,
+    "row-list 2": 28299,
+    "row-list 3": "Manufacture of other special-purpose machinery n.e.c."
+  },
+  {
+    "row-list": 2910,
+    "row-list 2": 29101,
+    "row-list 3": "Manufacture of passenger cars"
+  },
+  {
+    "row-list": 2910,
+    "row-list 2": 29102,
+    "row-list 3": "Manufacture of commercial vehicles such as vans, lorries, over-the-road tractors for semi-trailers etc."
+  },
+  {
+    "row-list": 2910,
+    "row-list 2": 29103,
+    "row-list 3": "Manufacture of chassis fitted with engines for the motor vehicles included in this class"
+  },
+  {
+    "row-list": 2910,
+    "row-list 2": 29104,
+    "row-list 3": "Manufacture of motor vehicle engines"
+  },
+  {
+    "row-list": 2910,
+    "row-list 2": 29109,
+    "row-list 3": "Manufacture of motor vehicles n.e.c."
+  },
+  {
+    "row-list": 2920,
+    "row-list 2": 29201,
+    "row-list 3": "Manufacture of bodies, including cabs for motor vehicles"
+  },
+  {
+    "row-list": 2920,
+    "row-list 2": 29202,
+    "row-list 3": "Manufacture  of  trailers  and  semi-trailers  for  transport  of  goods  or passengers"
+  },
+  {
+    "row-list": 2920,
+    "row-list 2": 29209,
+    "row-list 3": "Manufacture of other attachments to motor vehicles n.e.c."
+  },
+  {
+    "row-list": 2930,
+    "row-list 2": 29301,
+    "row-list 3": "Manufacture of diverse parts and accessories for motor vehecles sucs as brakes, gearboxes, axles, road wheels, suspension shock absorbers, radiators, silencers, exhaust pipes, catalysers, clutches, steering wheels, steering columns and steering boxes etc."
+  },
+  {
+    "row-list": 2930,
+    "row-list 2": 29302,
+    "row-list 3": "Manufacture of parts and accessories of bodies for motor vehicles such as safety belts, airbags, doors, bumpers"
+  },
+  {
+    "row-list": 2930,
+    "row-list 2": 29303,
+    "row-list 3": "Manufacture of car seats"
+  },
+  {
+    "row-list": 2930,
+    "row-list 2": 29304,
+    "row-list 3": "Manufacture of motor vehicle electrical equipment, such as generators, alternators, spark plugs, ignition wiring harnesses, power window and door systems, assembly of purchased gauges into instrument panels, voltage regulators, etc."
+  },
+  {
+    "row-list": 3011,
+    "row-list 2": 30111,
+    "row-list 3": "Building of commercial vessels: passenger vessels, ferry-boats, cargo ships, tankers, tugs, hovercraft (except recreation-type hovercraft) etc."
+  },
+  {
+    "row-list": 3011,
+    "row-list 2": 30112,
+    "row-list 3": "Building of warships and scientific investigation ships etc."
+  },
+  {
+    "row-list": 3011,
+    "row-list 2": 30113,
+    "row-list 3": "Building of fishing boats and fish-processing factory vessels"
+  },
+  {
+    "row-list": 3011,
+    "row-list 2": 30114,
+    "row-list 3": "Construction of floating or submersible drilling platforms"
+  },
+  {
+    "row-list": 3011,
+    "row-list 2": 30115,
+    "row-list 3": "Construction of floating structures ( floating docks, pontoons, coffer-dams, floating landing stages, buoys, floating tanks, barges, lighters, floating cranes, non-recreational inflatable rafts etc.)"
+  },
+  {
+    "row-list": 3012,
+    "row-list 2": 30120,
+    "row-list 3": "Building of pleasure and sporting boats"
+  },
+  {
+    "row-list": 3020,
+    "row-list 2": 30201,
+    "row-list 3": "Manufacture of electric, diesel, steam and other rail locomotives"
+  },
+  {
+    "row-list": 3020,
+    "row-list 2": 30202,
+    "row-list 3": "Manufacture of self-propelled railway or tramway coaches, vans and trucks,maintenance or service vehicles"
+  },
+  {
+    "row-list": 3020,
+    "row-list 2": 30203,
+    "row-list 3": "Manufacture  of  railway  or  tramway  rolling  stock,  not  self-propelled (passenger coaches, goods vans tank wagons, self-discharging vans and wagons, workshop vans, crane vans, tenders etc."
+  },
+  {
+    "row-list": 3020,
+    "row-list 2": 30204,
+    "row-list 3": "Manufacture of specialized parts of railway or tramway locomotives or of rolling stock (bogies, axles and wheels, brakes and parts of brakes; hooks and coupling devices, buffers and buffer parts; shock absorbers; wagon and locomotive frames; bodies; corridor connections etc.)"
+  },
+  {
+    "row-list": 3020,
+    "row-list 2": 30205,
+    "row-list 3": "Manufacture of mechanical and electro-mechanical signalling safety and traffic control equipment for railways, tramways, inland waterways, roads, parking facilities, airfields etc."
+  },
+  {
+    "row-list": 3020,
+    "row-list 2": 30206,
+    "row-list 3": "Manufacture of mining locomotives and mining rail cars"
+  },
+  {
+    "row-list": 3030,
+    "row-list 2": 30301,
+    "row-list 3": "Manufacture of airplanes"
+  },
+  {
+    "row-list": 3030,
+    "row-list 2": 30302,
+    "row-list 3": "Manufacture of helicopters"
+  },
+  {
+    "row-list": 3030,
+    "row-list 2": 30303,
+    "row-list 3": "Manufacture of gliders, hang-gliders, dirigibles and hot air balloons and other non-powered aircraft"
+  },
+  {
+    "row-list": 3030,
+    "row-list 2": 30304,
+    "row-list 3": "Manufacture of spacecraft and launch vehicles, satellites, planetary probes,orbital stations, shuttles, intercontinental ballistic (ICBM) and similar missiles"
+  },
+  {
+    "row-list": 3030,
+    "row-list 2": 30305,
+    "row-list 3": "Manufacture of parts and accessories of the aircraft and spacecraft of this class (major assemblies such as fuselages, wings, doors, control surfaces, landing gear, fuel tanks, nacelles, airscrews, helicopter rotors and propelled rotor blades, motors and engines of a kind typically found on aircraft, parts of turbojets and turbopropellers for aircraft, aircraft seats etc. and other specialised parts of spacecraft)"
+  },
+  {
+    "row-list": 3040,
+    "row-list 2": 30400,
+    "row-list 3": "Manufacture of weapons and ammunition"
+  },
+  {
+    "row-list": 3091,
+    "row-list 2": 30911,
+    "row-list 3": "Manufacture of motorcycles, scooters, mopeds etc. and their engine"
+  },
+  {
+    "row-list": 3091,
+    "row-list 2": 30912,
+    "row-list 3": "Manufacture of three-wheelers and their engine"
+  },
+  {
+    "row-list": 3091,
+    "row-list 2": 30913,
+    "row-list 3": "Manufacture of parts and accessories of three wheelers and motorcycles including side cars"
+  },
+  {
+    "row-list": 3092,
+    "row-list 2": 30921,
+    "row-list 3": "Manufacture of non-motorized bicycles and other cycles, including cycle-rickshaws, (delivery) tricycles, tandems, children’s bicycles and tricycles, baby carriages"
+  },
+  {
+    "row-list": 3092,
+    "row-list 2": 30922,
+    "row-list 3": "Manufacture of invalid carriages with or without motor"
+  },
+  {
+    "row-list": 3092,
+    "row-list 2": 30923,
+    "row-list 3": "Manufacture of parts and accessories for bicycles, cycle -rickshaws and invalid carriages"
+  },
+  {
+    "row-list": 3099,
+    "row-list 2": 30991,
+    "row-list 3": "Manufacture of vehicles drawn by animals"
+  },
+  {
+    "row-list": 3099,
+    "row-list 2": 30999,
+    "row-list 3": "Manufacture of other transport equipments n.e.c. such as pushcarts, handcarts etc"
+  },
+  {
+    "row-list": 3100,
+    "row-list 2": 31001,
+    "row-list 3": "Manufacture of furniture made of wood"
+  },
+  {
+    "row-list": 3100,
+    "row-list 2": 31002,
+    "row-list 3": "Manufacture of furniture made of cane & reed"
+  },
+  {
+    "row-list": 3100,
+    "row-list 2": 31003,
+    "row-list 3": "Manufacture of furniture primarily of metal"
+  },
+  {
+    "row-list": 3100,
+    "row-list 2": 31004,
+    "row-list 3": "Manufacture of furniture primarily of plastic"
+  },
+  {
+    "row-list": 3100,
+    "row-list 2": 31005,
+    "row-list 3": "Manufacture of mattresses and pillows"
+  },
+  {
+    "row-list": 3100,
+    "row-list 2": 31009,
+    "row-list 3": "Manufacture of other furniture n.e.c."
+  },
+  {
+    "row-list": 3211,
+    "row-list 2": 32111,
+    "row-list 3": "Manufacture of jewellery of gold, silver and other precious or base metal metal clad with precious metals or precious or semi-precious stones, or of combinations of precious metal and precious or semi-precious stones or of other materials"
+  },
+  {
+    "row-list": 3211,
+    "row-list 2": 32112,
+    "row-list 3": "Working of diamonds and other precious and semi-precious stones including the working of industrial quality stones and synthetic or reconstructed precious or semi-precious stones"
+  },
+  {
+    "row-list": 3211,
+    "row-list 2": 32113,
+    "row-list 3": "Production of worked pearls"
+  },
+  {
+    "row-list": 3211,
+    "row-list 2": 32114,
+    "row-list 3": "Manufacture of coins, including coins for use as legal tender, whether or no of precious metal"
+  },
+  {
+    "row-list": 3211,
+    "row-list 2": 32119,
+    "row-list 3": "Manufacture of other articles of gold, silver and other precious and semi"
+  },
+  {
+    "row-list": 3212,
+    "row-list 2": 32120,
+    "row-list 3": "Manufacture of imitation jewellery and related articles"
+  },
+  {
+    "row-list": 3220,
+    "row-list 2": 32201,
+    "row-list 3": "Manufacture of stringed instruments (non-electronic)"
+  },
+  {
+    "row-list": 3220,
+    "row-list 2": 32202,
+    "row-list 3": "Manufacture of wind instruments, accordions, harmonium and similar instruments and mouth organs"
+  },
+  {
+    "row-list": 3220,
+    "row-list 2": 32203,
+    "row-list 3": "Manufacture of percussion musical instruments"
+  },
+  {
+    "row-list": 3220,
+    "row-list 2": 32204,
+    "row-list 3": "Manufacture of musical instruments, the sound of which is produced electronically"
+  },
+  {
+    "row-list": 3220,
+    "row-list 2": 32209,
+    "row-list 3": "Manufacture of other musical instruments n.e.c."
+  },
+  {
+    "row-list": 3230,
+    "row-list 2": 32300,
+    "row-list 3": "Manufacture of sports goods"
+  },
+  {
+    "row-list": 3240,
+    "row-list 2": 32401,
+    "row-list 3": "Manufacture of dolls and toy animals"
+  },
+  {
+    "row-list": 3240,
+    "row-list 2": 32402,
+    "row-list 3": "Manufacture of wheeled toys designed to be ridden, including plastic bicycles and tricycles"
+  },
+  {
+    "row-list": 3240,
+    "row-list 2": 32403,
+    "row-list 3": "Manufacture of pin-tables, coin-operated games, billiards, special tables for casino games, etc."
+  },
+  {
+    "row-list": 3240,
+    "row-list 2": 32404,
+    "row-list 3": "Manufacture of playing cards"
+  },
+  {
+    "row-list": 3240,
+    "row-list 2": 32405,
+    "row-list 3": "Manufacture of electronic games"
+  },
+  {
+    "row-list": 3240,
+    "row-list 2": 32409,
+    "row-list 3": "Manufacture of other games and toys n.e.c."
+  },
+  {
+    "row-list": 3250,
+    "row-list 2": 32501,
+    "row-list 3": "Manufacture of dental fillings and cements (except denture adhesive or cement), dental wax and other dental plaster preparations; manufacture of dental laboratory furnaces, dental instruments, artificial teeth, bridges, etc., made in dental labs"
+  },
+  {
+    "row-list": 3250,
+    "row-list 2": 32502,
+    "row-list 3": "Manufacture  of  laboratory  apparatus (laboratory  ultrasonic  cleaning machinery,  laboratory  sterilizers,  laboratory  type  distilling  apparatus, laboratory centrifuges etc.)"
+  },
+  {
+    "row-list": 3250,
+    "row-list 2": 32503,
+    "row-list 3": "Manufacture of medical, surgical, dental or veterinary furniture such as operating tables, examination tables, dentists’ chairs etc."
+  },
+  {
+    "row-list": 3250,
+    "row-list 2": 32504,
+    "row-list 3": "Manufacture  of  bone  plates  and  screws,  syringes,  needles,  catheters,cannulae, etc."
+  },
+  {
+    "row-list": 3250,
+    "row-list 2": 32505,
+    "row-list 3": "Manufacture of measuring instruments suc as thermometers etc."
+  },
+  {
+    "row-list": 3250,
+    "row-list 2": 32506,
+    "row-list 3": "Manufacture of orthopedic and prosthetic devices"
+  },
+  {
+    "row-list": 3250,
+    "row-list 2": 32507,
+    "row-list 3": "Manufacture of ophthalmic goods, eyeglasses, sunglasses, lenses ground to prescription, contact lenses, safety goggles etc."
+  },
+  {
+    "row-list": 3250,
+    "row-list 2": 32509,
+    "row-list 3": "Manufacture of other medical and dental instruments n.e.c."
+  },
+  {
+    "row-list": 3290,
+    "row-list 2": 32901,
+    "row-list 3": "Manufacture of stationary articles such as pens and pencils of all kinds whether or not mechanical, pencil leads, date, sealing or numbering stamps, hand-operated devices for printing or embossing labels, hand printing sets prepared typewriter ribbons and inked pads, globes etc."
+  },
+  {
+    "row-list": 3290,
+    "row-list 2": 32902,
+    "row-list 3": "Manufacture of protective safety equipment (fire-resistant and protective safety clothing, linemen’s safety belts and other belts for occupational use,cork life preservers, plastics hard hats and other personal safety equipment of plastics, fire-fighting protection suits, metal safety headgear and other metal personal safety devices, gas masks etc.)"
+  },
+  {
+    "row-list": 3290,
+    "row-list 2": 32903,
+    "row-list 3": "Manufacture of umbrellas, sun-umbrellas, walking sticks, seat-stick"
+  },
+  {
+    "row-list": 3290,
+    "row-list 2": 32904,
+    "row-list 3": "Manufacture of articles of personal use such as cigarette lighters, smoking pipes, combs, hair slides, scent sprays, vacuum flasks and other vacuum vessels for personal or household use, wigs, false beards, eyebrows etc."
+  },
+  {
+    "row-list": 3290,
+    "row-list 2": 32909,
+    "row-list 3": "Manufacture of other articles n.e.c."
+  },
+  {
+    "row-list": 3311,
+    "row-list 2": 33111,
+    "row-list 3": "Repair and maintenance of structural products"
+  },
+  {
+    "row-list": 3311,
+    "row-list 2": 33112,
+    "row-list 3": "Repair and maintenance of pipes and pipelines"
+  },
+  {
+    "row-list": 3311,
+    "row-list 2": 33113,
+    "row-list 3": "Repair and maintenance of metal tanks, reservoirs, containers, steel shipping drums etc."
+  },
+  {
+    "row-list": 3311,
+    "row-list 2": 33114,
+    "row-list 3": "Repair and maintenance of steam or other vapour generators and auxiliary plant for use with steam generators such as condensers, economizers, superheaters, steam collectors and accumulators"
+  },
+  {
+    "row-list": 3311,
+    "row-list 2": 33119,
+    "row-list 3": "Repair and maintenance of other fabricated metal products"
+  },
+  {
+    "row-list": 3312,
+    "row-list 2": 33121,
+    "row-list 3": "Repair and maintenance of engines and turbines excluding aircraft, vehicle and cycle engines"
+  },
+  {
+    "row-list": 3312,
+    "row-list 2": 33122,
+    "row-list 3": "Repair and maintenance of pumps and related equipment, fluid power equipment, valves"
+  },
+  {
+    "row-list": 3312,
+    "row-list 2": 33123,
+    "row-list 3": "Repair and maintenance of metal cutting and metal forming machine tools and accessories, power-driven hand-tools and other machine tools"
+  },
+  {
+    "row-list": 3312,
+    "row-list 2": 33124,
+    "row-list 3": "Repair and maintenance of agricultural machinery and forestry and logging machinery including agricultural tractors"
+  },
+  {
+    "row-list": 3312,
+    "row-list 2": 33125,
+    "row-list 3": "Repair and maintenance of mining, construction, and oil and gas field machinery; metallurgy machinery"
+  },
+  {
+    "row-list": 3312,
+    "row-list 2": 33126,
+    "row-list 3": "Repair  and  maintenance  of  food,  beverage,  and  tobacco  processing machinery"
+  },
+  {
+    "row-list": 3312,
+    "row-list 2": 33127,
+    "row-list 3": "Repair and maintenance of textile apparel, leather production machinery and papermaking machinery"
+  },
+  {
+    "row-list": 3312,
+    "row-list 2": 33129,
+    "row-list 3": "Repair and maintenance of other special purpose machinery of division machines, calculators, typewriters etc.)"
+  },
+  {
+    "row-list": 3313,
+    "row-list 2": 33131,
+    "row-list 3": "Repair and maintenance of measuring, testing, navigating and control equipment of group 265"
+  },
+  {
+    "row-list": 3313,
+    "row-list 2": 33132,
+    "row-list 3": "Repair and maintenance of irradiation, electromedical and electro theraputic equipmemts of class 2660"
+  },
+  {
+    "row-list": 3313,
+    "row-list 2": 33133,
+    "row-list 3": "Repair and maintenance of optical instruments and equipment of class 2670"
+  },
+  {
+    "row-list": 3314,
+    "row-list 2": 33140,
+    "row-list 3": "Repair of electrical equipment"
+  },
+  {
+    "row-list": 3315,
+    "row-list 2": 33150,
+    "row-list 3": "Repair of transport equipment, except motor vehicles"
+  },
+  {
+    "row-list": 3319,
+    "row-list 2": 33190,
+    "row-list 3": "Repair of other equipment"
+  },
+  {
+    "row-list": 3320,
+    "row-list 2": 33200,
+    "row-list 3": "Installation of industrial machinery and equipment"
+  },
+  {
+    "row-list": 3510,
+    "row-list 2": 35101,
+    "row-list 3": "Electric power generation by hydroelectric power plants"
+  },
+  {
+    "row-list": 3510,
+    "row-list 2": 35102,
+    "row-list 3": "Electric power generation by coal based thermal power plants"
+  },
+  {
+    "row-list": 3510,
+    "row-list 2": 35103,
+    "row-list 3": "Electric power generation by non-coal based thermal (e.g. diesel, gas )"
+  },
+  {
+    "row-list": 3510,
+    "row-list 2": 35104,
+    "row-list 3": "Electric power generation and transmission by nuclear power plants"
+  },
+  {
+    "row-list": 3510,
+    "row-list 2": 35105,
+    "row-list 3": "Electric power generation using solar energy"
+  },
+  {
+    "row-list": 3510,
+    "row-list 2": 35106,
+    "row-list 3": "Electric power generation using other non conventional sources"
+  },
+  {
+    "row-list": 3510,
+    "row-list 2": 35107,
+    "row-list 3": "Transmission of electric energy"
+  },
+  {
+    "row-list": 3510,
+    "row-list 2": 35109,
+    "row-list 3": "Collection and distribution of electric energy to households, industrial, commercial and other users n.e.c."
+  },
+  {
+    "row-list": 3520,
+    "row-list 2": 35201,
+    "row-list 3": "Manufacture of gas"
+  },
+  {
+    "row-list": 3520,
+    "row-list 2": 35202,
+    "row-list 3": "Disrtibution and sale of gaseous fuels through mains"
+  },
+  {
+    "row-list": 3530,
+    "row-list 2": 35301,
+    "row-list 3": "Production, collection and distribution of steam and hot water for heating, power and other purposes"
+  },
+  {
+    "row-list": 3530,
+    "row-list 2": 35302,
+    "row-list 3": "Production and distribution of cooled air and chilled water for cooling purposes"
+  },
+  {
+    "row-list": 3530,
+    "row-list 2": 35303,
+    "row-list 3": "Production of ice, including ice for food and non-food (e.g. cooling) purposes"
+  },
+  {
+    "row-list": 3600,
+    "row-list 2": 36000,
+    "row-list 3": "Water collection, treatment and supply"
+  },
+  {
+    "row-list": 3700,
+    "row-list 2": 37001,
+    "row-list 3": "The operation and maintenance of sewer systems"
+  },
+  {
+    "row-list": 3700,
+    "row-list 2": 37002,
+    "row-list 3": "Collecting and transporting of human or industrial waste water or rain water by means of sewerage networks, collectors, tanks and other means of transport (sewage vehicles etc.)"
+  },
+  {
+    "row-list": 3700,
+    "row-list 2": 37003,
+    "row-list 3": "Treatment of waste water or sewer by means of physical, chemical or biological processes"
+  },
+  {
+    "row-list": 3811,
+    "row-list 2": 38110,
+    "row-list 3": "Collection of non-hazardous waste"
+  },
+  {
+    "row-list": 3812,
+    "row-list 2": 38120,
+    "row-list 3": "Collection of hazardous waste"
+  },
+  {
+    "row-list": 3821,
+    "row-list 2": 38210,
+    "row-list 3": "Treatment and disposal of non-hazardous waste"
+  },
+  {
+    "row-list": 3822,
+    "row-list 2": 38221,
+    "row-list 3": "Treatment and disposal of toxic live or dead animals and other, contaminated waste, disposal of used goods; incineration of hazardous waste"
+  },
+  {
+    "row-list": 3822,
+    "row-list 2": 38222,
+    "row-list 3": "Treatment, disposal and storage of radioactive nuclear waste"
+  },
+  {
+    "row-list": 3830,
+    "row-list 2": 38300,
+    "row-list 3": "Materials recovery"
+  },
+  {
+    "row-list": 3900,
+    "row-list 2": 39000,
+    "row-list 3": "Remediation activities and other waste management services"
+  },
+  {
+    "row-list": 4100,
+    "row-list 2": 41001,
+    "row-list 3": "Construction of buildings carried out on own-account basis or on a fee or contract basis"
+  },
+  {
+    "row-list": 4100,
+    "row-list 2": 41002,
+    "row-list 3": "Activities relating to alteration, addition, repair, maintenance carried out on own-account basis or on a fee or contract basis"
+  },
+  {
+    "row-list": 4100,
+    "row-list 2": 41003,
+    "row-list 3": "Assembly and erection of prefabricated constructions on the site"
+  },
+  {
+    "row-list": 4210,
+    "row-list 2": 42101,
+    "row-list 3": "Construction and maintenance of motorways, streets, roads, other vehicular and pedestrian ways, highways, bridges, tunnels and subways"
+  },
+  {
+    "row-list": 4210,
+    "row-list 2": 42102,
+    "row-list 3": "Construction and maintenance of railways and rail-bridges"
+  },
+  {
+    "row-list": 4210,
+    "row-list 2": 42103,
+    "row-list 3": "Construction and maintenance of airfield runways"
+  },
+  {
+    "row-list": 4220,
+    "row-list 2": 42201,
+    "row-list 3": "Construction and maintenance of power plants"
+  },
+  {
+    "row-list": 4220,
+    "row-list 2": 42202,
+    "row-list 3": "Construction/erection and maintenance of power, telecommunication and transmission lines"
+  },
+  {
+    "row-list": 4220,
+    "row-list 2": 42203,
+    "row-list 3": "Construction of long distance pipelines or urban pipelines"
+  },
+  {
+    "row-list": 4220,
+    "row-list 2": 42204,
+    "row-list 3": "Construction and maintenance of water main and line connection, water reservoirs including irrigation system (canal)"
+  },
+  {
+    "row-list": 4220,
+    "row-list 2": 42205,
+    "row-list 3": "Construction and repair of sewer systems including sewage disposal plants and pumping stations"
+  },
+  {
+    "row-list": 4220,
+    "row-list 2": 42206,
+    "row-list 3": "Water well drilling"
+  },
+  {
+    "row-list": 4220,
+    "row-list 2": 42209,
+    "row-list 3": "Construction of utility projects n.e.c."
+  },
+  {
+    "row-list": 4290,
+    "row-list 2": 42901,
+    "row-list 3": "Construction and maintenance of industrial facilities such as refineries chemical plants etc."
+  },
+  {
+    "row-list": 4290,
+    "row-list 2": 42902,
+    "row-list 3": "Construction  of  waterways,  harbours  and  river  works,  dredging  of waterways"
+  },
+  {
+    "row-list": 4290,
+    "row-list 2": 42903,
+    "row-list 3": "Construction of dams etc."
+  },
+  {
+    "row-list": 4290,
+    "row-list 2": 42904,
+    "row-list 3": "Construction of outdoor sports facilities"
+  },
+  {
+    "row-list": 4290,
+    "row-list 2": 42909,
+    "row-list 3": "Other civil engineering projects n.e.c."
+  },
+  {
+    "row-list": 4311,
+    "row-list 2": 43110,
+    "row-list 3": "Demolition"
+  },
+  {
+    "row-list": 4312,
+    "row-list 2": 43121,
+    "row-list 3": "Site  preparation  for  mining  including  overburden  removal  and  other development and preparation of mineral properties and sites except oil and gas sites"
+  },
+  {
+    "row-list": 4312,
+    "row-list 2": 43122,
+    "row-list 3": "Site preparation including drilling, boring and core sampling for construction, geophysical, geological or similar purposes"
+  },
+  {
+    "row-list": 4312,
+    "row-list 2": 43123,
+    "row-list 3": "Clearing of building sites, earth moving: excavation, landfill, levelling and grading of construction sites, trench digging, rock removal, blasting etc."
+  },
+  {
+    "row-list": 4312,
+    "row-list 2": 43129,
+    "row-list 3": "Other site preparation activities n.e.c."
+  },
+  {
+    "row-list": 4321,
+    "row-list 2": 43211,
+    "row-list 3": "Installation of electrical wiring and fittings"
+  },
+  {
+    "row-list": 4321,
+    "row-list 2": 43212,
+    "row-list 3": "Installation of telecommunications wiring, computer network and cable television wiring, including fibre optic, satellite dishes"
+  },
+  {
+    "row-list": 4321,
+    "row-list 2": 43213,
+    "row-list 3": "Installation of street lighting and electrical signals"
+  },
+  {
+    "row-list": 4321,
+    "row-list 2": 43214,
+    "row-list 3": "Installation of fire alarm system and burgler alarm system"
+  },
+  {
+    "row-list": 4321,
+    "row-list 2": 43219,
+    "row-list 3": "Other electrical electrical installation n.e.c."
+  },
+  {
+    "row-list": 4322,
+    "row-list 2": 43221,
+    "row-list 3": "Installation of plumbing for water, gas and sanitation equipments"
+  },
+  {
+    "row-list": 4322,
+    "row-list 2": 43222,
+    "row-list 3": "Installation of heating systems (electric, gas and oil), furnaces, cooling towers, non-electric solar energy collectors etc."
+  },
+  {
+    "row-list": 4322,
+    "row-list 2": 43229,
+    "row-list 3": "Other plumbing, heat and air conditioning activities n.e.c."
+  },
+  {
+    "row-list": 4329,
+    "row-list 2": 43291,
+    "row-list 3": "Installation of elevators, escalators"
+  },
+  {
+    "row-list": 4329,
+    "row-list 2": 43292,
+    "row-list 3": "Installation of thermal, sound or vibration insulation system in buildings"
+  },
+  {
+    "row-list": 4329,
+    "row-list 2": 43299,
+    "row-list 3": "Other construction projects n.e.c."
+  },
+  {
+    "row-list": 4330,
+    "row-list 2": 43301,
+    "row-list 3": "Installation of doors, windows, door and window frames, fitted kitchens, of wood or other materials"
+  },
+  {
+    "row-list": 4330,
+    "row-list 2": 43302,
+    "row-list 3": "Interior completion such as ceilings, wooden wall coverings, movable partitions etc. ; Laying of parquet and other wood floor coverings, carpets and linoleum, wallpaper; tiling with ceramic, concrete or cut stone ceramic etc"
+  },
+  {
+    "row-list": 4330,
+    "row-list 2": 43303,
+    "row-list 3": "Interior and exterior painting, glazing, plastering and decorating of buildings or civil engineering structures"
+  },
+  {
+    "row-list": 4330,
+    "row-list 2": 43309,
+    "row-list 3": "Other building completion and finishing"
+  },
+  {
+    "row-list": 4390,
+    "row-list 2": 43900,
+    "row-list 3": "Other specialized construction activities"
+  },
+  {
+    "row-list": 4510,
+    "row-list 2": 45101,
+    "row-list 3": "Wholesale and retail sale of new vehicles (passenger motor vehicles, ambulances, minibuses, jeeps, trucks, trailers and semi-trailers)"
+  },
+  {
+    "row-list": 4510,
+    "row-list 2": 45102,
+    "row-list 3": "Wholesale and retail sale of used motor vehicles"
+  },
+  {
+    "row-list": 4520,
+    "row-list 2": 45200,
+    "row-list 3": "Maintenance and repair of motor vehicles"
+  },
+  {
+    "row-list": 4530,
+    "row-list 2": 45300,
+    "row-list 3": "Sale of motor vehicle parts and accessories"
+  },
+  {
+    "row-list": 4540,
+    "row-list 2": 45401,
+    "row-list 3": "Wholesale or retail sale of new motorcycles, mopeds, scooters and three wheelers"
+  },
+  {
+    "row-list": 4540,
+    "row-list 2": 45402,
+    "row-list 3": "Wholesale or retail sale of parts and accessories of motorcycles, mopeds, scooters and three wheelers"
+  },
+  {
+    "row-list": 4540,
+    "row-list 2": 45403,
+    "row-list 3": "Maintenance and repair of motor cycles, mopeds, scooters and three wheelers"
+  },
+  {
+    "row-list": 4610,
+    "row-list 2": 46101,
+    "row-list 3": "Activities of commission agents, brokers dealing in wholesale trade of agricultural raw material, live animals, food, beverages, intoxicants and"
+  },
+  {
+    "row-list": 4610,
+    "row-list 2": 46102,
+    "row-list 3": "textiles"
+  },
+  {
+    "row-list": 4610,
+    "row-list 2": 46103,
+    "row-list 3": "Activities of commission agents dealing in wholesale trade inwood, paper,"
+  },
+  {
+    "row-list": 4610,
+    "row-list 2": 46109,
+    "row-list 3": "skin, leather and fur, fuel, petroleum products, chemicals, perfumery and cosmetics, glass, minerals, ores and metals"
+  },
+  {
+    "row-list": 4620,
+    "row-list 2": 46201,
+    "row-list 3": "Wholesale of cereals & pulses"
+  },
+  {
+    "row-list": 4620,
+    "row-list 2": 46202,
+    "row-list 3": "Wholesale of un-manufactured tobacco, paan (betel leaf), opium, ganja, cinchona etc"
+  },
+  {
+    "row-list": 4620,
+    "row-list 2": 46203,
+    "row-list 3": "Wholesale of live animals and poultry"
+  },
+  {
+    "row-list": 4620,
+    "row-list 2": 46204,
+    "row-list 3": "Wholesale of straw, fodder & other animal/poultry feed"
+  },
+  {
+    "row-list": 4620,
+    "row-list 2": 46205,
+    "row-list 3": "Wholesale of flowers and plants"
+  },
+  {
+    "row-list": 4620,
+    "row-list 2": 46206,
+    "row-list 3": "Wholesale of hides, skins and leather"
+  },
+  {
+    "row-list": 4620,
+    "row-list 2": 46207,
+    "row-list 3": "Wholesale of oilseed oleaginous fruits"
+  },
+  {
+    "row-list": 4620,
+    "row-list 2": 46208,
+    "row-list 3": "Wholesale of sugarcane"
+  },
+  {
+    "row-list": 4620,
+    "row-list 2": 46209,
+    "row-list 3": "Whole sale of other agriculture raw materials n.e.c."
+  },
+  {
+    "row-list": 4630,
+    "row-list 2": 46301,
+    "row-list 3": "Wholesale of fruits & vegetables"
+  },
+  {
+    "row-list": 4630,
+    "row-list 2": 46302,
+    "row-list 3": "Wholesale of raw milk & dairy products"
+  },
+  {
+    "row-list": 4630,
+    "row-list 2": 46303,
+    "row-list 3": "Wholesale of meat, fish & eggs"
+  },
+  {
+    "row-list": 4630,
+    "row-list 2": 46304,
+    "row-list 3": "Wholesale of confectionery, bakery products and beverages other than intoxicants"
+  },
+  {
+    "row-list": 4630,
+    "row-list 2": 46305,
+    "row-list 3": "Wholesale of edible oils, fats, sugar and processed/manufactured spices etc"
+  },
+  {
+    "row-list": 4630,
+    "row-list 2": 46306,
+    "row-list 3": "Wholesale of tea, coffee & cocoa"
+  },
+  {
+    "row-list": 4630,
+    "row-list 2": 46307,
+    "row-list 3": "Wholesale of manufactured tobacco & tobacco products"
+  },
+  {
+    "row-list": 4630,
+    "row-list 2": 46308,
+    "row-list 3": "Wholesale of intoxicants like wines and liquors"
+  },
+  {
+    "row-list": 4630,
+    "row-list 2": 46309,
+    "row-list 3": "Wholesale of other basic/manufactured food stuffs n.e.c."
+  },
+  {
+    "row-list": 4641,
+    "row-list 2": 46411,
+    "row-list 3": "Wholesale of textiles, fabrics, yarn, household linen, articles of clothing, floor coverings and tapestry, sports clothes"
+  },
+  {
+    "row-list": 4641,
+    "row-list 2": 46412,
+    "row-list 3": "Wholesale of umbrella and clothing accessories"
+  },
+  {
+    "row-list": 4641,
+    "row-list 2": 46413,
+    "row-list 3": "Wholesale of footwear"
+  },
+  {
+    "row-list": 4641,
+    "row-list 2": 46419,
+    "row-list 3": "Wholesale of other clothing items n.e.c."
+  },
+  {
+    "row-list": 4649,
+    "row-list 2": 46491,
+    "row-list 3": "Wholesale of toiletry, perfumery and cosmetics"
+  },
+  {
+    "row-list": 4649,
+    "row-list 2": 46492,
+    "row-list 3": "Wholesale of metal, porcelain and glass utensils; crockery and chinaware"
+  },
+  {
+    "row-list": 4649,
+    "row-list 2": 46493,
+    "row-list 3": "Wholesale of furniture and fixtures"
+  },
+  {
+    "row-list": 4649,
+    "row-list 2": 46494,
+    "row-list 3": "Wholesale of watches, clocks and optical goods"
+  },
+  {
+    "row-list": 4649,
+    "row-list 2": 46495,
+    "row-list 3": "Wholesale of recorded audio or video tapes, CDs and DVDs"
+  },
+  {
+    "row-list": 4649,
+    "row-list 2": 46496,
+    "row-list 3": "Wholesale of paper and other stationery items; books, magazines and newspapers"
+  },
+  {
+    "row-list": 4649,
+    "row-list 2": 46497,
+    "row-list 3": "Wholesale of pharmaceutical and medical goods"
+  },
+  {
+    "row-list": 4649,
+    "row-list 2": 46498,
+    "row-list 3": "Wholesale of precious metals and jewellery"
+  },
+  {
+    "row-list": 4649,
+    "row-list 2": 46499,
+    "row-list 3": "Wholesale  of  other  households  goods,  n.e.c."
+  },
+  {
+    "row-list": 4651,
+    "row-list 2": 46511,
+    "row-list 3": "Wholesale of computers and computer peripheral equipment"
+  },
+  {
+    "row-list": 4651,
+    "row-list 2": 46512,
+    "row-list 3": "Wholesale of software"
+  },
+  {
+    "row-list": 4652,
+    "row-list 2": 46521,
+    "row-list 3": "Wholesale of electronic valves and tubes, semiconductor devices, microchips, integrated circuits and printed circuits"
+  },
+  {
+    "row-list": 4652,
+    "row-list 2": 46522,
+    "row-list 3": "Wholesale of radio, television and other consumer electronics including CD/DVD players and recorders"
+  },
+  {
+    "row-list": 4652,
+    "row-list 2": 46523,
+    "row-list 3": "Wholesale of blank audio and video tapes and diskettes, magnetic and optical disks (CDs, DVDs) and parts"
+  },
+  {
+    "row-list": 4652,
+    "row-list 2": 46524,
+    "row-list 3": "Wholesale of telephone, mobile phone and communications equipment and parts"
+  },
+  {
+    "row-list": 4652,
+    "row-list 2": 46529,
+    "row-list 3": "Wholesale of other electronic equipments and parts thereof"
+  },
+  {
+    "row-list": 4653,
+    "row-list 2": 46531,
+    "row-list 3": "Wholesale of tractors used in agriculture and forestry"
+  },
+  {
+    "row-list": 4653,
+    "row-list 2": 46532,
+    "row-list 3": "Wholesale of ploughs, manure spreaders, seeders, harvesters, threshers"
+  },
+  {
+    "row-list": 4653,
+    "row-list 2": 46533,
+    "row-list 3": "Wholesale of milking machines, poultry-keeping machines, bee-keeping machines"
+  },
+  {
+    "row-list": 4653,
+    "row-list 2": 46539,
+    "row-list 3": "Wholesale of other agriculture machinery n.e.c."
+  },
+  {
+    "row-list": 4659,
+    "row-list 2": 46591,
+    "row-list 3": "Wholesale of office machinery and equipment, except computers and computer peripheral equipment"
+  },
+  {
+    "row-list": 4659,
+    "row-list 2": 46592,
+    "row-list 3": "Wholesale of transport equipment except motor vehicles, motorcycles and bicycles"
+  },
+  {
+    "row-list": 4659,
+    "row-list 2": 46593,
+    "row-list 3": "Wholesale of electrical machinery, equipment and supplies, n.e.c."
+  },
+  {
+    "row-list": 4659,
+    "row-list 2": 46594,
+    "row-list 3": "Wholesale of construction and civil engineering machinery and equipment"
+  },
+  {
+    "row-list": 4659,
+    "row-list 2": 46595,
+    "row-list 3": "Wholesale of machinery and equipment for the textile, wood and metal industries etc."
+  },
+  {
+    "row-list": 4659,
+    "row-list 2": 46596,
+    "row-list 3": "Wholesale of scientific, medical and surgical machinery and equipment"
+  },
+  {
+    "row-list": 4659,
+    "row-list 2": 46599,
+    "row-list 3": "Wholesale of other machinery, equipment and supplies n.e.c. including computer-controlled machine tools and computer-controlled sewing and knitting machines"
+  },
+  {
+    "row-list": 4661,
+    "row-list 2": 46610,
+    "row-list 3": "Wholesale of solid, liquid and gaseous fuels and related products"
+  },
+  {
+    "row-list": 4662,
+    "row-list 2": 46620,
+    "row-list 3": "Wholesale of metals and metal ores"
+  },
+  {
+    "row-list": 4663,
+    "row-list 2": 46631,
+    "row-list 3": "Wholesale of wood in the rough and products of primary processing of wood"
+  },
+  {
+    "row-list": 4663,
+    "row-list 2": 46632,
+    "row-list 3": "Wholesale of construction materials (sand, gravel etc.)"
+  },
+  {
+    "row-list": 4663,
+    "row-list 2": 46633,
+    "row-list 3": "Wholesale of hardware and sanitary fittings and fixtures and flat glass including tools such as hammers, saws, screwdrivers and other hand tools"
+  },
+  {
+    "row-list": 4663,
+    "row-list 2": 46634,
+    "row-list 3": "Wholesale of paints, varnishes, and lacquers"
+  },
+  {
+    "row-list": 4663,
+    "row-list 2": 466319,
+    "row-list 3": "Wholesale of other construction equipment n.e.c."
+  },
+  {
+    "row-list": 4669,
+    "row-list 2": 46691,
+    "row-list 3": "Wholesale of industrial chemicals,"
+  },
+  {
+    "row-list": 4669,
+    "row-list 2": 46692,
+    "row-list 3": "Wholesale of fertilizers and agrochemical products"
+  },
+  {
+    "row-list": 4669,
+    "row-list 2": 46693,
+    "row-list 3": "Wholesale of plastic materials in primary forms"
+  },
+  {
+    "row-list": 4669,
+    "row-list 2": 466914,
+    "row-list 3": "Wholesale of rubber"
+  },
+  {
+    "row-list": 4669,
+    "row-list 2": 46695,
+    "row-list 3": "Wholesale of textile fibres etc."
+  },
+  {
+    "row-list": 4669,
+    "row-list 2": 46696,
+    "row-list 3": "Wholesale of paper in bulk"
+  },
+  {
+    "row-list": 4669,
+    "row-list 2": 46697,
+    "row-list 3": "Wholesale of precious stones"
+  },
+  {
+    "row-list": 4669,
+    "row-list 2": 46699,
+    "row-list 3": "Wholesale of metal and non-metal waste and scrap n.e.c."
+  },
+  {
+    "row-list": 4690,
+    "row-list 2": 46901,
+    "row-list 3": "Wholesale trade via e-commerce excluding activities of commission agents"
+  },
+  {
+    "row-list": 4690,
+    "row-list 2": 46909,
+    "row-list 3": "Other non-specialised wholesale trade n.e.c."
+  },
+  {
+    "row-list": 4711,
+    "row-list 2": 47110,
+    "row-list 3": "Retail sale in non-specialized stores with food, beverages or tobacco predominating"
+  },
+  {
+    "row-list": 4719,
+    "row-list 2": 47190,
+    "row-list 3": "Other retail sale in non-specialized stores"
+  },
+  {
+    "row-list": 4721,
+    "row-list 2": 47211,
+    "row-list 3": "Retail sale of cereals and pulses, tea, coffee, spices and flour"
+  },
+  {
+    "row-list": 4721,
+    "row-list 2": 47212,
+    "row-list 3": "Retail sale of fresh or preserved fruit and vegetables"
+  },
+  {
+    "row-list": 4721,
+    "row-list 2": 47213,
+    "row-list 3": "Retail sale of meat, meat products, poultry products, fish, other seafood and products thereof"
+  },
+  {
+    "row-list": 4721,
+    "row-list 2": 47214,
+    "row-list 3": "Retail sale of bakery products, dairy products and eggs"
+  },
+  {
+    "row-list": 4721,
+    "row-list 2": 47215,
+    "row-list 3": "Retail sale of sugar confectionery and sweetmeat"
+  },
+  {
+    "row-list": 4721,
+    "row-list 2": 47219,
+    "row-list 3": "Retail sale of other food products n.e.c."
+  },
+  {
+    "row-list": 4722,
+    "row-list 2": 47221,
+    "row-list 3": "Retail sale of alcoholic beverages not consumed on the spot"
+  },
+  {
+    "row-list": 4722,
+    "row-list 2": 47222,
+    "row-list 3": "Retail  sale  of  non-alcoholic  beverages  including  icecream  not  for consumption on the premises"
+  },
+  {
+    "row-list": 4723,
+    "row-list 2": 47230,
+    "row-list 3": "Retail sale of tobacco products in specialized stores"
+  },
+  {
+    "row-list": 4730,
+    "row-list 2": 47300,
+    "row-list 3": "Retail sale of automotive fuel in specialized stores [includes the activity of petrol filling stations]."
+  },
+  {
+    "row-list": 4741,
+    "row-list 2": 47411,
+    "row-list 3": "Retail sale of computers and computer peripherals"
+  },
+  {
+    "row-list": 4741,
+    "row-list 2": 47412,
+    "row-list 3": "Retail sale of video games"
+  },
+  {
+    "row-list": 4741,
+    "row-list 2": 47413,
+    "row-list 3": "Retail sale of non-customized software"
+  },
+  {
+    "row-list": 4741,
+    "row-list 2": 47414,
+    "row-list 3": "Retail sale of telecommunication equipment"
+  },
+  {
+    "row-list": 4742,
+    "row-list 2": 47420,
+    "row-list 3": "Retail sale of audio and video equipment in specialized stores"
+  },
+  {
+    "row-list": 4751,
+    "row-list 2": 47510,
+    "row-list 3": "Retail sale of textiles in specialized stores"
+  },
+  {
+    "row-list": 4752,
+    "row-list 2": 47521,
+    "row-list 3": "Retail sale of building material such as bricks, wood, sanitary equipment"
+  },
+  {
+    "row-list": 4752,
+    "row-list 2": 47522,
+    "row-list 3": "Retail sale of hardware including paints, varnishes and lacquers and do-it-yourself materials and equipments"
+  },
+  {
+    "row-list": 4752,
+    "row-list 2": 47523,
+    "row-list 3": "Retail sale of glass"
+  },
+  {
+    "row-list": 4753,
+    "row-list 2": 47531,
+    "row-list 3": "Retail sale of carpets, rugs, curtains and net curtains"
+  },
+  {
+    "row-list": 4753,
+    "row-list 2": 47532,
+    "row-list 3": "Retail sale of wallpaper and floor coverings"
+  },
+  {
+    "row-list": 4759,
+    "row-list 2": 47591,
+    "row-list 3": "Retail sale of household furniture"
+  },
+  {
+    "row-list": 4759,
+    "row-list 2": 47592,
+    "row-list 3": "Retail sale of household utensils and cutlery, crockery, glassware, china and pottery"
+  },
+  {
+    "row-list": 4759,
+    "row-list 2": 47593,
+    "row-list 3": "Retail sale of gas stoves, cooking/kitchen appliances"
+  },
+  {
+    "row-list": 4759,
+    "row-list 2": 47594,
+    "row-list 3": "Retail sale of refrigerators, washing machines and other electrical/electronic household goods"
+  },
+  {
+    "row-list": 4759,
+    "row-list 2": 47595,
+    "row-list 3": "Retail sale of musical instruments"
+  },
+  {
+    "row-list": 4759,
+    "row-list 2": 47599,
+    "row-list 3": "Retail sale of other household appliances n.e.c. ( security systems, such as locking devices, safes, and vaults, without installation or maintenance services etc. , wooden, cork and wickerwork goods, sewing and knitting machine and other household utensils and durables n.e.c.)"
+  },
+  {
+    "row-list": 4761,
+    "row-list 2": 47611,
+    "row-list 3": "Retail sale of books of all kinds"
+  },
+  {
+    "row-list": 4761,
+    "row-list 2": 47612,
+    "row-list 3": "Retail sale of newspapers and magazines"
+  },
+  {
+    "row-list": 4761,
+    "row-list 2": 47613,
+    "row-list 3": "Retail sale of stationery office supplies such as pens, pencils, paper etc."
+  },
+  {
+    "row-list": 4762,
+    "row-list 2": 47620,
+    "row-list 3": "Retail sale of music and video recordings in specialized stores"
+  },
+  {
+    "row-list": 4763,
+    "row-list 2": 47630,
+    "row-list 3": "Retail sale of sporting equipment in specialized stores"
+  },
+  {
+    "row-list": 4764,
+    "row-list 2": 47640,
+    "row-list 3": "Retail sale of games and toys in specialized stores"
+  },
+  {
+    "row-list": 4771,
+    "row-list 2": 47711,
+    "row-list 3": "Retail sale of readymade garments, hosiery goods, other articles of clothing and clothing accessories such as gloves, ties, braces etc."
+  },
+  {
+    "row-list": 4771,
+    "row-list 2": 47712,
+    "row-list 3": "Retail sale of articles of fur and artificial fur"
+  },
+  {
+    "row-list": 4771,
+    "row-list 2": 47713,
+    "row-list 3": "Retail sale of footwear"
+  },
+  {
+    "row-list": 4771,
+    "row-list 2": 47714,
+    "row-list 3": "Retail sale of leather goods and travel accessories of leather and leather substitutes"
+  },
+  {
+    "row-list": 4772,
+    "row-list 2": 47721,
+    "row-list 3": "Retail sale of pharmaceuticals, medical and orthopaedic goods and toilet articles"
+  },
+  {
+    "row-list": 4772,
+    "row-list 2": 47722,
+    "row-list 3": "Retail sale of perfumery and cosmetic articles"
+  },
+  {
+    "row-list": 4773,
+    "row-list 2": 47731,
+    "row-list 3": "Retail sale of photographic, optical and precision equipment"
+  },
+  {
+    "row-list": 4773,
+    "row-list 2": 47732,
+    "row-list 3": "Retail sale of watches and clocks"
+  },
+  {
+    "row-list": 4773,
+    "row-list 2": 47733,
+    "row-list 3": "Retail sale of jewellery and immitation jewellery"
+  },
+  {
+    "row-list": 4773,
+    "row-list 2": 47734,
+    "row-list 3": "Retail sale of flowers, plants, pet animals and pet food"
+  },
+  {
+    "row-list": 4773,
+    "row-list 2": 47735,
+    "row-list 3": "Retail sale of souvenirs, craftwork and religious articles, stamps and coins"
+  },
+  {
+    "row-list": 4773,
+    "row-list 2": 47736,
+    "row-list 3": "Retail sale of household fuel oil, bottled gas, coal and fuel wood"
+  },
+  {
+    "row-list": 4773,
+    "row-list 2": 47737,
+    "row-list 3": "Retail sale of seeds, fertilisers, pesticides, machinery equipments and hand tools"
+  },
+  {
+    "row-list": 4773,
+    "row-list 2": 47738,
+    "row-list 3": "Activities of commercial art galleries"
+  },
+  {
+    "row-list": 4773,
+    "row-list 2": 47739,
+    "row-list 3": "Other retail sale of new goods in specialized stores n.e.c (weapons and ammunition, non food products)"
+  },
+  {
+    "row-list": 4774,
+    "row-list 2": 47740,
+    "row-list 3": "Retail sale of second-hand goods"
+  },
+  {
+    "row-list": 4781,
+    "row-list 2": 47810,
+    "row-list 3": "Retail sale via stalls and markets of food, beverages and tobacco products"
+  },
+  {
+    "row-list": 4782,
+    "row-list 2": 47820,
+    "row-list 3": "Retail sale via stalls and markets of textiles, clothing and footwear"
+  },
+  {
+    "row-list": 4789,
+    "row-list 2": 47890,
+    "row-list 3": "Retail sale via stalls and markets of other goods"
+  },
+  {
+    "row-list": 4791,
+    "row-list 2": 47911,
+    "row-list 3": "Retail sale via mail order houses"
+  },
+  {
+    "row-list": 4791,
+    "row-list 2": 47912,
+    "row-list 3": "Retail sale via e-commerce"
+  },
+  {
+    "row-list": 4799,
+    "row-list 2": 47990,
+    "row-list 3": "Other retail sale not in stores, stalls or markets"
+  },
+  {
+    "row-list": 4911,
+    "row-list 2": 49110,
+    "row-list 3": "Passenger rail transport"
+  },
+  {
+    "row-list": 4912,
+    "row-list 2": 49120,
+    "row-list 3": "Freight rail transport"
+  },
+  {
+    "row-list": 4921,
+    "row-list 2": 49211,
+    "row-list 3": "Urban or suburban passenger bus transport (excluding chartered bus)"
+  },
+  {
+    "row-list": 4921,
+    "row-list 2": 49212,
+    "row-list 3": "Urban or suburban tramways"
+  },
+  {
+    "row-list": 4921,
+    "row-list 2": 49213,
+    "row-list 3": "Urban or suburban underground or elevated rillways"
+  },
+  {
+    "row-list": 4921,
+    "row-list 2": 49219,
+    "row-list 3": "Other urban or suburban passenger transport n.e.c."
+  },
+  {
+    "row-list": 4922,
+    "row-list 2": 49221,
+    "row-list 3": "Long-distance bus services"
+  },
+  {
+    "row-list": 4922,
+    "row-list 2": 49222,
+    "row-list 3": "Charters, excursions and other occasional coach services"
+  },
+  {
+    "row-list": 4922,
+    "row-list 2": 49223,
+    "row-list 3": "Rental of private cars with driver"
+  },
+  {
+    "row-list": 4922,
+    "row-list 2": 49224,
+    "row-list 3": "Taxi operation"
+  },
+  {
+    "row-list": 4922,
+    "row-list 2": 49225,
+    "row-list 3": "Operation of school buses and buses for transport of employees"
+  },
+  {
+    "row-list": 4922,
+    "row-list 2": 49226,
+    "row-list 3": "Passenger transport by man- or animal-drawn vehicles"
+  },
+  {
+    "row-list": 4922,
+    "row-list 2": 49229,
+    "row-list 3": "Other non urban passenger land transport n.e.c."
+  },
+  {
+    "row-list": 4923,
+    "row-list 2": 49231,
+    "row-list 3": "Motorised road freight transport"
+  },
+  {
+    "row-list": 4923,
+    "row-list 2": 49232,
+    "row-list 3": "Non-motorised road freight transport"
+  },
+  {
+    "row-list": 4930,
+    "row-list 2": 49300,
+    "row-list 3": "Transport via pipeline"
+  },
+  {
+    "row-list": 5011,
+    "row-list 2": 50111,
+    "row-list 3": "Sea and coastal ferry service"
+  },
+  {
+    "row-list": 5011,
+    "row-list 2": 50112,
+    "row-list 3": "Sea and coastal water cruise, water taxis and other sight seeing boats"
+  },
+  {
+    "row-list": 5011,
+    "row-list 2": 50113,
+    "row-list 3": "Sea and coastal long distance water transport"
+  },
+  {
+    "row-list": 5011,
+    "row-list 2": 50119,
+    "row-list 3": "Other sea and coastal water transport n.e.c."
+  },
+  {
+    "row-list": 5012,
+    "row-list 2": 50120,
+    "row-list 3": "Sea and coastal freight water transport"
+  },
+  {
+    "row-list": 5021,
+    "row-list 2": 50211,
+    "row-list 3": "River ferry service"
+  },
+  {
+    "row-list": 5021,
+    "row-list 2": 50212,
+    "row-list 3": "River cruise, water taxi, boat services"
+  },
+  {
+    "row-list": 5021,
+    "row-list 2": 50213,
+    "row-list 3": "Long distance river water transport"
+  },
+  {
+    "row-list": 5021,
+    "row-list 2": 50219,
+    "row-list 3": "Other inland water transport n.e.c."
+  },
+  {
+    "row-list": 5022,
+    "row-list 2": 50220,
+    "row-list 3": "Inland freight water transport"
+  },
+  {
+    "row-list": 5110,
+    "row-list 2": 51101,
+    "row-list 3": "Passenger airways"
+  },
+  {
+    "row-list": 5110,
+    "row-list 2": 51102,
+    "row-list 3": "Helicopter services"
+  },
+  {
+    "row-list": 5110,
+    "row-list 2": 51109,
+    "row-list 3": "Other passenger air-transport n.e.c"
+  },
+  {
+    "row-list": 5120,
+    "row-list 2": 51201,
+    "row-list 3": "Freight air transport services"
+  },
+  {
+    "row-list": 5120,
+    "row-list 2": 51202,
+    "row-list 3": "Launching of satellites and space vehicles and space transport"
+  },
+  {
+    "row-list": 5210,
+    "row-list 2": 52101,
+    "row-list 3": "Warehousing of refrigerated (cold storage)"
+  },
+  {
+    "row-list": 5210,
+    "row-list 2": 52102,
+    "row-list 3": "Warehousing non-refrigerated"
+  },
+  {
+    "row-list": 5210,
+    "row-list 2": 52109,
+    "row-list 3": "Storage and warehousing n.e.c.[Includes general merchandise warehouses and warehousing of furniture, automobiles, gas and oil, chemicals, textiles etc. Also included is storage of goods in foreign trade zones]"
+  },
+  {
+    "row-list": 5221,
+    "row-list 2": 52211,
+    "row-list 3": "Car parking including motorcycle and bicycle parking"
+  },
+  {
+    "row-list": 5221,
+    "row-list 2": 522112,
+    "row-list 3": "Support service at railway stations, bus stations, bridges etc."
+  },
+  {
+    "row-list": 5221,
+    "row-list 2": 52213,
+    "row-list 3": "Switching and shunting"
+  },
+  {
+    "row-list": 5221,
+    "row-list 2": 52219,
+    "row-list 3": "Other land transport services n.e.c"
+  },
+  {
+    "row-list": 5222,
+    "row-list 2": 52220,
+    "row-list 3": "Service activities incidental to water transportation"
+  },
+  {
+    "row-list": 5223,
+    "row-list 2": 52231,
+    "row-list 3": "Activities related to air transport of passengers, animals or freight"
+  },
+  {
+    "row-list": 5223,
+    "row-list 2": 52232,
+    "row-list 3": "Firefighting and fire-prevention services at airports"
+  },
+  {
+    "row-list": 5224,
+    "row-list 2": 52241,
+    "row-list 3": "Cargo handling incidental to land transport"
+  },
+  {
+    "row-list": 5224,
+    "row-list 2": 52242,
+    "row-list 3": "Cargo handling incidental to water transport"
+  },
+  {
+    "row-list": 5224,
+    "row-list 2": 52243,
+    "row-list 3": "Cargo handling incidental to air transport"
+  },
+  {
+    "row-list": 5229,
+    "row-list 2": 52291,
+    "row-list 3": "Activities of travel agents and tour operators"
+  },
+  {
+    "row-list": 5229,
+    "row-list 2": 52292,
+    "row-list 3": "Activities of shipping cargo agents"
+  },
+  {
+    "row-list": 5229,
+    "row-list 2": 52293,
+    "row-list 3": "Activities of movers and packers"
+  },
+  {
+    "row-list": 5229,
+    "row-list 2": 52294,
+    "row-list 3": "Weighing of goods"
+  },
+  {
+    "row-list": 5310,
+    "row-list 2": 53100,
+    "row-list 3": "Postal activities"
+  },
+  {
+    "row-list": 5320,
+    "row-list 2": 53200,
+    "row-list 3": "Courier activities"
+  },
+  {
+    "row-list": 5510,
+    "row-list 2": 55101,
+    "row-list 3": "Hotels and Motels, inns, resorts providing short term lodging facilities; includes accommodation in house boats"
+  },
+  {
+    "row-list": 5510,
+    "row-list 2": 55102,
+    "row-list 3": "Provision of short term lodging facilities to members of a particular organisition such as govt. guest houses, company guest houses, circuit houses and similar establishments"
+  },
+  {
+    "row-list": 5510,
+    "row-list 2": 55109,
+    "row-list 3": "Provision of short stay accommodation n.e.c. (e.g. holiday homes, private guest houses etc.)"
+  },
+  {
+    "row-list": 5520,
+    "row-list 2": 55200,
+    "row-list 3": "Camping grounds, recreational vehicle parks and trailer parks"
+  },
+  {
+    "row-list": 5590,
+    "row-list 2": 55901,
+    "row-list 3": "Accommodation provided by student residences, school dormitories"
+  },
+  {
+    "row-list": 5590,
+    "row-list 2": 55902,
+    "row-list 3": "Worker hostels and boarding houses"
+  },
+  {
+    "row-list": 5610,
+    "row-list 2": 56101,
+    "row-list 3": "Restaurants without bars"
+  },
+  {
+    "row-list": 5610,
+    "row-list 2": 56102,
+    "row-list 3": "Cafeterias, fast-food restaurants and other food preparation in market stalls"
+  },
+  {
+    "row-list": 5610,
+    "row-list 2": 56103,
+    "row-list 3": "Ice cream mobile vendors, mobile food carts"
+  },
+  {
+    "row-list": 5610,
+    "row-list 2": 56104,
+    "row-list 3": "Restaurant and bar activities connected to transportation, when carried out by separate units"
+  },
+  {
+    "row-list": 5621,
+    "row-list 2": 56210,
+    "row-list 3": "Event catering"
+  },
+  {
+    "row-list": 5629,
+    "row-list 2": 56291,
+    "row-list 3": "Activities of food service contractors (e.g. for transportation companies)"
+  },
+  {
+    "row-list": 5629,
+    "row-list 2": 56292,
+    "row-list 3": "Operation of canteens or (e.g. for factories, offices, hospitals or schools) on a concession basis"
+  },
+  {
+    "row-list": 5630,
+    "row-list 2": 56301,
+    "row-list 3": "Bars and Restaurants with bars"
+  },
+  {
+    "row-list": 5630,
+    "row-list 2": 56302,
+    "row-list 3": "Tea/coffee shops"
+  },
+  {
+    "row-list": 5630,
+    "row-list 2": 56303,
+    "row-list 3": "Fruit juice bars"
+  },
+  {
+    "row-list": 5630,
+    "row-list 2": 56304,
+    "row-list 3": "Mobile beverage vendors"
+  },
+  {
+    "row-list": 5811,
+    "row-list 2": 58111,
+    "row-list 3": "Publishing of books, brochures, leaflets and similar publications, including publishing encyclopedias (including on CD-ROM)"
+  },
+  {
+    "row-list": 5811,
+    "row-list 2": 58112,
+    "row-list 3": "Publishing of atlases, maps and charts"
+  },
+  {
+    "row-list": 5811,
+    "row-list 2": 58113,
+    "row-list 3": "Publishing of audio books"
+  },
+  {
+    "row-list": 5812,
+    "row-list 2": 58121,
+    "row-list 3": "Publishing of mailing lists and telephone directories"
+  },
+  {
+    "row-list": 5812,
+    "row-list 2": 58122,
+    "row-list 3": "Publishing  of  other  directories  and  compilations,  such  as  case  law,pharmaceutical compendia etc."
+  },
+  {
+    "row-list": 5813,
+    "row-list 2": 58131,
+    "row-list 3": "Publishing of newspapers"
+  },
+  {
+    "row-list": 5813,
+    "row-list 2": 58132,
+    "row-list 3": "Publishing of journals and periodicals"
+  },
+  {
+    "row-list": 5819,
+    "row-list 2": 58191,
+    "row-list 3": "On-line publishing of statistics and other information"
+  },
+  {
+    "row-list": 5819,
+    "row-list 2": 58199,
+    "row-list 3": "Other publishing activities (including on-line) n.e.c."
+  },
+  {
+    "row-list": 5820,
+    "row-list 2": 58201,
+    "row-list 3": "Publishing of operating systems and system software"
+  },
+  {
+    "row-list": 5820,
+    "row-list 2": 58202,
+    "row-list 3": "Publishing of operating business and other applications"
+  },
+  {
+    "row-list": 5820,
+    "row-list 2": 58203,
+    "row-list 3": "Publishing of computer games for all platforms"
+  },
+  {
+    "row-list": 5911,
+    "row-list 2": 59111,
+    "row-list 3": "Production of motion picture"
+  },
+  {
+    "row-list": 5911,
+    "row-list 2": 59112,
+    "row-list 3": "Video production"
+  },
+  {
+    "row-list": 5911,
+    "row-list 2": 59113,
+    "row-list 3": "Production of television programmes or television commercials"
+  },
+  {
+    "row-list": 5912,
+    "row-list 2": 59121,
+    "row-list 3": "Post production activities of motion picture"
+  },
+  {
+    "row-list": 5912,
+    "row-list 2": 59122,
+    "row-list 3": "Post   production   activities   of   television   programmes   or   television commercials"
+  },
+  {
+    "row-list": 5912,
+    "row-list 2": 59123,
+    "row-list 3": "Post production activities of video production"
+  },
+  {
+    "row-list": 5913,
+    "row-list 2": 59131,
+    "row-list 3": "Motion picture distribution"
+  },
+  {
+    "row-list": 5913,
+    "row-list 2": 59132,
+    "row-list 3": "Distribution of video tapes, CD and DVDs"
+  },
+  {
+    "row-list": 5913,
+    "row-list 2": 59133,
+    "row-list 3": "Distribution of television programme"
+  },
+  {
+    "row-list": 5914,
+    "row-list 2": 59141,
+    "row-list 3": "Motion picture or video tape projection in cinemas, in the open air or in other projection facilities"
+  },
+  {
+    "row-list": 5914,
+    "row-list 2": 59142,
+    "row-list 3": "Activities of cine-clubs"
+  },
+  {
+    "row-list": 5920,
+    "row-list 2": 59201,
+    "row-list 3": "Activities of sound recording in studio or elsewhere"
+  },
+  {
+    "row-list": 5920,
+    "row-list 2": 59202,
+    "row-list 3": "Activities of misic publishing"
+  },
+  {
+    "row-list": 6010,
+    "row-list 2": 60100,
+    "row-list 3": "Radio broadcasting"
+  },
+  {
+    "row-list": 6020,
+    "row-list 2": "none",
+    "row-list 3": "none"
+  },
+  {
+    "row-list": 6110,
+    "row-list 2": 61101,
+    "row-list 3": "Activities of basic telecom services: telephone, telex and telegraph (includes the activities of STD/ISD booths)"
+  },
+  {
+    "row-list": 6110,
+    "row-list 2": 61102,
+    "row-list 3": "Maintenance of telecom network"
+  },
+  {
+    "row-list": 6110,
+    "row-list 2": 61103,
+    "row-list 3": "Activities of the cable operators"
+  },
+  {
+    "row-list": 6110,
+    "row-list 2": 61104,
+    "row-list 3": "Activities  of  providing  internet  access  by  the  operator  of  the  wired infrastructure"
+  },
+  {
+    "row-list": 6120,
+    "row-list 2": 61201,
+    "row-list 3": "Activities of Internet access by the operator of the wireless infrastructure"
+  },
+  {
+    "row-list": 6120,
+    "row-list 2": 61202,
+    "row-list 3": "Activities  of  maintaining  and  operating  pageing,  cellur  and  other tetecommunication networks"
+  },
+  {
+    "row-list": 6120,
+    "row-list 2": 61209,
+    "row-list 3": "Activities of other wireless telecommunications activities"
+  },
+  {
+    "row-list": 6130,
+    "row-list 2": 61301,
+    "row-list 3": "Activity of Internet access by the operator of the satellite infrastructure"
+  },
+  {
+    "row-list": 6130,
+    "row-list 2": 61309,
+    "row-list 3": "Other satellite telecommunications activities"
+  },
+  {
+    "row-list": 6190,
+    "row-list 2": 61900,
+    "row-list 3": "Other telecommunications activities"
+  },
+  {
+    "row-list": 6201,
+    "row-list 2": 62011,
+    "row-list 3": "Writing , modifying, testing of computer program to meet the needs of a particular client excluding web-page designing"
+  },
+  {
+    "row-list": 6201,
+    "row-list 2": 62012,
+    "row-list 3": "Web-page designing"
+  },
+  {
+    "row-list": 6201,
+    "row-list 2": 62013,
+    "row-list 3": "Providing software support and maintenance to the clients"
+  },
+  {
+    "row-list": "none",
+    "row-list 2": 62020,
+    "row-list 3": "Computer consultancy and computer facilities management activities"
+  },
+  {
+    "row-list": 6209,
+    "row-list 2": 62091,
+    "row-list 3": "Software installation"
+  },
+  {
+    "row-list": 6209,
+    "row-list 2": 62092,
+    "row-list 3": "Computer disaster recovery"
+  },
+  {
+    "row-list": 6209,
+    "row-list 2": 62099,
+    "row-list 3": "Other information technology and computer service activities n.e.c"
+  },
+  {
+    "row-list": 6311,
+    "row-list 2": 63111,
+    "row-list 3": "Data processing activities including report writing"
+  },
+  {
+    "row-list": 6311,
+    "row-list 2": 63112,
+    "row-list 3": "Web hosting activities"
+  },
+  {
+    "row-list": 6311,
+    "row-list 2": 63113,
+    "row-list 3": "Providing general time-share mainframe facilities to clients"
+  },
+  {
+    "row-list": 6311,
+    "row-list 2": 63114,
+    "row-list 3": "Providing data entry services"
+  },
+  {
+    "row-list": 6311,
+    "row-list 2": 63119,
+    "row-list 3": "Other data processing, hosting and related activities n.e.c."
+  },
+  {
+    "row-list": "none",
+    "row-list 2": 63121,
+    "row-list 3": "Operation of web sites that use a search engine to generate and maintain extensive databases of internet addresses and content in an easily searchable format"
+  },
+  {
+    "row-list": "none",
+    "row-list 2": 63122,
+    "row-list 3": "Operation of other websites that act as portals to the Internet, such as media sites providing periodically updated content"
+  },
+  {
+    "row-list": 6391,
+    "row-list 2": 63910,
+    "row-list 3": "News agency activities"
+  },
+  {
+    "row-list": 6399,
+    "row-list 2": 63991,
+    "row-list 3": "Telephone based information services"
+  },
+  {
+    "row-list": 6399,
+    "row-list 2": 63992,
+    "row-list 3": "Activities of cyber café"
+  },
+  {
+    "row-list": 6399,
+    "row-list 2": 63999,
+    "row-list 3": "Other information service activities n.e.c."
+  },
+  {
+    "row-list": 6411,
+    "row-list 2": 64110,
+    "row-list 3": "Central banking"
+  },
+  {
+    "row-list": 6419,
+    "row-list 2": 64191,
+    "row-list 3": "Monetary intermediation of commercial banks, saving banks. postal savings bank and discount houses"
+  },
+  {
+    "row-list": 6419,
+    "row-list 2": 64192,
+    "row-list 3": "Activities of specialized institutions granting credit for house purchases that also take deposits"
+  },
+  {
+    "row-list": 6419,
+    "row-list 2": 64199,
+    "row-list 3": "Other monetary intermediation services n.e.c."
+  },
+  {
+    "row-list": 6420,
+    "row-list 2": 64200,
+    "row-list 3": "Activities of holding companies"
+  },
+  {
+    "row-list": 6430,
+    "row-list 2": 64300,
+    "row-list 3": "Trusts, funds and other financial vehicles"
+  },
+  {
+    "row-list": 6491,
+    "row-list 2": 64910,
+    "row-list 3": "Financial leasing"
+  },
+  {
+    "row-list": 6492,
+    "row-list 2": 64920,
+    "row-list 3": "Other credit granting"
+  },
+  {
+    "row-list": 6499,
+    "row-list 2": 64990,
+    "row-list 3": "Other financial service activities, except insurance and pension funding activities, n.e.c."
+  },
+  {
+    "row-list": 6511,
+    "row-list 2": 65110,
+    "row-list 3": "Life insurance"
+  },
+  {
+    "row-list": 6512,
+    "row-list 2": 65120,
+    "row-list 3": "Non-life insurance"
+  },
+  {
+    "row-list": 6520,
+    "row-list 2": 65020,
+    "row-list 3": "Reinsurance"
+  },
+  {
+    "row-list": 6530,
+    "row-list 2": 65300,
+    "row-list 3": "Pension funding"
+  },
+  {
+    "row-list": 6611,
+    "row-list 2": 66110,
+    "row-list 3": "Administration of financial markets"
+  },
+  {
+    "row-list": 6612,
+    "row-list 2": 66120,
+    "row-list 3": "Security and commodity contracts brokerage"
+  },
+  {
+    "row-list": 6619,
+    "row-list 2": 66190,
+    "row-list 3": "Activities auxiliary to financial service activities n.e.c."
+  },
+  {
+    "row-list": 6621,
+    "row-list 2": 66210,
+    "row-list 3": "Risk and damage evaluation"
+  },
+  {
+    "row-list": 6622,
+    "row-list 2": 66220,
+    "row-list 3": "Activities of insurance agents and brokers"
+  },
+  {
+    "row-list": 6629,
+    "row-list 2": 66290,
+    "row-list 3": "Other activities auxiliary to insurance and pension funding"
+  },
+  {
+    "row-list": 6630,
+    "row-list 2": 66301,
+    "row-list 3": "Management of mutual funds"
+  },
+  {
+    "row-list": 6630,
+    "row-list 2": 66302,
+    "row-list 3": "Management of pension funds"
+  },
+  {
+    "row-list": 6630,
+    "row-list 2": 66309,
+    "row-list 3": "Management of other investment funds"
+  },
+  {
+    "row-list": 6810,
+    "row-list 2": 68100,
+    "row-list 3": "Real estate activities with own or leased property"
+  },
+  {
+    "row-list": 6820,
+    "row-list 2": 68200,
+    "row-list 3": "Real estate activities on a fee or contract basis"
+  },
+  {
+    "row-list": 6910,
+    "row-list 2": 69100,
+    "row-list 3": "Legal activities"
+  },
+  {
+    "row-list": 6920,
+    "row-list 2": 69201,
+    "row-list 3": "Accounting, bookkeeping and auditing activities"
+  },
+  {
+    "row-list": 6920,
+    "row-list 2": 69202,
+    "row-list 3": "Tax consultancy"
+  },
+  {
+    "row-list": 7010,
+    "row-list 2": 70100,
+    "row-list 3": "Activities of head offices"
+  },
+  {
+    "row-list": 7020,
+    "row-list 2": 70200,
+    "row-list 3": "Management consultancy activities"
+  },
+  {
+    "row-list": 7110,
+    "row-list 2": 71100,
+    "row-list 3": "Architectural and engineering activities and related technical consultancy"
+  },
+  {
+    "row-list": 7120,
+    "row-list 2": 71200,
+    "row-list 3": "Technical testing and analysis"
+  },
+  {
+    "row-list": 7210,
+    "row-list 2": 72100,
+    "row-list 3": "Research and experimental development on   natural sciences and engineering"
+  },
+  {
+    "row-list": 7220,
+    "row-list 2": 72200,
+    "row-list 3": "Research and experimental development on social sciences and humanities"
+  },
+  {
+    "row-list": 7310,
+    "row-list 2": 73100,
+    "row-list 3": "Advertising"
+  },
+  {
+    "row-list": 7320,
+    "row-list 2": 73200,
+    "row-list 3": "Market research and public opinion polling"
+  },
+  {
+    "row-list": 7410,
+    "row-list 2": 74101,
+    "row-list 3": "Fashion design related to textiles, wearing apparel, shoes, jewelry, furniture and other fashion goods as well as other personal or household goods"
+  },
+  {
+    "row-list": 7410,
+    "row-list 2": 74102,
+    "row-list 3": "Activities of interior decorators"
+  },
+  {
+    "row-list": 7410,
+    "row-list 2": 74103,
+    "row-list 3": "Services of graphic designers"
+  },
+  {
+    "row-list": 7410,
+    "row-list 2": 74109,
+    "row-list 3": "Other specialized design activities n.e.c."
+  },
+  {
+    "row-list": 7420,
+    "row-list 2": 74201,
+    "row-list 3": "Commercial and consumer photograph production"
+  },
+  {
+    "row-list": 7420,
+    "row-list 2": 74202,
+    "row-list 3": "Photographic film processing"
+  },
+  {
+    "row-list": 7420,
+    "row-list 2": 74203,
+    "row-list 3": "Activities of photojournalists"
+  },
+  {
+    "row-list": 7420,
+    "row-list 2": 74204,
+    "row-list 3": "Microfilming of documents"
+  },
+  {
+    "row-list": 7420,
+    "row-list 2": 74209,
+    "row-list 3": "Other photographic activities"
+  },
+  {
+    "row-list": 7490,
+    "row-list 2": 74901,
+    "row-list 3": "Business brokerage activities"
+  },
+  {
+    "row-list": 7490,
+    "row-list 2": 74902,
+    "row-list 3": "Patent brokerage activities"
+  },
+  {
+    "row-list": 7490,
+    "row-list 2": 74903,
+    "row-list 3": "Weather forecasting activities"
+  },
+  {
+    "row-list": 7490,
+    "row-list 2": 74904,
+    "row-list 3": "Security consulting"
+  },
+  {
+    "row-list": 7490,
+    "row-list 2": 74909,
+    "row-list 3": "Other professional, scientific and technical activities n.e.c."
+  },
+  {
+    "row-list": 7500,
+    "row-list 2": 75000,
+    "row-list 3": "Veterinary activities"
+  },
+  {
+    "row-list": 7710,
+    "row-list 2": 77100,
+    "row-list 3": "Renting and leasing of motor vehicles"
+  },
+  {
+    "row-list": 7721,
+    "row-list 2": 77210,
+    "row-list 3": "Renting and leasing of recreational and sports goods"
+  },
+  {
+    "row-list": 7722,
+    "row-list 2": 77220,
+    "row-list 3": "Renting of video tapes and disks"
+  },
+  {
+    "row-list": 7729,
+    "row-list 2": 77291,
+    "row-list 3": "Renting of tent, furniture, pottery and glass, kitchen and tableware, utensils,household electrical and electronic equipments etc."
+  },
+  {
+    "row-list": 7729,
+    "row-list 2": 77292,
+    "row-list 3": "Renting of books, journals and magazines"
+  },
+  {
+    "row-list": 7729,
+    "row-list 2": 77293,
+    "row-list 3": "Renting of jewellery, musical instruments, scenery and costumes"
+  },
+  {
+    "row-list": 7729,
+    "row-list 2": 77294,
+    "row-list 3": "Renting of textiles, wearing apparel, footwear, sleeping bag, rucksack, household goods"
+  },
+  {
+    "row-list": 7729,
+    "row-list 2": 77299,
+    "row-list 3": "Renting of other personal and household goods n.e.c."
+  },
+  {
+    "row-list": 7730,
+    "row-list 2": 77301,
+    "row-list 3": "Renting and operational leasing, without operator, of other machinery and equipment that are generally used as capital goods by industries"
+  },
+  {
+    "row-list": 7730,
+    "row-list 2": 77302,
+    "row-list 3": "Renting and operational leasing of agricultural and forestry machinery and equipment without operator"
+  },
+  {
+    "row-list": 7730,
+    "row-list 2": 77303,
+    "row-list 3": "Renting and operational leasing of construction and civil-engineering machinery and equipment without operator"
+  },
+  {
+    "row-list": 7730,
+    "row-list 2": 77304,
+    "row-list 3": "Renting and operational leasing of office machinery and equipment without operator"
+  },
+  {
+    "row-list": 7730,
+    "row-list 2": 77305,
+    "row-list 3": "Renting and operational leasing of land-transport equipment (other than motor vehicles) without drivers"
+  },
+  {
+    "row-list": 7730,
+    "row-list 2": 77306,
+    "row-list 3": "Renting and operational leasing of water-transport equipment without operator"
+  },
+  {
+    "row-list": 7730,
+    "row-list 2": 77307,
+    "row-list 3": "Renting and operational leasing of air transport equipment without operator"
+  },
+  {
+    "row-list": 7730,
+    "row-list 2": 77308,
+    "row-list 3": "Renting of other tangible goods with out operator (includes renting of containers, pallets, animals etc.)"
+  },
+  {
+    "row-list": 7730,
+    "row-list 2": 77309,
+    "row-list 3": "Renting and leasing of other machinery and equipment n.e.c. without operator"
+  },
+  {
+    "row-list": 7740,
+    "row-list 2": 77400,
+    "row-list 3": "Leasing of nonfinancial intangible assets"
+  },
+  {
+    "row-list": 7810,
+    "row-list 2": 78100,
+    "row-list 3": "Activities of employment placement agencies"
+  },
+  {
+    "row-list": 7820,
+    "row-list 2": 78200,
+    "row-list 3": "Temporary employment agency activities"
+  },
+  {
+    "row-list": 7830,
+    "row-list 2": 78300,
+    "row-list 3": "Human resources provision and management of human resources functions"
+  },
+  {
+    "row-list": 7911,
+    "row-list 2": 79110,
+    "row-list 3": "Travel agency activities"
+  },
+  {
+    "row-list": 7912,
+    "row-list 2": 79120,
+    "row-list 3": "Tour operator activities"
+  },
+  {
+    "row-list": 7990,
+    "row-list 2": 79900,
+    "row-list 3": "Other reservation service and related activities"
+  },
+  {
+    "row-list": 8010,
+    "row-list 2": 80100,
+    "row-list 3": "Private security activities"
+  },
+  {
+    "row-list": 8020,
+    "row-list 2": 80200,
+    "row-list 3": "Security systems service activities"
+  },
+  {
+    "row-list": 8030,
+    "row-list 2": 80300,
+    "row-list 3": "Investigation activities"
+  },
+  {
+    "row-list": 8110,
+    "row-list 2": 81100,
+    "row-list 3": "Combined facilities support activities"
+  },
+  {
+    "row-list": 8121,
+    "row-list 2": 81210,
+    "row-list 3": "General cleaning of buildings"
+  },
+  {
+    "row-list": 8129,
+    "row-list 2": 81291,
+    "row-list 3": "Cleaning of trains buses, planes etc."
+  },
+  {
+    "row-list": 8129,
+    "row-list 2": 81292,
+    "row-list 3": "Cleaning of industrial machinery"
+  },
+  {
+    "row-list": 8129,
+    "row-list 2": 81299,
+    "row-list 3": "Other building and industrial cleaning activities"
+  },
+  {
+    "row-list": 8130,
+    "row-list 2": 81300,
+    "row-list 3": "Landscape care and maintenance service activities"
+  },
+  {
+    "row-list": 8211,
+    "row-list 2": 82110,
+    "row-list 3": "Combined office administrative service activities"
+  },
+  {
+    "row-list": 8219,
+    "row-list 2": 82191,
+    "row-list 3": "Photocopying, duplicating and bluprinting services"
+  },
+  {
+    "row-list": 8219,
+    "row-list 2": 82192,
+    "row-list 3": "Document preparation, typing, word processing and desktop publishing sevices"
+  },
+  {
+    "row-list": 8219,
+    "row-list 2": 82199,
+    "row-list 3": "Other specialised office support services activities"
+  },
+  {
+    "row-list": 8220,
+    "row-list 2": 82200,
+    "row-list 3": "Activities of call centres"
+  },
+  {
+    "row-list": 8230,
+    "row-list 2": 82300,
+    "row-list 3": "Organization of conventions and trade shows"
+  },
+  {
+    "row-list": 8291,
+    "row-list 2": 82910,
+    "row-list 3": "Activities of collection agencies and credit bureaus"
+  },
+  {
+    "row-list": 8292,
+    "row-list 2": 82920,
+    "row-list 3": "Packaging activities"
+  },
+  {
+    "row-list": 8299,
+    "row-list 2": 82990,
+    "row-list 3": "Other business support service activities n.e.c."
+  },
+  {
+    "row-list": 8411,
+    "row-list 2": 84111,
+    "row-list 3": "General public service activities relating to executive"
+  },
+  {
+    "row-list": 8411,
+    "row-list 2": 84112,
+    "row-list 3": "General public service activities relating to legislation"
+  },
+  {
+    "row-list": 8411,
+    "row-list 2": 84119,
+    "row-list 3": "General public service activities n.e.c."
+  },
+  {
+    "row-list": 8412,
+    "row-list 2": 84121,
+    "row-list 3": "Regulatory agencies relating to health"
+  },
+  {
+    "row-list": 8412,
+    "row-list 2": 84122,
+    "row-list 3": "Regulatory agencies relating to education"
+  },
+  {
+    "row-list": 8412,
+    "row-list 2": 84129,
+    "row-list 3": "Regulatory agencies relating to other social services n.e.c. excluding social security"
+  },
+  {
+    "row-list": 8413,
+    "row-list 2": 84130,
+    "row-list 3": "Regulation of and contribution to more efficient operation of businesses"
+  },
+  {
+    "row-list": 8421,
+    "row-list 2": 84210,
+    "row-list 3": "Foreign affairs"
+  },
+  {
+    "row-list": 8422,
+    "row-list 2": 84220,
+    "row-list 3": "Defence activities"
+  },
+  {
+    "row-list": 8423,
+    "row-list 2": 88230,
+    "row-list 3": "Public order and safety activities"
+  },
+  {
+    "row-list": 8430,
+    "row-list 2": 84300,
+    "row-list 3": "Compulsory social security activities"
+  },
+  {
+    "row-list": 8510,
+    "row-list 2": 85101,
+    "row-list 3": "Pre-primary education (education preceding the first level)"
+  },
+  {
+    "row-list": 8510,
+    "row-list 2": 85102,
+    "row-list 3": "Primary education (education at the first level)"
+  },
+  {
+    "row-list": 8510,
+    "row-list 2": 85103,
+    "row-list 3": "Provision of literacy programmes for adults at primary level"
+  },
+  {
+    "row-list": 8510,
+    "row-list 2": 85104,
+    "row-list 3": "Special education for handicapped students at primary lavel"
+  },
+  {
+    "row-list": 8510,
+    "row-list 2": 85109,
+    "row-list 3": "Other primary education activities n.e.c."
+  },
+  {
+    "row-list": 8521,
+    "row-list 2": 85211,
+    "row-list 3": "General school education in the first stage of the secondary level (up to X th standard) without any special subject pre-requisite"
+  },
+  {
+    "row-list": 8521,
+    "row-list 2": 85212,
+    "row-list 3": "General school education in the second stage of the secondary level (Senior/Higher secondary) giving, in principle, access to higher education"
+  },
+  {
+    "row-list": 8521,
+    "row-list 2": 85213,
+    "row-list 3": "Special education for handicapped students at first stage or second stage of secondary level"
+  },
+  {
+    "row-list": 8522,
+    "row-list 2": 85221,
+    "row-list 3": "Technical and vocational education below the level of higher education except for handicapped"
+  },
+  {
+    "row-list": 8522,
+    "row-list 2": 85222,
+    "row-list 3": "Technical and vocational education for handicapped students below the level of higher education"
+  },
+  {
+    "row-list": 8522,
+    "row-list 2": 85223,
+    "row-list 3": "Professional motor driving school"
+  },
+  {
+    "row-list": 8530,
+    "row-list 2": 85301,
+    "row-list 3": "Higher education in science, commerce, humanity and fine arts leading to a university degree or equivalent"
+  },
+  {
+    "row-list": 8530,
+    "row-list 2": 85302,
+    "row-list 3": "Higher education in engineering / other technical courses leading to a university degree or equivalent"
+  },
+  {
+    "row-list": 8530,
+    "row-list 2": 853013,
+    "row-list 3": "Higher education in medical/bio-technology and related courses leading to a university degree or equivalent"
+  },
+  {
+    "row-list": 8530,
+    "row-list 2": 85304,
+    "row-list 3": "Higher education in management courses leading to a degree or equivalent"
+  },
+  {
+    "row-list": 8530,
+    "row-list 2": 85305,
+    "row-list 3": "Higher education in law leading to a degree or equivalent"
+  },
+  {
+    "row-list": 8530,
+    "row-list 2": 85306,
+    "row-list 3": "Higher education in other professional/ vocational courses leading to adegree or equivalent"
+  },
+  {
+    "row-list": 8530,
+    "row-list 2": 85307,
+    "row-list 3": "Higher education not leading to a degree or equivalent"
+  },
+  {
+    "row-list": 8541,
+    "row-list 2": 85410,
+    "row-list 3": "Sports and recreation education"
+  },
+  {
+    "row-list": 8542,
+    "row-list 2": 85420,
+    "row-list 3": "Cultural education"
+  },
+  {
+    "row-list": 8549,
+    "row-list 2": 85491,
+    "row-list 3": "Academic tutoring services"
+  },
+  {
+    "row-list": 8549,
+    "row-list 2": 85492,
+    "row-list 3": "Professional examination review courses"
+  },
+  {
+    "row-list": 8549,
+    "row-list 2": 85493,
+    "row-list 3": "Flying school"
+  },
+  {
+    "row-list": 8549,
+    "row-list 2": 85494,
+    "row-list 3": "Motor driving school (non-professional)"
+  },
+  {
+    "row-list": 8549,
+    "row-list 2": 85499,
+    "row-list 3": "Other educational services n.e.c."
+  },
+  {
+    "row-list": 8550,
+    "row-list 2": 85500,
+    "row-list 3": "Educational support services"
+  },
+  {
+    "row-list": 8610,
+    "row-list 2": 86100,
+    "row-list 3": "Hospital activities"
+  },
+  {
+    "row-list": 8620,
+    "row-list 2": 86201,
+    "row-list 3": "Medical practice activities"
+  },
+  {
+    "row-list": 8620,
+    "row-list 2": 86202,
+    "row-list 3": "Dental practice activities"
+  },
+  {
+    "row-list": 8690,
+    "row-list 2": 86901,
+    "row-list 3": "Activities of Ayurveda practitioners"
+  },
+  {
+    "row-list": 8690,
+    "row-list 2": 86902,
+    "row-list 3": "Activities of Unani practitioners"
+  },
+  {
+    "row-list": 8690,
+    "row-list 2": 86903,
+    "row-list 3": "Activities of homeopaths"
+  },
+  {
+    "row-list": 8690,
+    "row-list 2": 86904,
+    "row-list 3": "Activities of nurses, masseures, physiotherapists or other para-medical practitioners"
+  },
+  {
+    "row-list": 8690,
+    "row-list 2": 86905,
+    "row-list 3": "Activities of independent diagnostic/pathological laboratories"
+  },
+  {
+    "row-list": 8690,
+    "row-list 2": 86906,
+    "row-list 3": "Activities of independent blood banks"
+  },
+  {
+    "row-list": 8690,
+    "row-list 2": 86909,
+    "row-list 3": "Other human health activities n.e.c.(including independent ambulance activities)"
+  },
+  {
+    "row-list": 8710,
+    "row-list 2": 87100,
+    "row-list 3": "Nursing care facilities"
+  },
+  {
+    "row-list": 8720,
+    "row-list 2": 87200,
+    "row-list 3": "Residential care activities for mental retardation, mental health and substance abuse"
+  },
+  {
+    "row-list": 8730,
+    "row-list 2": 87300,
+    "row-list 3": "Residential care activities for the elderly and disabled"
+  },
+  {
+    "row-list": 8790,
+    "row-list 2": 87900,
+    "row-list 3": "Other residential care activities n.e.c."
+  },
+  {
+    "row-list": 8810,
+    "row-list 2": 88100,
+    "row-list 3": "Social work activities without accommodation for the elderly and disabled"
+  },
+  {
+    "row-list": 8890,
+    "row-list 2": 88900,
+    "row-list 3": "Other social work activities without accommodation n.e.c."
+  },
+  {
+    "row-list": 9000,
+    "row-list 2": 90001,
+    "row-list 3": "Stage production and related activities"
+  },
+  {
+    "row-list": 9000,
+    "row-list 2": 90002,
+    "row-list 3": "Operation of concert and theatre halls and other arts facilities"
+  },
+  {
+    "row-list": 9000,
+    "row-list 2": 90003,
+    "row-list 3": "Activities of sculptors, painters, cartoonists, engravers, etchers etc."
+  },
+  {
+    "row-list": 9000,
+    "row-list 2": 90004,
+    "row-list 3": "Activities of individual writers, for all subjects including fictional writing,technical writing etc."
+  },
+  {
+    "row-list": 9000,
+    "row-list 2": 90005,
+    "row-list 3": "Activities of independent journalists"
+  },
+  {
+    "row-list": 9000,
+    "row-list 2": 90006,
+    "row-list 3": "Activities of restoring of works of art such as paintings etc."
+  },
+  {
+    "row-list": 9000,
+    "row-list 2": 90009,
+    "row-list 3": "Other creative arts and and entertainment activities"
+  },
+  {
+    "row-list": 9101,
+    "row-list 2": 91010,
+    "row-list 3": "Library and archives activities"
+  },
+  {
+    "row-list": 9102,
+    "row-list 2": 91020,
+    "row-list 3": "Museums activities and operation of historical sites and buildings"
+  },
+  {
+    "row-list": 9103,
+    "row-list 2": 91030,
+    "row-list 3": "Botanical and zoological gardens and nature reserves activities"
+  },
+  {
+    "row-list": 9200,
+    "row-list 2": 92001,
+    "row-list 3": "Wholesale of lottery tickets"
+  },
+  {
+    "row-list": 9200,
+    "row-list 2": 92002,
+    "row-list 3": "Retail sale of lottery tickets"
+  },
+  {
+    "row-list": 9200,
+    "row-list 2": 92009,
+    "row-list 3": "Other gambling and betting activities"
+  },
+  {
+    "row-list": 9311,
+    "row-list 2": 93110,
+    "row-list 3": "Operation of sports facilities"
+  },
+  {
+    "row-list": 9312,
+    "row-list 2": 93120,
+    "row-list 3": "Activities of sports clubs"
+  },
+  {
+    "row-list": 9319,
+    "row-list 2": 93190,
+    "row-list 3": "Other sports activities"
+  },
+  {
+    "row-list": 9321,
+    "row-list 2": 93210,
+    "row-list 3": "Activities of amusement parks and theme parks"
+  },
+  {
+    "row-list": 9329,
+    "row-list 2": 93290,
+    "row-list 3": "Other amusement and recreation activities n.e.c."
+  },
+  {
+    "row-list": 9411,
+    "row-list 2": 94110,
+    "row-list 3": "Activities of business and employers membership organisations"
+  },
+  {
+    "row-list": 9412,
+    "row-list 2": 94120,
+    "row-list 3": "Activities of professional membership organizations"
+  },
+  {
+    "row-list": 9420,
+    "row-list 2": 94200,
+    "row-list 3": "Activities of trade unions"
+  },
+  {
+    "row-list": 9491,
+    "row-list 2": 94910,
+    "row-list 3": "Activities of religious organizations"
+  },
+  {
+    "row-list": 9492,
+    "row-list 2": 94920,
+    "row-list 3": "Activities of political organizations"
+  },
+  {
+    "row-list": 9499,
+    "row-list 2": 94990,
+    "row-list 3": "Activities of other membership organizations n.e.c."
+  },
+  {
+    "row-list": 9511,
+    "row-list 2": 95111,
+    "row-list 3": "Repair and maintenance of computer and peripheral equipment"
+  },
+  {
+    "row-list": 9511,
+    "row-list 2": 95112,
+    "row-list 3": "Repair and maintenance of automated terminals like automatic teller machines, point-of-sale (POS) terminals, not mechanically operated"
+  },
+  {
+    "row-list": 9512,
+    "row-list 2": 95120,
+    "row-list 3": "Repair of communication equipment"
+  },
+  {
+    "row-list": 9521,
+    "row-list 2": 95210,
+    "row-list 3": "Repair of consumer electronics"
+  },
+  {
+    "row-list": 9522,
+    "row-list 2": 95221,
+    "row-list 3": "Repair and servicing of household appliances ( refrigerators, stoves, washing machines, clothes dryers, room air conditioners, etc. )"
+  },
+  {
+    "row-list": 9522,
+    "row-list 2": 95222,
+    "row-list 3": "Repair and servicing of home and garden equipment such lawn mowerrs, edgers, trimmers etc."
+  },
+  {
+    "row-list": 9523,
+    "row-list 2": 95230,
+    "row-list 3": "Repair of footwear and leather goods"
+  },
+  {
+    "row-list": 9524,
+    "row-list 2": 95240,
+    "row-list 3": "Repair of furniture and home furnishings"
+  },
+  {
+    "row-list": 9529,
+    "row-list 2": 95291,
+    "row-list 3": "Repair of bicycles"
+  },
+  {
+    "row-list": 9529,
+    "row-list 2": 95292,
+    "row-list 3": "Repair and alteration of clothing"
+  },
+  {
+    "row-list": 9529,
+    "row-list 2": 95293,
+    "row-list 3": "Repair and alteration of jewellery"
+  },
+  {
+    "row-list": 9529,
+    "row-list 2": 95294,
+    "row-list 3": "Repair of watches, clocks and their parts"
+  },
+  {
+    "row-list": 9529,
+    "row-list 2": 95295,
+    "row-list 3": "Repair of musical instruments"
+  },
+  {
+    "row-list": 9529,
+    "row-list 2": 95299,
+    "row-list 3": "Repair of other personal and household goods n.e.c."
+  },
+  {
+    "row-list": 9601,
+    "row-list 2": 96010,
+    "row-list 3": "Washing and (dry-) cleaning of textile and fur products"
+  },
+  {
+    "row-list": 9602,
+    "row-list 2": 96020,
+    "row-list 3": "Hairdressing and other beauty treatment"
+  },
+  {
+    "row-list": 9603,
+    "row-list 2": 96030,
+    "row-list 3": "Funeral and related activities"
+  },
+  {
+    "row-list": 9609,
+    "row-list 2": 96091,
+    "row-list 3": "Social activities such as escort services, marriage bureaus"
+  },
+  {
+    "row-list": 9609,
+    "row-list 2": 96092,
+    "row-list 3": "Pet care services such as boarding, grooming and training pets etc."
+  },
+  {
+    "row-list": 9609,
+    "row-list 2": 96093,
+    "row-list 3": "Shoe shiners, porters, valet car parkers etc."
+  },
+  {
+    "row-list": 9609,
+    "row-list 2": 96094,
+    "row-list 3": "Coin-operated personal service machines such as photo booths, weighing machines, blood pressure checking machines etc."
+  },
+  {
+    "row-list": 9609,
+    "row-list 2": 96095,
+    "row-list 3": "Activities of sauna and steam baths, massage salons etc."
+  },
+  {
+    "row-list": 9609,
+    "row-list 2": 96096,
+    "row-list 3": "Astrological and spiritualists’ activities"
+  },
+  {
+    "row-list": 9609,
+    "row-list 2": 96097,
+    "row-list 3": "Activities of aaya, dhai, governess, baby sitter etc."
+  },
+  {
+    "row-list": 9609,
+    "row-list 2": 96098,
+    "row-list 3": "General household maintenance activities like grooming of the floor, dusting, cleaning of utensils etc."
+  },
+  {
+    "row-list": 9700,
+    "row-list 2": 97000,
+    "row-list 3": "Activities of households as employers of domestic personnel"
+  },
+  {
+    "row-list": 9810,
+    "row-list 2": 98100,
+    "row-list 3": "Undifferentiated goods-producing activities of private households for own use"
+  },
+  {
+    "row-list": 9820,
+    "row-list 2": 98200,
+    "row-list 3": "Undifferentiated service-producing activities of private households for own use"
+  },
+  {
+    "row-list": 9900,
+    "row-list 2": 99000,
+    "row-list 3": "Activities of extraterritorial organizations and bodies"
+  }
+]

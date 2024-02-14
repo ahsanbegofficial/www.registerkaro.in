@@ -1,0 +1,131 @@
+.payment {
+  * {
+    box-sizing: border-box;
+  }
+  font-family: "Helvetica";
+  .upper {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 100%;
+    .account {
+      width: 300px;
+      height: 150px;
+      text-align: center;
+      padding: 20px;
+      box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset,
+        rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+        rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+      p {
+        font-size: 18px;
+        span {
+          font-size: 20px;
+          font-weight: 600;
+        }
+      }
+    }
+  }
+
+  form {
+    margin: 0 auto;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 30px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    width: 400px;
+  }
+
+  label {
+    font-size: 20px;
+  }
+  input[type="text"],
+  input[type="number"],
+  input[type="email"],
+  select,
+  textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+
+  .copyBtn {
+    color: white;
+    padding: 2px 2px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: auto;
+    font-size: 14px;
+  }
+
+  .copy {
+    background-color: #04aa6d;
+  }
+
+  .copied {
+    background-color: orange;
+  }
+
+  button {
+    background-color: #04aa6d;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 20px;
+  }
+
+  button:hover {
+    background-color: #19531c;
+  }
+
+  table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+  }
+
+  table td,
+  table th {
+    border: 1px solid #ddd;
+    padding: 4px;
+    text-align: center;
+  }
+
+  table tr:nth-child(even) {
+    background-color: #a8d380;
+  }
+
+  table tr:hover {
+    background-color: #ddd;
+  }
+
+  table th {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    text-align: left;
+    background-color: #04aa6d;
+    color: white;
+    text-align: center;
+  }
+  .buttons{
+    margin-top: 30px;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    button{
+      width: auto;
+    }
+  }
+}

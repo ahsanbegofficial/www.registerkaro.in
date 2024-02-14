@@ -1,0 +1,20 @@
+{
+  "heroInfo": {
+    "subtitle": "We take care of ALL your business compliance needs",
+    "title": "RegisterKaro",
+    "description": "An online business compliance platform that helps entrepreneurs and other individuals with various, registrations, tax filings, and other legal matters.",
+    "button": "Get Started",
+    "badgeOne": {
+      "counterNumber": 500,
+      "title": "Businesses Incorporated Every Month"
+    },
+    "badgeTwo": {
+      "counterNumber": 20000,
+      "title": "Clients all over India"
+    },
+    "badgeThree": {
+      "counterNumber": 250,
+      "title": "Professionals Network"
+    }
+  }
+}

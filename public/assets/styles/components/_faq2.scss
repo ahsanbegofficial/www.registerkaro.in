@@ -1,0 +1,105 @@
+.faq {
+  margin: 80px auto;
+  .flex{
+    display: flex;
+  }
+  h2 {
+    font-size: 1em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+  }
+  h3 {
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+  }
+  @media screen and (max-width: 600px) {
+    margin: 30px auto;
+  }
+  h2 {
+    font-size: 1em;
+    margin-top: 110px;
+    text-align: center;
+    font-size: 36px;
+    line-height: 44px;
+    @media screen and (max-width: 600px) {
+      margin-top: 0px;
+    }
+  }
+  .list {
+    cursor: pointer;
+    max-width: 760px;
+    min-height: 76px;
+    width: calc(100% - 32px);
+    padding: 24px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 8px;
+    background: #f7eded;
+    color: #000;
+    font-size: 16px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    border-radius: 16px;
+    margin-bottom: 32px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    .point {
+      justify-content: space-between;
+      div {
+        margin-top: 19px;
+      }
+    }
+  }
+
+  .answers {
+    display: none;
+    transition: 0.25s ease-in-out;
+    .faq-list {
+      margin-left: 30px;
+      list-style-type: disc;
+    }
+  }
+
+  .open .answers {
+    display: block;
+    transition: max-height 0.25s ease-in-out;
+  }
+
+  .questions {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .icon {
+    right: 0;
+    top: 0;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-size: contain;
+    transition: 0.2s ease, transform 0.25s ease-in-out;
+  }
+
+  .icon.plus {
+    // background-image: url(../../images/faq2/plus.webp);
+    background-image: url(../../../../assets/images/faq2/plus.webp);
+    transform: rotate(0deg);
+  }
+  .icon.cross {
+    background-image: url(../../../../assets/images/faq2/plus.webp);
+    transform: rotate(45deg);
+  }
+}

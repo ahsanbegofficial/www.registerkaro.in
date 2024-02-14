@@ -1,0 +1,27 @@
+@media (max-width: 800px) {
+  .keepInMind {
+    position: relative;
+    top: -120px;
+  }
+  .docsForPvt {
+    position: relative;
+    top: -120px;
+  }
+  .testimonialSection {
+    position: relative;
+    top: -200px;
+  }
+  .chooseRegKaro {
+    position: relative;
+    top: -200px;
+  }
+  .faq {
+    position: relative;
+    top: -200px;
+  }
+  .ourServices {
+    position: relative;
+    top: -200px;
+    margin-bottom: -180px;
+  }
+}

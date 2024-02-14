@@ -1,0 +1,37 @@
+{
+  "contact": {
+    "title": "Request A Free Consultation",
+    "subtitle": "CONTACT US",
+    "contactInfo": [
+      {
+        "title": "Main Office",
+        "info": {
+          "one": "Safe Ledger Private Limited",
+          "two": "#101, Oxford Towers, 139, HAL Old Airport Rd, Kodihalli, Bengaluru, Karnataka 560008"
+        }
+      },
+      {
+        "icon": "Phone",
+        "title": "Make a call",
+        "info": {
+          "one": "Phone: +91 94675 19608",
+          "two": ""
+        }
+      },
+      {
+        "title": "Working Hours",
+        "info": {
+          "one": "Monday-friday: 9:00- 06:00",
+          "two": "Saturday-Sunday: Holiday"
+        }
+      },
+      {
+        "title": "Send an email",
+        "info": {
+          "one": "info@registerkaro.in",
+          "two": "admin@registerkaro.in"
+        }
+      }
+    ]
+  }
+}

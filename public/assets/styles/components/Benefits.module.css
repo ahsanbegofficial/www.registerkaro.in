@@ -1,0 +1,5 @@
+@media (min-width: 321px) and (max-width: 480px) {
+  .mainContainerDiv {
+    margin-top: -3rem;
+  }
+}

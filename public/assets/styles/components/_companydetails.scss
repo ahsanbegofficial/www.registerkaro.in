@@ -1,0 +1,63 @@
+.companycheckMain {
+  .hover {
+    cursor: pointer;
+    &:hover {
+      color: $primary;
+    }
+  }
+  .main {
+    place-items: center;
+    display: grid;
+  }
+  .mainDiv {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    .name {
+      font-size: 20px;
+      font-weight: 400;
+      margin-top: 6px;
+      margin-right: 20px;
+    }
+  }
+  .search {
+    .list {
+      font-size: 16px;
+      font-weight: 200;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      resize: vertical;
+      background-color: #fff;
+      input {
+        border: none;
+        width: 230px;
+      }
+    }
+    .suggestions {
+      margin-top: 0;
+      font-size: 12px;
+      .hover {
+        cursor: pointer;
+        border: 1px solid #ccc;
+        padding: 10px 10px;
+      }
+    }
+  }
+  .directors {
+    h4 {
+      margin-top: 40px;
+      margin-left: 20px;
+    }
+  }
+  @media (max-width: 700px) {
+    .mainDiv {
+      flex-direction: column;
+    }
+    .name{
+      width: 100%;
+      text-align: center;
+    }
+  }
+}

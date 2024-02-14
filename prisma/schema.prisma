@@ -1,0 +1,156 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Cities {
+  S_No             Int    @id @default(autoincrement())
+  NameofCity       String @db.VarChar(50)
+  State            String @db.VarChar(25)
+  Type             String @db.VarChar(25)
+  poplulation_2011 String @db.VarChar(25)
+  populationclass  String @db.VarChar(25)
+
+  @@index([NameofCity], map: "idx_Cities_City")
+}
+
+model CompanyData {
+  ID                       Int     @id @default(autoincrement())
+  CIN                      String?
+  CompanyName              String?
+  ROCCode                  String?
+  RegistrationNumber       String?
+  CompanyCategory          String?
+  CompanySubCategory       String?
+  ClassofCompany           String?
+  AuthorisedCapital        String?
+  PaidupCapital            String?
+  NumberofMembers          String?
+  DateofIncorporation      String?
+  RegisteredAddress        String?
+  OtherAdr                 String?
+  EmailId                  String?
+  WhetherListedornot       String?
+  Suspendedatstockexchange String?
+  DateoflastAGM            String?
+  DateofBalanceSheet       String?
+  CompanyStatus            String?
+  Industry                 String?
+  IncorporationDateForm    String?
+}
+
+model Director_data {
+  ID                 Int     @id
+  addCertificate     String?
+  amountCharge       String?
+  categoryOP         String?
+  categoryothr       String?
+  changedDesignation String?
+  chargeHolderAuth   String?
+  chargeModArc       String?
+  chargeOutSDIND     String?
+  dynStringFour      String?
+  dynStringOne       String?
+  dynStringThre      String?
+  dynStringTwo       String?
+  extNTOPRCHRG       String?
+  fatherName         String?
+  firstLastName      String?
+  flag               String?
+  flag2              String?
+  flag4              String?
+  flag5              String?
+  flag6              String?
+  flag7              String?
+  flag8              String?
+  flag9              String?
+  nameFirst          String?
+  nameLast           String?
+  nameOfApplicant    String?
+  nationality        String?
+  noChargeHolder     String?
+  occupation         String?
+  otherPRTCLR        String?
+  paddCity           String?
+  paddCntryNM        String?
+  paddCountry        String?
+  paddDistrict       String?
+  paddEmail          String?
+  paddFax            String?
+  paddLine1          String?
+  paddLine2          String?
+  paddMobile         String?
+  paddPhone          String?
+  paddPinCode        String?
+  paddState          String?
+  permenantAddress   String?
+  presentAddr        String?
+  residentOfIndia    String?
+}
+
+model Llpdata {
+  ID                    Int       @id @default(autoincrement())
+  LLPIN                 String?   @unique
+  LLPName               String?
+  NoOfPartners          String?
+  ROCCode               String?
+  RegisteredAddress     String?
+  EmailID               String?
+  PreviousFirmComp      String?
+  DescriptionMainDevi   String?
+  FYSolvencyFiled       String?
+  AnualReturnFiled      String?
+  LLPStatus             String?
+  DOI                   DateTime?
+  NoOfDesignatedPartner Int?
+  Contribution          Int?
+  IndustrialActi        Int?
+}
+
+model NIC {
+  NICCode     Int    @id @default(autoincrement())
+  DESCRIPTION String @db.VarChar(50)
+
+  @@index([NICCode], map: "idx_NIC_NICCode")
+}
+
+model User {
+  userId        Int            @id @default(autoincrement())
+  username      String
+  name          String?
+  department    String?
+  authenticated String
+  profile       String?
+  userPmtRel    paymentLinks[]
+  phone         String?
+}
+
+model paymentLinks {
+  name             String
+  status           String
+  service          String
+  email            String
+  created_date     DateTime?     @default(now())
+  updated_date     DateTime?     @default(now())
+  amount           Int
+  phone            String
+  link             String
+  paymentId        String        @id
+  paymentCreatorID Int
+  UserRelation     User          @relation(fields: [paymentCreatorID], references: [userId], onDelete: NoAction, onUpdate: NoAction)
+  merchPayLinRel   transaction[]
+  conversionValue  Int?
+}
+
+model transaction {
+  paymentId             String
+  merchantTransactionId String       @id
+  status                String      
+  created_date          DateTime     @default(now())
+  updated_date          DateTime     @updatedAt
+  paymentLinkRelation   paymentLinks @relation(fields: [paymentId], references: [paymentId], onDelete: NoAction, onUpdate: NoAction)
+}

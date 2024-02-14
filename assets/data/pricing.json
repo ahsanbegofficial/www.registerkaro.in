@@ -1,0 +1,569 @@
+{
+  "pricing": {
+    "title": "Our Services",
+    "button": "More Details",
+    "service": [
+      {
+        "id":1,
+        "subtitle": "Business Registration",
+        "pricingCards": [
+          {
+            "id": 1,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "1,999",
+            "link": "/private-limited-company-registration",
+            "format": "Private Limited Company Registration",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "DIN and DSC for two Directors"
+              },
+              {
+                "item": "Drafting of MoA & AoA"
+              },
+              {
+                "item": "Registration fees and stamp duty"
+              },
+              {
+                "item": "Company Incorporation Certificate"
+              },
+              {
+                "item": "Company PAN and TAN"
+              },
+              {
+                "item": "ZohoBooks subscription"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "1,500",
+            "link": "/iso-certification",
+            "format": "ISO Certification",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "Social media marketing"
+              },
+              {
+                "item": "5099 keywords"
+              },
+              {
+                "item": "One way link bulding"
+              },
+              {
+                "item": "10 free optimization"
+              },
+              {
+                "item": "One year update"
+              },
+              {
+                "item": "Content research"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "2,499",
+            "link": "/trademark-registration",
+            "format": "Trademark Registration",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "Social media marketing"
+              },
+              {
+                "item": "5099 keywords"
+              },
+              {
+                "item": "One way link bulding"
+              },
+              {
+                "item": "10 free optimization"
+              },
+              {
+                "item": "One year update"
+              },
+              {
+                "item": "Content research"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "999",
+            "link": "fssai-registration",
+            "format": "FSSAI Certificate Registration",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "Social media marketing"
+              },
+              {
+                "item": "5099 keywords"
+              },
+              {
+                "item": "One way link bulding"
+              },
+              {
+                "item": "10 free optimization"
+              },
+              {
+                "item": "One year update"
+              },
+              {
+                "item": "Content research"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "12,999",
+            "link": "/section-8-company-registration",
+            "format": "Section 8 Company Registration",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "DIN and DSC for two Directors"
+              },
+              {
+                "item": "Drafting of MoA & AoA"
+              },
+              {
+                "item": "Form INC-14 and INC-15 Declarations"
+              },
+              {
+                "item": "Registration fees and stamp duty"
+              },
+              {
+                "item": "Company Incorporation Certificate"
+              },
+              {
+                "item": "Company PAN and TAN"
+              },
+              {
+                "item": "ZohoBooks subscription"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "16,999",
+            "link": "/producer-company-registration",
+            "format": "Producer Company Registration",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "Social media marketing"
+              },
+              {
+                "item": "5099 keywords"
+              },
+              {
+                "item": "One way link bulding"
+              },
+              {
+                "item": "10 free optimization"
+              },
+              {
+                "item": "One year update"
+              },
+              {
+                "item": "Content research"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "1,999",
+            "link": "/llp-registration",
+            "format": "LLP Registration",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "DIN and DSC for two Partners"
+              },
+              {
+                "item": "LLP Agreement"
+              },
+              {
+                "item": "Registration fees and stamp duty"
+              },
+              {
+                "item": "Incorporation Certificate"
+              },
+              {
+                "item": "LLP PAN and TAN"
+              },
+              {
+                "item": "ZohoBooks Subscription"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "12,999",
+            "link": "/public-limited-company-registration",
+            "format": "Public Company Registration",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "DIN 3 Directors"
+              },
+              {
+                "item": "DSC for 7 directors and shareholders"
+              },
+              {
+                "item": "Drafting of MoA & AoA"
+              },
+              {
+                "item": "Registration fees and stamp duty"
+              },
+              {
+                "item": "Company Incorporation Certificate"
+              },
+              {
+                "item": "Company PAN and TAN"
+              },
+              {
+                "item": "Company PF and ESIC Registration"
+              },
+              {
+                "item": "Business Commencement certificate"
+              },
+              {
+                "item": "ZohoBooks Subscription"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "1,999",
+            "link": "/opc-registration",
+            "format": "OPC Registration",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "DIN and DSC for one Director"
+              },
+              {
+                "item": "Drafting of MoA & AoA"
+              },
+              {
+                "item": "Registration fees and stamp duty"
+              },
+              {
+                "item": "Company Incorporation Certificate"
+              },
+              {
+                "item": "Company PAN and TAN"
+              },
+              {
+                "item": "Company PF and ESIC Registration"
+              },
+              {
+                "item": "Business Commencement certificate"
+              },
+              {
+                "item": "ZohoBooks Subscription"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "-",
+            "link": "gst-registration",
+            "format": "GST Registration",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "Social media marketing"
+              },
+              {
+                "item": "5099 keywords"
+              },
+              {
+                "item": "One way link bulding"
+              },
+              {
+                "item": "10 free optimization"
+              },
+              {
+                "item": "One year update"
+              },
+              {
+                "item": "Content research"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "1,499",
+            "link": "digital-signature-certificate",
+            "format": "Digital Signature Certificate",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "Social media marketing"
+              },
+              {
+                "item": "5099 keywords"
+              },
+              {
+                "item": "One way link bulding"
+              },
+              {
+                "item": "10 free optimization"
+              },
+              {
+                "item": "One year update"
+              },
+              {
+                "item": "Content research"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "499",
+            "link": "iec-registration",
+            "format": "IEC Registration",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "Social media marketing"
+              },
+              {
+                "item": "5099 keywords"
+              },
+              {
+                "item": "One way link bulding"
+              },
+              {
+                "item": "10 free optimization"
+              },
+              {
+                "item": "One year update"
+              },
+              {
+                "item": "Content research"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "16,899",
+            "link": "/nidhi-company-registration",
+            "format": "Nidhi Company Registration",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "DIN and DSC for two Directors"
+              },
+              {
+                "item": "Drafting of MoA & AoA"
+              },
+              {
+                "item": "Approval letter from Central Govt"
+              },
+              {
+                "item": "Registration fees and stamp duty"
+              },
+              {
+                "item": "Company Incorporation Certificate"
+              },
+              {
+                "item": "Company PAN and TAN"
+              },
+              {
+                "item": "ZohoBooks subscription"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id":2,
+        "subtitle": "Compliance Services",
+        "pricingCards": [
+          {
+            "id": 1,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "9,999",
+            "link": "private-limited-company-compliance",
+            "format": "Annual Compliance Private Limited",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "Social media marketing"
+              },
+              {
+                "item": "5099 keywords"
+              },
+              {
+                "item": "One way link bulding"
+              },
+              {
+                "item": "10 free optimization"
+              },
+              {
+                "item": "One year update"
+              },
+              {
+                "item": "Content research"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "20,000",
+            "link": "nidhi-company-compliance",
+            "format": "Nidhi Annual Compliance",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "Social media marketing"
+              },
+              {
+                "item": "5099 keywords"
+              },
+              {
+                "item": "One way link bulding"
+              },
+              {
+                "item": "10 free optimization"
+              },
+              {
+                "item": "One year update"
+              },
+              {
+                "item": "Content research"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "5,999",
+            "link": "llp-compliance",
+            "format": "Annual Compliance LLP",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "Social media marketing"
+              },
+              {
+                "item": "5099 keywords"
+              },
+              {
+                "item": "One way link bulding"
+              },
+              {
+                "item": "10 free optimization"
+              },
+              {
+                "item": "One year update"
+              },
+              {
+                "item": "Content research"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id":3,
+        "subtitle": "Other Services",
+        "pricingCards": [
+          {
+            "id": 1,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "2,499",
+            "link": "/change-of-directors",
+            "format": "Change of Directors",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "Social media marketing"
+              },
+              {
+                "item": "5099 keywords"
+              },
+              {
+                "item": "One way link bulding"
+              },
+              {
+                "item": "10 free optimization"
+              },
+              {
+                "item": "One year update"
+              },
+              {
+                "item": "Content research"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "tag": "EXCLUSIVE",
+            "icon": "icofont-diamond",
+            "price": "8,000",
+            "link": "change-pvt-ltd-company-name",
+            "format": "Change Private limited Company Name",
+            "checkIcon": "icofont-check",
+            "pricingDetails": [
+              {
+                "item": "Social media marketing"
+              },
+              {
+                "item": "5099 keywords"
+              },
+              {
+                "item": "One way link bulding"
+              },
+              {
+                "item": "10 free optimization"
+              },
+              {
+                "item": "One year update"
+              },
+              {
+                "item": "Content research"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

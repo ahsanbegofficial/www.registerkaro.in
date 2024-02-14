@@ -1,0 +1,20 @@
+.imgZoom {
+  /* transition: transform 0.2s; */
+  /* width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  /* height: 100px; */
+  /* width: 100px; */
+  max-height: auto;
+  max-width: auto;
+  overflow: hidden;
+
+  transition: transform 0.8s ease-in-out;
+  padding: 20px;
+}
+.imgZoom:hover {
+  transform: scale(1.1);
+  overflow: hidden;
+  /* width: 120px; */
+  /* height: 120px; */
+}

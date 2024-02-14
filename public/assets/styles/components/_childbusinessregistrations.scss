@@ -1,0 +1,52 @@
+.businessRegistrations {
+  display: flex;
+  padding: 30px;
+  gap: 20px;
+  div:nth-child(2) {
+    position: sticky;
+    top: 20px;
+    height: 100%;
+  }
+}
+.reg {
+  padding: 20px 40px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  h1 {
+    text-align: center;
+    font-size: 26px;
+    margin: 40px 0px 16px 0px;
+    font-weight: bold;
+  }
+  h2 {
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 40px 0px 16px 0px;
+  }
+  p {
+    font-size: 16px;
+    line-height: 2;
+  }
+  #title {
+    font-size: 36px;
+    color: orange;
+  }
+  .bullets {
+    font-size: 16px;
+    margin: 8px 0px 2px 0px;
+  }
+  .rightPara {
+    margin-left: 20px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .businessRegistrations {
+    flex-direction: column-reverse;
+    div:nth-child(2) {
+      top: 20px;
+      position: static;
+      margin: auto;
+    }
+  }
+}

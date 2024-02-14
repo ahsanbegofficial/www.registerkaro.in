@@ -1,0 +1,126 @@
+.about3 {
+  @media screen and (max-width: 575px) {
+    margin-top: 240px;
+  }
+  @media screen and (max-width: 375px) {
+    margin-top: 290px;
+  }
+  &__image {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    height: 40rem;
+    width: auto;
+    .man {
+      z-index: 2;
+      @include media-breakpoint-up(lg) {
+        top: 91px;
+        right: 92px;
+      }
+      @include media-breakpoint-only(md) {
+        top: 91px !important;
+        right: 124px !important;
+      }
+      @include media-breakpoint-down(sm) {
+        top: 105px !important;
+        right: -19px !important;
+      }
+      @include media-breakpoint-only(xs) {
+        top: 119px !important;
+        right: -16px !important;
+      }
+    }
+
+    &__brand {
+      position: absolute;
+      padding: 10px;
+      background-color: $color-light;
+      width: 230px;
+      height: 86px;
+      box-shadow: 2px 0px 15px 5px $color-shadow;
+      animation: upDown 3s linear infinite alternate;
+      right: 20px;
+      bottom: 50px;
+      border-radius: 5px;
+      display: grid;
+      z-index: 6;
+      grid-template-columns: 80px 1fr;
+      &--trust {
+        display: flex;
+        align-items: center;
+        font-size: 14px;
+        padding-left: 5px;
+        border-left: 1px solid $color-shadow;
+      }
+      &--rating {
+        padding-right: 5px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        &--percent {
+          font-weight: 700;
+          font-size: 18px;
+        }
+        &--count {
+          font-size: 10px;
+        }
+      }
+      @include respond(desktop) {
+        left: -15px;
+      }
+      @include respond(laptop) {
+        left: 100px;
+        bottom: 5%;
+      }
+      @include respond(tablet) {
+        left: 55px;
+      }
+      @include respond(phone) {
+        font-size: 14px;
+        width: 230px;
+        height: 80px;
+        left: 40px;
+        bottom: 10px;
+      }
+      h3 {
+        font-size: 32px;
+      }
+      p {
+        line-height: 1.8;
+        margin-bottom: 0;
+      }
+    }
+  }
+  &__content {
+    ul {
+      grid-template-columns: 1fr 1fr;
+      display: grid;
+      grid-gap: 15px;
+      @include respond(phone) {
+        grid-template-columns: auto;
+      }
+      li {
+        display: grid;
+        align-items: center;
+        grid-gap: 0.5rem;
+        background-color: #fff;
+        grid-template-columns: auto 1fr;
+        padding: 12px 20px;
+        border-radius: 5px;
+      }
+    }
+  }
+}
+
+.container {
+  .custom-checkbox2 {
+    width: 1.3em;
+    height: 1.3em;
+    margin-top: 0.25em;
+    vertical-align: top;
+    border: 1px solid #ffa229;
+    &:checked {
+      accent-color: #ffa229;
+    }
+  }
+}

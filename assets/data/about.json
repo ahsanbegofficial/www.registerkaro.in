@@ -1,0 +1,32 @@
+{
+  "about": {
+    "image": "../assets/images/trust.png",
+    "points": 4.5,
+    "ratings": "100+ Ratings",
+    "trustedBy": "20,000",
+    "title": "Why Our Customers Love Us",
+    "subtitle": "Why choose us",
+    "description": "Our All-In-One Platform And Team Of Experts will help direct you in the right path and ensure that your business starts the right way in record time. ",
+    "itemsIcon": "icofont-check",
+    "items": [
+      {
+        "title": "Affordable"
+      },
+      {
+        "title": "Compliance Ensured"
+      },
+      {
+        "title": "Simplified Process"
+      },
+      {
+        "title": "On-time Service"
+      },
+      {
+        "title": "Instant Response"
+      },
+      {
+        "title": "Industry Experts"
+      }
+    ]
+  }
+}

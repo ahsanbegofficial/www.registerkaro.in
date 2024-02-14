@@ -1,0 +1,240 @@
+.typeform {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  font-family: "Helvetica";
+  .text-yellow {
+    color: #ffa229;
+  }
+  .backgroundDiv {
+    height: 100vh;
+    width: 100vw;
+    background-image: url("../../../../assets/images/typeform/bg.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    .mainDiv {
+      width: 40vw;
+      height: auto;
+      margin-left: 30px;
+      display: flex;
+      .content {
+        color: white;
+      }
+      .flex-btn-div {
+        display: flex;
+        gap: 40px;
+      }
+      .active {
+        display: block;
+      }
+      .hide {
+        transition: all 1s ease;
+        display: none;
+      }
+      .inputDiv {
+        .label {
+          font-size: 22px;
+          color: white;
+          margin-bottom: 50px;
+        }
+        .group {
+          position: relative;
+        }
+        .input,
+        select {
+          font-size: 16px;
+          padding: 10px 10px 10px 5px;
+          display: block;
+          width: 400px;
+          border: none;
+          border-bottom: 1px solid #515151;
+          background: transparent;
+          color: white;
+        }
+        option {
+          width: 400px;
+          background-color: #1e253f;
+        }
+        .input:focus {
+          outline: none;
+        }
+        label {
+          color: #999;
+          font-size: 18px;
+          font-weight: normal;
+          position: absolute;
+          pointer-events: none;
+          left: 5px;
+          top: 10px;
+          transition: 0.2s ease all;
+          -moz-transition: 0.2s ease all;
+          -webkit-transition: 0.2s ease all;
+        }
+        .input:focus ~ label,
+        .input:valid ~ label {
+          top: -20px;
+          font-size: 14px;
+          color: #5264ae;
+        }
+        .bar {
+          position: relative;
+          display: block;
+          width: 400px;
+        }
+        .bar:before,
+        .bar:after {
+          content: "";
+          height: 2px;
+          width: 0;
+          bottom: 1px;
+          position: absolute;
+          background: #5264ae;
+          transition: 0.2s ease all;
+          -moz-transition: 0.2s ease all;
+          -webkit-transition: 0.2s ease all;
+        }
+        .bar:before {
+          left: 50%;
+        }
+        .bar:after {
+          right: 50%;
+        }
+        .input:focus ~ .bar:before,
+        .input:focus ~ .bar:after {
+          width: 50%;
+        }
+        .highlight {
+          position: absolute;
+          height: 60%;
+          width: 100px;
+          top: 25%;
+          left: 0;
+          pointer-events: none;
+          opacity: 0.5;
+        }
+        .input:focus ~ .highlight {
+          animation: inputHighlighter 0.3s ease;
+        }
+        @keyframes inputHighlighter {
+          from {
+            background: #5264ae;
+          }
+          to {
+            width: 0;
+            background: transparent;
+          }
+        }
+      }
+      .btn {
+        margin-top: 20px;
+        padding: 1rem 2rem;
+        font-weight: 700;
+        // background: rgb(255, 255, 255);
+        background: #ffa229;
+        // color: #ffa229;
+        color: white;
+        border-radius: 0.5rem;
+        border-bottom: 2px solid #ffa229;
+        border-right: 2px solid #ffa229;
+        border-top: 2px solid white;
+        border-left: 2px solid white;
+        transition-duration: 1s;
+        transition-property: border-top, border-left, border-bottom,
+          border-right, box-shadow;
+      }
+
+      .btn:hover {
+        border-top: 2px solid #ffa229;
+        border-left: 2px solid #ffa229;
+        border-bottom: 2px solid rgb(219, 211, 61);
+        border-right: 2px solid rgb(170, 170, 54);
+        box-shadow: rgba(165, 189, 48, 0.4) 5px 5px,
+          rgba(215, 218, 37, 0.3) 10px 10px, rgba(227, 240, 46, 0.2) 15px 15px;
+      }
+    }
+  }
+
+  @media only screen and (max-width: 821px) {
+    .backgroundDiv {
+      justify-content: center;
+      .mainDiv {
+        width: 90vw;
+        justify-content: center;
+        .inputDiv {
+          .input,
+          .select {
+            width: 90%;
+          }
+          option {
+            width: 80vw;
+            border: 4px solid red;
+          }
+        }
+      }
+    }
+  }
+}
+/* Define animation classes */
+.slide-in {
+  animation: slideIn 0.5s forwards;
+}
+
+.slide-out {
+  animation: slideOut 0.5s forwards;
+}
+
+.slide-in-reverse {
+  animation: slideInReverse 0.5s forwards;
+}
+
+.slide-out-reverse {
+  animation: slideOutReverse 0.5s forwards;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideOut {
+  from {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+}
+
+@keyframes slideInReverse {
+  from {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideOutReverse {
+  from {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+}

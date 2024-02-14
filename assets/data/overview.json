@@ -1,0 +1,32 @@
+{
+  "overview": {
+    "title": "Registration Procedure of Private Limited Company",
+    "subtitle": "PROCEDURE ",
+    "overviewContents": [
+      {
+        "id": 1,
+        "number": "01",
+        "title": "Working Day",
+        "description": "DSC is an electronic online signature issued by licensed certifying authorities. All the proposed directors of the company required to apply for the digital signature (DSC) which is necessary for digitally signing the electronic incorporation documents. DSC can be obtained either using supporting documents or Aadhar eKYC based authentication (supporting documents are not required in this case)."
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "title": "Director Identification Number",
+        "description": "ODIN or DPIN, i.e. directors PIN is a unique eight-digit identification number which is a mandatory requirement for existing as well as proposed directors of the company to maintain the director's information in a database. MCA allots a DIN to every director of the company with a lifetime validity without which one cannot be a director."
+      },
+      {
+        "id": "3",
+        "number": "03",
+        "title": "Name Approval",
+        "description": "Once we obtain the DIN and DSC of the directors, a list of minimum one or maximum six proposed names of the company in preferential order will be submitted to MCA for approval. Our representative will conduct a prior search for your name availability. Ideally, the name should be unique, suggestive of the business and end with the words 'Private Limited' in order to avoid the rejection. We get your company name approved subject to availability and naming guidelines."
+      },
+      {
+        "id": "4",
+        "number": "04",
+        "title": "Incorporation Documents",
+        "description": "ODIN or DPIN, i.e. directors PIN is a unique eight-digit identification number which is a mandatory requirement for existing as well as proposed directors of the company to maintain the director's information in a database. MCA allots a DIN to every director of the company with a lifetime validity without which one cannot be a director."
+      }
+    ]
+  }
+}

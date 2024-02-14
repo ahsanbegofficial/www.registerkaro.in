@@ -1,0 +1,116 @@
+.contactus {
+  font-family: "Poppins", sans-serif;
+  .flex {
+    display: flex;
+  }
+  .mb-40 {
+    margin-bottom: 40px;
+  }
+  .h3-heading {
+    font-size: 25px;
+    line-height: 38px;
+    font-weight: 500;
+    margin: 0;
+    letter-spacing: 0.5px;
+    margin-bottom: 10px;
+  }
+  .P-light {
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: none;
+    line-height: 1.7;
+    letter-spacing: 0;
+    color: #777;
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 10px;
+  }
+  width: 75%;
+  margin: auto;
+  .whatsapp-main-div {
+    border: 1px solid #e6e6e6;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    h1 {
+      font-size: 25px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+    p {
+      font-size: 1rem;
+      font-style: normal;
+      font-weight: 400;
+      text-transform: none;
+      line-height: 1.7;
+      letter-spacing: 0;
+      color: #777;
+    }
+    .whatsapp {
+      background-color: #81c868;
+      padding: 12px 18px;
+      display: flex;
+      align-items: center;
+      height: 100%;
+      border-radius: 5px;
+      font-size: 12px;
+      font-weight: 600;
+      .whatsapp-text {
+        padding: 0;
+        margin: 0;
+        color: white;
+      }
+    }
+  }
+  .note {
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: none;
+    line-height: 1.7;
+    letter-spacing: 0;
+    color: #777;
+  }
+  .flex-main {
+    a {
+      text-decoration: underline !important;
+    }
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    div {
+      padding-top: 20px;
+      border: 1px solid #e6e6e6;
+      text-align: center;
+      height: 120px;
+      width: 350px;
+      h5 {
+        font-weight: 400;
+      }
+    }
+  }
+  .join-our-parent {
+    a {
+      text-decoration: underline !important;
+    }
+  }
+  .customer-billing-main-div {
+    a {
+      text-decoration: underline !important;
+    }
+  }
+  @media screen and (max-width: 1300px) {
+    .join-our-parent{
+      flex-direction: column;
+      gap: 40px;
+    }
+    .whatsapp-main-div{
+      flex-direction: column;
+      text-align: center;
+    }
+  }
+}

@@ -1,0 +1,58 @@
+.modalHeadPara {
+    color: white;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.modalHeadStyle {
+    border: none;
+}
+
+.modalBody {
+    padding: 50px;
+}
+
+@media (min-width: 800px) {
+    .closeBtn {
+        position: relative;
+        left: 380px;
+    }
+
+    .brandLogo {
+        height: 80px;
+        position: relative;
+        top: -15px;
+        left: 85px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .brandLogoStyle {
+        position: relative;
+        top: -25px;
+        left: -5px;
+    }
+
+    .RegKaroName {
+        position: relative;
+        left: -0.5rem;
+    }
+
+    .modal {
+        position: relative;
+        top: -25px;
+    }
+}
+
+@media (min-width: 800px) {}
+
+@media (max-width: 800px) {
+    .closeBtn {
+        display: flex;
+        position: relative;
+        left: 150px;
+    }
+
+    .smallDevice {
+        display: none;
+    }
+}

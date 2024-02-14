@@ -1,0 +1,95 @@
+{
+  "testimonial": {
+    "title": " Happy Customers",
+    "counterNumber": "20000",
+    "subtitle": "Hear what our customers has to say.",
+    "description": "We are one of India's highest rated service provider, we are know for completing Business incorporations and other compliance services in record time, don't have to believe us, read it by yourselves",
+    "button": "Read More",
+    "shapeImg1": "/assets/images/trinity.webp",
+    "shapeImg2": "/assets/images/rojapatil.webp",
+    "shapeImg3": "/assets/images/jagan.webp",
+    "shapeImg4": "/assets/images/mudigal.webp",
+    "review": [
+      {
+        "id": 1,
+        "image": "/assets/images/E.webp",
+        "description": "Team Register Karo helped our company incorporated into MCA. Team was very professional and cooperative.Response to all our doubts were cleared well. I would like to thank Mr.Bhuvan & Register Karo Team. I would like to thank Mr.Bhuvan & Register Karo Team.",
+        "name": "Elrafact Technology Solutions",
+        "title": " ",
+        "link": "https://goo.gl/maps/LkJuMn7P83Ay74Tu7"
+      },
+      {
+        "id": 2,
+        "image": "/assets/images/venugopal.webp",
+        "description": "One of my friend suggested me to go with RegisterKaro in for my Company Registration. I have no idea about Company registration process, documents required and other details involved. RegisterKaro Team guided me very well during my Pvt Ltd Company registration.",
+        "name": "Venu Gopal",
+        "title": " ",
+        "link": "https://goo.gl/maps/ggdSisMZxDJpfmwh7"
+      },
+      {
+        "id": 3,
+        "image": "/assets/images/trinity.webp",
+        "description": "Great experience to have associated with REGISTER KARO team.All documentations for registration was done online with prompt updates..Thanks to entire team, especially Priyanka mam,for personally updating me and Himanshi for coordinating...Thank you...",
+        "name": "Trinity Finserv LLP",
+        "title": " ",
+        "link": "https://goo.gl/maps/da8FnA2MXUK614L17"
+      },
+      {
+        "id": 4,
+        "image": "/assets/images/jagan.webp",
+        "description": "I am extremely satisfied with RegisterKaro team efforts towards my incorporation of my company. These guys are really amazing no words can describe their wonderful service & double strongly recommend for aspiring entrepreneurs these guys really deserves felicitation thank you team all",
+        "name": "Jagan prakash",
+        "title": " ",
+        "link": "https://goo.gl/maps/d1DhR3hp3s2Jsa1r8"
+      },
+      {
+        "id": 5,
+        "image": "/assets/images/nalin.webp",
+        "description": "RegisterKaro, Enough said.If you want prompt service and precise direction get in touch with RegisterKaro.Amazing service, on-time response, and super courteous people make the business experience beautiful.",
+        "name": "Nalin Kumar",
+        "title": " ",
+        "link": "https://goo.gl/maps/JhA8BSJ3wLFHc83v9"
+      },
+      {
+        "id": 6,
+        "image": "/assets/images/rojapatil.webp",
+        "description": "Team Register Karo helped our company incorporated into MCA.Team was very professional and cooperative.Response to all our doubts were cleared well.",
+        "name": "Roja Patil",
+        "title": " ",
+        "link": "https://goo.gl/maps/tJNqPwoAU6AfVwDu5"
+      },
+      {
+        "id": 7,
+        "image": "/assets/images/ritesh.webp",
+        "description": "There was a bit of to and fro but the RegisterKaro team kept me updated on the whole process. Special shout out to Joel for being so helpful!. Overall, I'm very pleased with the service and would definitely recommend it to anyone who's looking for an easy way to register a business.Onwards and upwards!",
+        "name": "Ritesh Kumar",
+        "title": " ",
+        "link": "https://goo.gl/maps/YqMdhqeXdY9GE4Ty6"
+      },
+      {
+        "id": 8,
+        "image": "/assets/images/mudigal.webp",
+        "description": "I got my LLP registered through RegisterKaro. Really an amazing team to work along. Thank a lot to Bhuvan, Sidharth and Gaurav who were happy to help with anything. Special thanks to Bhuvan for his patience in correcting the LLP agreement multiple times without hesitation.",
+        "name": "Vijayendra Mudigal",
+        "title": " ",
+        "link": "https://goo.gl/maps/C6MEcteEwiLDwian7"
+      },
+      {
+        "id": 9,
+        "image": "/assets/images/palanisamy.webp",
+        "description": "Professional, Very Professional Service...Am glad to work with RegisterKaro and they made the company registration process hassle free. Appreciate their service. Go easy and approachable by anytime, will work with them near future again. Go easy and approachable by anytime, will work with them near future again.",
+        "name": "Muruganandan Palanisamy",
+        "title": " ",
+        "link": "https://goo.gl/maps/oBqJ52mhDmaW2oAE7"
+      },
+      {
+        "id": 10,
+        "image": "/assets/images/pradeep.webp",
+        "description": "Satisfied with their service, got my company registration done within 10 days. If you have all documents required for company registration and active on WhatsApp then you don't have to wait for a long. They created a dedicated WhatsApp group where all their team members were active to help me to complete my documents and registration process.",
+        "name": "Pradeep Talan",
+        "title": " ",
+        "link": "https://goo.gl/maps/7mDFzpyp7AuvWRWU6"
+      }
+    ]
+  }
+}

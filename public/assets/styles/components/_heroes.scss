@@ -1,0 +1,49 @@
+.heroes {
+  .pt-50 {
+    padding-top: 50px;
+  }
+  .price-color {
+    color: #ffb95e;
+  }
+  .days-color {
+    color: #164760;
+  }
+  .hero-banner-container {
+    margin-top: -25px;
+  }
+  .img-container-desktop {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 70px;
+  }
+  .img-container-mobile {
+    display: none;
+  }
+  .left-from-content {
+    height: 100%;
+    width: 100%;
+  }
+  .bg-one{
+    background-color: white ;
+  }
+  @media screen and (max-width: 600px) {
+    .pt-50 {
+      padding-top: 20px;
+    }
+    .hero-banner-container {
+      margin-top: 5px;
+    }
+    .img-container-mobile {
+      width: 100%;
+      height: 100%;
+      margin-bottom: 10px;
+      display: block;
+    }
+    .img-container-desktop {
+      display: none;
+    }
+    .img-width{
+      width: 100%;
+    }
+  }
+}
