@@ -80,7 +80,7 @@ const Home = () => {
             <Process />
             <h1 className="main-heading">Types of Subsidiaries in India</h1>
             <div className='heading-line'></div>
-            <TypeOfSubs/>
+            {/* <TypeOfSubs/> */}
             <h1 className="main-heading">Advantages of Indian Subsidiary Registration</h1>
             <div className='heading-line'></div>
             <Advantages/>

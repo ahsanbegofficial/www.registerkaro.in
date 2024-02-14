@@ -109,7 +109,7 @@ const Home = () => {
             <Documentation/>   
             <h1 className="main-heading">Procedure for Trust Registration</h1>
             <div className='heading-line'></div>
-            <Procedure/>   
+            {/* <Procedure/>    */}
             <h1 className="main-heading">Dissolution of a Trust</h1>
             <div className='heading-line'></div>
             <Dissolution/>

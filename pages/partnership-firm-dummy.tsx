@@ -106,7 +106,7 @@ const Home = () => {
             <WhatIs/>
             <h1 className='main-heading'>Importance of Registering a Partnership Firm in India</h1>
             <div className='heading-line'></div>
-            <Benefits/>
+            {/* <Benefits/> */}
             <h1 className='main-heading'>Advantages of Partnership Firm Registration</h1>
             <div className='heading-line'></div>
             <Advantages/>
