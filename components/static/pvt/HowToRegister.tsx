@@ -1,12 +1,12 @@
 import Image from 'next/image'
 import React, { useState } from 'react'
-import one from '../../../assets/images/pvt-reg/HowToRegister/one.svg'
-import two from '../../../assets/images/pvt-reg/HowToRegister/two.svg'
-import three from '../../../assets/images/pvt-reg/HowToRegister/three.svg'
-import four from '../../../assets/images/pvt-reg/HowToRegister/four.svg'
-import five from '../../../assets/images/pvt-reg/HowToRegister/five.svg'
-import six from '../../../assets/images/pvt-reg/HowToRegister/six.svg'
-import arrow from '../../../assets/images/pvt-reg/HowToRegister/arrow.svg'
+import one from '../../../assets/images/static/private-reg/HowToRegister/one.svg'
+import two from '../../../assets/images/static/private-reg/HowToRegister/two.svg'
+import three from '../../../assets/images/static/private-reg/HowToRegister/three.svg'
+import four from '../../../assets/images/static/private-reg/HowToRegister/four.svg'
+import five from '../../../assets/images/static/private-reg/HowToRegister/five.svg'
+import six from '../../../assets/images/static/private-reg/HowToRegister/six.svg'
+import arrow from '../../../assets/images/static/private-reg/HowToRegister/arrow.svg'
 
 export const HowToRegister = () => {
   const [active, setActive] = useState('1')
@@ -17,7 +17,7 @@ export const HowToRegister = () => {
 
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='How'>
-      <p className='main-para'>If you have found your destination in the face of a Private Limited Company, then let Registerkaro map the road to your destination. Following the given route, the company registration process becomes easy to handle.</p>
+      <p className='main-para'>Following is the step by step procedure for private limited company registration online in India:</p>
       <div className="flex w-100 align-center justify-content-between mobile-flex-column">
         <div className='flex-4'>
           <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'}`}>
@@ -60,7 +60,7 @@ export const HowToRegister = () => {
         <div className='flex-6 text-justify fs-20 p-color-black'>
           <div className={`${active === '1' ? 'active' : 'none'}`}>
             <h3>1: Select the Company name</h3>
-            <p>Business structure selection is the first step for company registration and when the private limited company is what you have chosen, time is to select the company name. It is important to then verify if the selected name is available for company registration. Once MCA approves a certain name, the applicant then is left with 21 days to register the company.</p>
+            <p>Business structure selection is the first step for private limited company registration and when the private limited company is what you have chosen, time is to select the company name. It is important to then verify if the selected name is available for private limited company registration. Once MCA approves a certain name, the applicant then is left with 21 days to register the company.</p>
           </div>
           <div className={`${active === '2' ? 'active' : 'none'}`}>
             <h3>2: Digital Signature Certificate</h3>
@@ -68,7 +68,7 @@ export const HowToRegister = () => {
           </div>
           <div className={`${active === '3' ? 'active' : 'none'}`}>
             <h3>3: SPICe+ Form (INC-32)</h3>
-            <p>SPICe+ Form (INC-32) has been introduced to streamline the company registration process for private limited companies. This form is used to obtain Director Identification Number (DIN) which is required by individuals intending to be a director, Employees' Provident Fund Organisation (EPFO), Company’s PAN, Company’s Tax Deduction Account Number, and Employee's State Insurance Corporation (ESIC) applications.</p>
+            <p>SPICe+ Form (INC-32) has been introduced to streamline the private limited company registration process. This form is used to obtain Director Identification Number (DIN) which is required by individuals intending to be a director, Employees' Provident Fund Organisation (EPFO), Company’s PAN, Company’s Tax Deduction Account Number, and Employee's State Insurance Corporation (ESIC) applications.</p>
           </div>
           <div className={`${active === '4' ? 'active' : 'none'}`}>
             <h3>4: Electronic submission of MoA and AoA</h3>

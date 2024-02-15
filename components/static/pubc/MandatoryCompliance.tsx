@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import pvtReg from '../../../assets/images/pvt-reg/pvt-reg.svg'
+import pvtReg from '../../../assets/images/static/private-reg/pvt-reg.svg'
 
 export const MandatoryCompliance = () => {
   return (

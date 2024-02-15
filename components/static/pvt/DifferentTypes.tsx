@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import dft from '../../../assets/images/pvt-reg/differentType.svg'
+import dft from '../../../assets/images/static/private-reg/differentType.svg'
 
 export const DifferentTypes = () => {
   return (

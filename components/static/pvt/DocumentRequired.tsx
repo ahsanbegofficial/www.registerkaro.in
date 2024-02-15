@@ -1,13 +1,13 @@
 import Image from 'next/image'
 import React from 'react'
-import documents from '../../../assets/images/pvt-reg/documents.svg'
-import ulArrow from '../../../assets/images/pvt-reg/ulArrow.svg'
+import documents from '../../../assets/images/static/private-reg/documents.svg'
+import ulArrow from '../../../assets/images/static/private-reg/ulArrow.svg'
 
 export const DocumentRequired = () => {
   return (
     <div className='DocumentArrowWise flex w-80 m-auto mobile-flex-column-reverse' id='Documents'>
       <div className='flex-7'>
-        <p>To continue with the successful company registration, you will require the following documents required Pvt Ltd Company Registration</p>
+        <p>To continue with the successful private limited company registration, you will require the following documents required Private Limited Company Registration</p>
         <h3>Documents submitted by Directors and Shareholders</h3>
         <ul className='tick list-unstyled'>
           <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} />Permanent Account Number</li>

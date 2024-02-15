@@ -1,5 +1,5 @@
 import React from 'react'
-import certificate from '../../../assets/images/llp-reg/llp-certificate-sample.png';
+import certificate from '../../../assets/images/static/llp-reg/llp-certificate-sample.png';
 import Image from 'next/image';
 
 export const Process = () => {

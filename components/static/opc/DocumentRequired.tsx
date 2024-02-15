@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
-import documents from '../../../assets/images/opc-reg/Documents.svg'
-import ulArrow from '../../../assets/images/pvt-reg/ulArrow.svg'
+import documents from '../../../assets/images/static/opc-reg/Documents.svg'
+import ulArrow from '../../../assets/images/static/private-reg/ulArrow.svg'
 
 export const DocumentRequired = () => {
   return (

@@ -1,15 +1,15 @@
 import Image from 'next/image'
 import React from 'react'
-import documents from '../../../assets/images/pvt-reg/documents.svg'
-import ulArrow from '../../../assets/images/pvt-reg/ulArrow.svg'
+import documents from '../../../assets/images/static/private-reg/documents.svg'
+import ulArrow from '../../../assets/images/static/private-reg/ulArrow.svg'
 
 export const Eligibility = () => {
   return (
     <div className='DocumentRequired flex w-80 m-auto mobile-flex-column' id='Eligibility'>
-      <div className='flex-3'>
-        <Image alt="documents" className="DocumentRequired-img w-100" loading="lazy" src={documents} height={430} />
+      <div className='flex-4s'>
+        <Image alt="documents" className="Eligibility-img w-100" loading="lazy" src={documents} height={470} />
       </div>
-      <div className='flex-7'>
+      <div className='flex-6'>
         <p>Following is the eligibility criteria for Section 8 Company Registration in India:</p>
         <ul className='tick list-unstyled'>
           <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} /> At least 1 Director is required and he or she should be a resident of India</li>

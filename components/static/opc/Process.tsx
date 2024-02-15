@@ -1,5 +1,5 @@
 import React from 'react'
-import certificate from '../../../assets/images/opc-reg/OPC-registration-sample-certificate.jpg';
+import certificate from '../../../assets/images/static/opc-reg/OPC-registration-sample-certificate.jpg';
 import Image from 'next/image';
 
 export const Process = () => {

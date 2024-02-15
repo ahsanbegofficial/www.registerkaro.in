@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import benefit from '../../../assets/images/llp-reg/benefit.svg'
+import benefit from '../../../assets/images//static/llp-reg/benefit.svg'
 
 export const Benefits = () => {
   return (

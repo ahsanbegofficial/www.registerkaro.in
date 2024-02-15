@@ -1,12 +1,12 @@
 import React from 'react'
-import certificate from '../../../assets/images/pvt-reg/pvt_ltd_company_certificate_sample.webp';
+import certificate from '../../../assets/images/static/private-reg/pvt_ltd_company_certificate_sample.webp';
 import Image from 'next/image';
 
 export const Process = () => {
     return (
         <div className='process flex w-80 m-auto mobile-flex-column-reverse'>
             <div className='flex-5'>
-                <p className='text-justify'>Starting a business is not always a cakewalk, but becomes a series of sleepless nights, and stressful days. The struggle becomes real if the research department has not received its call of time. The research to understand the kind of company one should choose for company registration and the prerequisites that come along with that is an extensive process to be taken care of. If the private limited Company is what suits your business model, then let RegisterKaro help you ease down the process by understanding the benefits, mapping the challenges, and satisfying the prerequisites for the company registration of a Private Limited.</p>
+                <p className='text-justify'>Starting a business is not always a cakewalk, but becomes a series of sleepless nights, and stressful days. The struggle becomes real if the research department has not received its call of time. The research to understand the kind of company one should choose for company registration and the prerequisites that come along with that is an extensive process to be taken care of. If the private limited Company is what suits your business model, then let RegisterKaro help you ease down the process by understanding the benefits, mapping the challenges, and satisfying the prerequisites for the private limited company registration.</p>
                 <div className='page-point'>
                     <ul>
                         <ul>

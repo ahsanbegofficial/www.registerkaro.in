@@ -1,12 +1,12 @@
 import Image from 'next/image'
 import { useState } from 'react'
-import arrow from '../../../assets/images/pvt-reg/HowToRegister/arrow.svg'
-import five from '../../../assets/images/pvt-reg/HowToRegister/five.svg'
-import six from '../../../assets/images/pvt-reg/HowToRegister/six.svg'
-import four from '../../../assets/images/pvt-reg/HowToRegister/four.svg'
-import one from '../../../assets/images/pvt-reg/HowToRegister/one.svg'
-import three from '../../../assets/images/pvt-reg/HowToRegister/three.svg'
-import two from '../../../assets/images/pvt-reg/HowToRegister/two.svg'
+import arrow from '../../../assets/images/static/private-reg/HowToRegister/arrow.svg'
+import five from '../../../assets/images/static/private-reg/HowToRegister/five.svg'
+import six from '../../../assets/images/static/private-reg/HowToRegister/six.svg'
+import four from '../../../assets/images/static/private-reg/HowToRegister/four.svg'
+import one from '../../../assets/images/static/private-reg/HowToRegister/one.svg'
+import three from '../../../assets/images/static/private-reg/HowToRegister/three.svg'
+import two from '../../../assets/images/static/private-reg/HowToRegister/two.svg'
 
 export const HowToRegister = () => {
   const [active, setActive] = useState('1')

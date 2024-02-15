@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import bft from '../../../assets/images/public-reg/Types and distinctions.svg'
+import bft from '../../../assets/images/static/public-reg/Types and distinctions.svg'
 
 export const Types = () => {
   return (
@@ -28,7 +28,7 @@ export const Types = () => {
         <p>Independent audits are conducted to review the company's financial statements, ensuring compliance with accounting standards and legal obligations.</p>
       </div>
       <div className='flex-3'>
-        <Image alt="Private Limited Company sample" className="benefits-img w-100 " height={1000} loading="lazy" src={bft} />
+        <Image alt="Private Limited Company sample" className="w-100" height={1000} loading="lazy" src={bft} />
       </div>
     </div>
   )

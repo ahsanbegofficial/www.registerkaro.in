@@ -148,7 +148,7 @@ function OffcanvasExample() {
             <a href={LOGO_URL}>
               <div>
                 <div className="d-flex justify-content-center align-items-center">
-                  <Image className="img-fluid" height={48} width={48} src={logo.src} alt="logo" />
+                  <Image className="img-fluid" height={48} width={48} src={logo.src} alt="RegisterKaro logo" />
                   <h3 className="mb-0">
                     <span className="text-primary fw-bold"><span className="text-secondary">Register</span>Karo</span>
                   </h3>
@@ -200,7 +200,7 @@ function OffcanvasExample() {
                     <a className="nav-link scroll dropdown-toggle" onClick={handleToggle} target="_blank" data-bs-toggle="dropdown" aria-expanded="false">
                       Startup
                       <span className="sub-menu-toggle">
-                        <CaretDown size={15} className="ms-md-1 me-md-n2" />
+                        <CaretDown size={15} className="ms-md-1 me-md-n2"/>
                       </span>
                     </a>
                     <div className={isActive ? "dropdown-menu show" : "dropdown-menu sh"}>{renderDropdownItems}</div>
@@ -217,7 +217,7 @@ function OffcanvasExample() {
                   <li className="nav-item">
                     <div className='phone'>
                       <a href="tel:+918447746183">
-                        <Image src={phone} alt='phone' height={20} width={20} className='phone-img' />
+                        <Image src={phone} alt='RegisterKaro phone' height={20} width={20} className='phone-img' />
                       </a>
                       <span>+918447746183</span>
                     </div>

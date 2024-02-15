@@ -1,10 +1,10 @@
 import Image from 'next/image'
 import React from 'react'
-import expert from '../../assets/images/pvt-reg/expert.svg'
-import starRating from '../../assets/images/pvt-reg/starRating.svg'
-import assistance from '../../assets/images/pvt-reg/Assistance.svg'
-import quick from '../../assets/images/pvt-reg/quick.svg'
-import complete from '../../assets/images/pvt-reg/complete.svg'
+import expert from '../../assets/images/static/private-reg/expert.svg'
+import starRating from '../../assets/images/static/private-reg/starRating.svg'
+import assistance from '../../assets/images/static/private-reg/Assistance.svg'
+import quick from '../../assets/images/static/private-reg/quick.svg'
+import complete from '../../assets/images/static/private-reg/complete.svg'
 
 export const WhyRegisterkaro = () => {
   return (

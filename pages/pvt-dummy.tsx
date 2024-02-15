@@ -77,43 +77,43 @@ const Home = () => {
                 {/* <link rel="canonical" href="https://www.registerkaro.in/ads/public-limited-company-registration" /> */}
             </Head>
             <Hero />
-            <h1 className='main-heading'>Online Company Registration in India – Meaning, Documents and Procedure</h1>
+            <h1 className='main-heading'>Online Private Limited Company Registration in India – Meaning, Documents and Procedure</h1>
             <div className='heading-line'></div>
             <Process />
-            <h1 className='main-heading'>What is a Private Limited Company?</h1>
+            <h2 className='main-heading'>What is a Private Limited Company?</h2>
             <div className='heading-line'></div>
             <PvtReg />
-            <h1 className="main-heading">Different types of Business Structures in India</h1>
+            <h2 className="main-heading">Different types of Business Structures in India</h2>
             <div className='heading-line'></div>
             <DifferentTypes />
-            <h1 className="main-heading">Benefits of Private Limited Company Registration in India</h1>
+            <h2 className="main-heading">Benefits of Private Limited Company Registration in India</h2>
             <div className='heading-line'></div>
             <Benefits />
-            <h1 className="main-heading">Checklist for Private Limited Company Registration in India</h1>
+            <h2 className="main-heading">Checklist for Private Limited Company Registration in India</h2>
             <div className='heading-line'></div>
             <Checklist />
-            <h1 className="main-heading">Documents Required for Company Registration in India</h1>
+            <h2 className="main-heading">Documents Required for Private Limited Company Registration in India</h2>
             <div className='heading-line'></div>
-            <DocumentRequired/>
-            <h1 className="main-heading">How to register a private limited company?</h1>
+            <DocumentRequired />
+            <h2 className="main-heading">Procedure for Private Limited Company Registration?</h2>
             <div className='heading-line'></div>
             <HowToRegister />
-            <h1 className="main-heading">Time Required for Registering a Company Online in India</h1>
+            <h2 className="main-heading">Time Required for Private Limited Company Registration in India</h2>
             <div className='heading-line'></div>
             <TimeRequired />
-            <h1 className="main-heading">How to Register Your Private Limited Company in India with RegisterKaro?</h1>
+            <h2 className="main-heading">How to Register Your Private Limited Company in India with RegisterKaro?</h2>
             <div className='heading-line'></div>
             <RegisterPvt />
-            <h1 className="main-heading">What Documents will you get after Online Company Registration in India?</h1>
+            <h2 className="main-heading">What Documents will you get after Online Private Limited Company Registration in India?</h2>
             <div className='heading-line'></div>
             <WhatDocument />
-            <h1 className="main-heading">Comparative List of Different Business Structures in India</h1>
+            <h2 className="main-heading">Comparative List of Different Business Structures in India</h2>
             <div className='heading-line'></div>
             <TableCom />
-            <h1 className="main-heading">Why RegisterKaro?</h1>
+            <h2 className="main-heading">Why RegisterKaro?</h2>
             <div className='heading-line'></div>
             <WhyRegisterkaro />
-            <h1 className="main-heading">FAQs</h1>
+            <h2 className="main-heading">FAQs</h2>
             <div className='heading-line'></div>
             <FaqTemplatePVT faqItems={faq} />
         </div>

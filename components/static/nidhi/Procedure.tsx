@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import ProcedureReg from '../../../assets/images/nidhi-reg/procedure.svg'
+import ProcedureReg from '../../../assets/images/static/nidhi-reg/procedure.svg'
 
 export const Procedure = () => {
   return (
@@ -21,7 +21,7 @@ export const Procedure = () => {
         <p>Receipt of Certificate of Incorporation (COI) from MCA</p>
       </div>
       <div className='flex-3'>
-        <Image alt="Private Limited Company sample" className="Procedure-img w-100" loading="lazy" height={430} src={ProcedureReg} />
+        <Image alt="Private Limited Company sample" className="Procedure-img w-100" loading="lazy" height={540} src={ProcedureReg} />
       </div>
     </div>
   )

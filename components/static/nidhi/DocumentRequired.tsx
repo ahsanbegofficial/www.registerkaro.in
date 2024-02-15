@@ -1,12 +1,15 @@
 import Image from 'next/image'
 import React from 'react'
-import documents from '../../../assets/images/nidhi-reg/document_req.svg'
-import ulArrow from '../../../assets/images/pvt-reg/ulArrow.svg'
+import documents from '../../../assets/images/static/nidhi-reg/document_req.svg'
+import ulArrow from '../../../assets/images/static/private-reg/ulArrow.svg'
 
 export const DocumentRequired = () => {
   return (
-    <div className='DocumentRequired  flex w-80 m-auto mobile-flex-column-reverse' id='Documents'>
-      <div className='flex-7'>
+    <div className='DocumentRequired w-80 m-auto' id='Documents'>
+      <div className='flex justify-content-center mb-5'>
+        <Image alt="documents" className="DocumentRequired-img w-100" height={430} loading="lazy" src={documents} />
+      </div>
+      <div>
         <p>Following are some crucial documents required for Nidhi Company Registration in India:</p>
         <h3>Basic Checklist:</h3>
         <ul className='tick list-unstyled'>
@@ -54,9 +57,6 @@ export const DocumentRequired = () => {
           <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} /> <strong>Option B: </strong>Attested by the Embassy of his Country of Origin at the place where he resides.</li>
           <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} /> <strong>Is from a country that is outside the CommonWealth and also not a party to Hague Apostille Convention: </strong>Notarised by the Notary (Public) of such country and the certificate of Notary (Public) to be authenticated by a Diplomatic or Consular Officer. All proposed Directors have to submit a list of Indian Companies in which they are interested (i.e. holding 2% or more shares).</li>
         </ul>
-      </div>
-      <div className='flex-3'>
-        <Image alt="documents" className="DocumentRequired-img w-100" height={430} loading="lazy" src={documents} />
       </div>
     </div>
   )

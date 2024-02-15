@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
-import dft from '../../../assets/images/fssai/DocsRequire.svg'
-import ulArrow from '../../../assets/images/pvt-reg/ulArrow.svg'
+import dft from '../../../assets/images/static/fssai/DocsRequire.svg'
+import ulArrow from '../../../assets/images/static/private-reg/ulArrow.svg'
 
 export const DocsREquired = () => {
   return (

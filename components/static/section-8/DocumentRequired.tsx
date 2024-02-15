@@ -1,15 +1,15 @@
 import Image from 'next/image'
 import React from 'react'
-import documents from '../../../assets/images/section-8-reg/Documents.svg'
-import ulArrow from '../../../assets/images/pvt-reg/ulArrow.svg'
+import documents from '../../../assets/images/static/section-8-reg/Documents.svg'
+import ulArrow from '../../../assets/images/static/private-reg/ulArrow.svg'
 
 export const DocumentRequired = () => {
   return (
     <div className='DocumentRequired flex w-80 m-auto mobile-flex-column' id='Documents'>
-      <div className='flex-3'>
-        <Image alt="documents" className="DocumentRequired-img  w-100" loading="lazy" height={430} src={documents} />
+      <div className='flex-4'>
+        <Image alt="documents" className="DocumentRequired-img  w-100" loading="lazy" height={860} src={documents} />
       </div>
-      <div className='flex-7'>
+      <div className='flex-6'>
         <p>Following are some crucial documents required for Registration of Section 8 Company:</p>
         <h3>Identity/Address proof of Directors or Shareholders:</h3>
         <ul className='tick list-unstyled'>

@@ -1,12 +1,12 @@
 import Image from 'next/image'
 import React from 'react'
-import one from '../../../assets/images/pvt-reg/checklist/one.png'
-import two from '../../../assets/images/pvt-reg/checklist/two.png'
-import three from '../../../assets/images/pvt-reg/checklist/three.svg'
-import four from '../../../assets/images/pvt-reg/checklist/four.svg'
-import five from '../../../assets/images/pvt-reg/checklist/five.svg'
-import six from '../../../assets/images/pvt-reg/checklist/six.svg'
-import seven from '../../../assets/images/pvt-reg/checklist/seven.svg'
+import one from '../../../assets/images/static/private-reg/checklist/one.png'
+import two from '../../../assets/images/static/private-reg/checklist/two.png'
+import three from '../../../assets/images/static/private-reg/checklist/three.svg'
+import four from '../../../assets/images/static/private-reg/checklist/four.svg'
+import five from '../../../assets/images/static/private-reg/checklist/five.svg'
+import six from '../../../assets/images/static/private-reg/checklist/six.svg'
+import seven from '../../../assets/images/static/private-reg/checklist/seven.svg'
 
 export const Checklist = () => {
   return (

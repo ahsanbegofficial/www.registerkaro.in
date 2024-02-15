@@ -1,5 +1,5 @@
 import React from 'react'
-import certificate from '../../../assets/images/public-reg/COI.webp';
+import certificate from '../../../assets/images/static/public-reg/COI.webp';
 import Image from 'next/image';
 
 export const Process = () => {

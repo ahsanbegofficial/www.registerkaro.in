@@ -1,6 +1,6 @@
 import React from 'react'
-import googleIcon from '../../assets/images/pvt-reg/googleIcon.svg';
-import star from '../../assets/images/pvt-reg/star.svg';
+import googleIcon from '../../assets/images/static/private-reg/googleIcon.svg';
+import star from '../../assets/images/static/private-reg/star.svg';
 import Image from 'next/image';
 
 export const GoogleDiv = () => {
@@ -13,7 +13,7 @@ export const GoogleDiv = () => {
         <span>Google Customer Rating</span>
         <br />
         <span>4.9 </span>
-        <Image src={star} alt="star" width={100} loading="lazy" />
+        <Image src={star} alt="google review star" width={100} loading="lazy" />
       </div>
     </div>
   )

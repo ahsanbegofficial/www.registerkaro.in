@@ -1,5 +1,5 @@
 import React from 'react'
-import certificate from '../../../assets/images/fssai/fssaiRegistration.svg';
+import certificate from '../../../assets/images/static/fssai/fssaiRegistration.svg';
 import Image from 'next/image';
 
 export const Process = () => {

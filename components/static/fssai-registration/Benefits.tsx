@@ -1,11 +1,9 @@
-
 import Image from 'next/image'
 import React, { useState } from 'react'
-import one from '../../../assets/images/pvt-reg/HowToRegister/one.svg'
-import two from '../../../assets/images/pvt-reg/HowToRegister/two.svg'
-import three from '../../../assets/images/pvt-reg/HowToRegister/three.svg'
-
-import arrow from '../../../assets/images/pvt-reg/HowToRegister/arrow.svg'
+import one from '../../../assets/images/static/private-reg/HowToRegister/one.svg'
+import two from '../../../assets/images/static/private-reg/HowToRegister/two.svg'
+import three from '../../../assets/images/static/private-reg/HowToRegister/three.svg'
+import arrow from '../../../assets/images/static/private-reg/HowToRegister/arrow.svg'
 
 export const Benefits = () => {
   const [active, setActive] = useState('1')

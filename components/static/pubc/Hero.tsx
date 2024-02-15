@@ -1,6 +1,6 @@
 import React from 'react'
-import bgImage from '../../../assets/images/pvt-reg/bg.png';
-import rightArrow from '../../../assets/images/pvt-reg/rightArrow.svg';
+import bgImage from '../../../assets/images/static/private-reg/bg.png';
+import rightArrow from '../../../assets/images/static/private-reg/rightArrow.svg';
 import ZohoFormService from '../../child_components/ZohoformService';
 import Image from 'next/image';
 import { GoogleDiv } from '../GoogleDiv';
@@ -50,7 +50,7 @@ export const Hero = () => {
                 <GoogleDiv />
             </div>
             <div className="zoho">
-                <ZohoFormService service={'section-8-company-registration'} />
+                <ZohoFormService service={'public-limited-company-registration'} />
             </div>
         </div>
     )

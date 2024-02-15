@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import Different from '../../../assets/images/llp-reg/Different.svg'
+import Different from '../../../assets/images/static/llp-reg/Different.svg'
 
 export const DifferentTypes = () => {
   return (

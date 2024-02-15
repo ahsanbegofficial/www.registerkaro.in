@@ -1,13 +1,16 @@
-.fssai-registration-reg{
+.fssai-registration-reg {
   @media screen and (max-width: 990px) {
-    // .DifferentTypes-img {
-    //   height: 280px;
-    // }
-    // .benefits-img {
-    //   height: 320px;
-    // }
-    // .DocumentArrowWise-img {
-    //   height: 320px;
-    // }
+    .OtherAnnual-img {
+      height: 520px;
+    }
+    .EventBased-img {
+      height: 460px;
+    }
+    .WhoReq-img {
+      height: 500px;
+    }
+    .PartnershipDeed-img {
+      height: 630px;
+    }
   }
 }

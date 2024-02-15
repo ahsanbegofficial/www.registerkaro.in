@@ -1,8 +1,8 @@
 import Image from 'next/image'
 import React from 'react'
-import call from '../../../assets/images/pvt-reg/call.svg'
-import document from '../../../assets/images/pvt-reg/document.svg'
-import submit from '../../../assets/images/pvt-reg/submit.svg'
+import call from '../../../assets/images/static/private-reg/call.svg'
+import document from '../../../assets/images/static/private-reg/document.svg'
+import submit from '../../../assets/images/static/private-reg/submit.svg'
 
 
 export const RegisterPvt = () => {

@@ -1,11 +1,11 @@
 import Image from 'next/image'
 import React from 'react'
-import pvtReg from '../../../assets/images/section-8-reg/Procedure .svg'
+import pvtReg from '../../../assets/images/static/section-8-reg/Procedure .svg'
 
 export const Procedure = () => {
   return (
     <div className='Procedure flex w-80 m-auto mobile-flex-column-reverse' id='Procedure'>
-      <div className='flex-7'>
+      <div className='flex-6'>
         <p>Following is the step-by-step procedure for Section 8 Company Registration:</p>
         <p><strong>Step 1: Obtain DSC & DIN:</strong></p>
         <p>First, the applicant needs to obtain a Digital Signature Certificate of the proposed Directors. Once they receive DSC, file Form DIR-3 with ROC for obtaining DIN. The identity & address proof should be attached for getting DSC. Once DIR-3 is approved, the Registrar of Companies will allot a DIN to the proposed Directors.</p>
@@ -15,8 +15,8 @@ export const Procedure = () => {
         <p>After getting License under Section 8, you need to file SPICe+ Form with the Registrar of Companies (ROC) for the Registration along with the vital documents.</p>
         <p><strong>Note:</strong> Once the Registrar of Companies is satisfied with the forms submitted, he or she issues a CoI (Certificate of Incorporation) along with a Unique CIN</p>
       </div>
-      <div className='flex-3'>
-        <Image alt="Private Limited Company sample" className="Procedure-img w-100" height={382} loading="lazy" src={pvtReg} />
+      <div className='flex-4'>
+        <Image alt="Private Limited Company sample" className="Procedure-img w-100" height={600} loading="lazy" src={pvtReg} />
       </div>
     </div>
   )

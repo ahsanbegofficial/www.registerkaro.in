@@ -1,11 +1,11 @@
 import Image from 'next/image'
-import pvtReg from '../../../assets/images/nidhi-reg/event_based.svg'
-import ulArrow from '../../../assets/images/pvt-reg/ulArrow.svg'
+import pvtReg from '../../../assets/images/static/nidhi-reg/event_based.svg'
+import ulArrow from '../../../assets/images/static/private-reg/ulArrow.svg'
 
 export const EventBased = () => {
   return (
     <div className='EventBased flex w-80 m-auto mobile-flex-column-reverse' id='EventBased'>
-      <div className='flex-7'>
+      <div className='flex-6'>
         <p>These compliances are required to be filed only once during the incorporation process. Following is the list of event-based compliances:</p>
         <ul className='tick list-unstyled'>
           <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} /> Transfer of Shares</li>
@@ -19,7 +19,7 @@ export const EventBased = () => {
           <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} /> Increase in the authorized capital of the Company</li>
         </ul>
       </div>
-      <div className='flex-3'>
+      <div className='flex-4'>
         <Image alt="Private Limited Company sample" className="EventBased-img w-100" height={382} loading="lazy" src={pvtReg}/>
       </div>
     </div>

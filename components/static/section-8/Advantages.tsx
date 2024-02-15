@@ -1,11 +1,11 @@
 import Image from 'next/image'
 import React from 'react'
-import bft from '../../../assets/images/section-8-reg/Advantages.svg'
+import bft from '../../../assets/images/static/section-8-reg/Advantages.svg'
 
 export const Advantages = () => {
   return (
     <div className='benefits flex w-80 m-auto mobile-flex-column-reverse' id='Advantages'>
-      <div className='flex-7'>
+      <div className='flex-6'>
         <p>Following are the advantages of Section 8 Company Registration in India:</p>
         <p><strong>1. Separate Legal Entity:</strong></p>
         <p>These types of companies in India are considered as a separate legal entity, which means that they can own property, sue or be sued in their name, and enter into contracts.</p>
@@ -20,8 +20,8 @@ export const Advantages = () => {
         <p><strong>6. Exemption to Donors:</strong></p>
         <p>Tax exemption is only allowed to the donations received by the Section 8 Company under Section 12A & 80G of the Income Tax Act.</p>
       </div>
-      <div className='flex-3'>
-          <Image alt="Private Limited Company sample" className="w-100" height={382} loading="lazy" src={bft} />
+      <div className='flex-4'>
+          <Image alt="Private Limited Company sample" className="Advantages-img w-100" height={750} loading="lazy" src={bft} />
       </div>
     </div>
   )

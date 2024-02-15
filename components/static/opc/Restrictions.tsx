@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import Restriction from '../../../assets/images/opc-reg/Restrictions.svg'
+import Restriction from '../../../assets/images/static/opc-reg/Restrictions.svg'
 
 export const Restrictions = () => {
   return (
