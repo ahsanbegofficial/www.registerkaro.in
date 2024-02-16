@@ -277,7 +277,7 @@ const ZohoFormService: React.FC<ZohoFormServiceProps> = ({ service }) => {
   <label></label>
   </span>
   <span> 
-  <input type="text" compname="PhoneNumber" name="PhoneNumber_countrycode" maxlength="10" checktype="c7" value="" phoneFormat="1" isCountryCodeEnabled=true fieldType="11" id="international_PhoneNumber_countrycode" valType="number" phoneFormatType="1" placeholder="Mobile Number" value='' required/>
+  <input type="text" compname="PhoneNumber" name="PhoneNumber_countrycode" checktype="c7" value="" phoneFormat="1" isCountryCodeEnabled=true fieldType="11" id="international_PhoneNumber_countrycode" valType="number" phoneFormatType="1" placeholder="Mobile Number" value='' required/>
   <label></label> </span>
   <div class="zf-clearBoth"></div></div><p id="PhoneNumber_error" class="zf-errorMessage" style="display:none;">Invalid value</p>
   </div><div class="zf-clearBoth"></div></li>
