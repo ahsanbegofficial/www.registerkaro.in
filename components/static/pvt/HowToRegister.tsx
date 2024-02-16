@@ -22,39 +22,39 @@ export const HowToRegister = () => {
         <div className='flex-4'>
           <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'}`}>
             <div>
-              <Image src={one} alt="pu step 1" loading="lazy" width={30} height={30} /> &nbsp; Select the Company name
+              <Image src={one} alt="Select the Company name" loading="lazy" width={30} height={30} /> &nbsp; Select the Company name
             </div>
-            <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} />
+            <Image src={arrow} alt="Select the Company name" loading="lazy" width={30} height={30} />
           </button>
           <button onClick={() => handleActive('2')} className={`btn flex ${active === '2' ? 'active-btn' : 'none-btn'}`}>
             <div>
-              <Image src={two} alt="pu step 2" loading="lazy" width={30} height={30} /> &nbsp; Digital Signature Certificate
+              <Image src={two} alt="Digital Signature Certificate" loading="lazy" width={30} height={30} /> &nbsp; Digital Signature Certificate
             </div>
-            <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} />
+            <Image src={arrow} alt="Digital Signature Certificate" loading="lazy" width={30} height={30} />
           </button>
           <button onClick={() => handleActive('3')} className={`btn flex ${active === '3' ? 'active-btn' : 'none-btn'}`}>
             <div>
-              <Image src={three} alt="pu step 3" loading="lazy" width={30} height={30} /> &nbsp; SPICe+ Form (INC-32)
+              <Image src={three} alt="SPICe+ Form (INC-32)" loading="lazy" width={30} height={30} /> &nbsp; SPICe+ Form (INC-32)
             </div>
-            <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} />
+            <Image src={arrow} alt="SPICe+ Form (INC-32)" loading="lazy" width={30} height={30} />
           </button>
           <button onClick={() => handleActive('4')} className={`btn flex ${active === '4' ? 'active-btn' : 'none-btn'}`}>
             <div>
-              <Image src={four} alt="pu step 4" loading="lazy" width={30} height={30} /> &nbsp; Electronic submission of MoA and AoA
+              <Image src={four} alt="Electronic submission of MoA and AoA" loading="lazy" width={30} height={30} /> &nbsp; Electronic submission of MoA and AoA
             </div>
-            <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} />
+            <Image src={arrow} alt="Electronic submission of MoA and AoA" loading="lazy" width={30} height={30} />
           </button>
           <button onClick={() => handleActive('5')} className={`btn flex ${active === '5' ? 'active-btn' : 'none-btn'}`}>
             <div>
-              <Image src={five} alt="pu step 5" loading="lazy" width={30} height={30} /> &nbsp; Non-electronic submission of MoA and AoA
+              <Image src={five} alt="Non-electronic submission of MoA and AoA" loading="lazy" width={30} height={30} /> &nbsp; Non-electronic submission of MoA and AoA
             </div>
-            <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} />
+            <Image src={arrow} alt="Non-electronic submission of MoA and AoA" loading="lazy" width={30} height={30} />
           </button>
           <button onClick={() => handleActive('6')} className={`btn flex ${active === '6' ? 'active-btn' : 'none-btn'}`}>
             <div>
-              <Image src={six} alt="pu step 5" loading="lazy" width={30} height={30} /> &nbsp; Certificate of Incorporation
+              <Image src={six} alt="Certificate of Incorporation" loading="lazy" width={30} height={30} /> &nbsp; Certificate of Incorporation
             </div>
-            <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} />
+            <Image src={arrow} alt="Certificate of Incorporation" loading="lazy" width={30} height={30} />
           </button>
         </div>
         <div className='flex-6 text-justify fs-20 p-color-black'>
