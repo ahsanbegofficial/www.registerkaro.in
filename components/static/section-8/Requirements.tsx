@@ -21,7 +21,7 @@ export const Requirements = () => {
         <p>DSC or Digital Signatures of all the proposed Company’s Directors are necessary for the Registration because the forms for the Registration process are filed online & should be digitally signed. Apart from DSC, you need to apply for DIN for the Directors and the application for allotment of DIN must be filed in Form DIR-3 or along with the SPICe+ Form for the Registration.</p>
       </div>
       <div className='flex-4'>
-        <Image alt="Private Limited Company sample" className="Requirements-img w-100" height={1100} loading="lazy" src={bft} />
+        <Image alt="Requirements for Section 8 Company Registration" className="Requirements-img w-100" height={1100} loading="lazy" src={bft} />
       </div>
     </div>
   )

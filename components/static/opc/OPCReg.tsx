@@ -17,7 +17,7 @@ export const OPCReg = () => {
         <p>Because the OPC is considered a separate legal organisation, the individual has the ability to possess company property and other assets in their name. Other people cannot claim the properties, which include machinery factories, residential property, structures, and other assets. The OPC has the legal authority to acquire land directly in its name.</p>
       </div>
       <div className='flex-3'>
-        <Image alt="some important features of One Person Company in India" className="opcReg-img w-100" height={382} loading="lazy" src={pvtReg}/>
+        <Image alt="some important features of One Person Company in India" className="opcReg-img w-100" height={582} loading="lazy" src={pvtReg}/>
       </div>
     </div>
   )

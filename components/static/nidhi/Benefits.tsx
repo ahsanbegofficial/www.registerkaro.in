@@ -6,7 +6,7 @@ export const Benefits = () => {
   return (
     <div className='benefits flex w-80 m-auto mobile-flex-column' id='Benefits'>
       <div className='flex-5'>
-        <Image alt="Private Limited Company sample" className="benefits-img w-100" height={600} loading="lazy" src={bft} />
+        <Image alt="Benefits of Nidhi Company Registration" className="benefits-img w-100" height={600} loading="lazy" src={bft} />
       </div>
       <div className='flex-5'>
         <p>The following are the benefits of Nidhi Company Registration:</p>

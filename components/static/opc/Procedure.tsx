@@ -22,7 +22,7 @@ export const Procedure = () => {
         <p>The entire procedure of OPC Registration can be finished in only 20 days. All you have to do is contact RegisterKaro and complete the process as soon as possible.</p>
       </div>
       <div className='flex-3'>
-        <Image alt="Private Limited Company sample" className="Procedure-img w-100" height={382} loading="lazy" src={procedure} />
+        <Image alt="Procedure for One Person Company Registration" className="Procedure-img w-100" height={482} loading="lazy" src={procedure} />
       </div>
     </div>
   )

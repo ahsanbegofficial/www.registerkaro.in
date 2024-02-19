@@ -44,7 +44,7 @@ export const Process = () => {
             <div className='flex-5'>
                 <p className="small-heading text-center">Nidhi - Incorporation Certificate [Sample]</p>
                 <div>
-                    <Image alt="Private Limited Company sample" className="certificate h-100 w-100" loading="lazy" src={certificate}/>
+                    <Image alt="Nidhi - Incorporation Certificate" className="certificate h-100 w-100" loading="lazy" src={certificate}/>
                 </div>
             </div>
         </div>

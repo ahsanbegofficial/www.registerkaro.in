@@ -17,7 +17,7 @@ export const WhyRegist = () => {
       
         
       </div>
-      <div className='flex-3'><Image alt="Private Limited Company sample" className="Procedure-img w-100" loading="lazy" height={430} src={ProcedureReg} /></div>
+      <div className='flex-3'><Image alt="Why RegisterKaro for Trademark Registration" className="Procedure-img w-100" loading="lazy" height={430} src={ProcedureReg} /></div>
     </div>
   )
 }

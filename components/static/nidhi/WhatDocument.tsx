@@ -29,44 +29,44 @@ export const WhatDocument = () => {
           </button> */}
           <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={one} alt="pu step 1" loading="lazy" width={30} height={30} /> <div className='pe-4'> Form NDH-1</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={one} alt="Form NDH-1" loading="lazy" width={30} height={30} /> <div className='pe-4'> Form NDH-1</div>
+              <Image src={arrow} alt="Form NDH-1" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
           <button onClick={() => handleActive('2')} className={`btn flex ${active === '2' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={two} alt="pu step 2" loading="lazy" width={30} height={30} /> <div className='pe-4'> Form NDH-2</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={two} alt="Form NDH-2" loading="lazy" width={30} height={30} /> <div className='pe-4'> Form NDH-2</div>
+              <Image src={arrow} alt="Form NDH-2" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
           <button onClick={() => handleActive('3')} className={`btn flex ${active === '3' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={three} alt="pu step 3" loading="lazy" width={30} height={30} /> <div className='pe-4'> Form NDH-3 (Half-Yearly Return)</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={three} alt="Form NDH-3 (Half-Yearly Return)" loading="lazy" width={30} height={30} /> <div className='pe-4'> Form NDH-3 (Half-Yearly Return)</div>
+              <Image src={arrow} alt="Form NDH-3 (Half-Yearly Return)" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
           <button onClick={() => handleActive('4')} className={`btn flex ${active === '4' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={four} alt="pu step 4" loading="lazy" width={30} height={30} /> <div className='pe-4'> Form NDH-4</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={four} alt="Form NDH-4" loading="lazy" width={30} height={30} /> <div className='pe-4'> Form NDH-4</div>
+              <Image src={arrow} alt="Form NDH-4" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
           <button onClick={() => handleActive('5')} className={`btn flex ${active === '5' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={five} alt="pu step 5" loading="lazy" width={30} height={30} />  <div className='pe-4'> Form AOC-4</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={five} alt="Form AOC-4" loading="lazy" width={30} height={30} />  <div className='pe-4'> Form AOC-4</div>
+              <Image src={arrow} alt="Form AOC-4" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
           <button onClick={() => handleActive('6')} className={`btn flex ${active === '6' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={six} alt="pu step 6" loading="lazy" width={30} height={30} /> <div className='pe-4'> ITR- 6</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={six} alt="This is for filing an Income Tax Return" loading="lazy" width={30} height={30} /> <div className='pe-4'> ITR- 6</div>
+              <Image src={arrow} alt="This is for filing an Income Tax Return" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
           <button onClick={() => handleActive('7')} className={`btn flex ${active === '7' ? 'active-btn' : 'none-btn'} position-relative`}>
           <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={seven} alt="pu step 7" loading="lazy" width={30} height={30} /><div className='pe-4'> Form MGT-7</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={seven} alt="Form MGT-7" loading="lazy" width={30} height={30} /><div className='pe-4'> Form MGT-7</div>
+              <Image src={arrow} alt="Form MGT-7" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
         </div>

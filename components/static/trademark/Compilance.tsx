@@ -19,39 +19,39 @@ export const Compilance = () => {
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='Compilance'>
       < div className='flex-7'>
-          <Image alt="list of documents for private limited company registration in india that is passport size photos, aadhar and pan card, address proof, passport for NRIs applicant, bank statement" className="DocumentRequired-img w-100" loading="lazy" src={applyForTrade} height={530}/>
+          <Image alt="Apply for Trademark Registration Online with RegisterKaro" className="DocumentRequired-img w-100" loading="lazy" src={applyForTrade} height={530}/>
           <p className='main-para mb-2'>Following is the detailed step by step procedure for Trademark Registration Online in India:</p>
         </div>
       <div className="flex w-100 align-center justify-content-between mobile-flex-column">
       <div className='flex-4'>
          <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={one} alt="three" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Step 1: Trademark Search:</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={one} alt="Trademark Search" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Step 1: Trademark Search:</div> 
+              <Image src={arrow} alt="Trademark Search" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
          <button onClick={() => handleActive('2')} className={`btn flex ${active === '2' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={two} alt="three" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Step 2: Application Filing & Submission:</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={two} alt="Application Filing & Submission" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Step 2: Application Filing & Submission:</div> 
+              <Image src={arrow} alt="Application Filing & Submission" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
          <button onClick={() => handleActive('3')} className={`btn flex ${active === '3' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={three} alt="three" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Step 3: Examination of Trademark Application:</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={three} alt="Examination of Trademark Application" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Step 3: Examination of Trademark Application:</div> 
+              <Image src={arrow} alt="Examination of Trademark Application" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
          <button onClick={() => handleActive('4')} className={`btn flex ${active === '4' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={four} alt="three" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Step 4: Hearing:</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={four} alt="Hearing for trademark" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Step 4: Hearing:</div> 
+              <Image src={arrow} alt="Hearing for trademark" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
          <button onClick={() => handleActive('5')} className={`btn flex ${active === '5' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={five} alt="three" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Step 5: Issuance of Trademark Registration Certificate:</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={five} alt="Issuance of Trademark Registration Certificate" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Step 5: Issuance of Trademark Registration Certificate:</div> 
+              <Image src={arrow} alt="Issuance of Trademark Registration Certificate" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
       </div>

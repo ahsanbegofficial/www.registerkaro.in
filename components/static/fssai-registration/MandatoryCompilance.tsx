@@ -57,32 +57,32 @@ export const MandatoryCompilance = () => {
         <div className='flex-5'>
           <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={one} alt="three" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Step 1: Filing the Application Form</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={one} alt="Filing the Application Form" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Step 1: Filing the Application Form</div> 
+              <Image src={arrow} alt="Filing the Application Form" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
           <button onClick={() => handleActive('2')} className={`btn flex ${active === '2' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={two} alt="three" loading="lazy" width={30} height={30} /><div className='ms-1 pe-4'>Step 2: Documentation</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={two} alt="Documentation for fssai" loading="lazy" width={30} height={30} /><div className='ms-1 pe-4'>Step 2: Documentation</div> 
+              <Image src={arrow} alt="Documentation for fssai" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
           <button onClick={() => handleActive('3')} className={`btn flex ${active === '3' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={three} alt="three" loading="lazy" width={30} height={30} /><div className='ms-1 pe-4'>Step 3: Examination of application and Documents</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={three} alt="Examination of application and Documents" loading="lazy" width={30} height={30} /><div className='ms-1 pe-4'>Step 3: Examination of application and Documents</div> 
+              <Image src={arrow} alt="Examination of application and Documents" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
           <button onClick={() => handleActive('4')} className={`btn flex ${active === '4' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={four} alt="three" loading="lazy" width={30} height={30} /><div className='ms-1 pe-4'>Step 4: Inspection of the Food Premises</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={four} alt="Inspection of the Food Premises" loading="lazy" width={30} height={30} /><div className='ms-1 pe-4'>Step 4: Inspection of the Food Premises</div> 
+              <Image src={arrow} alt="Inspection of the Food Premises" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
           <button onClick={() => handleActive('5')} className={`btn flex ${active === '5' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={five} alt="three" loading="lazy" width={30} height={30} /><div className='ms-1 pe-4'>Step 5: Issuance of FSSAI Certificate</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={five} alt="Issuance of FSSAI Certificate" loading="lazy" width={30} height={30} /><div className='ms-1 pe-4'>Step 5: Issuance of FSSAI Certificate</div> 
+              <Image src={arrow} alt="Issuance of FSSAI Certificate" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
         </div>

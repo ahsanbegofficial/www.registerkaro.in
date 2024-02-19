@@ -6,7 +6,7 @@ export const AnnualCompliance = () => {
   return (
     <div className='pvtReg flex w-80 m-auto mobile-flex-column' id='AnnualCompliance'>
       <div className='flex-4'>
-        <Image alt="Private Limited Company sample" className="AnnualCompliance-img w-100" height={400} loading="lazy" src={pvtReg} />
+        <Image alt="Annual Compliances for Section 8 Companies" className="AnnualCompliance-img w-100" height={400} loading="lazy" src={pvtReg} />
       </div>
       <div className='flex-6'>
         <p>Following are the annual compliances for Section 8 Company:</p>

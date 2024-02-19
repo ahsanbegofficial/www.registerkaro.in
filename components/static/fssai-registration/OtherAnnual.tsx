@@ -8,7 +8,7 @@ export const OtherAnnual = () => {
       <p className='main-para mb-2'> FBOs or Food Business Operators are those involved in the processing, storing, manufacturing, selling, packaging, distributing, or retailing of food in India. In India, Food Businesses are regulated & managed by FSSAI.:</p>
       <div className='benefits flex w-80 m-auto mobile-flex-column mt-5' >
         <div className='flex-4'>
-          <Image alt="The benefits of private limited company in india and these are Separate Legal Entity, Ease in Raising Funds, Limited Liability, Easy Transferable, Limited Liability and ESOP" className="OtherAnnual-img w-100" height={650} loading="lazy" src={bft} />
+          <Image alt="Food Business Operators in India" className="OtherAnnual-img w-100" height={650} loading="lazy" src={bft} />
         </div>
         <div className='flex-6'>
           <p><strong>Following are some duties & responsibilities of Food Business Operators in India:</strong></p>

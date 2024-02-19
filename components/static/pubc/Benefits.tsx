@@ -6,7 +6,7 @@ export const Benefits = () => {
   return (
     <div className='benefits flex w-80 m-auto mobile-flex-column' id='Benefits'>
         <div className='flex-3'>
-        <Image alt="Private Limited Company sample" className="benefits-img w-100" height={900} loading="lazy" src={bft} />
+        <Image alt="Benefits of Public Limited Company Registration" className="benefits-img w-100" height={900} loading="lazy" src={bft} />
       </div>
       <div className='flex-7'>
         <p>Following are the benefits of Public Limited Company Registration in India:</p>

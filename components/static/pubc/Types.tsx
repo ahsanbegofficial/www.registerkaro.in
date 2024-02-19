@@ -28,7 +28,7 @@ export const Types = () => {
         <p>Independent audits are conducted to review the company's financial statements, ensuring compliance with accounting standards and legal obligations.</p>
       </div>
       <div className='flex-3'>
-        <Image alt="Private Limited Company sample" className="w-100" height={1000} loading="lazy" src={bft} />
+        <Image alt="Types and distinctions of Licenses/Services involved" className="w-100" height={1000} loading="lazy" src={bft} />
       </div>
     </div>
   )

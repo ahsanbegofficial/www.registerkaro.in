@@ -1,10 +1,13 @@
 .llp-reg {
+  // .DifferentTypes-img{
+  //   border: 1px solid red;
+  // }
   @media screen and (max-width: 990px) {
-    .DifferentTypes-img {
-      height: 280px;
-    }
     .benefits-img {
-      height: 320px;
+      height: 600px;
+    }
+    .DifferentTypes-img {
+      height: 460px;
     }
     .DocumentArrowWise-img {
       height: 220px;

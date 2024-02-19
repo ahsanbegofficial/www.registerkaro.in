@@ -16,7 +16,7 @@ export const Procedure = () => {
         <p><strong>Note:</strong> Once the Registrar of Companies is satisfied with the forms submitted, he or she issues a CoI (Certificate of Incorporation) along with a Unique CIN</p>
       </div>
       <div className='flex-4'>
-        <Image alt="Private Limited Company sample" className="Procedure-img w-100" height={600} loading="lazy" src={pvtReg} />
+        <Image alt="Procedure for Section 8 Company Registration" className="Procedure-img w-100" height={600} loading="lazy" src={pvtReg} />
       </div>
     </div>
   )

@@ -6,7 +6,7 @@ export const Benefits = () => {
   return (
     <div className='benefits flex w-80 m-auto mobile-flex-column' id='Benefits'>
       <div className='flex-5'>
-        <Image alt="Five primary benefits of online LLP Registration in India" className="benefits-img w-100" height={600} loading="lazy" src={benefit} />
+        <Image alt="Five primary benefits of online LLP Registration in India" className="benefits-img w-100" height={970} loading="lazy" src={benefit} />
       </div>
       <div className='flex-5'>
         <p>The following are the benefits of LLP Registration in India:</p>

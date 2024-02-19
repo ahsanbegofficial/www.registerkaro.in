@@ -21,7 +21,7 @@ export const Procedure = () => {
         <p>Receipt of Certificate of Incorporation (COI) from MCA</p>
       </div>
       <div className='flex-3'>
-        <Image alt="Private Limited Company sample" className="Procedure-img w-100" loading="lazy" height={540} src={ProcedureReg} />
+        <Image alt="step-by-step procedure for Nidhi Company Registration in India" className="Procedure-img w-100" loading="lazy" height={540} src={ProcedureReg} />
       </div>
     </div>
   )

@@ -5,7 +5,7 @@ export const ImportantPoints = () => {
   return (
     <div className='ImportantPoints flex w-80 m-auto mobile-flex-column' id='ImportantPoints'>
       <div className='flex-3'>
-      <Image alt="Meaning of a Private Limited Company in India" className="ImportantPoints-img w-100" height={382} loading="lazy" src={pvtReg}/>
+      <Image alt="Important Points Regarding Section 8 Company" className="ImportantPoints-img w-100" height={382} loading="lazy" src={pvtReg}/>
       </div>
       <div className='flex-7'>
         <p>Following are some vital points about Section 8 Company in India:</p>

@@ -1,22 +1,25 @@
 .opc-reg {
+  // .Procedure-img{
+  //   border: 1px solid red;
+  // }
   @media screen and (max-width: 990px) {
     .opcReg-img {
-      height: 280px;
+      height: 100%;
     }
     .DifferentTypes-img {
-      height: 280px;
+      height: 100%
     }
     .benefits-img {
-      height: 320px;
+      height: 100%
     }
     .DocumentArrowWise-img {
-      height: 300px;
+      height: 100%;
     }
     .Procedure-img {
-      height: 280px;
+      height: 100%
     }
-    .Restrictions-img{
-      height: 280px;
+    .Restrictions-img {
+      height: 100%
     }
   }
 }

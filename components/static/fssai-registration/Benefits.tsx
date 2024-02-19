@@ -19,20 +19,20 @@ export const Benefits = () => {
         <div className='flex-5'>
           <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={one} alt="three" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>FSSAI Basic Registration</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={one} alt="FSSAI Basic Registration" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>FSSAI Basic Registration</div> 
+              <Image src={arrow} alt="FSSAI Basic Registration" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
           <button onClick={() => handleActive('2')} className={`btn flex ${active === '2' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={two} alt="three" loading="lazy" width={30} height={30} /><div className='ms-1 pe-4'>FSSAI State License</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={two} alt="FSSAI State License" loading="lazy" width={30} height={30} /><div className='ms-1 pe-4'>FSSAI State License</div> 
+              <Image src={arrow} alt="FSSAI State License" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
           <button onClick={() => handleActive('3')} className={`btn flex ${active === '3' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={three} alt="three" loading="lazy" width={30} height={30} /><div className='ms-1 pe-4'>FSSAI Central License</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={three} alt="FSSAI Central License" loading="lazy" width={30} height={30} /><div className='ms-1 pe-4'>FSSAI Central License</div> 
+              <Image src={arrow} alt="FSSAI Central License" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
         </div>

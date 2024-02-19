@@ -46,7 +46,7 @@ export const Process = () => {
             <div className='flex-5'>
                 <p className="small-heading text-center">FSSAI Registration Online in India Certificate [Sample]</p>
                 <div>
-                    <Image alt="A certificate of incorporation for an indian company" className="certificate h-100 w-100" loading="lazy" src={certificate}/>
+                    <Image alt="FSSAI Registration Online in India Certificate" className="certificate h-100 w-100" loading="lazy" src={certificate}/>
                     {/* <p>pending pdf render file</p> */}
                 </div>
             </div>

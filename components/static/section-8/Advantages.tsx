@@ -21,7 +21,7 @@ export const Advantages = () => {
         <p>Tax exemption is only allowed to the donations received by the Section 8 Company under Section 12A & 80G of the Income Tax Act.</p>
       </div>
       <div className='flex-4'>
-          <Image alt="Private Limited Company sample" className="Advantages-img w-100" height={750} loading="lazy" src={bft} />
+          <Image alt="Advantages of Section 8 Company Registration" className="Advantages-img w-100" height={750} loading="lazy" src={bft} />
       </div>
     </div>
   )

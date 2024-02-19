@@ -48,38 +48,38 @@ export const HowToRegister = () => {
         <div className='flex-4'>
           <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2' >
-              <Image src={one} alt="pu step 1" loading="lazy" width={30} height={30} /><div className='pe-4'>Obtain DSC</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={one} alt="Obtain DSC" loading="lazy" width={30} height={30} /><div className='pe-4'>Obtain DSC</div>
+              <Image src={arrow} alt="Obtain DSC" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
           <button onClick={() => handleActive('2')} className={`btn flex ${active === '2' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2' >
-              <Image src={two} alt="pu step 1" loading="lazy" width={30} height={30} /><div className='pe-4'>Get DIN</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={two} alt="Get DIN for LLP Registration" loading="lazy" width={30} height={30} /><div className='pe-4'>Get DIN</div>
+              <Image src={arrow} alt="Get DIN for LLP Registration" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
           <button onClick={() => handleActive('3')} className={`btn flex ${active === '3' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2' >
-              <Image src={three} alt="pu step 1" loading="lazy" width={30} height={30} /><div className='pe-4'>Application for Name su Approval</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={three} alt="Application for Name su Approval" loading="lazy" width={30} height={30} /><div className='pe-4'>Application for Name su Approval</div>
+              <Image src={arrow} alt="Application for Name su Approval" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
           <button onClick={() => handleActive('4')} className={`btn flex ${active === '4' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2' >
-              <Image src={four} alt="pu step 1" loading="lazy" width={30} height={30} /><div className='pe-4'>Filing FiLLiP Form</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={four} alt="Filing FiLLiP Form" loading="lazy" width={30} height={30} /><div className='pe-4'>Filing FiLLiP Form</div>
+              <Image src={arrow} alt="Filing FiLLiP Form" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
           <button onClick={() => handleActive('5')} className={`btn flex ${active === '5' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2' >
-              <Image src={five} alt="pu step 1" loading="lazy" width={30} height={30} /><div className='pe-4'>File LLP Agreement </div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={five} alt="File LLP Agreement" loading="lazy" width={30} height={30} /><div className='pe-4'>File LLP Agreement</div>
+              <Image src={arrow} alt="File LLP Agreement" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
           <button onClick={() => handleActive('6')} className={`btn flex ${active === '6' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2' >
-              <Image src={six} alt="pu step 1" loading="lazy" width={30} height={30} /><div className='pe-4'>Apply for PAN, TAN, and Open a Bank Account</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={six} alt="Apply for PAN, TAN, and Open a Bank Account" loading="lazy" width={30} height={30} /><div className='pe-4'>Apply for PAN, TAN, and Open a Bank Account</div>
+              <Image src={arrow} alt="Apply for PAN, TAN, and Open a Bank Account" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
         </div>

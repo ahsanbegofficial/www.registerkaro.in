@@ -24,32 +24,32 @@ export const DocumentRequired = () => {
         <div className='flex-4'>
           <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2' >
-              <Image src={one} alt="pu step 1" loading="lazy" width={30} height={30} /><div className='pe-4'>PAN Card or Identity Proof of all the Partners</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={one} alt="PAN Card or Identity Proof of all the Partners" loading="lazy" width={30} height={30} /><div className='pe-4'>PAN Card or Identity Proof of all the Partners</div>
+              <Image src={arrow} alt="PAN Card or Identity Proof of all the Partners" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
           <button onClick={() => handleActive('2')} className={`btn flex ${active === '2' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2' >
-              <Image src={two} alt="pu step 1" loading="lazy" width={30} height={30} /><div className='pe-4'>Address Proof of Partners</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={two} alt="Address Proof of Partners" loading="lazy" width={30} height={30} /><div className='pe-4'>Address Proof of Partners</div>
+              <Image src={arrow} alt="Address Proof of Partners" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
           <button onClick={() => handleActive('3')} className={`btn flex ${active === '3' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2' >
-              <Image src={three} alt="pu step 1" loading="lazy" width={30} height={30} /><div className='pe-4'>Partners Residence Proof</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={three} alt="Partners Residence Proof" loading="lazy" width={30} height={30} /><div className='pe-4'>Partners Residence Proof</div>
+              <Image src={arrow} alt="Partners Residence Proof" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
           <button onClick={() => handleActive('4')} className={`btn flex ${active === '4' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2' >
-              <Image src={four} alt="pu step 1" loading="lazy" width={30} height={30} /><div className='pe-4'>Passport sized-photos</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={four} alt="Passport sized-photos" loading="lazy" width={30} height={30} /><div className='pe-4'>Passport sized-photos</div>
+              <Image src={arrow} alt="Passport sized-photos" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
           <button onClick={() => handleActive('5')} className={`btn flex ${active === '5' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2' >
-              <Image src={five} alt="pu step 1" loading="lazy" width={30} height={30} /><div className='pe-4'>Passport</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={five} alt="Required Passport" loading="lazy" width={30} height={30} /><div className='pe-4'>Passport</div>
+              <Image src={arrow} alt="Required Passport" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
         </div>
@@ -79,8 +79,8 @@ export const DocumentRequired = () => {
       <div className='flex-child-1'>
         <h3>Proof of Registered Office Address:</h3>
         <ul className='tick list-unstyled'>
-          <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} />If the registered office is taken on rent, an NOC & a Rent Agreement from the landlord has to be submitted. NOC will be the consent of the landlord to allow the LLP to use the place as a registered office.</li>
-          <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} />Submit the latest utility bills like electricity, gas, telephone bill, etc. and the bill should contain the complete address of the premise & owner’s name & the document should not be older than 2 months.</li>
+          <li><Image alt="NOC will be the consent of the landlord to allow the LLP to use the place as a registered office" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} />If the registered office is taken on rent, an NOC & a Rent Agreement from the landlord has to be submitted. NOC will be the consent of the landlord to allow the LLP to use the place as a registered office.</li>
+          <li><Image alt="bills like electricity, gas, telephone bill, etc. should not be older than 2 months" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} />Submit the latest utility bills like electricity, gas, telephone bill, etc. and the bill should contain the complete address of the premise & owner’s name & the document should not be older than 2 months.</li>
         </ul>
       </div>
     </div>

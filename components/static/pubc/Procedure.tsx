@@ -21,7 +21,7 @@ export const Procedure = () => {
         <p><strong>Note: </strong>Registering a Public Limited Company typically takes several weeks to a few months, depending on the country and the complexity of the company's structure. Public Limited Company registration involves creating a legal entity that offers shares to the public for purchase and trading on a stock exchange. This process includes meeting requirements such as minimum share capital and appointing directors.</p>
       </div>
       <div className='flex-3'>
-        <Image alt="Private Limited Company sample" className="PvtReg-img w-100" height={382} loading="lazy" src={pvtReg} />
+        <Image alt="Procedure for Public Limited Company Registration" className="Procedure-img w-100" height={382} loading="lazy" src={pvtReg} />
       </div>
     </div>
   )

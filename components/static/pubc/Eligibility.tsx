@@ -25,56 +25,56 @@ export const Eligibility = () => {
         <div className='flex-5'>
           <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={one} alt="pu step 1" loading="lazy" width={30} height={30} /><div className='pe-4'> Minimum Directors</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={one} alt="Minimum Directors" loading="lazy" width={30} height={30} /><div className='pe-4'> Minimum Directors</div>
+              <Image src={arrow} alt="Minimum Directors" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
           <button onClick={() => handleActive('2')} className={`btn flex ${active === '2' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={two} alt="pu step 2" loading="lazy" width={30} height={30} /><div className='pe-4'> Shareholders</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={two} alt="Shareholders" loading="lazy" width={30} height={30} /><div className='pe-4'> Shareholders</div>
+              <Image src={arrow} alt="Shareholders" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
           <button onClick={() => handleActive('3')} className={`btn flex ${active === '3' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={three} alt="pu step 3" loading="lazy" width={30} height={30} /><div className='pe-4'> Authorized Capital</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={three} alt="Authorized Capital" loading="lazy" width={30} height={30} /><div className='pe-4'> Authorized Capital</div>
+              <Image src={arrow} alt="Authorized Capital" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
           <button onClick={() => handleActive('4')} className={`btn flex ${active === '4' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={four} alt="pu step 4" loading="lazy" width={30} height={30} /><div className='pe-4'> DIN and DSC</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={four} alt="DIN and DSC" loading="lazy" width={30} height={30} /><div className='pe-4'> DIN and DSC</div>
+              <Image src={arrow} alt="DIN and DSC" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
           <button onClick={() => handleActive('5')} className={`btn flex ${active === '5' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={five} alt="pu step 5" loading="lazy" width={30} height={30} /><div className='pe-4'> Name Approval</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={five} alt="Name Approval" loading="lazy" width={30} height={30} /><div className='pe-4'> Name Approval</div>
+              <Image src={arrow} alt="Name Approval" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
           <button onClick={() => handleActive('6')} className={`btn flex ${active === '6' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={six} alt="pu step 6" loading="lazy" width={30} height={30} /><div className='pe-4'> Registered Office</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={six} alt="Registered Office" loading="lazy" width={30} height={30} /><div className='pe-4'> Registered Office</div>
+              <Image src={arrow} alt="Registered Office" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
           <button onClick={() => handleActive('7')} className={`btn flex ${active === '7' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={seven} alt="pu step 7" loading="lazy" width={30} height={30} /><div className='pe-4'> Compliance with Laws</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={seven} alt="Compliance with Laws" loading="lazy" width={30} height={30} /><div className='pe-4'> Compliance with Laws</div>
+              <Image src={arrow} alt="Compliance with Laws" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
           <button onClick={() => handleActive('8')} className={`btn flex ${active === '8' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2' >
-              <Image src={eight} alt=" Select the Company name" loading="lazy" width={30} height={30} /><div className='pe-4'> Board Meetings and Annual General Meetings</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={eight} alt="Board Meetings and Annual General Meetings" loading="lazy" width={30} height={30} /><div className='pe-4'> Board Meetings and Annual General Meetings</div>
+              <Image src={arrow} alt="Board Meetings and Annual General Meetings" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
           <button onClick={() => handleActive('9')} className={`btn flex ${active === '9' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={nine} alt="pu step 7" loading="lazy" width={30} height={30} /><div className='pe-4'> Statutory Compliance</div>
-              <Image src={arrow} alt="pu step 1" loading="lazy" width={30} height={30} className="position-absolute end-0" />
+              <Image src={nine} alt="Statutory Compliance" loading="lazy" width={30} height={30} /><div className='pe-4'> Statutory Compliance</div>
+              <Image src={arrow} alt="Statutory Compliance" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>
         </div>

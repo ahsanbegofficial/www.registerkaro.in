@@ -17,7 +17,7 @@ export const Benefits = () => {
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='Benefits'>
       < div className='flex-7'>
-          <Image alt="list of documents for private limited company registration in india that is passport size photos, aadhar and pan card, address proof, passport for NRIs applicant, bank statement" className="DocumentRequired-img w-100" loading="lazy" src={benefits} height={500}/>
+          <Image alt="Benefits of Trademark Registration Online" className="DocumentRequired-img w-100" loading="lazy" src={benefits} height={500}/>
              <p className='main-para mb-2'>Following are the benefits of Trademark Registration Online in India:</p>
         </div>
 
@@ -25,32 +25,32 @@ export const Benefits = () => {
       <div className='flex-4'>
          <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={one} alt="three" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Gives Exclusive Rights:</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={one} alt="Gives Exclusive Rights" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Gives Exclusive Rights:</div> 
+              <Image src={arrow} alt="Gives Exclusive Rights" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
          <button onClick={() => handleActive('2')} className={`btn flex ${active === '2' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={two} alt="three" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Provides Unique Identity:</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={two} alt="Provides Unique Identity" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Provides Unique Identity:</div> 
+              <Image src={arrow} alt="Provides Unique Identity" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
          <button onClick={() => handleActive('3')} className={`btn flex ${active === '3' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={three} alt="three" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>It Protects, Builds Commercial Goodwill:</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={three} alt="It Protects, Builds Commercial Goodwill" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>It Protects, Builds Commercial Goodwill:</div> 
+              <Image src={arrow} alt="It Protects, Builds Commercial Goodwill" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
          <button onClick={() => handleActive('4')} className={`btn flex ${active === '4' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={four} alt="three" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Legal Protection:</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={four} alt="Legal Protection" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Legal Protection:</div> 
+              <Image src={arrow} alt="Legal Protection" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
          <button onClick={() => handleActive('5')} className={`btn flex ${active === '5' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>
-              <Image src={five} alt="three" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Creation of an Asset:</div> 
-              <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
+              <Image src={five} alt="Creation of an Asset" loading="lazy" width={30} height={30}  /><div className='ms-1 pe-4'>Creation of an Asset:</div> 
+              <Image src={arrow} alt="Creation of an Asset" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
             </div>
           </button>
       </div>

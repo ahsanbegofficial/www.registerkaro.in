@@ -15,7 +15,7 @@ export const EventBased = () => {
           <p><strong>5: </strong>It helps in the regulation of import food manufacturing, distribution, sales & storage.</p>
         </div>
         <div className='flex-5'>
-          <Image alt="The benefits of private limited company in india and these are Separate Legal Entity, Ease in Raising Funds, Limited Liability, Easy Transferable, Limited Liability and ESOP" className="EventBased-img w-100" height={400} loading="lazy" src={bft} />
+          <Image alt="Benefits of FSSAI Registration" className="EventBased-img w-100" height={400} loading="lazy" src={bft} />
         </div>
       </div>
     </div>

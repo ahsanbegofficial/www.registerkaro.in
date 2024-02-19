@@ -6,7 +6,7 @@ export const Penalties = () => {
   return (
     <div className='Penalties flex w-80 m-auto mobile-flex-column' id='Penalties'>
        <div className='flex-5'>
-          <Image alt="Private Limited Company sample" className="Penalties-img w-100" height={300} loading="lazy" src={bft} />
+          <Image alt="Penalties for Non-Compliance" className="Penalties-img w-100" height={300} loading="lazy" src={bft} />
       </div>
       <div className='flex-5'>
         <p>It is mandatory to complete all the compliances for every Nidhi Company. Non-Compliance attracts penalties for the Nidhi Companies:</p>

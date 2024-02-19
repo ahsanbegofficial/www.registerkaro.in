@@ -11,31 +11,31 @@ export const Checklist = () => {
   return (
     <div className='checklist' id='Checklist'>
       <div>
-        <Image alt="list of documents for private limited company registration in india that is passport size photos, aadhar and pan card, address proof, passport for NRIs applicant, bank statement" className="Checklist-img w-100" loading="lazy" src={whoCan} height={500} />
+        <Image alt="Who can apply for Trademark Registration Online" className="Checklist-img w-100" loading="lazy" src={whoCan} height={500} />
       </div>
       <p className='main-para'>A Trademark application can be filed by:</p>
       <div className="checklist flex w-80 m-auto mobile-flex-column">
         <div className="checklist-divs flex flex-column text-center align-center">
           <div>
-            <Image height={125} width={125} src={one} alt="Minimum two directors for a company" />
+            <Image height={125} width={125} src={one} alt="Private Firms" />
           </div>
           <p>Private Firms;</p>
         </div>
         <div className="checklist-divs flex flex-column text-center align-center">
           <div>
-            <Image height={125} width={125} src={two} alt="minimum one director should be an Indian Resident" />
+            <Image height={125} width={125} src={two} alt="Individuals" />
           </div>
           <p>Individuals;</p>
         </div>
         <div className="checklist-divs flex flex-column text-center align-center">
           <div>
-            <Image height={125} width={125} src={three} alt="Digital Signature Certificate" />
+            <Image height={125} width={125} src={three} alt="Companies like Private Limited, OPC, LLP, Public Limited, Partnership & so on" />
           </div>
           <p>Companies like Private Limited, OPC, LLP, Public Limited, Partnership & so on;</p>
         </div>
         <div className="checklist-divs flex flex-column text-center align-center">
           <div>
-            <Image height={125} width={125} src={four} alt="DIN or Director Identification Number" />
+            <Image height={125} width={125} src={four} alt="NGOs for trademark" />
           </div>
           <p>NGOs</p>
         </div>
