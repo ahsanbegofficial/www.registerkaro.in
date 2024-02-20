@@ -17,7 +17,9 @@ function formatQuery(query: string) {
 export default function Home() {
     const router = useRouter();
     const Query = router.query.state as string;
+    console.log('q',Query);
     const { data, error } = useSWR(`/api/startup/${Query}`, fetcher);
+    console.log('d',data);
     const formattedQuery = Query ? formatQuery(Query) : "";
     const pageTitle = `${formattedQuery} | RegisterKaro`;
 

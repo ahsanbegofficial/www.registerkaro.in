@@ -1,21 +1,31 @@
-import React, { useState } from 'react'
-import { FormVirtualOFC } from '../../../components/child_components/FormVirtualOFC'
+import Head from 'next/head'
 import Image from 'next/image'
-import importance from '../../../assets/images/virtualoffice/importance.jpg'
-import cost from '../../../assets/images/virtualoffice/cost.png'
-import flexibility from '../../../assets/images/virtualoffice/flexibility.png'
-import professional from '../../../assets/images/virtualoffice/professional.png'
-import access from '../../../assets/images/virtualoffice/access.png'
-import rupee from '../../../assets/images/virtualoffice/rupee.png'
-import tick from '../../../assets/images/virtualoffice/tick.svg'
+import { useState } from 'react'
 import RightArrow from '../../../assets/images/virtualoffice/RightArrow.svg'
+import access from '../../../assets/images/virtualoffice/access.png'
+import BG from "../../../assets/images/virtualoffice/bgVirtual.svg"
+import cost from '../../../assets/images/virtualoffice/cost.png'
 import document from '../../../assets/images/virtualoffice/document.png'
+import Gurgaon from '../../../assets/images/virtualoffice/Gurgaon.svg'
+import Delhi from '../../../assets/images/virtualoffice/Delhi.svg'
+import Noida from '../../../assets/images/virtualoffice/noida.svg'
+import Bangalore from '../../../assets/images/virtualoffice/Bangalore.svg'
+import Mumbai from '../../../assets/images/virtualoffice/Mumbai.svg'
+import Ahmedabad from '../../../assets/images/virtualoffice/Ahmedabad.svg'
+import Chandigarh from '../../../assets/images/virtualoffice/Chandigarh.svg'
+import Chennai from '../../../assets/images/virtualoffice/Chennai.svg'
+import viewMore from '../../../assets/images/virtualoffice/viewMore.svg'
+import flexibility from '../../../assets/images/virtualoffice/flexibility.png'
+import importance from '../../../assets/images/virtualoffice/importance.jpg'
 import network from '../../../assets/images/virtualoffice/network.png'
 import process from '../../../assets/images/virtualoffice/process.png'
-import { VirtualOfficeFaq } from '../../../components/child_components/VirtualOfficeFaq'
-import { Slider } from '../../../components/child_components/Slider'
+import professional from '../../../assets/images/virtualoffice/professional.png'
+import rupee from '../../../assets/images/virtualoffice/rupee.png'
+import tick from '../../../assets/images/virtualoffice/tick.svg'
 import ModalPopUp from '../../../components/child_components/Modal'
-import Head from 'next/head'
+import { Slider } from '../../../components/child_components/Slider'
+import { VirtualOfficeFaq } from '../../../components/child_components/VirtualOfficeFaq'
+import ZohoformVirtualOFC from '../../../components/child_components/ZohoformVirtualOFC'
 
 const Home = () => {
   const [active, setActive] = useState(false)
@@ -30,19 +40,103 @@ const Home = () => {
         <title>Virtual Office | RegisterKaro</title>
         <meta name="description" content="The Official RegisterKaro" />
         <link rel="icon" href="/favicon.ico" />
-        <link rel="canonical" href="https://www.registerkaro.in/virtual-office" />
+        <link rel="canonical" href="https://www.registerkaro.in/ads/virtual-office" />
         <meta property="og:title" content="Virtual Office  | RegisterKaro" />
         <meta property="og:description" content="The Official RegisterKaro" />
       </Head>
       <ModalPopUp active={active} setActive={setActive} />
-      <div className='form-section'>
-        <div className='left'>
-          <h1 className='firstH1'>Unlock the Benefits of Getting a Virtual <br /> Office Services in Bangalore</h1>
-          <p>Build your company’s presence with a virtual office in Bangalore. Our extensive network of workspaces gives you a real business address in prime locations in Bangalore, with an extensive range of mail handling options & call answering services available, plus access to meeting rooms & desk space whenever you need it only @ Rs. 999 per month.</p>
-          <h1 className='firstH2 hide'>What is a Virtual Office? </h1>
-          <p className='hide'>A virtual office is an arrangement that lets businesses have professional addresses as well as communication services, without physical office space. Companies can establish a professional presence without having to incur overheads related to setting up a physical office. This is because it provides companies with prestigious business addresses, dedicated phone numbers, among other essential services.</p>
+      <div className="hero mobile-flex-column">
+        <Image
+          src={BG}
+          alt="Background Image"
+          layout="fill"
+          objectFit="cover"
+          objectPosition="center"
+          priority={true}
+          className="background-image"
+        />
+        <div className="header-content">
+          <h4>Unlock the <span className='color-orange'>Benefits of Getting a Virtual Office</span> Services in Banglore</h4>
+          <p className='des'>Build your company's presence with a virtual office in Banglore. Our extensive global network of workspaces gives you a real business address in prime locations, with a wide range of mail handling options and call answering services available, plus access to meeting rooms and desk space whenever you need it.</p>
+          <p className='price'>Only @ Rs. 1,500 per month.</p>
+          <div className="cities">
+            <div>
+              <div className='bgWhite'>
+                <a href="/ads/virtual-office/gurgaon">
+                  <Image className='img' src={Gurgaon} alt='1' height={90} width={90} />
+                </a>
+              </div>
+              <p>Gurgaon</p>
+            </div>
+            <div>
+              <div className='bgWhite'>
+                <a href="/ads/virtual-office/delhi">
+                  <Image className='img' src={Delhi} alt='1' height={90} width={90} />
+                </a>
+              </div>
+              <p>Delhi</p>
+            </div>
+            <div>
+              <div className='bgWhite'>
+                <a href="/ads/virtual-office/noida">
+                  <Image className='img' src={Noida} alt='1' height={90} width={90} />
+                </a>
+              </div>
+              <p>Noida</p>
+            </div>
+            <div>
+              <div className='bgWhite'>
+                <a href="/ads/virtual-office/bangalore">
+                  <Image className='img' src={Bangalore} alt='1' height={90} width={90} />
+                </a>
+              </div>
+              <p>Bangalore</p>
+            </div>
+            <div>
+              <div className='bgWhite'>
+                <a href="/ads/virtual-office/mumbai">
+                  <Image className='img' src={Mumbai} alt='1' height={90} width={90} />
+                </a>
+              </div>
+              <p>Mumbai</p>
+            </div>
+            <div>
+              <div className='bgWhite'>
+                <a href="/ads/virtual-office/ahmedabad">
+                  <Image className='img' src={Ahmedabad} alt='1' height={90} width={90} />
+                </a>
+              </div>
+              <p>Ahmedabad</p>
+            </div>
+            <div>
+              <div className='bgWhite'>
+                <a href="/ads/virtual-office/chandigarh">
+                  <Image className='img' src={Chandigarh} alt='1' height={90} width={90} />
+                </a>
+              </div>
+              <p>Chandigarh</p>
+            </div>
+            <div>
+              <div className='bgWhite'>
+                <a href="/ads/virtual-office/chennai">
+                  <Image className='img' src={Chennai} alt='1' height={90} width={90} />
+                </a>
+              </div>
+              <p>Chennai</p>
+            </div>
+            <div className='pointer'>
+              <div>
+                <a href="#target" className="scrollTo">
+                  <Image className='img' src={viewMore} alt='1' height={90} width={90} />
+                </a>
+              </div>
+              <p>view more</p>
+            </div>
+          </div>
         </div>
-        <FormVirtualOFC />
+        <div className="zoho">
+          <ZohoformVirtualOFC />
+        </div>
       </div>
       <div className='importance-section'>
         <div className='left'>
@@ -74,13 +168,13 @@ const Home = () => {
           <Image src={importance} alt="img" className='img' />
         </div>
       </div>
-      <div className='Plans'>
+      <div className='Plans' id='target'>
         <h2>Select Different Types of <span className='bold'>Virtual Office Space Plans</span> as per your needs</h2>
         <div className='parent-div'>
           <div className='card'>
             <div className="card-header">
               <div className='flex'>
-                <p><Image src={rupee} alt="image" height={13} width={13} /> <span className='price'>999</span> month</p>
+                <p><Image src={rupee} alt="image" height={13} width={13} /> <span className='price'>1,500</span> month</p>
                 <button className='button'>billed annually</button>
               </div>
               <h3>Business Registration Plan</h3>
@@ -103,7 +197,7 @@ const Home = () => {
           <div className='card'>
             <div className="card-header">
               <div className='flex'>
-                <p><Image src={rupee} alt="image" height={13} width={13} /> <span className='price'>699</span> month</p>
+                <p><Image src={rupee} alt="image" height={13} width={13} /> <span className='price'>1,000</span> month</p>
                 <button className='button'>billed annually</button>
               </div>
               <h3>GST Registration Plan</h3>
@@ -123,7 +217,7 @@ const Home = () => {
           <div className='card'>
             <div className="card-header">
               <div className='flex'>
-                <p><Image src={rupee} alt="image" height={13} width={13} /> <span className='price'>999</span> month</p>
+                <p><Image src={rupee} alt="image" height={13} width={13} /> <span className='price'>1,500</span> month</p>
                 <button className='button'>billed annually</button>
               </div>
               <h3>Business Mailing Address</h3>
@@ -216,5 +310,4 @@ const Home = () => {
     </div>
   )
 }
-
 export default Home

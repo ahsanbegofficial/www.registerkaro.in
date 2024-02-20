@@ -243,6 +243,10 @@ const nextConfig = {
         source: '/wordpress/[id]',
         destination: '/[id]',
         permanent: true
+      },{
+        source: '/virtual-office-in-india/virtual-office-in-india-in-hyderabad',
+        destination: '/virtual-office/virtual-office-in-hyderabad',
+        permanent: true
       }
     ];
   },
