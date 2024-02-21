@@ -373,12 +373,12 @@ const Home = () => {
     return (
         <div className='services-pages section-8-reg'>
             <Head>
-                <meta name="robots" content="noindex,nofollow" />
-                <meta name="googlebot" content="noindex,nofollow" />
-                <meta name="robots" content="all" />
-                <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
-                <meta name="google" content="notranslate" key="notranslate" />
+                <title>Section 8 Registration | RegisterKaro</title>
+                <meta name="description" content="The Official RegisterKaro" />
+                <link rel="canonical" href="https://www.registerkaro.in/section-8-registration" />
                 <link rel="icon" href="/favicon.ico" />
+                <meta property="og:title" content="Section 8 Registration | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
             <Hero />
             <h1 className='main-heading'>An Overview of Section 8 Company Registration</h1>
