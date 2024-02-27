@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import bft from '../../../assets/images/nidhi-reg/benefits.svg'
+import bft from '../../../assets/images/static/private-reg/benefit.svg'
 
 export const Registration = () => {
   return (

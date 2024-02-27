@@ -36,7 +36,7 @@ export const RegisterUnderEstablishment = () => {
         </ul>
       </div>
       <div className='flex-3'>
-        <Image alt="list of documents for private limited company registration in india that is passport size photos, aadhar and pan card, address proof, passport for NRIs applicant, bank statement" className="DocumentRequired-img w-100" loading="lazy" src={documents} height={430}/>
+        <Image alt="The Shop & Establishment Act allows the Registration of Sole Proprietorship for shops & establishments in India. Under the prescribed law, cafeterias, restaurants, theatres, hotels, factories, commercial facilities, or public entertainment locations aren’t considered shops. Following is the list of premises that qualify as a shop" className="DocumentRequired-img w-100" loading="lazy" src={documents} height={430}/>
       </div>
     </div>
 

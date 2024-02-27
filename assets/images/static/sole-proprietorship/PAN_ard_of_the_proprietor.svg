@@ -1,0 +1,11 @@
+<svg width="2372" height="2372" viewBox="0 0 2372 2372" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1186 2372C1841.01 2372 2372 1841.01 2372 1186C2372 530.99 1841.01 0 1186 0C530.99 0 0 530.99 0 1186C0 1841.01 530.99 2372 1186 2372Z" fill="white"/>
+<path d="M1186 2264C1781.36 2264 2264 1781.36 2264 1186C2264 590.637 1781.36 108 1186 108C590.637 108 108 590.637 108 1186C108 1781.36 590.637 2264 1186 2264Z" fill="#30486E"/>
+<rect x="514" y="739" width="1356" height="911" rx="133" stroke="white" stroke-width="40"/>
+<rect x="674" y="1173" width="498" height="327" rx="101" stroke="white" stroke-width="40"/>
+<circle cx="923" cy="987" r="120" stroke="white" stroke-width="40"/>
+<line x1="1297" y1="967" x2="1758" y2="967" stroke="white" stroke-width="40"/>
+<line x1="1297" y1="1453" x2="1758" y2="1453" stroke="white" stroke-width="40"/>
+<line x1="1297" y1="1214" x2="1758" y2="1214" stroke="white" stroke-width="40"/>
+<path d="M2208 1186C2208 1748.23 1752.23 2204 1190 2204C627.774 2204 172 1748.23 172 1186C172 623.774 627.774 168 1190 168C1752.23 168 2208 623.774 2208 1186Z" stroke="#F7A73C" stroke-width="14"/>
+</svg>

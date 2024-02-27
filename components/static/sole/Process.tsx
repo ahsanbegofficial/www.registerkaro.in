@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
-import msme_certificate from '../../../assets/images/sole_reg/MSME-Certificate-Sample.webp';
-import gst_certificate from '../../../assets/images/sole_reg/Gst-Registration-Sample.png';
-import shop_certificate from '../../../assets/images/sole_reg/shop_and_establishment_sample.webp';
+import msme_certificate from '../../../assets/images/static/sole-proprietorship/MSME-Certificate-Sample.webp';
+import gst_certificate from '../../../assets/images/static/sole-proprietorship/Gst-Registration-Sample.png';
+import shop_certificate from '../../../assets/images/static/sole-proprietorship/shop_and_establishment_sample.webp';
 import one from '../../../assets/images/pvt-reg/HowToRegister/one.svg'
 import two from '../../../assets/images/pvt-reg/HowToRegister/two.svg'
 import three from '../../../assets/images/pvt-reg/HowToRegister/three.svg'
@@ -97,20 +97,20 @@ export const Process = () => {
                         <div className='flex-5 text-justify fs-20'>
                         <div className={`${active === '1' ? 'active' : 'none'}`}>
                         <p className="small-heading text-center w-80">MSME Certificate [Sample]</p>
-                            <div>
-                                <Image    alt="A certificate of incorporation for an indian company" className="certificate h-100 w-80" loading="lazy" src={msme_certificate}/>
+                            <div > 
+                                <Image    alt="MSME Certificate Sample" className="certificate h-100 w-80" loading="lazy" src={msme_certificate}/>
                             </div>
                         </div>
                         <div className={`${active === '2' ? 'active' : 'none'}`}>
                            <p className="small-heading text-center w-80"> GST Certificate  [Sample]</p>
                             <div >
-                                <Image alt="A certificate of incorporation for an indian company" className="certificate h-100 w-80" loading="lazy" src={gst_certificate}/>
+                                <Image alt="GST Certificate" className="certificate h-100 w-80" loading="lazy" src={gst_certificate}/>
                             </div>
                         </div>
                         <div className={`${active === '3' ? 'active' : 'none'}`}>
                         <p className="small-heading text-center w-80"> Shop License [Sample]</p>
                             <div>
-                                <Image alt="A certificate of incorporation for an indian company" className="certificate h-100 w-80" loading="lazy" src={shop_certificate}/>
+                                <Image alt="Shop License Sample" className="certificate h-100 w-80" loading="lazy" src={shop_certificate}/>
                             </div>
                         </div> 
                       

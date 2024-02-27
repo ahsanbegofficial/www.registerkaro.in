@@ -41,7 +41,7 @@ export default function Home() {
                     </div>
                     <div>
                         <h5>Corporate Compliance</h5>
-                        <p><Link href="tel:+918069137147">+91 80691 37147</Link></p>
+                        <p><Link href="tel:+919205817927">+91 92058 17927</Link></p>
                     </div>
                     <div>
                         <h5>For More Support</h5>

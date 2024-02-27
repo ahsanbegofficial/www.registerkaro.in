@@ -1,0 +1,19 @@
+.sole-reg {
+    @media screen and (max-width: 990px) {
+      .DifferentTypes-img {
+        height: 280px;
+      }
+      .benefits-img ,.DocumentRequired-img {
+        height: 600px;
+      }
+    
+    }
+    @media screen and (max-width: 500px) {
+      .benefits-img , .DocumentRequired-img{
+        height: 100%;
+      }
+
+    }
+    
+  }
+  

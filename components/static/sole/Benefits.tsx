@@ -1,12 +1,12 @@
 import Image from 'next/image'
 import React from 'react'
-import bft from '../../../assets/images/pvt-reg/benefit.svg'
+import bft from '../../../assets/images/static/sole-proprietorship/Benefits.svg'
 
 export const Benefits = () => {
   return (
     <div className='benefits flex w-80 m-auto mobile-flex-column' id='Benefits'>
        <div className='flex-5'>
-          <Image alt="The benefits of Sole Proprietorship in India and these are Ease of Dissolution, Very Less Compliance, Sole Beneficiary of Profits, Quick Decision, Complete Control over the Business" className="benefits-img w-100" height={600} loading="lazy" src={bft} />
+          <Image alt="The benefits of Sole Proprietorship in India and these are Ease of Dissolution, Very Less Compliance, Sole Beneficiary of Profits, Quick Decision, Complete Control over the Business" className="benefits-img w-100" height={800} loading="lazy" src={bft} />
       </div>
       <div className='flex-5'>
         <p>The following are the benefits of Sole Proprietorship in India:</p>

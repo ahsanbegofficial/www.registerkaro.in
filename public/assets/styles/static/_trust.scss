@@ -1,0 +1,38 @@
+.trust-reg {
+  @media screen and (max-width: 990px) {
+   .Parties-involved-img{
+    height: 300px;    
+   }
+   .Categories-of-trust-trusts-img{
+      height: 500px;
+   }
+   .Importance-of-trust-img{
+      height: 500px;
+   }
+   .Advantages-of-trust-img{
+      height: 500px;
+   }
+   .Prerequisites-of-trust-img{
+      height: 500px;
+      
+   }
+  }
+
+  @media screen and (max-width: 560px) {
+    .Parties-involved-img{
+      height: 100%;
+    }
+    .Categories-of-trust-trusts-img{
+      height: 100%;
+    }
+    .Importance-of-trust-img{
+      height: 100%;
+    }
+    .Advantages-of-trust-img{
+      height: 100%;
+    }
+    .Prerequisites-of-trust-img{
+      height: 100%;
+    }
+   }
+}
