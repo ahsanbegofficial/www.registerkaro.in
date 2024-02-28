@@ -1,12 +1,9 @@
 import Image from 'next/image'
-import React from 'react'
-import dft from '../../../assets/images/pvt-reg/differentType.svg'
+import types_of_subsidiaries_in_india from '../../../assets/images/static/Indian_subsidiary_registration/types_of_subsidiaries_in_india.svg'
 import ulArrow from '../../../assets/images/pvt-reg/ulArrow.svg'
-import ProcedureReg from '../../../assets/images/nidhi-reg/procedur.svg'
-
 export const TypeOfSubs = () => {
   return (
-    <div className='DocumentArrowWise flex w-80 m-auto mobile-flex-column-reverse' id='TypeOfSubs'>
+    <div className='TypeOfSubs flex w-80 m-auto mobile-flex-column-reverse' id='TypeOfSubs'>
       <div className='flex-5'>
         <div className='flex-3'>
         <p>India recognizes two primary types of subsidiaries:</p>
@@ -25,7 +22,9 @@ export const TypeOfSubs = () => {
         </ul>
         <p >Before initiating the establishment of a subsidiary in India, obtaining approval from the Reserve Bank of India is a crucial prerequisite. This regulatory step ensures adherence to the country’s foreign investment regulations and safeguards the interests of all stakeholders involved.</p>
       </div>
-      <div className='flex-3'><Image alt="Private Limited Company sample" className="Procedure-img w-100" loading="lazy" height={430} src={ProcedureReg} /></div>
+      <div className='flex-3'>
+        <Image alt="Types of Subsidiaries in India,Wholly Owned Subsidiary,Joint Venture Subsidiary Company,LLP for Subsidiary Compan" className="TypeOfSubs-img w-100" loading="lazy" height={500} src={types_of_subsidiaries_in_india} />
+        </div>
     </div>
   )
 }

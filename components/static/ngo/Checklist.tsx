@@ -12,25 +12,25 @@ export const Checklist = () => {
       <div className="checklist flex w-80 m-auto mobile-flex-column">
         <div className="checklist-divs flex flex-column text-center align-center">
           <div>
-            <Image height={125} width={125} src={one} alt="Minimum two directors for a company" />
+            <Image height={125} width={125} src={one} alt="For private limited companies, a minimum of two directors is required" />
           </div>
           <p>For private limited companies, a minimum of two directors is required.</p>
         </div>
         <div className="checklist-divs flex flex-column text-center align-center">
           <div>
-            <Image height={125} width={125} src={two} alt="minimum one director should be an Indian Resident" />
+            <Image height={125} width={125} src={two} alt="Public limited companies mandate a minimum of three directors." />
           </div>
           <p>Public limited companies mandate a minimum of three directors.</p>
         </div>
         <div className="checklist-divs flex flex-column text-center align-center">
           <div>
-            <Image height={125} width={125} src={three} alt="Digital Signature Certificate" />
+            <Image height={125} width={125} src={three} alt="Private limited companies can have a maximum of 200 members, while there is no member limit for public limited companies." />
           </div>
           <p>Private limited companies can have a maximum of 200 members, while there is no member limit for public limited companies.</p>
         </div>
         <div className="checklist-divs flex flex-column text-center align-center">
           <div>
-            <Image height={125} width={125} src={four} alt="DIN or Director Identification Number" />
+            <Image height={125} width={125} src={four} alt="No registration fee is required for NGO" />
           </div>
           <p>No registration fee is required for NGOs.</p>
         </div>

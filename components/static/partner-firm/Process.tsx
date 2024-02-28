@@ -52,9 +52,9 @@ export const Process = () => {
                 </div>
             </div>
             <div className='flex-5'>
-                <p className="small-heading text-center">Partnership-Firm Certificate [Sample]</p>
+                <p className="small-heading text-center">Partnership Firm Certificate [Sample]</p>
                 <div>
-                    <Image alt="A certificate of incorporation for an indian company" className="certificate h-100 w-100" loading="lazy" src={certificate}/>
+                    <Image alt="One of the most essential types of company organisation is a partnership firm. It is a common company structure in India. A partnership firm must be formed by at least two people. A partnership firm is formed when two or more people join forces to start a business and divide the profits in an agreed-upon ratio" className="certificate h-100 w-100" loading="lazy" src={certificate}/>
                     {/* <p>pending pdf render file</p> */}
                 </div>
             </div>

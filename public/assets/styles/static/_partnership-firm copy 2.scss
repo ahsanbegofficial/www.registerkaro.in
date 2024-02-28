@@ -1,0 +1,41 @@
+.partnership-firm-reg {
+  @media screen and (max-width: 990px) {
+
+    .compliance-img{
+      height: 620px;
+    }
+    .ProcedureForPartnership-img{
+      height: 620px;
+    }
+    .DocumentsForPartnership-img{
+      height: 620px;
+    }
+    .PartnershipDeed-img{
+      
+    }
+    .Benefits-img{
+
+    }
+    .Advantages-img{
+
+    }
+    .Disdvantages-img{
+
+    }
+    .Checklist-img{
+
+    }
+  }
+  @media screen and (max-width: 530px) {
+
+    .compliance-img{
+      height: 100%;
+    }
+    .DocumentsForPartnership-img{
+      height: 100%;
+    }
+    .ProcedureForPartnership-img{
+      height: 630px;
+    }
+  }
+}

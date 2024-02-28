@@ -7,6 +7,7 @@ import four from '../../../assets/images/pvt-reg/HowToRegister/four.svg'
 import five from '../../../assets/images/pvt-reg/HowToRegister/five.svg'
 import six from '../../../assets/images/pvt-reg/HowToRegister/six.svg'
 import arrow from '../../../assets/images/pvt-reg/HowToRegister/arrow.svg'
+import raise_funds_for_ngo from '../../../assets/images/static/ngo/raise_funds_for_ngo.svg'
 
 export const HowToRaise = () => {
   const [active, setActive] = useState('1')
@@ -17,6 +18,9 @@ export const HowToRaise = () => {
 
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='HowToRaise'>
+       <div className='flex-3'>
+        <Image alt="How to Raise Funds for NGOs?" className="HowToRaise-img w-100" loading="lazy" src={raise_funds_for_ngo} height={430} />
+      </div>
       <div className="flex w-100 align-center justify-content-between mobile-flex-column">
       <div className='flex-4'>
         <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'} position-relative`}>

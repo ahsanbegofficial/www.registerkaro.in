@@ -8,6 +8,7 @@ import five from '../../../assets/images/pvt-reg/HowToRegister/five.svg'
 import six from '../../../assets/images/pvt-reg/HowToRegister/six.svg'
 import seven from '../../../assets/images/pvt-reg/HowToRegister/seven.svg'
 import eight from '../../../assets/images/pvt-reg/HowToRegister/eight.svg'
+import benefits_of_ngo_registration from '../../../assets/images/static/ngo/benefits_of_ngo_registration.svg'
 
 import arrow from '../../../assets/images/pvt-reg/HowToRegister/arrow.svg'
 
@@ -20,6 +21,9 @@ export const Benefits = () => {
 
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='Benefits'>
+      <div className='flex-3'>
+        <Image alt="the benefits of NGO Registration in India" className="Benefits-img w-100" loading="lazy" src={benefits_of_ngo_registration} height={430} />
+      </div>
       <p className='main-para'>The following are the benefits of NGO Registration in India:</p>
     <div className="flex w-100 align-center justify-content-between mobile-flex-column-reverse">
         

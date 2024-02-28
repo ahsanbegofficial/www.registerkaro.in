@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
-import Section_8_Incorporation_Certificate_Sample from '../../../assets/images/ngo/Section-8-Incorporation-Certificate-Sample.webp';
-import ngo_society_registration_certificate_sample from '../../../assets/images/ngo/ngo_society_registration_certificate_sample.webp';
-import ngo_trust_certificate_sample from '../../../assets/images/ngo/ngo_trust_certificate_sample.webp';
+import Section_8_Incorporation_Certificate_Sample from '../../../assets/images/static/ngo/Section-8-Incorporation-Certificate-Sample.webp';
+import ngo_society_registration_certificate_sample from '../../../assets/images/static/ngo/ngo_society_registration_certificate_sample.webp';
+import ngo_trust_certificate_sample from '../../../assets/images/static/ngo/ngo_trust_certificate_sample.webp';
 import one from '../../../assets/images/pvt-reg/HowToRegister/one.svg'
 import two from '../../../assets/images/pvt-reg/HowToRegister/two.svg'
 import three from '../../../assets/images/pvt-reg/HowToRegister/three.svg'
@@ -65,19 +65,19 @@ export const Process = () => {
                         <div className='flex-5'>
                         <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'} position-relative`}>
                             <div className='d-flex justify-content-between align-items-center gap-2'>
-                            <Image src={one} alt="one" loading="lazy" width={30} height={30} /> <div className='pe-4'>Section 8 Company</div> 
+                            <Image src={one} alt="Section 8 Company" loading="lazy" width={30} height={30} /> <div className='pe-4'>Section 8 Company</div> 
                             <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
                             </div>
                         </button>
                         <button onClick={() => handleActive('2')} className={`btn flex ${active === '2' ? 'active-btn' : 'none-btn'} position-relative`}>
                             <div className='d-flex justify-content-between align-items-center gap-2'>
-                            <Image src={two} alt="two" loading="lazy" width={30} height={30} /> <div className='pe-4'>Trust  </div> 
+                            <Image src={two} alt="Trust certificate" loading="lazy" width={30} height={30} /> <div className='pe-4'>Trust  </div> 
                             <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
                             </div>
                         </button>
                         <button onClick={() => handleActive('3')} className={`btn flex ${active === '3' ? 'active-btn' : 'none-btn'} position-relative`}>
                             <div className='d-flex justify-content-between align-items-center gap-2'>
-                            <Image src={three} alt="three" loading="lazy" width={30} height={30} /> <div className='pe-4'>Society</div> 
+                            <Image src={three} alt="Society certificate" loading="lazy" width={30} height={30} /> <div className='pe-4'>Society</div> 
                             <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
                             </div>
                         </button>
@@ -86,19 +86,19 @@ export const Process = () => {
                        
                         <div className={`${active === '1' ? 'active' : 'none'}`}>
                             <div>
-                                <Image    alt="A certificate of incorporation for an indian company" className="certificate h-100 w-80" loading="lazy" src={Section_8_Incorporation_Certificate_Sample}/>
+                                <Image    alt="A certificate Section 8 Incorporation Certificate Sample" className="certificate h-100 w-80" loading="lazy" src={Section_8_Incorporation_Certificate_Sample}/>
                             </div>
                         </div>
                         <div className={`${active === '2' ? 'active' : 'none'}`}>
                          
                             <div >
-                                <Image alt="A certificate of incorporation for an indian company" className="certificate h-100 w-80" loading="lazy" src={ngo_trust_certificate_sample}/>
+                                <Image alt="A certificate of ngo trust certificate sample" className="certificate h-100 w-80" loading="lazy" src={ngo_trust_certificate_sample}/>
                             </div>
                         </div>
                         <div className={`${active === '3' ? 'active' : 'none'}`}>
                        
                             <div>
-                                <Image alt="A certificate of incorporation for an indian company" className="certificate h-100 w-80" loading="lazy" src={ngo_society_registration_certificate_sample}/>
+                                <Image alt="ngo society registration certificate sample" className="certificate h-100 w-80" loading="lazy" src={ngo_society_registration_certificate_sample}/>
                             </div>
                         </div> 
                       

@@ -8,6 +8,7 @@ import five from '../../../assets/images/pvt-reg/HowToRegister/five.svg'
 import six from '../../../assets/images/pvt-reg/HowToRegister/six.svg'
 import seven from '../../../assets/images/pvt-reg/HowToRegister/seven.svg'
 import arrow from '../../../assets/images/pvt-reg/HowToRegister/arrow.svg'
+import advantages_of_indian_subsidiary_registration from '../../../assets/images/static/Indian_subsidiary_registration/advantages_of_indian_subsidiary_registration.svg'
 
 export const Advantages = () => {
   const [active, setActive] = useState('1')
@@ -18,6 +19,9 @@ export const Advantages = () => {
 
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='Advantages'>
+      <div className='flex-3'>
+        <Image alt="Advantages of Indian Subsidiary Registration,Indian Subsidiary Registration in India comes with numerous compelling advantages,Entry into the Indian Market,Foreign Direct Investment (FDI) in India" className="Advantages-img w-100" loading="lazy" height={550} src={advantages_of_indian_subsidiary_registration} />
+      </div>
       <p className='main-para'>Indian Subsidiary Registration in India comes with numerous compelling advantages:</p>
       <div className="flex w-100 align-center justify-content-between mobile-flex-column">
       <div className='flex-4'>

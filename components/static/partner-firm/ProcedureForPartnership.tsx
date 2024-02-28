@@ -1,7 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import dft from '../../../assets/images/pvt-reg/differentType.svg'
-import documents from '../../../assets/images/pvt-reg/documents.svg'
+import dft from '../../../assets/images/static/partnership-firm/Procedure.svg'
 import ulArrow from '../../../assets/images/pvt-reg/ulArrow.svg'
 
 export const ProcedureForPartnership = () => {
@@ -9,8 +8,8 @@ export const ProcedureForPartnership = () => {
     <div>
         <p className='main-para'>Following is the step-by-step Partnership Firm Registration in India:</p>
     <div className='DocumentArrowWise flex w-80 m-auto mobile-flex-column' id='ProcedureForPartnership'>
-      <div className='flex justify-content-center'>
-        <Image alt="Types of business structures in india and these structures are private limited company, public limited company, one person company, limited and sole proprietorship" className="DifferentTypes-img w-100" height={382} loading="lazy" src={dft} />
+      <div className='flex-3 justify-content-center'>
+        <Image alt="Procedure for Partnership Firm Registration in India" className="ProcedureForPartnership-img w-100" height={482} loading="lazy" src={dft} />
       </div>
       
       <div className='flex-7'>

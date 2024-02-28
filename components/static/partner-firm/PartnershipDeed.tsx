@@ -1,7 +1,5 @@
 import Image from 'next/image'
-import React from 'react'
 import dft from '../../../assets/images/pvt-reg/differentType.svg'
-import documents from '../../../assets/images/pvt-reg/documents.svg'
 import ulArrow from '../../../assets/images/pvt-reg/ulArrow.svg'
 
 export const PartnershipDeed = () => {
@@ -33,8 +31,8 @@ export const PartnershipDeed = () => {
         </ul>
         <p>It is important to include all relevant details and provisions in the partnership deed to ensure clarity and avoid disputes among the partners.</p>
       </div>
-      <div className='flex justify-content-center'>
-        <Image alt="Types of business structures in india and these structures are private limited company, public limited company, one person company, limited and sole proprietorship" className="DifferentTypes-img w-100" height={382} loading="lazy" src={dft} />
+      <div className='flex-3 justify-content-center'>
+        <Image alt="Types of business structures in india and these structures are private limited company, public limited company, one person company, limited and sole proprietorship" className="PartnershipDeed-img w-100" height={382} loading="lazy" src={dft} />
       </div>
       
       </div>

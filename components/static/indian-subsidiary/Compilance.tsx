@@ -7,6 +7,7 @@ import four from '../../../assets/images/pvt-reg/HowToRegister/four.svg'
 import five from '../../../assets/images/pvt-reg/HowToRegister/five.svg'
 import six from '../../../assets/images/pvt-reg/HowToRegister/six.svg'
 import arrow from '../../../assets/images/pvt-reg/HowToRegister/arrow.svg'
+import compliance_requirements_for_indian_subsidiary_registration from '../../../assets/images/static/Indian_subsidiary_registration/compliance_requirements_for_indian_subsidiary_registration.svg'
 
 export const Compilance = () => {
   const [active, setActive] = useState('1')
@@ -17,6 +18,9 @@ export const Compilance = () => {
 
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='Compilance'>
+       <div className='flex-3'>
+        <Image alt="Compliance Requirements for Indian Subsidiary Registration,Foreign Exchange Management Act,Companies Act, 2013,Reserve Bank of India" className="Compilance-img w-100" loading="lazy" height={600} src={compliance_requirements_for_indian_subsidiary_registration} />
+      </div>
       <p>Ensuring the establishment of a legally sound and valid Indian subsidiary company necessitates strict adherence to specific regulatory requirements, including:</p>
       <div className="flex w-100 align-center justify-content-between mobile-flex-column">
       <div className='flex-4'>
@@ -57,7 +61,6 @@ export const Compilance = () => {
           </div>
         </button>
       </div>
-
       <div className='flex-6 text-justify fs-20 p-color-black'>
         <div className={`${active === '1' ? 'active' : 'none'}`}>
           <h3>1: Foreign Exchange Management Act (FEMA)</h3>

@@ -14,6 +14,7 @@ import eleven from '../../../assets/images/pvt-reg/HowToRegister/eleven.svg'
 import twelve from '../../../assets/images/pvt-reg/HowToRegister/twelve.svg'
 import thirteen from '../../../assets/images/pvt-reg/HowToRegister/thirteen.svg'
 import arrow from '../../../assets/images/pvt-reg/HowToRegister/arrow.svg'
+import procedure_for_indian_subsidiary_registration from '../../../assets/images/static/Indian_subsidiary_registration/procedure_for_indian_subsidiary_registration.svg'
 
 export const Procedure = () => {
   const [active, setActive] = useState('1')
@@ -24,6 +25,9 @@ export const Procedure = () => {
 
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='Procedure'>
+         <div className='flex-3'>
+        <Image alt="Procedure for Indian Subsidiary Registration,Determine the Type of Company,Obtain Digital Signature Certificate (DSC),Apply for Director Identification Number" className="Procedure-img w-100" loading="lazy" width={400} src={procedure_for_indian_subsidiary_registration} />
+      </div>
       <div className="flex w-100 align-center justify-content-between mobile-flex-column-reverse">
         <div className='flex-6 text-justify fs-20 p-color-black'>
           <div className={`${active === '1' ? 'active' : 'none'}`}>

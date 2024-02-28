@@ -7,6 +7,7 @@ import four from '../../../assets/images/pvt-reg/HowToRegister/four.svg'
 import five from '../../../assets/images/pvt-reg/HowToRegister/five.svg'
 import six from '../../../assets/images/pvt-reg/HowToRegister/six.svg'
 import arrow from '../../../assets/images/pvt-reg/HowToRegister/arrow.svg'
+import why_ngo_registration from '../../../assets/images/static/ngo/why_ngo_registration.svg'
 
 export const WhyNGO = () => {
   const [active, setActive] = useState('1')
@@ -17,6 +18,9 @@ export const WhyNGO = () => {
 
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='WhyNGO'>
+        <div className='flex-3'>
+        <Image alt="Why Is NGO Registration Required?" className="WhyNGO-img w-100" loading="lazy" src={why_ngo_registration} height={430} />
+      </div>
       <div className="flex w-100 align-center justify-content-between mobile-flex-column">
       <div className='flex-4'>
           <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'} position-relative`}>

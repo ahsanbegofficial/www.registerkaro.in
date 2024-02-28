@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import dft from '../../../assets/images/pvt-reg/differentType.svg'
+import requirements_and_key_facts_about_company_regi_in_india from '../../../assets/images/static/Indian_subsidiary_registration/requirements_and_key_facts_about_company_regi_in_india.svg'
 import ulArrow from '../../../assets/images/pvt-reg/ulArrow.svg'
 
 export const Requirement = () => {
@@ -8,7 +8,7 @@ export const Requirement = () => {
     <div className='DocumentArrowWise flex w-80 m-auto mobile-flex-column-reverse' id='Requirement'>
       <div className='flex-5'>
         <div className='flex-3'>
-          <Image alt="list of documents for private limited company registration in india that is passport size photos, aadhar and pan card, address proof, passport for NRIs applicant, bank statement" className="DocumentRequired-img w-100" loading="lazy" src={dft} height={430} />
+          <Image alt="Requirements and Key Facts about Company Registration in India,The registration process for a company in India is intricately governed by the Companies Act of 2013 " className="Requirement-img w-100" loading="lazy" src={requirements_and_key_facts_about_company_regi_in_india} height={530} />
           <p>The registration process for a company in India is intricately governed by the Companies Act of 2013, a comprehensive legal framework that delineates pre-incorporation and post-incorporation requisites. When embarking on the journey of registering a company in India, it is imperative to consider the following key elements:</p>
         </div>
         <h3>Company Name: </h3>

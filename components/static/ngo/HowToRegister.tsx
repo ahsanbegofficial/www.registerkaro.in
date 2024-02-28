@@ -12,6 +12,7 @@ import nine from '../../../assets/images/pvt-reg/HowToRegister/nine.svg'
 import ten from '../../../assets/images/pvt-reg/HowToRegister/ten.svg'
 import eleven from '../../../assets/images/pvt-reg/HowToRegister/eleven.svg'
 import arrow from '../../../assets/images/pvt-reg/HowToRegister/arrow.svg'
+import ngo_registration_process from '../../../assets/images/static/ngo/ngo_registration_process.svg'
 
 export const HowToRegister = () => {
   const [active, setActive] = useState('1')
@@ -22,6 +23,9 @@ export const HowToRegister = () => {
 
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='HowToRegister'>
+      <div className='flex-3'>
+        <Image alt="the process for NGO Registration in India" className="HowToRegister-img w-100" loading="lazy" src={ngo_registration_process} height={430} />
+      </div>
       <p className='main-para'>The following is the process for NGO Registration in India:</p>
       <div className="flex w-100 align-center justify-content-between mobile-flex-column">
       <div className='flex-4'>

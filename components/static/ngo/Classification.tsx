@@ -5,7 +5,7 @@ import ulArrow from '../../../assets/images/pvt-reg/ulArrow.svg'
 
 export const Classification = () => {
   return (
-    <div className='DocumentArrowWise flex w-80 m-auto mobile-flex-column-reverse' id='Classification'>
+    <div className='Classification flex w-80 m-auto mobile-flex-column-reverse' id='Classification'>
       <div className='flex-7'>
        
         <p>NGOs in India can be classified based on their orientation and level of operation:</p>
@@ -27,7 +27,7 @@ export const Classification = () => {
         </ul>
     </div>
         <div className='flex-3'>
-        <Image alt="list of documents for private limited company registration in india that is passport size photos, aadhar and pan card, address proof, passport for NRIs applicant, bank statement" className="DocumentRequired-img w-100" loading="lazy" src={documents} height={430} />
+        <Image alt="list of documents for private limited company registration in india that is passport size photos, aadhar and pan card, address proof, passport for NRIs applicant, bank statement" className="Classification-img w-100" loading="lazy" src={documents} height={430} />
         </div>
     </div>
   )
