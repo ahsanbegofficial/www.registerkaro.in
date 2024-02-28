@@ -3,10 +3,14 @@ import React from 'react'
 import dft from '../../../assets/images/static/fssai/DocsRequire.svg'
 import ulArrow from '../../../assets/images/static/private-reg/ulArrow.svg'
 
-export const DocsREquired = () => {
+interface HeroProps {
+  cityName: string;
+}
+
+export const DocsREquired = ({ cityName }: HeroProps) => {
   return (
     <div >
-        <p className='main-para mb-0'id='DocsREquired'>Following is the list of crucial documents required for FSSAI Registration in India:</p>
+        <p className='main-para mb-0'id='DocsREquired'>Following is the list of crucial documents required for FSSAI Registration in {cityName}:</p>
       <div className='flex justify-content-center'>
         <Image alt="Documents Required for FSSAI Registration" className="DifferentTypes-img w-100" height={482} loading="lazy" src={dft} />
       </div>

@@ -2,7 +2,11 @@ import Image from 'next/image'
 import React from 'react'
 import bft from '../../../assets/images/static/section-8-reg/Penalties.svg'
 
-export const Penalties = () => {
+interface HeroProps {
+  cityName: string;
+}
+
+export const Penalties = ({ cityName }: HeroProps) => {
   return (
     <div className='Penalties flex w-80 m-auto mobile-flex-column-reverse' id='Penalties'>
       <div className='flex-5'>

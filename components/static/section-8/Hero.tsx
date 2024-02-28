@@ -18,7 +18,11 @@ let hero = {
     ]
 }
 
-export const Hero = () => {
+interface HeroProps {
+    cityName: string;
+}
+
+export const Hero = ({ cityName }: HeroProps) => {
     return (
         <div className="hero align-center mobile-flex-column">
             <Image
@@ -32,7 +36,7 @@ export const Hero = () => {
             />
             <div className="header-content">
                 <h4 className='mb-4'>Section 8 Company Registration</h4>
-                <p>Looking for Section 8 Company Registration in India? At RegisterKaro we provide full support throughout the Section 8 Company Registration Process</p>
+                <p>Looking for Section 8 Company Registration in {cityName}? At RegisterKaro we provide full support throughout the Section 8 Company Registration Process</p>
                 <div className="packages">
                     {hero.pack_includes?.map((i: any, n: number) => {
                         return (

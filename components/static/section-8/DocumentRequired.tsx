@@ -3,7 +3,11 @@ import React from 'react'
 import documents from '../../../assets/images/static/section-8-reg/Documents.svg'
 import ulArrow from '../../../assets/images/static/private-reg/ulArrow.svg'
 
-export const DocumentRequired = () => {
+interface HeroProps {
+  cityName: string;
+}
+
+export const DocumentRequired = ({ cityName }: HeroProps) => {
   return (
     <div className='DocumentRequired flex w-80 m-auto mobile-flex-column' id='Documents'>
       <div className='flex-4'>

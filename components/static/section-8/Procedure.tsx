@@ -2,7 +2,11 @@ import Image from 'next/image'
 import React from 'react'
 import pvtReg from '../../../assets/images/static/section-8-reg/Procedure .svg'
 
-export const Procedure = () => {
+interface HeroProps {
+  cityName: string;
+}
+
+export const Procedure = ({ cityName }: HeroProps) => {
   return (
     <div className='Procedure flex w-80 m-auto mobile-flex-column-reverse' id='Procedure'>
       <div className='flex-6'>

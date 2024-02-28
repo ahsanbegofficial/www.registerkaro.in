@@ -2,7 +2,11 @@ import Image from 'next/image'
 import React from 'react'
 import pvtReg from '../../../assets/images/static/section-8-reg/Annual.svg'
 
-export const AnnualCompliance = () => {
+interface HeroProps {
+  cityName: string;
+}
+
+export const AnnualCompliance = ({ cityName }: HeroProps) => {
   return (
     <div className='pvtReg flex w-80 m-auto mobile-flex-column' id='AnnualCompliance'>
       <div className='flex-4'>

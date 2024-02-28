@@ -6,8 +6,12 @@ import three from '../../../assets/images/static/private-reg/checklist/three.svg
 import four from '../../../assets/images/static/private-reg/checklist/four.svg'
 import whoCan from '../../../assets/images/static/trademark-reg/whoCanApply.svg'
 
+interface HeroProps {
+  cityName: string;
+}
 
-export const Checklist = () => {
+
+export const Checklist = ({ cityName }: HeroProps) => {
   return (
     <div className='checklist' id='Checklist'>
       <div>

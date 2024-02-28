@@ -2,16 +2,20 @@ import Image from 'next/image'
 import React from 'react'
 import bft from '../../../assets/images/static/fssai/whoRequires.svg'
 
-export const WhoReq = () => {
+interface HeroProps {
+  cityName: string;
+}
+
+export const WhoReq = ({ cityName }: HeroProps) => {
   return (
     <div id='WhoReq'>
-      <p className='main-para mb-2'> FBOs or Food Business Operators are those involved in the processing, storing, manufacturing, selling, packaging, distributing, or retailing of food in India. In India, Food Businesses are regulated & managed by FSSAI.:</p>
+      <p className='main-para mb-2'> FBOs or Food Business Operators are those involved in the processing, storing, manufacturing, selling, packaging, distributing, or retailing of food in {cityName}. In {cityName}, Food Businesses are regulated & managed by FSSAI.:</p>
       <div className='benefits flex w-80 m-auto mobile-flex-column mt-5' >
         <div className='flex-4'>
           <Image alt="Who Requires FSSAI Registration/License" className="WhoReq-img w-100" height={750} loading="lazy" src={bft} />
         </div>
         <div className='flex-7'>
-          <p>FBOs in India carrying on the following types of food business must have FSSAI Registration or Licence:</p>
+          <p>FBOs in {cityName} carrying on the following types of food business must have FSSAI Registration or Licence:</p>
           <p><strong>1: </strong>Importers & exporters of food products and ingredients;</p>
           <p><strong>2: </strong>Proprietary & novel food;</p>
           <p><strong>3: </strong>Slaughtering house;</p>

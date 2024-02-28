@@ -7,7 +7,11 @@ import four from '../../../assets/images/static/private-reg/HowToRegister/four.s
 import five from '../../../assets/images/static/private-reg/HowToRegister/five.svg'
 import arrow from '../../../assets/images/static/private-reg/HowToRegister/arrow.svg'
 
-export const MandatoryCompilance = () => {
+interface HeroProps {
+  cityName: string;
+}
+
+export const MandatoryCompilance = ({ cityName }: HeroProps) => {
   const [active, setActive] = useState('1')
 
   const handleActive = (id: string) => {
@@ -18,8 +22,8 @@ export const MandatoryCompilance = () => {
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='MandatoryCompilance'>
         <div className='flex justify-content-center'>
-        {/* <Image alt="Types of business structures in india and these structures are private limited company, public limited company, one person company, limited and sole proprietorship" className="DifferentTypes-img w-100" height={382} loading="lazy" src={dft} /> */}
-        <p className='main-para mb-2'>Following is the complete procedure for FSSAI Registration in India:</p>
+        {/* <Image alt="Types of business structures in {cityName} and these structures are private limited company, public limited company, one person company, limited and sole proprietorship" className="DifferentTypes-img w-100" height={382} loading="lazy" src={dft} /> */}
+        <p className='main-para mb-2'>Following is the complete procedure for FSSAI Registration in {cityName}:</p>
       </div>
       <div className="main flex justify-content-between align-center m-auto mobile-flex-column-reverse">
         <div className='flex-5 text-justify fs-20 p-color-black'>

@@ -8,7 +8,11 @@ import five from '../../../assets/images/static/private-reg/HowToRegister/five.s
 import arrow from '../../../assets/images/static/private-reg/HowToRegister/arrow.svg'
 import benefits from '../../../assets/images/static/trademark-reg/Benefits.svg';
 
-export const Benefits = () => {
+interface HeroProps {
+  cityName: string;
+}
+
+export const Benefits = ({ cityName }: HeroProps) => {
   const [active, setActive] = useState('1')
 
   const handleActive = (id: string) => {
@@ -18,7 +22,7 @@ export const Benefits = () => {
     <div className='DocumentButtonWise w-80 m-auto' id='Benefits'>
       < div className='flex-7'>
           <Image alt="Benefits of Trademark Registration Online" className="DocumentRequired-img w-100" loading="lazy" src={benefits} height={500}/>
-             <p className='main-para mb-2'>Following are the benefits of Trademark Registration Online in India:</p>
+             <p className='main-para mb-2'>Following are the benefits of Trademark Registration Online in {cityName}:</p>
         </div>
 
       <div className="flex w-100 align-center justify-content-between mobile-flex-column">

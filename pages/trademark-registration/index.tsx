@@ -1,17 +1,17 @@
 import Head from "next/head";
-import { FaqTemplatePVT } from "../components/child_components/FaqTemplatePVT";
-import { WhyRegisterkaro } from "../components/static/WhyRegisterkaro";
-import { Benefits } from "../components/static/trademark/Benefits";
-import { Checklist } from "../components/static/trademark/Checklist";
-import { Compilance } from "../components/static/trademark/Compilance";
-import { DocRequirement } from "../components/static/trademark/DocRequirement";
-import { Hero } from "../components/static/trademark/Hero";
-import { ListOfDiff } from "../components/static/trademark/ListOfDiff";
-import { Process } from "../components/static/trademark/Process";
-import { RoleOfTrad } from "../components/static/trademark/RoleOfTrad";
-import { ValidityOfTrad } from "../components/static/trademark/ValidityOfTrad";
-import { WhyRegist } from "../components/static/trademark/WhyRegist";
-import { RegistrationLinks } from "../components/child_components/RegistrationLinks";
+import { FaqTemplatePVT } from "../../components/child_components/FaqTemplatePVT";
+import { WhyRegisterkaro } from "../../components/static/WhyRegisterkaro";
+import { Benefits } from "../../components/static/trademark/Benefits";
+import { Checklist } from "../../components/static/trademark/Checklist";
+import { Compilance } from "../../components/static/trademark/Compilance";
+import { DocRequirement } from "../../components/static/trademark/DocRequirement";
+import { Hero } from "../../components/static/trademark/Hero";
+import { ListOfDiff } from "../../components/static/trademark/ListOfDiff";
+import { Process } from "../../components/static/trademark/Process";
+import { RoleOfTrad } from "../../components/static/trademark/RoleOfTrad";
+import { ValidityOfTrad } from "../../components/static/trademark/ValidityOfTrad";
+import { WhyRegist } from "../../components/static/trademark/WhyRegist";
+import { RegistrationLinks } from "../../components/child_components/RegistrationLinks";
 
 let state = [
   "Maharashtra",
@@ -386,40 +386,40 @@ const Home = () => {
         <meta property="og:title" content="Trademark Registration | RegisterKaro" />
         <meta property="og:description" content="The Official RegisterKaro" />
       </Head>
-      <Hero />
+      <Hero cityName={'India'}/>
       <h1 className="main-heading">An Overview of Trademark Registration Online</h1>
       <div className="heading-line"></div>
-      <Process />
+      <Process cityName={'India'}/>
       <h2 className="main-heading">List of Different Trademark Classes in India</h2>
       <div className="heading-line"></div>
-      <ListOfDiff />
+      <ListOfDiff cityName={'India'}/>
       <h2 className="main-heading">What is the Role of Trademark Registry?</h2>
       <div className="heading-line"></div>
-      <RoleOfTrad />
+      <RoleOfTrad cityName={'India'}/>
       <h2 className="main-heading">Benefits of Trademark Registration Online in India</h2>
       <div className="heading-line"></div>
-      <Benefits />
+      <Benefits cityName={'India'}/>
       <h2 className="main-heading">Who can apply for Trademark Registration Online in India?</h2>
       <div className="heading-line"></div>
-      <Checklist />
+      <Checklist cityName={'India'}/>
       <h2 className="main-heading">Documents required for Trademark Registration Online in India</h2>
       <div className="heading-line"></div>
-      <DocRequirement />
+      <DocRequirement cityName={'India'}/>
       <h2 className="main-heading">
         Apply for Trademark Registration Online with RegisterKaro
       </h2>
       <div className="heading-line"></div>
-      <Compilance />
+      <Compilance cityName={'India'}/>
       <h2 className="main-heading">
         Validity of Trademark Registration Online in India
       </h2>
       <div className="heading-line"></div>
-      <ValidityOfTrad />
+      <ValidityOfTrad cityName={'India'}/>
       <h2 className="main-heading">
         Why RegisterKaro for Trademark Registration?
       </h2>
       <div className="heading-line"></div>
-      <WhyRegist />
+      <WhyRegist cityName={'India'}/>
       <h2 className="main-heading">Why RegisterKaro?</h2>
       <div className="heading-line"></div>
       <WhyRegisterkaro />

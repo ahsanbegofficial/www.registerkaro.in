@@ -2,13 +2,17 @@ import Image from 'next/image'
 import React from 'react'
 import ulArrow from '../../../assets/images//static/private-reg/ulArrow.svg'
 
-export const DocRequirement = () => {
+interface HeroProps {
+  cityName: string;
+}
+
+export const DocRequirement = ({ cityName }: HeroProps) => {
   return (
     <div className='DocumentArrowWise flex w-80 m-auto mobile-flex-column-reverse' id='DocRequirement'>
       <div className='flex-5'>
         <div className='flex-3'>
          
-          <p>Following are the crucial documents required for Trademark Registration Online in India:</p>
+          <p>Following are the crucial documents required for Trademark Registration Online in {cityName}:</p>
         </div>
         <h3>For Individual: </h3>
         <p> Any one of the following documents are required for individuals:</p>
@@ -52,7 +56,7 @@ export const DocRequirement = () => {
         <ul className='tick list-unstyled'>
           <li><Image alt="If a Society is pursuing the Trademark Registration Process then it shall submit the Registration Certificate which is issued by the Registrar of Co-operative Societies" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} />  If a Society is pursuing the Trademark Registration Process then it shall submit the Registration Certificate which is issued by the Registrar of Co-operative Societies.</li>
         </ul>
-        <h3>Following are some common documents required for Trademark Registration Online in India: </h3>
+        <h3>Following are some common documents required for Trademark Registration Online in {cityName}: </h3>
         <ul className='tick list-unstyled'>
           <li><Image alt="User affidavit" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} />User affidavit;</li>
           <li><Image alt="Graphical Representation of Trademark" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} />Graphical Representation of Trademark;</li>

@@ -3,7 +3,11 @@ import React from 'react'
 import dft from '../../../assets/images/static/fssai/eligibity.svg'
 import ulArrow from '../../../assets/images/static/private-reg/ulArrow.svg'
 
-export const PartnershipDeed = () => {
+interface HeroProps {
+  cityName: string;
+}
+
+export const PartnershipDeed = ({ cityName }: HeroProps) => {
   return (
     <div >
       <p className='main-para mb-0' id='PartnershipDeed'>The following are the eligibility criteria for FSSAI Registration:</p>

@@ -3,14 +3,18 @@ import React from 'react'
 import dft from '../../../assets/images/static/trademark-reg/listOfDiff.svg'
 import ulArrow from '../../../assets/images/static/private-reg/ulArrow.svg'
 
-export const ListOfDiff = () => {
+interface HeroProps {
+  cityName: string;
+}
+
+export const ListOfDiff = ({ cityName }: HeroProps) => {
   return (
     <div className='DifferentTypes w-80 m-auto' id='ListOfDiff'>
       <div className='flex justify-content-center'>
-        {/* <Image alt="list of documents for private limited company registration in india that is passport size photos, aadhar and pan card, address proof, passport for NRIs applicant, bank statement" className="ListOfDiff-img w-100" loading="lazy" src={dft} height={230} /> */}
+        {/* <Image alt="list of documents for private limited company registration in {cityName} that is passport size photos, aadhar and pan card, address proof, passport for NRIs applicant, bank statement" className="ListOfDiff-img w-100" loading="lazy" src={dft} height={230} /> */}
       </div>
       <div className='mt-0'>
-        <p>In India, trademarks are categorized into 45 classes based on the Nice Classification system. Each class represents a distinct category of goods and services. Following is the list of different Trademark Classes in India.</p>
+        <p>In {cityName}, trademarks are categorized into 45 classes based on the Nice Classification system. Each class represents a distinct category of goods and services. Following is the list of different Trademark Classes in {cityName}.</p>
         <h3>Goods Classes (1-34): </h3>
         <p>
           <strong>Class 1. </strong>

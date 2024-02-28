@@ -35,6 +35,10 @@ function generateSiteMap() {
    <loc>${GLOBAL_VARIABLE}/state-sitemap.xml</loc>
    <changefreq>daily</changefreq>
    </sitemap>
+   <sitemap>
+   <loc>${GLOBAL_VARIABLE}/local-pages-sitemap.xml</loc>
+   <changefreq>daily</changefreq>
+   </sitemap>
   </sitemapindex>
  `;
 }

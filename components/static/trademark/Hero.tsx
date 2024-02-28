@@ -16,7 +16,11 @@ let hero = {
     ]
 }
 
-export const Hero = () => {
+interface HeroProps {
+    cityName: string;
+}
+
+export const Hero = ({ cityName }: HeroProps) => {
     return (
         <div className="hero align-center mobile-flex-column">
             <Image
@@ -30,7 +34,7 @@ export const Hero = () => {
             />
             <div className="header-content">
                 <h4 className='mb-4'>Trademark Registration</h4>
-                <p>Are you looking for Trademark Registration in India? Then, you are at the right place. We offer Trademark Registration at an affordable cost & quick turnaround. Get in touch for a free Trademark Search & Class Selection!</p>
+                <p>Are you looking for Trademark Registration in {cityName}? Then, you are at the right place. We offer Trademark Registration at an affordable cost & quick turnaround. Get in touch for a free Trademark Search & Class Selection!</p>
                 <div className="packages">
                     {hero.pack_includes?.map((i: any, n: number) => {
                         return (

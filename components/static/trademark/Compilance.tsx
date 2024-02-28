@@ -8,8 +8,11 @@ import five from '../../../assets/images/static/private-reg/HowToRegister/five.s
 import arrow from '../../../assets/images/static/private-reg/HowToRegister/arrow.svg'
 import applyForTrade from '../../../assets/images/static/trademark-reg/applyForTrade.svg'
 
+interface HeroProps {
+  cityName: string;
+}
 
-export const Compilance = () => {
+export const Compilance = ({ cityName }: HeroProps) => {
   const [active, setActive] = useState('1')
 
   const handleActive = (id: string) => {
@@ -20,7 +23,7 @@ export const Compilance = () => {
     <div className='DocumentButtonWise w-80 m-auto' id='Compilance'>
       < div className='flex-7'>
           <Image alt="Apply for Trademark Registration Online with RegisterKaro" className="DocumentRequired-img w-100" loading="lazy" src={applyForTrade} height={530}/>
-          <p className='main-para mb-2'>Following is the detailed step by step procedure for Trademark Registration Online in India:</p>
+          <p className='main-para mb-2'>Following is the detailed step by step procedure for Trademark Registration Online in {cityName}:</p>
         </div>
       <div className="flex w-100 align-center justify-content-between mobile-flex-column">
       <div className='flex-4'>

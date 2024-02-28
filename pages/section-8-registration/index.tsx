@@ -1,17 +1,17 @@
 import Head from 'next/head'
-import { WhyRegisterkaro } from '../components/static/WhyRegisterkaro'
-import { FaqTemplatePVT } from '../components/child_components/FaqTemplatePVT'
-import { Hero } from '../components/static/section-8/Hero'
-import { Process } from '../components/static/section-8/Process'
-import { ImportantPoints } from '../components/static/section-8/ImportantPoints'
-import { Advantages } from '../components/static/section-8/Advantages'
-import { Eligibility } from '../components/static/section-8/Eligibility'
-import { Requirements } from '../components/static/section-8/Requirements'
-import { DocumentRequired } from '../components/static/section-8/DocumentRequired'
-import { Procedure } from '../components/static/section-8/Procedure'
-import { AnnualCompliance } from '../components/static/section-8/AnnualCompliance'
-import { Penalties } from '../components/static/section-8/Penalties'
-import { RegistrationLinks } from '../components/child_components/RegistrationLinks'
+import { WhyRegisterkaro } from '../../components/static/WhyRegisterkaro'
+import { FaqTemplatePVT } from '../../components/child_components/FaqTemplatePVT'
+import { Hero } from '../../components/static/section-8/Hero'
+import { Process } from '../../components/static/section-8/Process'
+import { ImportantPoints } from '../../components/static/section-8/ImportantPoints'
+import { Advantages } from '../../components/static/section-8/Advantages'
+import { Eligibility } from '../../components/static/section-8/Eligibility'
+import { Requirements } from '../../components/static/section-8/Requirements'
+import { DocumentRequired } from '../../components/static/section-8/DocumentRequired'
+import { Procedure } from '../../components/static/section-8/Procedure'
+import { AnnualCompliance } from '../../components/static/section-8/AnnualCompliance'
+import { Penalties } from '../../components/static/section-8/Penalties'
+import { RegistrationLinks } from '../../components/child_components/RegistrationLinks'
 
 let state = [
     "Maharashtra",
@@ -380,34 +380,34 @@ const Home = () => {
                 <meta property="og:title" content="Section 8 Registration | RegisterKaro" />
                 <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
-            <Hero />
+            <Hero cityName={'India'}/>
             <h1 className='main-heading'>An Overview of Section 8 Company Registration</h1>
             <div className='heading-line'></div>
-            <Process />
+            <Process cityName={'India'}/>
             <h2 className="main-heading">Important Points Regarding Section 8 Company in India</h2>
             <div className='heading-line'></div>
-            <ImportantPoints />
+            <ImportantPoints cityName={'India'}/>
             <h2 className="main-heading">Advantages of Section 8 Company Registration in India</h2>
             <div className='heading-line'></div>
-            <Advantages />
+            <Advantages cityName={'India'}/>
             <h2 className="main-heading">Eligibility Criteria for Section 8 Company Registration in India</h2>
             <div className='heading-line'></div>
-            <Eligibility />
+            <Eligibility cityName={'India'}/>
             <h2 className="main-heading">Requirements for Section 8 Company Registration</h2>
             <div className='heading-line'></div>
-            <Requirements />
+            <Requirements cityName={'India'}/>
             <h2 className="main-heading">Documents Required for Section 8 Company Registration</h2>
             <div className='heading-line'></div>
-            <DocumentRequired />
+            <DocumentRequired cityName={'India'}/>
             <h2 className="main-heading">Procedure for Section 8 Company Registration</h2>
             <div className='heading-line'></div>
-            <Procedure />
+            <Procedure cityName={'India'}/>
             <h2 className="main-heading">What are the Annual Compliances for Section 8 Companies in India?</h2>
             <div className='heading-line'></div>
-            <AnnualCompliance />
+            <AnnualCompliance cityName={'India'}/>
             <h2 className="main-heading">Penalties for Non-Compliance</h2>
             <div className='heading-line'></div>
-            <Penalties />
+            <Penalties cityName={'India'}/>
             <h2 className="main-heading">Why RegisterKaro?</h2>
             <div className='heading-line'></div>
             <WhyRegisterkaro />

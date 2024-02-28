@@ -1,16 +1,16 @@
 import Head from 'next/head'
-import { FaqTemplatePVT } from '../components/child_components/FaqTemplatePVT'
-import { WhyRegisterkaro } from '../components/static/WhyRegisterkaro'
-import { Benefits } from '../components/static/fssai-registration/Benefits'
-import { DocsREquired } from '../components/static/fssai-registration/DocsRequired'
-import { EventBased } from '../components/static/fssai-registration/EventBased'
-import { Hero } from '../components/static/fssai-registration/Hero'
-import { MandatoryCompilance } from '../components/static/fssai-registration/MandatoryCompilance'
-import { OtherAnnual } from '../components/static/fssai-registration/OtherAnnual'
-import { PartnershipDeed } from '../components/static/fssai-registration/PartnershipDeed'
-import { Process } from '../components/static/fssai-registration/Process'
-import { WhoReq } from '../components/static/fssai-registration/WhoReq'
-import { RegistrationLinks } from '../components/child_components/RegistrationLinks'
+import { FaqTemplatePVT } from '../../components/child_components/FaqTemplatePVT'
+import { WhyRegisterkaro } from '../../components/static/WhyRegisterkaro'
+import { Benefits } from '../../components/static/fssai-registration/Benefits'
+import { DocsREquired } from '../../components/static/fssai-registration/DocsRequired'
+import { EventBased } from '../../components/static/fssai-registration/EventBased'
+import { Hero } from '../../components/static/fssai-registration/Hero'
+import { MandatoryCompilance } from '../../components/static/fssai-registration/MandatoryCompilance'
+import { OtherAnnual } from '../../components/static/fssai-registration/OtherAnnual'
+import { PartnershipDeed } from '../../components/static/fssai-registration/PartnershipDeed'
+import { Process } from '../../components/static/fssai-registration/Process'
+import { WhoReq } from '../../components/static/fssai-registration/WhoReq'
+import { RegistrationLinks } from '../../components/child_components/RegistrationLinks'
 
 let state = [
     "Maharashtra",
@@ -379,31 +379,31 @@ const Home = () => {
                 <meta property="og:title" content="FSSAI Registration | RegisterKaro" />
                 <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
-            <Hero />
+            <Hero cityName={'India'}/>
             <h1 className='main-heading'>FSSAI Registration Online in India</h1>
             <div className='heading-line'></div>
-            <Process />
+            <Process cityName={'India'}/>
             <h2 className='main-heading'>Who are Food Business Operators in India?</h2>
             <div className='heading-line'></div>
-            <OtherAnnual />
+            <OtherAnnual cityName={'India'}/>
             <h2 className='main-heading'>Benefits of FSSAI Registration in India</h2>
             <div className='heading-line'></div>
-            <EventBased />
+            <EventBased cityName={'India'}/>
             <h2 className='main-heading'>What are the Different Types of FSSAI Licenses in India?</h2>
             <div className='heading-line'></div>
-            <Benefits />
+            <Benefits cityName={'India'}/>
             <h2 className='main-heading'>Who Requires FSSAI Registration/License in India?</h2>
             <div className='heading-line'></div>
-            <WhoReq />
+            <WhoReq cityName={'India'}/>
             <h2 className='main-heading'>Eligibility Criteria for FSSAI Registration</h2>
             <div className='heading-line'></div>
-            <PartnershipDeed />
+            <PartnershipDeed cityName={'India'}/>
             <h2 className='main-heading'>Documents Required for FSSAI Registration in India</h2>
             <div className='heading-line'></div>
-            <DocsREquired />
+            <DocsREquired cityName={'India'}/>
             <h2 className='main-heading'>Step-by-Step Procedure for FSSAI Registration in India</h2>
             <div className='heading-line'></div>
-            <MandatoryCompilance />
+            <MandatoryCompilance cityName={'India'}/>
             <h2 className="main-heading">Why RegisterKaro?</h2>
             <div className='heading-line'></div>
             <WhyRegisterkaro />
