@@ -12,9 +12,6 @@ import { Procedure } from '../../components/static/section-8/Procedure'
 import { AnnualCompliance } from '../../components/static/section-8/AnnualCompliance'
 import { Penalties } from '../../components/static/section-8/Penalties'
 import { RegistrationLinks } from '../../components/child_components/RegistrationLinks'
-import { useRouter } from 'next/router'
-import { useEffect } from 'react'
-import { CustomDefault } from '../../components/child_components/CustomDefault'
 
 let state = [
     "Maharashtra",
@@ -373,59 +370,44 @@ let faq = [
 ]
 
 const Home = () => {
-    const router = useRouter();
-    const query = router.query.id as string;
-
-    useEffect(() => {
-        console.log('q', query);
-    }, [query]);
-
-    const cityFromQuery = query?.replace('section-8-registration-in-', '');
-    const cityName = cityFromQuery ? cityFromQuery.charAt(0).toUpperCase() + cityFromQuery.slice(1) : '';    
-    const isCityValid = city.includes(cityName) 
-    console.log('object',isCityValid);
-    if (!isCityValid) {
-        return <CustomDefault />;
-    }
-
     return (
         <div className='services-pages section-8-reg'>
             <Head>
-                <title>Section 8 Registration | RegisterKaro</title>
+                <title>Section 8 Company Registration | RegisterKaro</title>
                 <meta name="description" content="The Official RegisterKaro" />
-                <link rel="canonical" href="https://www.registerkaro.in/section-8-registration" />
+                <link rel="canonical" href="https://www.registerkaro.in/section-8-company-registration" />
                 <link rel="icon" href="/favicon.ico" />
-                <meta property="og:title" content="Section 8 Registration | RegisterKaro" />
+                <meta property="og:title" content="Section 8 Company Registration | RegisterKaro" />
                 <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
-            <Hero cityName={cityName}/>
+            <Hero cityName={'India'}/>
             <h1 className='main-heading'>An Overview of Section 8 Company Registration</h1>
             <div className='heading-line'></div>
-            <Process cityName={cityName}/>
+            <Process cityName={'India'}/>
             <h2 className="main-heading">Important Points Regarding Section 8 Company in India</h2>
             <div className='heading-line'></div>
-            <ImportantPoints cityName={cityName}/>
+            <ImportantPoints cityName={'India'}/>
             <h2 className="main-heading">Advantages of Section 8 Company Registration in India</h2>
             <div className='heading-line'></div>
-            <Advantages cityName={cityName}/>
+            <Advantages cityName={'India'}/>
             <h2 className="main-heading">Eligibility Criteria for Section 8 Company Registration in India</h2>
             <div className='heading-line'></div>
-            <Eligibility cityName={cityName}/>
+            <Eligibility cityName={'India'}/>
             <h2 className="main-heading">Requirements for Section 8 Company Registration</h2>
             <div className='heading-line'></div>
-            <Requirements cityName={cityName}/>
+            <Requirements cityName={'India'}/>
             <h2 className="main-heading">Documents Required for Section 8 Company Registration</h2>
             <div className='heading-line'></div>
-            <DocumentRequired cityName={cityName}/>
+            <DocumentRequired cityName={'India'}/>
             <h2 className="main-heading">Procedure for Section 8 Company Registration</h2>
             <div className='heading-line'></div>
-            <Procedure cityName={cityName}/>
+            <Procedure cityName={'India'}/>
             <h2 className="main-heading">What are the Annual Compliances for Section 8 Companies in India?</h2>
             <div className='heading-line'></div>
-            <AnnualCompliance cityName={cityName}/>
+            <AnnualCompliance cityName={'India'}/>
             <h2 className="main-heading">Penalties for Non-Compliance</h2>
             <div className='heading-line'></div>
-            <Penalties cityName={cityName}/>
+            <Penalties cityName={'India'}/>
             <h2 className="main-heading">Why RegisterKaro?</h2>
             <div className='heading-line'></div>
             <WhyRegisterkaro />

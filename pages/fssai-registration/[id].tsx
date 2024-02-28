@@ -371,6 +371,46 @@ const faq = [
     }
 ]
 
+let stateUrl = [
+    "Maharashtra",
+    "Jharkhand",
+    "Kashmir",
+    "Puducherry",
+    "Karnataka",
+    "Madhya-pradesh",
+    "Andhra-pradesh",
+    "Himachal-pradesh",
+    "tamil-nadu",
+    "Odisha",
+    "Assam",
+    "Arunachal-pradesh",
+    "Gujarat",
+    "Chandigarh",
+    "Jammu-and-kashmir",
+    "Manipur",
+    "Andaman-and-nicobar-islands",
+    "Bihar",
+    "Chhattisgarh",
+    "Dadra-and-nagar-haveli",
+    "Daman-and-Diu",
+    "Goa",
+    "Haryana",
+    "Kerala",
+    "Ladakh",
+    "Lakshadweep",
+    "Meghalaya",
+    "Mizoram",
+    "Nagaland",
+    "Punjab",
+    "Rajasthan",
+    "Sikkim",
+    "Telangana",
+    "Tripura",
+    "Uttar-pradesh",
+    "Uttarakhand",
+    "West-Bengal"
+]
+
 const Home = () => {
     const router = useRouter();
     const query = router.query.id as string;
@@ -381,7 +421,7 @@ const Home = () => {
 
     const cityFromQuery = query?.replace('fssai-registration-in-', '');
     const cityName = cityFromQuery ? cityFromQuery.charAt(0).toUpperCase() + cityFromQuery.slice(1) : '';
-    const isCityValid = city.includes(cityName) || state.includes(cityName)
+    const isCityValid = city.includes(cityName) || stateUrl.includes(cityName)
     if (!isCityValid) {
         return <CustomDefault />;
     }
