@@ -4,11 +4,14 @@ import call from '../../../assets/images/pvt-reg/call.svg'
 import document from '../../../assets/images/pvt-reg/document.svg'
 import submit from '../../../assets/images/pvt-reg/submit.svg'
 
+interface HeroProps {
+  cityName: string;
+}
 
-export const RegisterPvt = () => {
+export const PvtRegG = ({ cityName }: HeroProps) => {
   return (
     <div className='RegisterPvt' id='HowTo'>
-      <p className='main-para'>To register your company online in India with us in just 3 steps:</p>
+      <p className='main-para'>To register your company online in {cityName} with us in just 3 steps:</p>
       <div className="RegisterPvt-container flex text-center m-auto w-80 mobile-flex-column">
         <div className="checklist-divs">
           <div>

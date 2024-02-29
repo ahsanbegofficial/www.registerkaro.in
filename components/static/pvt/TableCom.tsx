@@ -1,6 +1,10 @@
 import React from 'react'
 
-export const TableCom = () => {
+interface HeroProps {
+    cityName: string;
+}
+
+export const TableCom = ({ cityName }: HeroProps) => {
     return (
         <div>
             <table>

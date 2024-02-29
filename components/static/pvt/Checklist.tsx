@@ -8,10 +8,14 @@ import five from '../../../assets/images/static/private-reg/checklist/five.svg'
 import six from '../../../assets/images/static/private-reg/checklist/six.svg'
 import seven from '../../../assets/images/static/private-reg/checklist/seven.svg'
 
-export const Checklist = () => {
+interface HeroProps {
+  cityName: string;
+}
+
+export const Checklist = ({cityName}: HeroProps) => {
   return (
     <div className='checklist' id='Checklist'>
-      <p className='main-para'>Following is the important checklist for Private Limited Company Registration in India:</p>
+      <p className='main-para'>Following is the important checklist for Private Limited Company Registration in {cityName}:</p>
       <div className="checklist flex w-80 m-auto mobile-flex-column">
         <div className="checklist-divs flex flex-column text-center align-center">
           <div>

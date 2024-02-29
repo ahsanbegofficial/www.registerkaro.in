@@ -2,11 +2,15 @@ import Image from 'next/image'
 import React from 'react'
 import procedure from '../../../assets/images/static/opc-reg/procedure.svg'
 
-export const Procedure = () => {
+interface HeroProps {
+  cityName: string;
+}
+
+export const Procedure = ({ cityName }: HeroProps) => {
   return (
     <div className='Procedure flex w-80 m-auto  mobile-flex-column-reverse' id='Procedure'>
       <div className='flex-7'>
-        <p>Following is the procedure for One Person Company Registration in India:</p>
+        <p>Following is the procedure for One Person Company Registration in {cityName}:</p>
         <p><strong>Step 1:</strong></p>
         <p>Despite the fact that the company’s everyday operations are managed by a single person, OPC offers opportunities for eternal succession. Following the death of a company member, the nominee can administer the business.</p>
         <p><strong>Step 2:</strong></p>

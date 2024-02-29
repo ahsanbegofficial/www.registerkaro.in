@@ -39,6 +39,38 @@ function generateSiteMap() {
        <loc>${GLOBAL_VARIABLE}/virtual-office</loc>
        <lastmod>2021-06-28</lastmod>
       </url>
+      <url>
+       <loc>${GLOBAL_VARIABLE}/one-person-company</loc>
+       <lastmod>2021-06-28</lastmod>
+      </url>
+      <url>
+      <loc>${GLOBAL_VARIABLE}/llp-registration</loc>
+      <lastmod>2021-06-28</lastmod>
+     </url>
+     <url>
+     <loc>${GLOBAL_VARIABLE}/winding-up-of-a-company</loc>
+     <lastmod>2021-06-28</lastmod>
+    </url>
+    <url>
+    <loc>${GLOBAL_VARIABLE}/fpo-mark-certification</loc>
+    <lastmod>2021-06-28</lastmod>
+   </url>
+   <url>
+    <loc>${GLOBAL_VARIABLE}/trademark-registration</loc>
+    <lastmod>2021-06-28</lastmod>
+   </url>
+   <url>
+    <loc>${GLOBAL_VARIABLE}/fssai-registration</loc>
+    <lastmod>2021-06-28</lastmod>
+   </url>
+   <url>
+   <loc>${GLOBAL_VARIABLE}/section-8-company-registration</loc>
+   <lastmod>2021-06-28</lastmod>
+  </url>
+  <url>
+  <loc>${GLOBAL_VARIABLE}/isi-mark-certification</loc>
+  <lastmod>2021-06-28</lastmod>
+ </url>
    </urlset>
  `;
 }

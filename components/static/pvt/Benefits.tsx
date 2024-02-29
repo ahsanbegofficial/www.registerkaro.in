@@ -2,7 +2,10 @@ import Image from 'next/image'
 import React from 'react'
 import bft from '../../../assets/images/static/private-reg/benefit.svg'
 
-export const Benefits = () => {
+interface HeroProps {
+  cityName: string;
+}
+export const Benefits = ({ cityName }: HeroProps) => {
   return (
     <div className='benefits flex w-80 m-auto mobile-flex-column' id='Benefits'>
       <div className='flex-5'>

@@ -8,7 +8,11 @@ import one from '../../../assets/images/static/private-reg/HowToRegister/one.svg
 import three from '../../../assets/images/static/private-reg/HowToRegister/three.svg'
 import two from '../../../assets/images/static/private-reg/HowToRegister/two.svg'
 
-export const HowToRegister = () => {
+interface HeroProps {
+  cityName: string;
+}
+
+export const HowToRegister = ({ cityName }: HeroProps) => {
   const [active, setActive] = useState('1')
 
   const handleActive = (id: string) => {
@@ -17,7 +21,7 @@ export const HowToRegister = () => {
 
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='How'>
-      <p className='main-para'>Following is the step-by-step procedure for LLP Registration in India</p>
+      <p className='main-para'>Following is the step-by-step procedure for LLP Registration in {cityName}</p>
       <div className="flex w-100 align-center justify-content-between mobile-flex-column-reverse">
         <div className='flex-6 text-justify fs-20 p-color-black'>
           <div className={`${active === '1' ? 'active' : 'none'}`}>
@@ -29,12 +33,12 @@ export const HowToRegister = () => {
             <p >After obtaining DSC, then you need to apply for DPIN of all the proposed Partners or those wanting to be designated Partner of LLP. The application for the allotment of DIN has to be made in <strong>Form DIR-3</strong></p>
           </div>
           <div className={`${active === '3' ? 'active' : 'none'}`}>
-            <h3>3: Application for Name su Approval</h3>
+            <h3>3: Application for Name Approval</h3>
             <p><strong>LLP-RUN</strong> application form is for the name reservation of the Limited Liability Partnership. But before applying for the name reservation, it is necessary to use the free name search facility on MCA Portal. The system will provide the list of closely resembling names of existing companies/LLPs based on the search criteria. This will definitely help you choose names not identical to already registered names. The Registrar will approve the proposed name only if the name is not undesirable in the Central Government’s opinion & doesn’t resemble any existing Partnership Firm or an LLP or a body corporate or a Trademark.</p>
           </div>
           <div className={`${active === '4' ? 'active' : 'none'}`}>
             <h3>4: Filing FiLLiP Form</h3>
-            <p>For the LLP Registration in India, you need to file a FiLLiP Form and submit it to the Registrar who has jurisdiction over the State in which the registered office of the LLP is situated. The Form will be an integrated form. This Form is also used for allotment of DPIN, if a person who is to be appointed as a designated partner doesn’t have a DPIN or DIN. The application for reservation may be made via FiLLiP too. In case the name is approved, the name shall be filled as the proposed name of the Limited Liability Partnership.</p>
+            <p>For the LLP Registration in {cityName}, you need to file a FiLLiP Form and submit it to the Registrar who has jurisdiction over the State in which the registered office of the LLP is situated. The Form will be an integrated form. This Form is also used for allotment of DPIN, if a person who is to be appointed as a designated partner doesn’t have a DPIN or DIN. The application for reservation may be made via FiLLiP too. In case the name is approved, the name shall be filled as the proposed name of the Limited Liability Partnership.</p>
           </div>
           <div className={`${active === '5' ? 'active' : 'none'}`}>
             <h3>5: File LLP Agreement </h3>
@@ -60,7 +64,7 @@ export const HowToRegister = () => {
           </button>
           <button onClick={() => handleActive('3')} className={`btn flex ${active === '3' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2' >
-              <Image src={three} alt="Application for Name su Approval" loading="lazy" width={30} height={30} /><div className='pe-4'>Application for Name su Approval</div>
+              <Image src={three} alt="Application for Name su Approval" loading="lazy" width={30} height={30} /><div className='pe-4'>Application for Name Approval</div>
               <Image src={arrow} alt="Application for Name su Approval" loading="lazy" width={30} height={30} className="position-absolute end-0" />
             </div>
           </button>

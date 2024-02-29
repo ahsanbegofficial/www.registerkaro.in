@@ -15,8 +15,12 @@ let hero = {
         "ZohoBooks subscription"
     ]
 }
+interface HeroProps {
+    cityName: string;
+}
 
-export const Hero = () => {
+
+export const Hero = ({cityName}: HeroProps) => {
     return (
         <div className="hero align-center mobile-flex-column">
             <Image
@@ -29,8 +33,8 @@ export const Hero = () => {
                 className="background-image"
             />
             <div className="header-content">
-                <h4 className='mb-4'>Private Limited Company Registration Online In India</h4>
-                <p>Register your Company with India’s No.1 Company Registration service provider. Our experts will help you in incorporating your company in India in minimal time @1999/-</p>
+                <h4 className='mb-4'>Private Limited Company Registration Online In {cityName}</h4>
+                <p>Register your Company with {cityName}’s No.1 Company Registration service provider. Our experts will help you in incorporating your company in {cityName} in minimal time @1999/-</p>
                 <div className="packages">
                     {hero.pack_includes?.map((i: any, n: number) => {
                         return (

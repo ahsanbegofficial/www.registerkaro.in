@@ -1,4 +1,9 @@
-export const TimeRequired = () => {
+
+interface HeroProps {
+  cityName: string;
+}
+
+export const TimeRequired = ({ cityName }: HeroProps) => {
   return (
     <div className='TimeRequired w-80 m-auto' id="Time">
       <p><strong>1. Director Identification Number (DIN) and Digital Signature Certificate (DSC):</strong></p>

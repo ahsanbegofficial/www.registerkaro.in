@@ -3,7 +3,10 @@ import React from 'react'
 import documents from '../../../assets/images/static/private-reg/documents.svg'
 import ulArrow from '../../../assets/images/static/private-reg/ulArrow.svg'
 
-export const DocumentRequired = () => {
+interface HeroProps {
+  cityName: string;
+}
+export const DocumentRequired = ({ cityName }: HeroProps) => {
   return (
     <div className='DocumentArrowWise flex w-80 m-auto mobile-flex-column-reverse' id='Documents'>
       <div className='flex-7'>
@@ -23,7 +26,7 @@ export const DocumentRequired = () => {
         </ul>
       </div>
       <div className='flex-3'>
-        <Image alt="list of documents for private limited company registration in india that is passport size photos, aadhar and pan card, address proof, passport for NRIs applicant, bank statement" className="DocumentRequired-img w-100" loading="lazy" src={documents} height={430} />
+        <Image alt="list of documents for private limited company registration in {cityName} that is passport size photos, aadhar and pan card, address proof, passport for NRIs applicant, bank statement" className="DocumentRequired-img w-100" loading="lazy" src={documents} height={430} />
       </div>
     </div>
   )

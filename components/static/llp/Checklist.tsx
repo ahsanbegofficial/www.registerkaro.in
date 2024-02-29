@@ -8,10 +8,14 @@ import five from '../../../assets/images/static/private-reg/checklist/five.svg'
 import six from '../../../assets/images/static/private-reg/checklist/six.svg'
 import seven from '../../../assets/images/static/private-reg/checklist/seven.svg'
 
-export const Checklist = () => {
+interface HeroProps {
+  cityName: string;
+}
+
+export const Checklist = ({ cityName }: HeroProps) => {
   return (
     <div id='Checklist'>
-      <p className='main-para'>Following is the checklist for LLP Registration in India:</p>
+      <p className='main-para'>Following is the checklist for LLP Registration in {cityName}:</p>
       <div className="checklist flex w-80 m-auto mobile-flex-column">
         <div className="checklist-divs flex flex-column text-center align-center">
           <div>
@@ -27,7 +31,7 @@ export const Checklist = () => {
         </div>
         <div className="checklist-divs flex flex-column text-center align-center">
           <div>
-            <Image height={125} width={125} src={three} alt="At least one director should be the resident of India" />
+            <Image height={125} width={125} src={three} alt="At least one director should be the resident of {cityName}" />
           </div>
           <p>DPIN (Designated Partner Identification Number)</p>
         </div>
@@ -53,7 +57,7 @@ export const Checklist = () => {
         </div>
         <div className="checklist-divs flex flex-column text-center align-center">
           <div>
-            <Image height={125} width={125} src={seven} alt="At least one director should be the resident of India" />
+            <Image height={125} width={125} src={seven} alt="At least one director should be the resident of {cityName}" />
           </div>
           <p>Capital contribution by the LLP Partners</p>
         </div>

@@ -8,7 +8,10 @@ import five from '../../../assets/images/static/private-reg/HowToRegister/five.s
 import six from '../../../assets/images/static/private-reg/HowToRegister/six.svg'
 import arrow from '../../../assets/images/static/private-reg/HowToRegister/arrow.svg'
 
-export const HowToRegister = () => {
+interface HeroProps {
+  cityName: string;
+}
+export const HowToRegister = ({ cityName }: HeroProps) => {
   const [active, setActive] = useState('1')
 
   const handleActive = (id: string) => {
@@ -17,7 +20,7 @@ export const HowToRegister = () => {
 
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='How'>
-      <p className='main-para'>Following is the step by step procedure for private limited company registration online in India:</p>
+      <p className='main-para'>Following is the step by step procedure for private limited company registration online in {cityName}:</p>
       <div className="flex w-100 align-center justify-content-between mobile-flex-column">
         <div className='flex-4'>
           <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'}`}>
@@ -72,7 +75,7 @@ export const HowToRegister = () => {
           </div>
           <div className={`${active === '4' ? 'active' : 'none'}`}>
             <h3>4: Electronic submission of MoA and AoA</h3>
-            <p>A Memorandum of Association and an Article of Association are one of the main components of company registration as one directs the charter and the other lists the internal rules and regulations for the company. Therefore, both MoA and AoA are required to be submitted electronically, using the INC-33 and INC-34 forms respectively especially in cases where the first subscribers are either non-individual persons (based in India), Indian nationals being subscribers (non-directors) & subscriber-cum-directors, and foreign national being subscribers (non-directors) & subscriber-cum-directors [DIN and business visa is a must].</p>
+            <p>A Memorandum of Association and an Article of Association are one of the main components of company registration as one directs the charter and the other lists the internal rules and regulations for the company. Therefore, both MoA and AoA are required to be submitted electronically, using the INC-33 and INC-34 forms respectively especially in cases where the first subscribers are either non-individual persons (based in {cityName}), Indian nationals being subscribers (non-directors) & subscriber-cum-directors, and foreign national being subscribers (non-directors) & subscriber-cum-directors [DIN and business visa is a must].</p>
           </div>
           <div className={`${active === '5' ? 'active' : 'none'}`}>
             <h3>5: Non-electronic submission of MoA and AoA</h3>

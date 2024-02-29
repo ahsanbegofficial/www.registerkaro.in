@@ -33,7 +33,7 @@ export const RegistrationLinks: FC<RegistrationLinksProps> = ({ formattedQuery, 
       <div className="load-more-parent">
         <button className="load-more" onClick={() => { setActiveState(!activeState) }}>{activeState ? "LOAD LESS STATES" : "LOAD MORE STATES"}</button>
       </div>
-      <h3>{formattedQuery} in City</h3>
+      <h3>{formatString(Query)} in City</h3>
       <div className="links">
         {
           displayedCities?.map((city: string, i: number) => <div key={i} className="main"><div><div className="arrow right"></div></div><div><Link href={`/${Query}/${Query}-in-${city}`}>{formatString(Query) + ' in ' + formatString(city)}</Link></div></div>)

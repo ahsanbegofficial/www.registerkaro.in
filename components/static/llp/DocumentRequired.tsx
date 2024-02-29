@@ -8,8 +8,11 @@ import four from '../../../assets/images/static/private-reg/HowToRegister/four.s
 import one from '../../../assets/images/static/private-reg/HowToRegister/one.svg'
 import three from '../../../assets/images/static/private-reg/HowToRegister/three.svg'
 import two from '../../../assets/images/static/private-reg/HowToRegister/two.svg'
+interface HeroProps {
+  cityName: string;
+}
 
-export const DocumentRequired = () => {
+export const DocumentRequired = ({ cityName }: HeroProps) => {
   const [active, setActive] = useState('1')
 
   const handleActive = (id: string) => {
@@ -18,7 +21,7 @@ export const DocumentRequired = () => {
 
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='Documents'>
-      <p className='main-para'>Following is the step-by-step procedure for LLP Registration in India</p>
+      <p className='main-para'>Following is the step-by-step procedure for LLP Registration in {cityName}</p>
       <p className='text-center'><strong>Documents of all the Partners</strong></p>
       <div className="flex w-100 align-center justify-content-between mobile-flex-column">
         <div className='flex-4'>
@@ -72,7 +75,7 @@ export const DocumentRequired = () => {
           </div>
           <div className={`${active === '5' ? 'active' : 'none'}`}>
             <h3>5: Passport</h3>
-            <p> For becoming a Partner in a Limited Liability Partnership, NRIs & Foreign Nationals have to submit their passport mandatorily. Passport has to be notarized by the concerned authorities in the country of such NRI & Foreign Nationals, else the Indian Embassy located in that country can also sign the documents.</p>
+            <p> For becoming a Partner in a Limited Liability Partnership, NRIs & Foreign Nationals have to submit their passport mandatorily. Passport has to be notarized by the concerned authorities in the country of such NRI & Foreign Nationals, else the {cityName}n Embassy located in that country can also sign the documents.</p>
           </div>
         </div>
       </div>

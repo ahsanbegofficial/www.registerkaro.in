@@ -1,7 +1,10 @@
-export const Characteristics = () => {
+interface HeroProps {
+  cityName: string;
+}
+export const Characteristics = ({ cityName }: HeroProps) => {
   return (
     <div className='DifferentTypes w-80 m-auto' id='Different'>
-      <p><strong>The following are the features of an LLP in India:</strong></p>
+      <p><strong>The following are the features of an LLP in {cityName}:</strong></p>
       <ol>
         <li>It’s a body corporate & legal entity separate from its members;</li>
         <li>The members of an LLP have a limited liability, limited to their agreed contribution to the LLP;</li>
@@ -10,7 +13,7 @@ export const Characteristics = () => {
         <li>Its accounting & filing requirements are similar to that of a Company;</li>
         <li>Less compliance and regulations;</li>
         <li>No requirement for minimum capital contribution;</li>
-        <li>At least one partner must be a resident of India;</li>
+        <li>At least one partner must be a resident of {cityName};</li>
         <li>There is no upper limit on the maximum number of Partners.</li>
       </ol>
     </div>

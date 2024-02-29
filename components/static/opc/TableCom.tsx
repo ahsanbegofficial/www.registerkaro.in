@@ -1,6 +1,10 @@
 import React from 'react'
 
-export const TableCom = () => {
+interface HeroProps {
+    cityName: string;
+}
+
+export const TableCom = ({ cityName }: HeroProps) => {
     return (
         <div id='LLP'>
             <p className='main-para'>Certain requirements are outlined in the Companies Act of 2013 and must be satisfied by the deadlines specified. These rules promote transparency and good governance while protecting the interests of all parties concerned, including the ROC, shareholders, directors, investors, and tax authorities. These compliances are classified as annual compliances, recurring compliances, one-time post-incorporation compliances, and event-based compliances. The first category of one-time compliances has already been thoroughly discussed.</p>

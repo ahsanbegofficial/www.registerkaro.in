@@ -18,7 +18,11 @@ import AOA from '../../../assets/images/static/private-reg/document/AOA.webp'
 import COI from '../../../assets/images/static/private-reg/document/COI.webp'
 import MD from '../../../assets/images/static/private-reg/document/MD.png'
 
-export const WhatDocument = () => {
+
+interface HeroProps {
+  cityName: string;
+}
+export const WhatDocument = ({ cityName }: HeroProps) => {
   const [active, setActive] = useState('1')
 
   const handleActive = (id: string) => {
@@ -80,7 +84,7 @@ export const WhatDocument = () => {
         </div>
         <div className='flex-5 text-justify fs-20'>
           <div className={`${active === '1' ? 'active' : 'none'}`}>
-            <Image className='WhatDocument-img w-100' height={500} src={DIN} alt="A letter of Director Identification Number or DIN from the government of india" loading="lazy" />
+            <Image className='WhatDocument-img w-100' height={500} src={DIN} alt="A letter of Director Identification Number or DIN from the government of {cityName}" loading="lazy" />
           </div>
           <div className={`${active === '2' ? 'active' : 'none'}`}>
             <Image className='WhatDocument-img w-100' height={500} src={DSC} alt="A pendrive of DSC which is used for digitally sign the documents" loading="lazy" />
@@ -92,7 +96,7 @@ export const WhatDocument = () => {
             <Image className='WhatDocument-img w-100' height={500} src={AOA} alt="An AOA Certificate prepared by the company's owner" loading="lazy" />
           </div>
           <div className={`${active === '5' ? 'active' : 'none'}`}>
-            <Image className='WhatDocument-img w-100' height={500} src={PAN} alt="A Company's PAN card with a QR code issued by the Government of India" loading="lazy" />
+            <Image className='WhatDocument-img w-100' height={500} src={PAN} alt="A Company's PAN card with a QR code issued by the Government of {cityName}" loading="lazy" />
           </div>
           <div className={`${active === '6' ? 'active' : 'none'}`}>
             <Image className='WhatDocument-img w-100' height={500} src={TAN} alt="Tax Deduction and Collection Account Number Certificate issued by the Income Tax Department" loading="lazy" />

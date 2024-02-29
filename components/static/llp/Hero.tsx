@@ -5,6 +5,10 @@ import ZohoFormService from '../../child_components/ZohoformService';
 import Image from 'next/image';
 import { GoogleDiv } from '../GoogleDiv';
 
+interface HeroProps {
+    cityName: string;
+}
+
 let hero = {
     "pack_includes": [
         "DPIN and DSC",
@@ -17,7 +21,7 @@ let hero = {
     ]
 }
 
-export const Hero = () => {
+export const Hero = ({ cityName }: HeroProps) => {
     return (
         <div className="hero align-center mobile-flex-column">
             <Image
@@ -31,7 +35,7 @@ export const Hero = () => {
             />
             <div className="header-content">
                 <h4 className='mb-4'>LLP Registration</h4>
-                <p>Register your Limited Liability Partnership at RegisterKaro only @1999. More than 5000 businesses trust us to register their LLP and keep their business compliant with the law. So, you are just a click away from getting the fastest and most affordable way to get LLP Registration in India. @1999/-</p>
+                <p>Register your Limited Liability Partnership at RegisterKaro only @1999. More than 5000 businesses trust us to register their LLP and keep their business compliant with the law. So, you are just a click away from getting the fastest and most affordable way to get LLP Registration in {cityName}. @1999/-</p>
                 <div className="packages">
                     {hero.pack_includes?.map((i: any, n: number) => {
                         return (

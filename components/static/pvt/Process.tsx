@@ -2,7 +2,11 @@ import React from 'react'
 import certificate from '../../../assets/images/static/private-reg/pvt_ltd_company_certificate_sample.webp';
 import Image from 'next/image';
 
-export const Process = () => {
+interface HeroProps {
+    cityName: string;
+}
+
+export const Process = ({ cityName }: HeroProps) => {
     return (
         <div className='process flex w-80 m-auto mobile-flex-column-reverse'>
             <div className='flex-5'>
@@ -14,28 +18,28 @@ export const Process = () => {
                                 <li>What is a Private Limited Company?</li>
                             </a>
                             <a href="#Different" className="scrollTo">
-                                <li>Different types of Business Structures in India</li>
+                                <li>Different types of Business Structures in {cityName}</li>
                             </a>
                             <a href="#Benefits" className="scrollTo">
-                                <li>Benefits of Private Limited Company Registration in India</li>
+                                <li>Benefits of Private Limited Company Registration in {cityName}</li>
                             </a>
                             <a href="#Checklist" className="scrollTo">
-                                <li>Checklist for Private Limited Company Registration in India</li>
+                                <li>Checklist for Private Limited Company Registration in {cityName}</li>
                             </a>
                             <a href="#Documents" className="scrollTo">
-                                <li>Documents Required for Company Registration in India</li>
+                                <li>Documents Required for Company Registration in {cityName}</li>
                             </a>
                             <a href="#How" className="scrollTo">
                                 <li>How to register a private limited company?</li>
                             </a>
                             <a href="#Time" className="scrollTo">
-                                <li>Time Required for Registering a Company Online in India</li>
+                                <li>Time Required for Registering a Company Online in {cityName}</li>
                             </a>
                             <a href="#HowTo" className="scrollTo">
-                                <li>How to Register Your Private Limited Company in India with RegisterKaro?</li>
+                                <li>How to Register Your Private Limited Company in {cityName}with RegisterKaro?</li>
                             </a>
                             <a href="#WhatDocuments" className="scrollTo">
-                                <li>What Documents will you get after Online Company Registration in India?</li>
+                                <li>What Documents will you get after Online Company Registration in {cityName}?</li>
                             </a>
                             <a href="#Why" className="scrollTo">
                                 <li>Why RegisterKaro?</li>

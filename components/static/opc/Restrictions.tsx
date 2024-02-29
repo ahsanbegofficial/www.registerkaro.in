@@ -2,7 +2,11 @@ import Image from 'next/image'
 import React from 'react'
 import Restriction from '../../../assets/images/static/opc-reg/Restrictions.svg'
 
-export const Restrictions = () => {
+interface HeroProps {
+  cityName: string;
+}
+
+export const Restrictions = ({ cityName }: HeroProps) => {
   return (
       <div className='Restrictions flex w-80 m-auto  mobile-flex-column-reverse' id='Restrictions'>
         <div className='flex-7'>
@@ -15,7 +19,7 @@ export const Restrictions = () => {
           <p>Because a single person serves as both the company’s director and its management, there is no apparent boundary between the two jobs. All decisions must be made and approved by a single individual. As a result, there is a greater likelihood of unethical behavior.</p>
         </div>
         <div className='flex-3'>
-          <Image alt="A list of all the restrictions applicable of One Person Company in India" className="Restrictions-img w-100" height={382} loading="lazy" src={Restriction} />
+          <Image alt="A list of all the restrictions applicable of One Person Company in {cityName}" className="Restrictions-img w-100" height={382} loading="lazy" src={Restriction} />
         </div>
       </div>
       )
