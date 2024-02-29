@@ -8,22 +8,26 @@ interface RegistrationLinksProps {
   Query: string
 }
 
+function formatString(input: string) {
+  let words = input.split('-')
+  let formattedString = words.map((word: string) => {
+    return word.charAt(0).toUpperCase() + word.slice(1)
+  }).join(' ')
+  return formattedString;
+}
+
 export const RegistrationLinks: FC<RegistrationLinksProps> = ({ formattedQuery, state, city, Query }) => {
   const [activeState, setActiveState] = useState(false)
   const [activeCity, setActiveCity] = useState(false)
-
-  function addHyphens(string: string) {
-    return string.split(' ').map((word) => word.charAt(0).toLowerCase() + word.slice(1)).join('-')
-  }
 
   const displayedStates = activeState ? state : state.slice(0, 10);
   const displayedCities = activeCity ? city : city.slice(0, 10);
   return (
     <div className="registration-links">
-      <h3>{formattedQuery} in State</h3>
+      <h3>{formatString(Query)} in State</h3>
       <div className="links">
         {
-          displayedStates?.map((state: string, i: number) => <div key={i} className="main"><div><div className="arrow right"></div></div><div><Link href={`/${Query}/${Query}-in-${addHyphens(state)}`}>{formattedQuery + ' in ' + state}</Link></div></div>)
+          displayedStates?.map((state: string, i: number) => <div key={i} className="main"><div><div className="arrow right"></div></div><div><Link href={`/${Query}/${Query}-in-${state}`}>{formatString(Query) + ' in ' + formatString(state)}</Link></div></div>)
         }
       </div>
       <div className="load-more-parent">
@@ -32,7 +36,7 @@ export const RegistrationLinks: FC<RegistrationLinksProps> = ({ formattedQuery, 
       <h3>{formattedQuery} in City</h3>
       <div className="links">
         {
-          displayedCities?.map((city: string, i: number) => <div key={i} className="main"><div><div className="arrow right"></div></div><div><Link href={`/${Query}/${Query}-in-${addHyphens(city)}`}>{formattedQuery + ' in ' + city}</Link></div></div>)
+          displayedCities?.map((city: string, i: number) => <div key={i} className="main"><div><div className="arrow right"></div></div><div><Link href={`/${Query}/${Query}-in-${city}`}>{formatString(Query) + ' in ' + formatString(city)}</Link></div></div>)
         }
       </div>
       <div className="load-more-parent second-btn">
