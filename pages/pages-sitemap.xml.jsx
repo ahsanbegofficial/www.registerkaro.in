@@ -71,6 +71,18 @@ function generateSiteMap() {
   <loc>${GLOBAL_VARIABLE}/isi-mark-certification</loc>
   <lastmod>2021-06-28</lastmod>
  </url>
+ <url>
+  <loc>${GLOBAL_VARIABLE}/bis-certification</loc>
+  <lastmod>2021-06-28</lastmod>
+ </url>
+ <url>
+ <loc>${GLOBAL_VARIABLE}/rni-registration</loc>
+ <lastmod>2021-06-28</lastmod>
+</url>
+<url>
+<loc>${GLOBAL_VARIABLE}/gumasta-license</loc>
+<lastmod>2021-06-28</lastmod>
+</url>
    </urlset>
  `;
 }
