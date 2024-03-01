@@ -1,0 +1,25 @@
+.iso-certification-reg {
+  @media screen and (max-width: 990px) {
+    .ISOFramework {
+      width: 80%;
+      gap: 0px;
+    }
+    .BenefitsISO {
+      width: 80%;
+      gap: 0px;
+    }
+    .DocumentsRequired {
+      width: 80% !important;
+      gap: 0px;
+    }
+    .ISOFramework-img {
+      height: 100%;
+    }
+    .BenefitsISO-img {
+      height: 100%;
+    }
+    .DocumentsRequired-img {
+      height: 100%;
+    }
+  }
+}

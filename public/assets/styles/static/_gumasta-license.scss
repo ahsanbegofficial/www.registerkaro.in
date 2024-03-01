@@ -1,14 +1,15 @@
 .gumasta-license-reg {
   @media screen and (max-width: 990px) {
     .HowRegisterKaro-img{
-      height: 320px;
+      height: 100%;
     }
     .DocumentsRequired-img{
-      height: 520px;
+      height: 100%;
     }
-    .RenewalGumasta-img{
-      
+    .button-wise{
+      div{
+        width: 100%;
+      }
     }
-    
   }
 }

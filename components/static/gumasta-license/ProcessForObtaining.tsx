@@ -29,7 +29,7 @@ export const ProcessForObtaining = ({ cityName }: HeroProps) => {
         <div className='flex justify-content-center'>
         <p className='main-para mb-2'>In summary, securing a BIS Certificate offers a myriad of benefits, including:</p>
       </div>
-      <div className="main flex justify-content-between align-center m-auto mobile-flex-column">
+      <div className="main flex justify-content-between align-center m-auto mobile-flex-column button-wise">
       <div className='flex-5'>
           <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'} position-relative`}>
             <div className='d-flex justify-content-between align-items-center gap-2'>

@@ -76,7 +76,7 @@ function generateSiteMap() {
   <lastmod>2021-06-28</lastmod>
  </url>
  <url>
- <loc>${GLOBAL_VARIABLE}/rni-registration</loc>
+ <loc>${GLOBAL_VARIABLE}/iso-certification</loc>
  <lastmod>2021-06-28</lastmod>
 </url>
 <url>
