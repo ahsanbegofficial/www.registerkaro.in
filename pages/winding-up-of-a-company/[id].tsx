@@ -332,47 +332,44 @@ const Home = () => {
     return (
         <div className='services-pages winding-up-of-a-company-reg'>
             <Head>
-                {/* <title>Private Limited Company Registration | RegisterKaro</title> */}
-                {/* <meta name="description" content="The Official RegisterKaro" /> */}
-                <meta name="robots" content="noindex,nofollow" />
-                <meta name="googlebot" content="noindex,nofollow" />
-                <meta name="robots" content="all" />
-                <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
-                <meta name="google" content="notranslate" key="notranslate" />
+                <title>Winding Up Of A company | RegisterKaro</title>
+                <link rel="canonical" href="https://www.registerkaro.in/winding-up-of-a-company" />
+                <meta name="description" content="The Official RegisterKaro" />
                 <link rel="icon" href="/favicon.ico" />
-                {/* <link rel="canonical" href="https://www.registerkaro.in/ads/public-limited-company-registration" /> */}
+                <meta property="og:title" content="Winding Up Of A company | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
-            <Hero cityName={cityName}/>
+            <Hero cityName={cityName} />
             <h1 className='main-heading'>Winding up of a Company: A Comprehensive Guide</h1>
             <div className='heading-line'></div>
-            <Process cityName={cityName}/>
+            <Process cityName={cityName} />
             <h1 className='main-heading'>What are the different ways of winding up of a company?</h1>
             <div className='heading-line'></div>
-            <DiffrentWays cityName={cityName}/>
+            <DiffrentWays cityName={cityName} />
             <h1 className='main-heading'>What is compulsory winding up of a company?</h1>
             <div className='heading-line'></div>
-            <WhatIsComp cityName={cityName}/>
+            <WhatIsComp cityName={cityName} />
             <h1 className='main-heading'>Winding up of a Company by the order of the tribunal</h1>
             <div className='heading-line'></div>
-            <WindingUp cityName={cityName}/>
+            <WindingUp cityName={cityName} />
             <h1 className='main-heading'>Who can all file the petition for winding up of a Company by tribunal?</h1>
             <div className='heading-line'></div>
-            <WhoCan cityName={cityName}/>
+            <WhoCan cityName={cityName} />
             <h1 className='main-heading'>Stages involved in the process of winding up of a company by tribunal</h1>
             <div className='heading-line'></div>
-            <Checklist cityName={cityName}/>
+            <Checklist cityName={cityName} />
             <h1 className='main-heading'>What is voluntary winding up of a company?</h1>
             <div className='heading-line'></div>
-            <WhatVoluntary cityName={cityName}/>
+            <WhatVoluntary cityName={cityName} />
             <h1 className='main-heading'>Voluntary winding up a company</h1>
             <div className='heading-line'></div>
-            <VoluntaryWinding cityName={cityName}/>
+            <VoluntaryWinding cityName={cityName} />
             <h1 className='main-heading'>What is a Fast-Track Exit Scheme (FTE)?</h1>
             <div className='heading-line'></div>
-            <DocsREquired cityName={cityName}/>
+            <DocsREquired cityName={cityName} />
             <h1 className='main-heading'>Winding up of a company through FTE</h1>
             <div className='heading-line'></div>
-            <WindingUpThrough cityName={cityName}/>
+            <WindingUpThrough cityName={cityName} />
             <h1 className="main-heading">Why RegisterKaro?</h1>
             <div className='heading-line'></div>
             <WhyRegisterkaro />

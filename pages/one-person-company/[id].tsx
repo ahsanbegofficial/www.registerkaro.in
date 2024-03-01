@@ -397,12 +397,12 @@ const Home = () => {
     return (
         <div className='services-pages opc-reg'>
             <Head>
-                <meta name="robots" content="noindex,nofollow" />
-                <meta name="googlebot" content="noindex,nofollow" />
-                <meta name="robots" content="all" />
-                <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
-                <meta name="google" content="notranslate" key="notranslate" />
+                <title>One Person Company | RegisterKaro</title>
+                <meta name="description" content="The Official RegisterKaro" />
+                <link rel="canonical" href="https://www.registerkaro.in/one-person-company" />
                 <link rel="icon" href="/favicon.ico" />
+                <meta property="og:title" content="One Person Company | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
             <Hero cityName={cityName} />
             <h1 className='main-heading'>What is One Person Company Registration in India?</h1>

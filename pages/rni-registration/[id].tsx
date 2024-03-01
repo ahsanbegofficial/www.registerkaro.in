@@ -371,14 +371,11 @@ const Home = () => {
         <div className='services-pages rni-registration-reg'>
             <Head>
                 <title>RNI Registration | RegisterKaro</title>
+                <link rel="canonical" href="https://www.registerkaro.in/rni-registration" />
                 <meta name="description" content="The Official RegisterKaro" />
-                <meta name="robots" content="noindex,nofollow" />
-                <meta name="googlebot" content="noindex,nofollow" />
-                <meta name="robots" content="all" />
-                <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
-                <meta name="google" content="notranslate" key="notranslate" />
                 <link rel="icon" href="/favicon.ico" />
-                {/* <link rel="canonical" href="https://www.registerkaro.in/ads/public-limited-company-registration" /> */}
+                <meta property="og:title" content="RNI Registration | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
             <Hero cityName={cityName} />
             <h1 className='main-heading'>What is RNI Registration?</h1>

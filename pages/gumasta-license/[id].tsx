@@ -366,15 +366,12 @@ const Home = () => {
     return (
         <div className='services-pages gumasta-license-reg'>
             <Head>
-                <title>Understand Gumasta License | RegisterKaro</title>
+                <title>Gumasta License | RegisterKaro</title>
                 <meta name="description" content="The Official RegisterKaro" />
-                <meta name="robots" content="noindex,nofollow" />
-                <meta name="googlebot" content="noindex,nofollow" />
-                <meta name="robots" content="all" />
-                <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
-                <meta name="google" content="notranslate" key="notranslate" />
+                <link rel="canonical" href="https://www.registerkaro.in/gumasta-license" />
                 <link rel="icon" href="/favicon.ico" />
-                {/* <link rel="canonical" href="https://www.registerkaro.in/ads/public-limited-company-registration" /> */}
+                <meta property="og:title" content="Gumasta License | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
             <Hero cityName={cityName} />
             <h1 className='main-heading'>Understand Gumasta License</h1>

@@ -48,9 +48,9 @@ let state = [
     "uttar-pradesh",
     "uttarakhand",
     "west-bengal"
-  ]
-  
-  let city = [
+]
+
+let city = [
     "mumbai",
     "firozabad",
     "new-delhi",
@@ -297,7 +297,7 @@ let state = [
     "visakhapatnam",
     "warangal",
     "yamunanagar"
-  ]
+]
 
 const faq = [
     {
@@ -339,15 +339,12 @@ const Home = () => {
     return (
         <div className='services-pages gumasta-license-reg'>
             <Head>
-                <title>Understand Gumasta License | RegisterKaro</title>
+                <title>Gumasta License | RegisterKaro</title>
                 <meta name="description" content="The Official RegisterKaro" />
-                <meta name="robots" content="noindex,nofollow" />
-                <meta name="googlebot" content="noindex,nofollow" />
-                <meta name="robots" content="all" />
-                <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
-                <meta name="google" content="notranslate" key="notranslate" />
+                <link rel="canonical" href="https://www.registerkaro.in/gumasta-license" />
                 <link rel="icon" href="/favicon.ico" />
-                {/* <link rel="canonical" href="https://www.registerkaro.in/ads/public-limited-company-registration" /> */}
+                <meta property="og:title" content="Gumasta License | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
             <Hero cityName={'India'} />
             <h1 className='main-heading'>Understand Gumasta License</h1>
@@ -355,16 +352,16 @@ const Home = () => {
             <Process cityName={'India'} />
             <h1 className='main-heading'>Documents required for Gumasta License</h1>
             <div className='heading-line'></div>
-            <DocumentsRequired cityName={'India'}/>
+            <DocumentsRequired cityName={'India'} />
             <h1 className='main-heading'>Process for obtaining Gumasta License</h1>
             <div className='heading-line'></div>
-            <ProcessForObtaining cityName={'India'}/>
+            <ProcessForObtaining cityName={'India'} />
             <h1 className='main-heading'>Renewal of Gumasta License</h1>
             <div className='heading-line'></div>
-            <RenewalGumasta cityName={'India'}/>
+            <RenewalGumasta cityName={'India'} />
             <h1 className='main-heading'>How does RegisterKaro help in the process?</h1>
             <div className='heading-line'></div>
-            <HowRegisterKaro/>
+            <HowRegisterKaro />
             <h1 className="main-heading">Why RegisterKaro?</h1>
             <div className='heading-line'></div>
             <WhyRegisterkaro />

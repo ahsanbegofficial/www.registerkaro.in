@@ -361,41 +361,41 @@ const Home = () => {
     return (
         <div className='services-pages llp-reg'>
             <Head>
-                <meta name="robots" content="noindex,nofollow" />
-                <meta name="googlebot" content="noindex,nofollow" />
-                <meta name="robots" content="all" />
-                <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
-                <meta name="google" content="notranslate" key="notranslate" />
+                <title>LLP Regstration | RegisterKaro</title>
+                <meta name="description" content="The Official RegisterKaro" />
+                <link rel="canonical" href="https://www.registerkaro.in/llp-regstration" />
                 <link rel="icon" href="/favicon.ico" />
+                <meta property="og:title" content="LLP Regstration | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
-            <Hero cityName={'India'}/>
+            <Hero cityName={'India'} />
             <h1 className='main-heading'>Limited Liability Registration (LLP) Registration in India</h1>
             <div className='heading-line'></div>
-            <Process cityName={'India'}/>
+            <Process cityName={'India'} />
             <h2 className='main-heading'>What is a “Limited Liability Partnership” or “LLP”?</h2>
             <div className='heading-line'></div>
-            <LLPReg cityName={'India'}/>
+            <LLPReg cityName={'India'} />
             <h2 className="main-heading">What are the Features of an LLP in India?</h2>
             <div className='heading-line'></div>
-            <Characteristics cityName={'India'}/>
+            <Characteristics cityName={'India'} />
             <h2 className="main-heading">Benefits of LLP Registration in India</h2>
             <div className='heading-line'></div>
-            <Benefits cityName={'India'}/>
+            <Benefits cityName={'India'} />
             <h2 className="main-heading">What are the Different Types of LLP Forms in India?</h2>
             <div className='heading-line'></div>
-            <DifferentTypes cityName={'India'}/>
+            <DifferentTypes cityName={'India'} />
             <h2 className="main-heading">Checklist for the LLP Registration</h2>
             <div className='heading-line'></div>
-            <Checklist cityName={'India'}/>
+            <Checklist cityName={'India'} />
             <h2 className="main-heading">What are the vital documents required for LLP Registration in India?</h2>
             <div className='heading-line'></div>
-            <DocumentRequired cityName={'India'}/>
+            <DocumentRequired cityName={'India'} />
             <h2 className="main-heading">Know the LLP Registration Process</h2>
             <div className='heading-line'></div>
-            <HowToRegister cityName={'India'}/>
+            <HowToRegister cityName={'India'} />
             <h2 className="main-heading">LLP Compliance</h2>
             <div className='heading-line'></div>
-            <TableCom cityName={'India'}/>
+            <TableCom cityName={'India'} />
             <h2 className="main-heading">Why RegisterKaro?</h2>
             <div className='heading-line'></div>
             <WhyRegisterkaro />

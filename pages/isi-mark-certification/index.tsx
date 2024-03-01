@@ -306,44 +306,41 @@ const Home = () => {
     return (
         <div className='services-pages isi-mark-certification-reg'>
             <Head>
-                {/* <title>Private Limited Company Registration | RegisterKaro</title> */}
-                {/* <meta name="description" content="The Official RegisterKaro" /> */}
-                <meta name="robots" content="noindex,nofollow" />
-                <meta name="googlebot" content="noindex,nofollow" />
-                <meta name="robots" content="all" />
-                <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
-                <meta name="google" content="notranslate" key="notranslate" />
+                <title>ISI Mark Certification | RegisterKaro</title>
+                <meta name="description" content="The Official RegisterKaro" />
+                <link rel="canonical" href="https://www.registerkaro.in/isi-mark-certification" />
                 <link rel="icon" href="/favicon.ico" />
-                {/* <link rel="canonical" href="https://www.registerkaro.in/ads/public-limited-company-registration" /> */}
+                <meta property="og:title" content="ISI Mark Certification | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
-            <Hero cityName={'India'}/>
+            <Hero cityName={'India'} />
             <h1 className='main-heading'>Get ISI Mark Certification Online in India</h1>
             <div className='heading-line'></div>
-            <Process cityName={'India'}/>
+            <Process cityName={'India'} />
             <h1 className='main-heading'>Primary Objectives of ISI Certification</h1>
             <div className='heading-line'></div>
-            <EventBased cityName={'India'}/>
+            <EventBased cityName={'India'} />
             <h1 className='main-heading'>Key Points to Consider for ISI Mark Certification</h1>
             <div className='heading-line'></div>
-            <Checklist cityName={'India'}/>
+            <Checklist cityName={'India'} />
             <h1 className='main-heading'>Benefits of Obtaining ISI Mark Certification</h1>
             <div className='heading-line'></div>
-            <Benefits cityName={'India'}/>
+            <Benefits cityName={'India'} />
             <h1 className='main-heading'>List of Products under ISI Certification</h1>
             <div className='heading-line'></div>
-            <ObjectivesChecklist cityName={'India'}/>
+            <ObjectivesChecklist cityName={'India'} />
             <h1 className='main-heading'>Documents Required for ISI Mark Certification</h1>
             <div className='heading-line'></div>
-            <KeyInitiatives cityName={'India'}/>
+            <KeyInitiatives cityName={'India'} />
             <h1 className='main-heading'>Procedure for ISI Mark Certification in India</h1>
             <div className='heading-line'></div>
-            <AdvantagesBIS cityName={'India'}/>
+            <AdvantagesBIS cityName={'India'} />
             <h1 className='main-heading'>Validity and Renewal of ISI Certificate</h1>
             <div className='heading-line'></div>
-            <PartnershipDeed cityName={'India'}/>
+            <PartnershipDeed cityName={'India'} />
             <h1 className='main-heading'>Reasons for ISI Application Rejection</h1>
             <div className='heading-line'></div>
-            <OtherAnnual cityName={'India'}/>
+            <OtherAnnual cityName={'India'} />
             <h1 className="main-heading">Why RegisterKaro?</h1>
             <div className='heading-line'></div>
             <WhyRegisterkaro />

@@ -50,9 +50,9 @@ let state = [
     "uttar-pradesh",
     "uttarakhand",
     "west-bengal"
-  ]
-  
-  let city = [
+]
+
+let city = [
     "mumbai",
     "firozabad",
     "new-delhi",
@@ -299,8 +299,8 @@ let state = [
     "visakhapatnam",
     "warangal",
     "yamunanagar"
-  ]
-  
+]
+
 const faq = [
     {
         "question": "What is the FPO mark?",
@@ -341,21 +341,18 @@ const Home = () => {
     const cityName = formatString(cityString)
     const isCityValid = city.includes(cityString) || state.includes(cityString)
     if (!isCityValid) {
-        return <CustomDefault/>;
+        return <CustomDefault />;
     }
 
     return (
         <div className='services-pages fpo-mark-certification-reg'>
             <Head>
+                <link rel="canonical" href="https://www.registerkaro.in/fpo-mark-certification" />
                 <title>FPO Mark Registration | RegisterKaro</title>
                 <meta name="description" content="The Official RegisterKaro" />
-                <meta name="robots" content="noindex,nofollow" />
-                <meta name="googlebot" content="noindex,nofollow" />
-                <meta name="robots" content="all" />
-                <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
-                <meta name="google" content="notranslate" key="notranslate" />
                 <link rel="icon" href="/favicon.ico" />
-                {/* <link rel="canonical" href="https://www.registerkaro.in/ads/public-limited-company-registration" /> */}
+                <meta property="og:title" content="FPO Mark Registration | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
             <Hero cityName={cityName} />
             <h1 className='main-heading'>Get Online FPO Mark Certification in {cityName}</h1>
@@ -363,19 +360,19 @@ const Home = () => {
             <Process cityName={cityName} />
             <h1 className='main-heading'>Food Products Requiring FPO Mark</h1>
             <div className='heading-line'></div>
-            <FoodProduct cityName={cityName}/>
+            <FoodProduct cityName={cityName} />
             <h1 className='main-heading'>FPO Mark Certification Application</h1>
             <div className='heading-line'></div>
-            <FPOMark cityName={cityName}/>
+            <FPOMark cityName={cityName} />
             <h1 className='main-heading'>Documents required for FPO Mark Certification</h1>
             <div className='heading-line'></div>
-            <DocumentsRequired cityName={cityName}/>
+            <DocumentsRequired cityName={cityName} />
             <h1 className='main-heading'>Procedure to get FPO Mark Certification</h1>
             <div className='heading-line'></div>
-            <ProcedureGetFPO cityName={cityName}/>
+            <ProcedureGetFPO cityName={cityName} />
             <h1 className='main-heading'>How much time does it takes to obtain the FPO mark?</h1>
             <div className='heading-line'></div>
-            <HowMuchTime cityName={cityName}/>
+            <HowMuchTime cityName={cityName} />
             <h1 className="main-heading">Why RegisterKaro?</h1>
             <div className='heading-line'></div>
             <WhyRegisterkaro />

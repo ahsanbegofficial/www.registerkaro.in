@@ -330,15 +330,12 @@ const Home = () => {
     return (
         <div className='services-pages isi-mark-certification-reg'>
             <Head>
-                {/* <title>Private Limited Company Registration | RegisterKaro</title> */}
-                {/* <meta name="description" content="The Official RegisterKaro" /> */}
-                <meta name="robots" content="noindex,nofollow" />
-                <meta name="googlebot" content="noindex,nofollow" />
-                <meta name="robots" content="all" />
-                <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
-                <meta name="google" content="notranslate" key="notranslate" />
+                <title>ISI Mark Certification | RegisterKaro</title>
+                <meta name="description" content="The Official RegisterKaro" />
+                <link rel="canonical" href="https://www.registerkaro.in/isi-mark-certification" />
                 <link rel="icon" href="/favicon.ico" />
-                {/* <link rel="canonical" href="https://www.registerkaro.in/ads/public-limited-company-registration" /> */}
+                <meta property="og:title" content="ISI Mark Certification | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
             <Hero cityName={cityName} />
             <h1 className='main-heading'>Get ISI Mark Certification Online in {cityName}</h1>

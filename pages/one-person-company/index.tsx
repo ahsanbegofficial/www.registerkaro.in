@@ -371,35 +371,35 @@ const Home = () => {
     return (
         <div className='services-pages opc-reg'>
             <Head>
-                <meta name="robots" content="noindex,nofollow" />
-                <meta name="googlebot" content="noindex,nofollow" />
-                <meta name="robots" content="all" />
-                <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
-                <meta name="google" content="notranslate" key="notranslate" />
+                <title>One Person Company | RegisterKaro</title>
+                <meta name="description" content="The Official RegisterKaro" />
+                <link rel="canonical" href="https://www.registerkaro.in/one-person-company" />
                 <link rel="icon" href="/favicon.ico" />
+                <meta property="og:title" content="One Person Company | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
-            <Hero cityName={'India'}/>
+            <Hero cityName={'India'} />
             <h1 className='main-heading'>What is One Person Company Registration in India?</h1>
             <div className='heading-line'></div>
-            <Process cityName={'India'}/>
+            <Process cityName={'India'} />
             <h2 className="main-heading">Features of One Person Company in India</h2>
             <div className='heading-line'></div>
-            <OPCReg cityName={'India'}/>
+            <OPCReg cityName={'India'} />
             <h2 className="main-heading">Checklist for One Person Company Registration in India</h2>
             <div className='heading-line'></div>
-            <Checklist cityName={'India'}/>
+            <Checklist cityName={'India'} />
             <h2 className="main-heading">Documents Required for OPC Registration in India</h2>
             <div className='heading-line'></div>
-            <DocumentRequired cityName={'India'}/>
+            <DocumentRequired cityName={'India'} />
             <h2 className="main-heading">Procedure for One Person Company Registration</h2>
             <div className='heading-line'></div>
-            <Procedure cityName={'India'}/>
+            <Procedure cityName={'India'} />
             <h2 className="main-heading">Restrictions on One Person Company</h2>
             <div className='heading-line'></div>
-            <Restrictions cityName={'India'}/>
+            <Restrictions cityName={'India'} />
             <h2 className="main-heading">LLP Compliance</h2>
             <div className='heading-line'></div>
-            <TableCom cityName={'India'}/>
+            <TableCom cityName={'India'} />
             <h2 className="main-heading">Why RegisterKaro?</h2>
             <div className='heading-line'></div>
             <WhyRegisterkaro />
