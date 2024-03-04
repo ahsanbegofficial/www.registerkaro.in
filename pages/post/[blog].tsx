@@ -152,7 +152,7 @@ export default function Home({ result }: { result: any }) {
         <meta property="og:url" content={hf} />
       </Head>
       <WebPage hf={hf} tl={tl} date={date} modified={modified} description={description} />
-      <FAQPage />
+      {/* <FAQPage /> */}
       {
         blog && (
           <section className="section-padding blog-details">
