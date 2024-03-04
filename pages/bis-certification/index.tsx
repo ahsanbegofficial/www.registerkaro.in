@@ -51,9 +51,9 @@ let state = [
     "uttar-pradesh",
     "uttarakhand",
     "west-bengal"
-  ]
-  
-  let city = [
+]
+
+let city = [
     "mumbai",
     "firozabad",
     "new-delhi",
@@ -300,8 +300,8 @@ let state = [
     "visakhapatnam",
     "warangal",
     "yamunanagar"
-  ]
-  
+]
+
 
 const faq = [
     {
@@ -352,18 +352,15 @@ const Home = () => {
             <Head>
                 <title>BIS Certification | RegisterKaro</title>
                 <meta name="description" content="The Official RegisterKaro" />
-                <meta name="robots" content="noindex,nofollow" />
-                <meta name="googlebot" content="noindex,nofollow" />
-                <meta name="robots" content="all" />
-                <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
-                <meta name="google" content="notranslate" key="notranslate" />
+                <link rel="canonical" href="https://www.registerkaro.in/bis-certification" />
                 <link rel="icon" href="/favicon.ico" />
-                {/* <link rel="canonical" href="https://www.registerkaro.in/ads/public-limited-company-registration" /> */}
+                <meta property="og:title" content="BIS Certification | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
-            <Hero cityName={'India'}  />
+            <Hero cityName={'India'} />
             <h1 className='main-heading'>Get Online BIS Certification in India</h1>
             <div className='heading-line'></div>
-            <Process cityName={'India'}  />
+            <Process cityName={'India'} />
             <h1 className='main-heading'>Key Initiatives by BIS</h1>
             <div className='heading-line'></div>
             <KeyInitiatives cityName={'India'} />

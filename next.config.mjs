@@ -244,6 +244,10 @@ const nextConfig = {
         destination: '/[id]',
         permanent: true
       },{
+        source: '/virtual-office-in-india',
+        destination: '/virtual-office',
+        permanent: true
+      },{
         source: '/virtual-office-in-india/virtual-office-in-india-in-hyderabad',
         destination: '/virtual-office/virtual-office-in-hyderabad',
         permanent: true
