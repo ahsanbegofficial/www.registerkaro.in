@@ -12,11 +12,11 @@ import retail_stores from '../../../assets/images/static/sole-proprietorship/ret
 import local_transportation_services from '../../../assets/images/static/sole-proprietorship/local_transportation_services.svg'
 import clinical_and_medical_management_facilities from '../../../assets/images/static/sole-proprietorship/clinical_and_medical_management_facilities.svg'
 import tutoring_services_and_so_on from '../../../assets/images/static/sole-proprietorship/tutoring_services_and_so_on.svg'
-
-export const WhatBusinessPro = () => {
+interface HeroProps { cityName: string; }
+export const WhatBusinessPro = ({ cityName }: HeroProps) => {
   return (
     <div className='checklist' id='WhatBusinessPro'>
-          <p className='main-para'>Following are the various types of businesses in India that can be Sole Proprietorships:</p>
+          <p className='main-para'>Following are the various types of businesses in { cityName } that can be Sole Proprietorships:</p>
           <div className="checklist flex w-80 m-auto mobile-flex-column">
               <div className="checklist-divs flex flex-column text-center align-center">
                   <div>

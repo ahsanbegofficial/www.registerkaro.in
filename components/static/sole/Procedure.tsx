@@ -4,10 +4,11 @@ import Image from 'next/image'
 import Getting_udyam_or_udyog_aadhar_under_the_ministry_of_MSME from '../../../assets/images/static/sole-proprietorship/Getting_udyam_or_udyog_aadhar_under_the_ministry_of_MSME.svg'
 import Registration_under_the_shop_and_establishment_Act from '../../../assets/images/static/sole-proprietorship/Registration_under_the_shop_and_establishment_Act.svg'
 import applicants_must_obtain_GST_registration_for_their_business from '../../../assets/images/static/sole-proprietorship/applicants_must_obtain_GST_registration_for_their_business.svg'
-export const Procedure = () => {
+interface HeroProps { cityName: string; }
+export const Procedure = ({ cityName }: HeroProps) => {
   return (
     <div className='checklist' id='Procedure'>
-          <p className='main-para'>In India, a Sole Proprietorship is an easy way to commence a business. There is no legal difference between the business & the owner in the case of Sole Proprietorship. So, there are 3 different ways to register a Sole Proprietorship in India</p>
+          <p className='main-para'>In { cityName }, a Sole Proprietorship is an easy way to commence a business. There is no legal difference between the business & the owner in the case of Sole Proprietorship. So, there are 3 different ways to register a Sole Proprietorship in { cityName }</p>
           <div className="checklist flex w-80 m-auto mobile-flex-column">
               <div className="checklist-divs flex flex-column text-center align-center">
                   <div>

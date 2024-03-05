@@ -1,0 +1,45 @@
+.indian-subsidiary-reg {
+    @media screen and (max-width: 990px) {
+      .Advantages-img{
+        height: 620px;
+      }
+      .certificate-img{
+
+      }
+      .TypeOfSubs-img{
+        
+      }
+      .Procedure-img{
+
+      }
+      .Compilance-img{
+
+      }
+      .Requirement-img{
+
+      }
+      .Taxation-img{
+        
+      }
+    }
+
+
+    @media screen and (max-width: 600px) {
+      .Advantages-img{
+        height: 100%;
+      }
+      .TypeOfSubs-img{
+        height: 100%;          
+      }
+      .Procedure-img{
+        height: 100%;        
+      }
+      .Compilance-img{
+        height: 100%;
+      }
+      .Requirement-img{
+        height: 100%;
+      }
+    }
+  }
+  

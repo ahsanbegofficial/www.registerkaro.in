@@ -1,14 +1,18 @@
 .sole-reg {
-    @media screen and (max-width: 990px) {
-      .DifferentTypes-img {
-        height: 280px;
-      }
-      .benefits-img {
-        height: 320px;
-      }
-      .DocumentArrowWise-img {
-        height: 320px;
-      }
+  @media screen and (max-width: 990px) {
+    .DifferentTypes-img {
+      height: 100%;
+      width: 100%;
+    }
+    .benefits-img,
+    .DocumentRequired-img {
+      height: 100%;
+      width: 100%;
+    }
+    .benefits-img,
+    .DocumentRequired-img {
+      height: 100%;
+      width: 100%;
     }
   }
-  
+}

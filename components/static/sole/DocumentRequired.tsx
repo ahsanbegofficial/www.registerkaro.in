@@ -2,12 +2,12 @@ import Image from 'next/image'
 import React from 'react'
 import documents from '../../../assets/images/static/sole-proprietorship/Documents.svg'
 import ulArrow from '../../../assets/images/pvt-reg/ulArrow.svg'
-
-export const DocumentRequired = () => {
+interface HeroProps { cityName: string; }
+export const DocumentRequired = ({ cityName }: HeroProps) => {
   return (
     <div className='DocumentArrowWise flex w-80 m-auto mobile-flex-column-reverse' id='Documents'>
       <div className='flex-7'>
-        <p>Following is the list of some basic documents required for Sole Proprietorship Registration in India</p>
+        <p>Following is the list of some basic documents required for Sole Proprietorship Registration in { cityName }</p>
         <h3>Documents of the applicant</h3>
         <ul className='tick list-unstyled'>
           <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} />PAN Card</li>
@@ -28,7 +28,7 @@ export const DocumentRequired = () => {
        
       </div>
       <div className='flex-3'>
-        <Image alt="the list of some basic documents required for Sole Proprietorship Registration in India,Address Proof,Existence proof of your business,Shop & Establishments Registration" className="DocumentRequired-img w-100" loading="lazy" src={documents} height={500}/>
+        <Image alt="the list of some basic documents required for Sole Proprietorship Registration in India,Address Proof,Existence proof of your business,Shop & Establishments Registration" className="DocumentRequired-img w-100" loading="lazy" src={documents} height={520}/>
       </div>
     </div>
   )

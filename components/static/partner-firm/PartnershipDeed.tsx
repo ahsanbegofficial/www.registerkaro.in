@@ -1,12 +1,11 @@
 import Image from 'next/image'
-import dft from '../../../assets/images/pvt-reg/differentType.svg'
 import ulArrow from '../../../assets/images/pvt-reg/ulArrow.svg'
-
-export const PartnershipDeed = () => {
+interface HeroProps {  cityName: string;}
+export const PartnershipDeed = ({ cityName }: HeroProps) => {
   return (
-    <div>
+    <div id='PartnershipDeed'>
         <p className='main-para'>A partnership deed is a formal agreement that outlines the rights, duties, profit sharing, and other obligations of the partners in a partnership. It can be in written or oral form, but it is generally recommended to have a written partnership deed to prevent any potential conflicts in the future:</p>
-    <div className='DocumentArrowWise flex w-80 m-auto mobile-flex-column-reverse' id='PartnershipDeed'>
+    <div className='DocumentArrowWise flex w-80 m-auto '>
      
       <div className='flex-7'>
          <h3>The partnership deed should include the following details:</h3>
@@ -30,9 +29,6 @@ export const PartnershipDeed = () => {
           <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} />Any other clauses agreed upon by the partners through mutual discussion. </li>
         </ul>
         <p>It is important to include all relevant details and provisions in the partnership deed to ensure clarity and avoid disputes among the partners.</p>
-      </div>
-      <div className='flex-3 justify-content-center'>
-        <Image alt="Types of business structures in india and these structures are private limited company, public limited company, one person company, limited and sole proprietorship" className="PartnershipDeed-img w-100" height={382} loading="lazy" src={dft} />
       </div>
       
       </div>

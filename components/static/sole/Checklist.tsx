@@ -5,11 +5,11 @@ import Registration_under_the_shop_and_establishment_Act from '../../../assets/i
 import applicants_must_obtain_GST_registration_for_their_business from '../../../assets/images/static/sole-proprietorship/applicants_must_obtain_GST_registration_for_their_business.svg'
 import complete_name_address_of_the_business from '../../../assets/images/static/sole-proprietorship/complete_name_address_of_the_business.svg'
 import register_a_bank_account_in_the_name from '../../../assets/images/static/sole-proprietorship/register_a_bank_account_in_the_name.svg'
-
-export const Checklist = () => {
+interface HeroProps { cityName: string; }
+export const Checklist = ({ cityName }: HeroProps) => {
   return (
     <div className='checklist' id='Checklist'>
-          <p className='main-para'>Following is the checklist required for Sole Proprietorship in India</p>
+          <p className='main-para'>Following is the checklist required for Sole Proprietorship in { cityName }</p>
           <div className="checklist flex w-80 m-auto mobile-flex-column">
               <div className="checklist-divs flex flex-column text-center align-center">
                   <div>

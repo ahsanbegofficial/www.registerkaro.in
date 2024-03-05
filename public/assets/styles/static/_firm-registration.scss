@@ -1,0 +1,25 @@
+.firm-reg {
+  .standLine{
+    height: auto;
+    width: 4px;
+    background-color: #ffb953;
+  }
+  @media screen and (max-width: 990px) {
+    .certificate{
+      height: 100%;
+      width: 100%;
+    }
+    .Benefits-img {
+      height: 100%;
+      width: 100%;
+    }
+    .Structure-img {
+      height: 100%;
+      width: 100%;
+    }
+    .Document-img {
+      height: 100%;
+      width: 100%;
+    }
+  }
+}

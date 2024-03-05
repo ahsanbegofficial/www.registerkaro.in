@@ -6,8 +6,8 @@ import two from '../../../assets/images/pvt-reg/HowToRegister/two.svg'
 import three from '../../../assets/images/pvt-reg/HowToRegister/three.svg'
 import four from '../../../assets/images/pvt-reg/HowToRegister/four.svg'
 import arrow from '../../../assets/images/pvt-reg/HowToRegister/arrow.svg'
-
-export const Compliances = () => {
+interface HeroProps { cityName: string; }
+export const Compliances = ({ cityName }: HeroProps) => {
   const [active, setActive] = useState('1')
 
   const handleActive = (id: string) => {
@@ -16,7 +16,7 @@ export const Compliances = () => {
 
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='Compliances'>
-      <p className='main-para mb-0'>The following are some vital compliances for Sole Proprietorship in India</p>
+      <p className='main-para mb-4'>The following are some vital compliances for Sole Proprietorship in { cityName }</p>
       <div className="main flex justify-content-between align-center m-auto mobile-flex-column">
         <div className='flex-5'>
           <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'} position-relative`}>
@@ -71,7 +71,7 @@ export const Compliances = () => {
           </div>
         </div>
       </div>
-       <h3>Note: Additionally, various other compliance requirements may be applicable to the Proprietorship based on location & industry</h3>
+       <h3 className='mt-5'>Note: Additionally, various other compliance requirements may be applicable to the Proprietorship based on location & industry</h3>
     </div>
   )
 }

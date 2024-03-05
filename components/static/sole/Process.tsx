@@ -15,8 +15,8 @@ import Image from 'next/image';
   }
 `}</style>
 
-
-export const Process = () => {
+interface HeroProps { cityName: string; }
+export const Process = ({ cityName }: HeroProps) => {
     const [active, setActive] = useState('1')
 
   const handleActive = (id: string) => {
@@ -25,29 +25,29 @@ export const Process = () => {
     return (
         <div className='process flex w-80 m-auto mobile-flex-column-reverse'>
             <div className='flex-5'>
-                <p className='text-justify'>A Sole Proprietorship is a type of business that is owned and managed by only one person and the owner of the business is called a Proprietor. This type of business is the most common form of business that is used in India. In India, you can commence this business with minimum regulatory compliance. However, there is no full-fledged way available to get Sole Proprietorship Registration by the Government of India. Tax Registration & other Business Registration is the correct way to show the legal existence of your proprietary business. Moreover, the business structure as a sole proprietorship company includes individual freelancers, growing start-ups, and settled & creative businesses comprising physical workplaces.<br/><br/>
-                A Sole Proprietorship is a business owned and run by one person, known as the Proprietor. It’s the most common type of business in India, offering a straightforward way to start with minimal regulatory requirements. While the government doesn’t have a dedicated registration process for sole proprietorships, showcasing the legal existence involves obtaining tax registration and other necessary business registrations. <br/><br/>
+                <p className='text-justify'>A Sole Proprietorship is a type of business that is owned and managed by only one person and the owner of the business is called a Proprietor. This type of business is the most common form of business that is used in { cityName }. In { cityName }, you can commence this business with minimum regulatory compliance. However, there is no full-fledged way available to get Sole Proprietorship Registration by the Government of { cityName }. Tax Registration & other Business Registration is the correct way to show the legal existence of your proprietary business. Moreover, the business structure as a sole proprietorship company includes individual freelancers, growing start-ups, and settled & creative businesses comprising physical workplaces.<br/><br/>
+                A Sole Proprietorship is a business owned and run by one person, known as the Proprietor. It’s the most common type of business in { cityName }, offering a straightforward way to start with minimal regulatory requirements. While the government doesn’t have a dedicated registration process for sole proprietorships, showcasing the legal existence involves obtaining tax registration and other necessary business registrations. <br/><br/>
                 For a sole proprietorship company, individuals like freelancers, budding startups, and established creative businesses with physical offices can easily adopt this business structure. If you’re looking to formalize your sole proprietorship, consider opting for tax and business registrations to establish its legal presence.</p>
                 <div className='page-point'>
                     <ul>
                         <ul>
                             <a href="#WhatBusinessPro" className="scrollTo">
-                                <li>What types of businesses in India can be Sole Proprietorships?</li>
+                                <li>What types of businesses in { cityName } can be Sole Proprietorships?</li>
                             </a>
                             <a href="#Benefits" className="scrollTo">
-                                <li>Benefits of Sole Proprietorship in India</li>
+                                <li>Benefits of Sole Proprietorship in { cityName }</li>
                             </a>
                             <a href="#Eligibility" className="scrollTo">
-                                <li>Eligibility Criteria for Sole Proprietorship Registration in India</li>
+                                <li>Eligibility Criteria for Sole Proprietorship Registration in { cityName }</li>
                             </a>
                             <a href="#Checklist" className="scrollTo">
-                                <li>Checklist for Sole Proprietorship Registration in India</li>
+                                <li>Checklist for Sole Proprietorship Registration in { cityName }</li>
                             </a>
                             <a href="#Documents" className="scrollTo">
-                                <li>Documents Required for Sole Proprietorship Registration in India</li>
+                                <li>Documents Required for Sole Proprietorship Registration in { cityName }</li>
                             </a>
                             <a href="#Procedure" className="scrollTo">
-                                <li>Procedure for Sole Proprietorship Registration in India</li>
+                                <li>Procedure for Sole Proprietorship Registration in { cityName }</li>
                             </a>
                             <a href="#RegisterUnderEstablishment" className="scrollTo">
                                 <li>Registering under the Shops & Establishments Act</li>
@@ -59,7 +59,7 @@ export const Process = () => {
                                 <li>Registration through Udyog or Udyam Aadhar Registration under MSME</li>
                             </a>
                             <a href="#Compliances" className="scrollTo">
-                                <li>Compliances for Sole Proprietorship in India</li>
+                                <li>Compliances for Sole Proprietorship in { cityName }</li>
                             </a>
                             <a href="#Why" className="scrollTo">
                                 <li>Why RegisterKaro?</li>
@@ -70,47 +70,39 @@ export const Process = () => {
                         </ul>
                     </ul>
                 </div>
+             </div>
                 {/* for certification new code is written here  */}
-
-                <div className='DocumentButtonWise w-80 m-auto mt-4' >
-                    <div className="main flex justify-content-between align-center m-auto mobile-flex-column">
-                        <div className='flex-5'>
-                        <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'} position-relative`}>
-                            <div className='d-flex justify-content-between align-items-center gap-2'>
-                            <Image src={one} alt="one" loading="lazy" width={30} height={30} /> <div className='pe-4'>MSME Certificate</div> 
-                            <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
-                            </div>
+            <div className='flex-5'>
+                <div className='DocumentButtonWise w-100 m-auto mt-4' >
+                    <div className="main flex justify-content-between align-center m-auto flex-column">
+                        <div className='flex'>
+                        <button onClick={() => handleActive('1')} className={`flex ${active === '1' ? 'active-btn' : 'none-btn'}`}>
+                            <div className='p-1'>MSME Certificate</div> 
                         </button>
-                        <button onClick={() => handleActive('2')} className={`btn flex ${active === '2' ? 'active-btn' : 'none-btn'} position-relative`}>
-                            <div className='d-flex justify-content-between align-items-center gap-2'>
-                            <Image src={two} alt="two" loading="lazy" width={30} height={30} /> <div className='pe-4'>GST Certificate  </div> 
-                            <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
-                            </div>
+                        <button onClick={() => handleActive('2')} className={`flex ${active === '2' ? 'active-btn' : 'none-btn'} `}> 
+                           <div className='p-1'>GST Certificate  </div> 
                         </button>
-                        <button onClick={() => handleActive('3')} className={`btn flex ${active === '3' ? 'active-btn' : 'none-btn'} position-relative`}>
-                            <div className='d-flex justify-content-between align-items-center gap-2'>
-                            <Image src={three} alt="three" loading="lazy" width={30} height={30} /> <div className='pe-4'>Shop License</div> 
-                            <Image src={arrow} alt="arrow" loading="lazy" width={30} height={30} className='position-absolute end-0'/>
-                            </div>
+                        <button onClick={() => handleActive('3')} className={`flex ${active === '3' ? 'active-btn' : 'none-btn'} `}> 
+                            <div className='p-1'>Shop License</div> 
                         </button>
                         </div>
                         <div className='flex-5 text-justify fs-20'>
                         <div className={`${active === '1' ? 'active' : 'none'}`}>
-                        <p className="small-heading text-center w-80">MSME Certificate [Sample]</p>
+                        <p className="small-heading text-center w-100">MSME Certificate [Sample]</p>
                             <div > 
-                                <Image    alt="MSME Certificate Sample" className="certificate h-100 w-80" loading="lazy" src={msme_certificate}/>
+                                <Image    alt="MSME Certificate Sample" className="certificate h-100 w-100" loading="lazy" src={msme_certificate}/>
                             </div>
                         </div>
                         <div className={`${active === '2' ? 'active' : 'none'}`}>
-                           <p className="small-heading text-center w-80"> GST Certificate  [Sample]</p>
+                           <p className="small-heading text-center w-100"> GST Certificate  [Sample]</p>
                             <div >
-                                <Image alt="GST Certificate" className="certificate h-100 w-80" loading="lazy" src={gst_certificate}/>
+                                <Image alt="GST Certificate" className="certificate h-100 w-100" loading="lazy" src={gst_certificate}/>
                             </div>
                         </div>
                         <div className={`${active === '3' ? 'active' : 'none'}`}>
-                        <p className="small-heading text-center w-80"> Shop License [Sample]</p>
+                        <p className="small-heading text-center w-100"> Shop License [Sample]</p>
                             <div>
-                                <Image alt="Shop License Sample" className="certificate h-100 w-80" loading="lazy" src={shop_certificate}/>
+                                <Image alt="Shop License Sample" className="certificate h-100 w-100" loading="lazy" src={shop_certificate}/>
                             </div>
                         </div> 
                       
@@ -118,6 +110,7 @@ export const Process = () => {
                     </div>
                  
                     </div>
+
               
           </div>
            

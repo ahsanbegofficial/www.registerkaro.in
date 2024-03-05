@@ -36,7 +36,7 @@ const Terms = () => {
         </ul>
         <br />
         <h3>Refund Policy</h3>
-        <p>When you buy our products/services, your purchase is covered by our 2 hours money-back guarantee. If you are, for any reason, not entirely happy with your purchase, we will cheerfully issue a full refund, subject to deductions for legal documents or services provided. To request a refund under this guarantee, you must contact us within the first 2 hours of your payment. Just send an email to <Link href="mailto:support@gmail.com">support@gmail.com</Link> We{`'`}ll gladly refund you 100% of your fees within 24-72 hours of your refund request.</p>
+        <p>When you buy our products/services, your purchase is covered by our 2 hours money-back guarantee. If you are, for any reason, not entirely happy with your purchase, we will cheerfully issue a full refund, subject to deductions for legal documents or services provided. To request a refund under this guarantee, you must contact us within the first 2 hours of your payment. Just send an email to <Link href="mailto:support@registerkaro.in">support@registerkaro.in</Link> We{`'`}ll gladly refund you 100% of your fees within 24-72 hours of your refund request.</p>
         <br />
         <h3>Privacy Policy</h3>
         <p>This privacy policy sets out how Registerkaro uses and protects any information that you provide to RegisterKaro when you use this website.</p>
@@ -53,7 +53,7 @@ const Terms = () => {
         <p>You may choose to restrict the collection or use of your personal information in the following ways:</p>
         <ul>
           <li>whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for promotional purposes. If such a box is not available, you may choose not to fill such a form. However, by submitting the filled inquiry form, you will be construed to have foregone your right and Company may choose to send promotional emails and materials from time to time.</li>
-          <li>if you have previously agreed to us using your personal information for promotional purposes, you may change your mind at any time by writing to or emailing us at <Link href="mailto:support@gmail.com">support@gmail.com</Link></li>
+          <li>if you have previously agreed to us using your personal information for promotional purposes, you may change your mind at any time by writing to or emailing us at <Link href="mailto:support@registerkaro.in">support@registerkaro.in</Link></li>
         </ul>
         <p>We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting.</p>
         <br />
