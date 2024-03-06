@@ -1,22 +1,24 @@
 import React from 'react'
-import bgImage from '../../../assets/images/static/private-reg/bg.png';
-import rightArrow from '../../../assets/images/static/private-reg/rightArrow.svg';
+import bgImage from '../../../assets/images/pvt-reg/bg.png';
+import rightArrow from '../../../assets/images/pvt-reg/rightArrow.svg';
 import ZohoFormService from '../../child_components/ZohoformService';
 import Image from 'next/image';
 import { GoogleDiv } from '../GoogleDiv';
 
 let hero = {
     "pack_includes": [
-        "2 DIN and DSC for two Directors",
-        "Drafting of MoA & AoA",
-        "Registration fees and stamp duty",
-        "Company Incorporation Certificate",
-        "Company PAN and TAN",
-        "ZohoBooks subscription"
+        "Free Incorporation Advisory by expert Chartered Accountant",
+        "DIN and DSC for all 5 Directors",
+        "Company Name Search and Name Approval",
+        "MOA and AOA of the Company",
+        "Government Registration Fees",
+        "Corporate Identification Number",
+        "Bank Account Opening"
     ]
 }
+interface HeroProps { cityName: string; }
 
-export const Hero = () => {
+export const Hero = ({ cityName }: HeroProps) => {
     return (
         <div className="hero align-center mobile-flex-column">
             <Image
@@ -30,7 +32,7 @@ export const Hero = () => {
             />
             <div className="header-content">
                 <h4 className='mb-4'>Producer Company Registration</h4>
-                <p>In India, a Producer Company is a group of agriculturalists or farmers for the betterment of their living standards. We help to Incorporate the Producer Company in India without any hassle.</p>
+                <p>In {cityName}, a Producer Company is a group of agriculturalists or farmers for the betterment of their living standards. We help to Incorporate the Producer Company in {cityName} without any hassle.</p>
                 <div className="packages">
                     {hero.pack_includes?.map((i: any, n: number) => {
                         return (

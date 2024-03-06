@@ -1,17 +1,17 @@
 import Image from 'next/image'
 import React from 'react'
-import documents from '../../../assets/images/pvt-reg/documents.svg'
+import document from '../../../assets/images/static/trust-registration/regulatory_oversight.svg'
 import ulArrow from '../../../assets/images/pvt-reg/ulArrow.svg'
-
-export const Regularity = () => {
+interface HeroProps { cityName: string;}
+export const Regularity = ({ cityName }: HeroProps) => {
   return (
-    <div>  <p  className='main-para'>The Registrar of Trusts serves as the principal regulatory authority entrusted with the responsibility of overseeing trust registration in India. Their pivotal role includes maintaining a comprehensive database of all registered trusts throughout the country. The registration process for private trusts is governed by the Trusts Act of 1882.</p>
-    <p className='main-para'>In the realm of public trusts, there is no singular governing act that uniformly applies. Instead, public trusts in India are obligated to undergo registration with the relevant state authority, as stipulated by the applicable state act.</p>
+    <div id='Regularity'>  <p  className='main-para'>The Registrar of Trusts serves as the principal regulatory authority entrusted with the responsibility of overseeing trust registration in {cityName}. Their pivotal role includes maintaining a comprehensive database of all registered trusts throughout the country. The registration process for private trusts is governed by the Trusts Act of 1882.</p>
+    <p className='main-para'>In the realm of public trusts, there is no singular governing act that uniformly applies. Instead, public trusts in {cityName} are obligated to undergo registration with the relevant state authority, as stipulated by the applicable state act.</p>
   
-    <div className='DocumentArrowWise flex w-80 m-auto mobile-flex-column-reverse' id='Regularity'>
+    <div className='DocumentArrowWise flex w-80 m-auto mobile-flex-column-reverse' >
        
       <div className='flex-7'>
-         <h3>Several laws play a crucial role in regulating trusts in India, including:</h3>
+         <h3>Several laws play a crucial role in regulating trusts in {cityName}, including:</h3>
 
         <h3>1.Trusts Act of 1882: </h3>
         <ul className='tick list-unstyled'>
@@ -28,7 +28,8 @@ export const Regularity = () => {
         </ul>
       </div>
       <div className='flex-3'>
-        <Image alt="list of documents for private limited company registration in india that is passport size photos, aadhar and pan card, address proof, passport for NRIs applicant, bank statement" className="DocumentRequired-img w-100" loading="lazy" src={documents} height={430} />
+        <Image alt="Regulatory Oversight and Legislation for Trust Registration
+The Registrar of Trusts serves as the principal regulatory authority entrusted with the responsibility of overseeing trust registration in India. Their pivotal role includes maintaining a comprehe" className="Regularity-img w-100" loading="lazy" src={document} height={470} />
         </div>
       </div>
     </div>

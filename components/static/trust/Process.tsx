@@ -1,8 +1,8 @@
 import React from 'react'
-import certificate from '../../../assets/images/pvt-reg/pvt_ltd_company_certificate_sample.webp';
+import get_online_trust_registration_in_india_certificate from '../../../assets/images/static/trust-registration/get_online_trust_registration_in_india_certificate.svg';
 import Image from 'next/image';
-
-export const Process = () => {
+interface HeroProps { cityName: string;}
+export const Process = ({ cityName }: HeroProps) => {
     return (
         <div className='process flex w-80 m-auto mobile-flex-column-reverse'>
             <div className='flex-5'>
@@ -14,19 +14,19 @@ export const Process = () => {
                             <a href="#TrustsComp" className="scrollTo">
                                 <li>Trusts – A Comprehensive Overview</li>
                             </a>
-                            <a href="#Classification" className="scrollTo">
+                            <a href="#PartiesInvolved" className="scrollTo">
                                 <li>Parties Involved in the Trust Registration Process</li>
                             </a>
                             <a href="#Categories" className="scrollTo">
-                                <li>Categories of Trusts in India</li>
+                                <li>Categories of Trusts in {cityName}</li>
                             </a>
                             <a href="#Regularity" className="scrollTo">
                                 <li>Regulatory Oversight and Legislation for Trust Registration</li>
                             </a>
-                            <a href="#WhyNGO" className="scrollTo">
+                            <a href="#ImportanceTrust" className="scrollTo">
                                 <li>Importance of Trust Registration</li>
                             </a>
-                            <a href="#Benefits" className="scrollTo">
+                            <a href="#Advantages" className="scrollTo">
                                 <li>Advantages of Trust Registration</li>
                             </a>
                             <a href="#Prerequisite" className="scrollTo">
@@ -60,7 +60,7 @@ export const Process = () => {
             <div className='flex-5'>
                 <p className="small-heading text-center">Trust Registration Certificate [Sample]</p>
                 <div>
-                    <Image alt="A certificate of incorporation for an indian company" className="certificate h-100 w-100" loading="lazy" src={certificate} />
+                    <Image alt="Trust Registration Certificate ,Get Online Trust Registration in India,Trusts, conceived with noble intentions to foster advancements in sciences, literature, and other commendable causes, serve various purposes such as mitigating scarcity, facilitating education for the underprivileged, and extending medical support. The formal process of Trust Registration involves officially enrolling a trust under the Trusts Act of 1882." className="certificate h-100 w-100" loading="lazy" src={get_online_trust_registration_in_india_certificate} />
                 </div>
             </div>
         </div>

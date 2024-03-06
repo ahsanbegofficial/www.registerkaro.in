@@ -1,8 +1,8 @@
 import Image from 'next/image'
 import React from 'react'
-import ProcedureReg from '../../../assets/images/nidhi-reg/procedur.svg'
-
-export const Procedure = () => {
+import ProcedureReg from '../../../assets/images/static/trust-registration/Procedure_for_Trust_Registration.svg'
+interface HeroProps { cityName: string;}
+export const Procedure = ({ cityName }: HeroProps) => {
   return (
     <div className='Procedure  flex w-80 m-auto mobile-flex-column-reverse' id='Procedure'>
 
@@ -11,7 +11,7 @@ export const Procedure = () => {
         <p><strong>1. Name of the Trust:</strong></p>
         <p>Choose an appropriate name for the trust that adheres to the provisions of relevant acts, including Trademarks, Copyrights Act, Intellectual Property Rights Act, and Emblems and Names Act, 1950.</p>
         <p><strong>2. Settlers of the Trust:</strong></p>
-        <p>Determine the individuals who will act as settlers of the trust. While there is no restriction on the number of trustees, a minimum of two trustees is required. The author of the trust cannot be a trustee, and all trustees must be residents of India.</p>
+        <p>Determine the individuals who will act as settlers of the trust. While there is no restriction on the number of trustees, a minimum of two trustees is required. The author of the trust cannot be a trustee, and all trustees must be residents of {cityName}.</p>
         <p><strong>3. Memorandum of Association (MOA):</strong></p>
         <p>Prepare a Memorandum of Association (MOA) outlining the objectives and purpose for which the trust is being formed. Ensure that the goals stated in the MOA are legally permissible.</p>
         <p><strong>4. Draft the Trust Deed:</strong></p>
@@ -25,7 +25,7 @@ export const Procedure = () => {
        
       </div>
       <div className='flex-3'>
-        <Image alt="Private Limited Company sample" className="Procedure-img w-100" loading="lazy" height={430} src={ProcedureReg} />
+        <Image alt="Procedure for Trust Registration" className="Procedure-img w-100" loading="lazy" height={830} src={ProcedureReg} />
       </div>
     </div>
   )

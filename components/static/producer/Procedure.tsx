@@ -1,14 +1,16 @@
 
 import Image from 'next/image'
 import React, { useState } from 'react'
-import one from '../../../assets/images/static/private-reg/HowToRegister/one.svg'
-import two from '../../../assets/images/static/private-reg/HowToRegister/two.svg'
-import three from '../../../assets/images/static/private-reg/HowToRegister/three.svg'
-import four from '../../../assets/images/static/private-reg/HowToRegister/four.svg'
-import five from '../../../assets/images/static/private-reg/HowToRegister/five.svg'
-import arrow from '../../../assets/images/static/private-reg/HowToRegister/arrow.svg'
+import one from '../../../assets/images/pvt-reg/HowToRegister/one.svg'
+import two from '../../../assets/images/pvt-reg/HowToRegister/two.svg'
+import three from '../../../assets/images/pvt-reg/HowToRegister/three.svg'
+import four from '../../../assets/images/pvt-reg/HowToRegister/four.svg'
+import five from '../../../assets/images/pvt-reg/HowToRegister/five.svg'
+import arrow from '../../../assets/images/pvt-reg/HowToRegister/arrow.svg'
 
-export const Procedure = () => {
+interface HeroProps { cityName: string; }
+
+export const Procedure = ({ cityName }: HeroProps) => {
   const [active, setActive] = useState('1')
 
   const handleActive = (id: string) => {
@@ -17,7 +19,7 @@ export const Procedure = () => {
 
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='Procedure'>
-      <p className='main-para mb-0'>Following is the list of all the vital documents required for the Registration of Producer Company in India:</p>
+      <p className='main-para mb-0'>Following is the list of all the vital documents required for the Registration of Producer Company in { cityName }:</p>
       <div className="main flex justify-content-between align-center m-auto mobile-flex-column">
         <div className='flex-5'>
           <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'} position-relative`}>

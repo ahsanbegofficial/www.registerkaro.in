@@ -1,13 +1,13 @@
 
 import Image from 'next/image'
 import React, { useState } from 'react'
-import one from '../../../assets/images/static/private-reg/HowToRegister/one.svg'
-import two from '../../../assets/images/static/private-reg/HowToRegister/two.svg'
-import three from '../../../assets/images/static/private-reg/HowToRegister/three.svg'
+import one from '../../../assets/images/pvt-reg/HowToRegister/one.svg'
+import two from '../../../assets/images/pvt-reg/HowToRegister/two.svg'
+import three from '../../../assets/images/pvt-reg/HowToRegister/three.svg'
 
-import arrow from '../../../assets/images/static/private-reg/HowToRegister/arrow.svg'
-
-export const LoanAndInvestment = () => {
+import arrow from '../../../assets/images/pvt-reg/HowToRegister/arrow.svg'
+interface HeroProps { cityName: string; }
+export const LoanAndInvestment = ({ cityName }: HeroProps) => {
   const [active, setActive] = useState('1')
 
   const handleActive = (id: string) => {
@@ -16,7 +16,7 @@ export const LoanAndInvestment = () => {
 
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='LoanAndInvestment'>
-      <p className='main-para mb-0'>Following is the list of all the vital documents required for the Registration of Producer Company in India:</p>
+      <p className='main-para mb-0'>Following is the list of all the vital documents required for the Registration of Producer Company in { cityName }:</p>
       <div className="main flex justify-content-between align-center m-auto mobile-flex-column">
         <div className='flex-5'>
           <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'}`}>
@@ -49,7 +49,7 @@ export const LoanAndInvestment = () => {
           <div className={`${active === '2' ? 'active' : 'none'}`}>
             <h3>2: NABARD Loan</h3>
             <p>
-            In India, NABARD provides support & financial support to meet the requirements of Producer Companies. In 2011, NABARD set up a Rs. 50 crores PODF out of its operating surplus.
+            In { cityName }, NABARD provides support & financial support to meet the requirements of Producer Companies. In 2011, NABARD set up a Rs. 50 crores PODF out of its operating surplus.
             </p>
           </div> 
           <div className={`${active === '3' ? 'active' : 'none'}`}>

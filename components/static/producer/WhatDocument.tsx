@@ -1,10 +1,10 @@
 import Image from 'next/image'
 import React, { useState } from 'react'
-import one from '../../../assets/images/static/private-reg/HowToRegister/one.svg'
-import two from '../../../assets/images/static/private-reg/HowToRegister/two.svg'
-import arrow from '../../../assets/images/static/private-reg/HowToRegister/arrow.svg'
-
-export const WhatDocument = () => {
+import one from '../../../assets/images/pvt-reg/HowToRegister/one.svg'
+import two from '../../../assets/images/pvt-reg/HowToRegister/two.svg'
+import arrow from '../../../assets/images/pvt-reg/HowToRegister/arrow.svg'
+interface HeroProps { cityName: string; }
+export const WhatDocument = ({ cityName }: HeroProps) => {
   const [active, setActive] = useState('1')
 
   const handleActive = (id: string) => {
@@ -13,7 +13,7 @@ export const WhatDocument = () => {
 
   return (
     <div className='DocumentButtonWise w-80 m-auto' id='WhatDocuments'>
-    <p className='main-para mb-0'>Basically, there are 2 important compliance for Producer Company in India and following are 2 Producer Company Compliance:</p>
+    <p className='main-para mb-0'>Basically, there are 2 important compliance for Producer Company in { cityName } and following are 2 Producer Company Compliance:</p>
     <div className="main flex justify-content-between align-center m-auto mobile-flex-column-reverse">
       <div className='flex-5 text-justify fs-20 p-color-black'>
         <div className={`${active === '1' ? 'active' : 'none'}`}>
