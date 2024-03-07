@@ -410,13 +410,13 @@ const Home = () => {
             <h1 className='main-heading'>An Overview of Section 8 Company Registration</h1>
             <div className='heading-line'></div>
             <Process cityName={cityName}/>
-            <h2 className="main-heading">Important Points Regarding Section 8 Company in India</h2>
+            <h2 className="main-heading">Important Points Regarding Section 8 Company in { cityName }</h2>
             <div className='heading-line'></div>
             <ImportantPoints cityName={cityName}/>
-            <h2 className="main-heading">Advantages of Section 8 Company Registration in India</h2>
+            <h2 className="main-heading">Advantages of Section 8 Company Registration in { cityName }</h2>
             <div className='heading-line'></div>
             <Advantages cityName={cityName}/>
-            <h2 className="main-heading">Eligibility Criteria for Section 8 Company Registration in India</h2>
+            <h2 className="main-heading">Eligibility Criteria for Section 8 Company Registration in { cityName }</h2>
             <div className='heading-line'></div>
             <Eligibility cityName={cityName}/>
             <h2 className="main-heading">Requirements for Section 8 Company Registration</h2>
@@ -428,7 +428,7 @@ const Home = () => {
             <h2 className="main-heading">Procedure for Section 8 Company Registration</h2>
             <div className='heading-line'></div>
             <Procedure cityName={cityName}/>
-            <h2 className="main-heading">What are the Annual Compliances for Section 8 Companies in India?</h2>
+            <h2 className="main-heading">What are the Annual Compliances for Section 8 Companies in { cityName }?</h2>
             <div className='heading-line'></div>
             <AnnualCompliance cityName={cityName}/>
             <h2 className="main-heading">Penalties for Non-Compliance</h2>
