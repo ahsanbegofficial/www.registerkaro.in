@@ -5,8 +5,8 @@ import two from '../../../assets/images/pvt-reg/HowToRegister/two.svg'
 import three from '../../../assets/images/pvt-reg/HowToRegister/three.svg'
 import four from '../../../assets/images/pvt-reg/HowToRegister/four.svg'
 import arrow from '../../../assets/images/pvt-reg/HowToRegister/arrow.svg'
-
-export const Renewal = () => {
+interface HeroProps { cityName: string;}
+export const Renewal = ({ cityName }: HeroProps) => {
   const [active, setActive] = useState('1')
 
   const handleActive = (id: string) => {
@@ -17,7 +17,7 @@ export const Renewal = () => {
     <div className='DocumentButtonWise w-80 m-auto' id='Renewal'>
       <p className='main-para'>For renewing the certificate of Society registration, follow the give steps</p>
       <div className="flex w-100 align-center justify-content-between mobile-flex-column">
-        <div className='flex-4'>
+        <div className='flex-4 w-100'>
           <button onClick={() => handleActive('1')} className={`btn flex ${active === '1' ? 'active-btn' : 'none-btn'}`}>
             <div>
               <Image src={one} alt="pu step 1" loading="lazy" width={30} height={30} /> &nbsp; Step 1

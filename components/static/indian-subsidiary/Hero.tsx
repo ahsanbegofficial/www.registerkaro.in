@@ -7,16 +7,20 @@ import { GoogleDiv } from '../GoogleDiv';
 
 let hero = {
     "pack_includes": [
-        "2 DIN and DSC for two Directors",
-        "Drafting of MoA & AoA",
-        "Registration fees and stamp duty",
-        "Company Incorporation Certificate",
-        "Company PAN and TAN",
-        "ZohoBooks subscription"
+        "Name approval",
+        "2 Directors DIN",
+        "2 Directors DSC",
+        "Filing of E-forms with the Registrar of Companies (ROC)",
+        "MOA + AOA",
+        "Company PAN Card",
+        "Company TAN/TDS Number",
+        "Issue of Incorporation Certificate",
+        "Consultation with our Experts",
     ]
 }
+interface HeroProps { cityName: string; }
 
-export const Hero = () => {
+export const Hero = ({ cityName }: HeroProps) => {
     return (
         <div className="hero align-center mobile-flex-column">
             <Image
@@ -30,7 +34,7 @@ export const Hero = () => {
             />
             <div className="header-content">
                 <h4 className='mb-4'>Indian Subsidiary Registration</h4>
-                <p>RegisterKaro specially curated Indian Subsidiary Registration service to foreigners looking to start their business by investing their money in India.</p>
+                <p>RegisterKaro specially curated Indian Subsidiary Registration service to foreigners looking to start their business by investing their money in {cityName}.</p>
                 <div className="packages">
                     {hero.pack_includes?.map((i: any, n: number) => {
                         return (
@@ -46,7 +50,7 @@ export const Hero = () => {
                 <GoogleDiv />
             </div>
             <div className="zoho">
-                <ZohoFormService service={'indian-subsidiary'} />
+                <ZohoFormService service={'indian-subsidiary-registration'} />
             </div>
         </div>
     )

@@ -1,18 +1,19 @@
 import React from 'react'
-import { Hero } from '../components/static/ngo/Hero'
-import { Process } from '../components/static/ngo/Process'
-import { Benefits } from '../components/static/ngo/Benefits'
-import { Checklist } from '../components/static/ngo/Checklist'
-import { HowToRegister } from '../components/static/ngo/HowToRegister'
-import { FaqTemplatePVT } from '../components/child_components/FaqTemplatePVT'
+import { Hero } from '../../components/static/ngo/Hero'
+import { Process } from '../../components/static/ngo/Process'
+import { Benefits } from '../../components/static/ngo/Benefits'
+import { Checklist } from '../../components/static/ngo/Checklist'
+import { HowToRegister } from '../../components/static/ngo/HowToRegister'
+import { FaqTemplatePVT } from '../../components/child_components/FaqTemplatePVT'
 import Head from 'next/head'
-import { WhyRegisterkaro } from '../components/static/WhyRegisterkaro'
-import { TableCom } from '../components/static/ngo/TableCom'
-import { TypeOfNgo } from '../components/static/ngo/TypeOfNgo'
-import { Classification } from '../components/static/ngo/Classification'
-import { WhyNGO } from '../components/static/ngo/WhyNGO'
-import { RegiFee } from '../components/static/ngo/RegiFee'
-import { HowToRaise } from '../components/static/ngo/HowToRaise'
+import { WhyRegisterkaro } from '../../components/static/WhyRegisterkaro'
+import { TableCom } from '../../components/static/ngo/TableCom'
+import { TypeOfNgo } from '../../components/static/ngo/TypeOfNgo'
+import { Classification } from '../../components/static/ngo/Classification'
+import { WhyNGO } from '../../components/static/ngo/WhyNGO'
+import { RegiFee } from '../../components/static/ngo/RegiFee'
+import { HowToRaise } from '../../components/static/ngo/HowToRaise'
+import { RegistrationLinks } from '../../components/child_components/RegistrationLinks'
 
 const faq = [
     {
@@ -105,58 +106,345 @@ const faq = [
     }
 ]
 
+let state = [
+    "maharashtra",
+    "jharkhand",
+    "kashmir",
+    "puducherry",
+    "karnataka",
+    "madhya-pradesh",
+    "andhra-pradesh",
+    "himachal-pradesh",
+    "tamil-nadu",
+    "odisha",
+    "assam",
+    "arunachal-pradesh",
+    "gujarat",
+    "chandigarh",
+    "jammu-and-kashmir",
+    "manipur",
+    "andaman-and-nicobar-islands",
+    "bihar",
+    "chhattisgarh",
+    "dadra-and-nagar-haveli",
+    "daman-and-diu",
+    "goa",
+    "haryana",
+    "kerala",
+    "ladakh",
+    "lakshadweep",
+    "meghalaya",
+    "mizoram",
+    "nagaland",
+    "punjab",
+    "rajasthan",
+    "sikkim",
+    "telangana",
+    "tripura",
+    "uttar-pradesh",
+    "uttarakhand",
+    "west-bengal"
+]
+
+let city = [
+    "mumbai",
+    "firozabad",
+    "new-delhi",
+    "srinagar",
+    "bangalore",
+    "ghaziabad",
+    "hyderabad",
+    "thiruvananthapuram",
+    "ahmedabad",
+    "chennai",
+    "gorakhpur",
+    "kolkata",
+    "thrissur",
+    "gulbarga",
+    "lucknow",
+    "tiruchirappalli",
+    "agartala",
+    "agra",
+    "ahmednagar",
+    "aizawl",
+    "ajmer",
+    "akola",
+    "aligarh",
+    "alwar",
+    "ambala",
+    "ambarnath",
+    "ambattur",
+    "amravati",
+    "amritsar",
+    "amroha",
+    "anand",
+    "anantapur",
+    "anantapuram",
+    "arrah",
+    "asansol",
+    "avadi",
+    "bahraich",
+    "bally",
+    "baranagar",
+    "barasat",
+    "bardhaman",
+    "bareilly",
+    "bathinda",
+    "begusarai",
+    "belgaum",
+    "bellary",
+    "berhampore",
+    "berhampur",
+    "bhagalpur",
+    "bhalswa-jahangir-pur",
+    "bharatpur",
+    "bhatpara",
+    "bhavnagar",
+    "bhilai",
+    "bhilwara",
+    "bhind",
+    "bhiwandi",
+    "bhiwani",
+    "bhopal",
+    "bhubaneswar",
+    "bhusawal",
+    "bidar",
+    "bidhannagar",
+    "bihar-sharif",
+    "bikaner",
+    "bilaspur",
+    "bokaro",
+    "bulandshahr",
+    "burhanpur",
+    "chandigarh",
+    "chapra",
+    "chittoor",
+    "coimbatore",
+    "cuttack",
+    "darbhanga",
+    "davanagere",
+    "dehradun",
+    "delhi",
+    "deoghar",
+    "dewas",
+    "dhanbad",
+    "dhule",
+    "dindigul",
+    "durg",
+    "durgapur",
+    "eluru",
+    "erode",
+    "etawah",
+    "faridabad",
+    "farrukhabad",
+    "fatehpur",
+    "gandhidham",
+    "gandhinagar",
+    "gaya",
+    "gopalpur",
+    "guntur",
+    "gurgaon",
+    "guwahati",
+    "gwalior",
+    "haldia",
+    "hapur",
+    "haridwar",
+    "hospet",
+    "gulbargahowrah",
+    "hubli-dharwad",
+    "ichalkaranji",
+    "imphal",
+    "indore",
+    "jabalpur",
+    "jaipur",
+    "jalandhar",
+    "jalgaon",
+    "jalna",
+    "jammu",
+    "jamnagar",
+    "jamshedpur",
+    "jhansi",
+    "jodhpur",
+    "junagadh",
+    "kadapa",
+    "kakinada",
+    "kalyan-dombivli",
+    "kamarhati",
+    "kanpur",
+    "karawal-nagar",
+    "karimnagar",
+    "karnal",
+    "katni",
+    "khammam",
+    "khandwa",
+    "kharagpur",
+    "khora-ghaziabad",
+    "kirari-suleman-nagar",
+    "kochi",
+    "kolhapur",
+    "kollam",
+    "korba",
+    "kota",
+    "kozhikode",
+    "kulti",
+    "kurnool",
+    "latur",
+    "loni",
+    "ludhiana",
+    "madhyamgram",
+    "madurai",
+    "maheshtala",
+    "malda",
+    "malegaon",
+    "mangalore",
+    "mango",
+    "mathura",
+    "mau",
+    "meerut",
+    "mira-bhayandar",
+    "mirzapur",
+    "moradabad",
+    "morbi",
+    "morena",
+    "munger",
+    "muzaffarnagar",
+    "muzaffarpur",
+    "mysore",
+    "nadiad",
+    "nagercoil",
+    "nagpur",
+    "naihati",
+    "nanded",
+    "nandyal",
+    "nangloi-jat",
+    "nashik",
+    "navi-mumbai",
+    "nellore",
+    "new-delhi",
+    "nizamabad",
+    "noida",
+    "north-dumdum",
+    "ongole",
+    "orai",
+    "pali",
+    "pallavaram",
+    "panchkula",
+    "panihati",
+    "panipat",
+    "parbhani",
+    "patiala",
+    "patna",
+    "pimpri-chinchwad",
+    "pondicherry",
+    "pune",
+    "puri",
+    "purnia",
+    "raebareli",
+    "raichur",
+    "raipur",
+    "rajahmundry",
+    "rajkot",
+    "rajpur-sonarpur",
+    "ramagundam",
+    "rampur",
+    "ranchi",
+    "ratlam",
+    "rewa",
+    "rohtak",
+    "rourkela",
+    "sagar",
+    "saharanpur",
+    "salem",
+    "sambalpur",
+    "sambhal",
+    "satara",
+    "satna",
+    "secunderabad",
+    "shahjahanpur",
+    "shimoga",
+    "sikar",
+    "silchar",
+    "siliguri",
+    "singrauli",
+    "solapur",
+    "sonipat",
+    "south-dumdum",
+    "sri-ganganagar",
+    "surat",
+    "tenali",
+    "thane",
+    "thanjavur",
+    "thoothukudi",
+    "tirunelveli",
+    "tirupati",
+    "tiruppur",
+    "tiruvottiyur",
+    "tumkur",
+    "udaipur",
+    "ujjain",
+    "ulhasnagar",
+    "uluberia",
+    "uzhavarkarai",
+    "vadodara",
+    "varanasi",
+    "vasai-virar",
+    "vijayanagaram",
+    "vijayawada",
+    "visakhapatnam",
+    "warangal",
+    "yamunanagar"
+]
+
 
 const Home = () => {
     return (
         <div className='services-pages ngo-reg'>
             <Head>
-                {/* <title>Private Limited Company Registration | RegisterKaro</title> */}
-                {/* <meta name="description" content="The Official RegisterKaro" /> */}
-                <meta name="robots" content="noindex,nofollow" />
-                <meta name="googlebot" content="noindex,nofollow" />
-                <meta name="robots" content="all" />
-                <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
-                <meta name="google" content="notranslate" key="notranslate" />
+                <title>NGO Registration | RegisterKaro</title>
+                <meta name="description" content="The Official RegisterKaro" />
+                <link rel="canonical" href="https://www.registerkaro.in/ngo-registration" />
                 <link rel="icon" href="/favicon.ico" />
-                {/* <link rel="canonical" href="https://www.registerkaro.in/ads/public-limited-company-registration" /> */}
+                <meta property="og:title" content="NGO Registration | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
-            <Hero />
+            <Hero cityName={'India'} />
             <h1 className='main-heading'>Online NGO Registration in India</h1>
             <div className='heading-line'></div>
-            <Process />
+            <Process cityName={'India'} />
             <h1 className="main-heading">Types of NGO Registration in India</h1>
             <div className='heading-line'></div>
-            <TypeOfNgo/>
+            <TypeOfNgo cityName={'India'} />
             <h1 className="main-heading">Difference Between Trust, Society, and Section 8 Company</h1>
             <div className='heading-line'></div>
-            <TableCom/>
+            <TableCom cityName={'India'} />
             <h1 className='main-heading'>Classification of NGOs in India</h1>
             <div className='heading-line'></div>
-            <Classification />
+            <Classification cityName={'India'} />
             <h1 className="main-heading">Why Is NGO Registration Required?</h1>
             <div className='heading-line'></div>
-            <WhyNGO/>
+            <WhyNGO cityName={'India'} />
             <h1 className="main-heading">Benefits of NGO Registration</h1>
             <div className='heading-line'></div>
-            <Benefits />
+            <Benefits cityName={'India'} />
             <h1 className="main-heading">Eligibility to Start an NGO</h1>
             <div className='heading-line'></div>
-            <Checklist />   
+            <Checklist cityName={'India'} />
             <h1 className="main-heading">NGO Registration Process</h1>
             <div className='heading-line'></div>
-            <HowToRegister />  
+            <HowToRegister cityName={'India'} />
             <h1 className="main-heading">Registration Fees</h1>
             <div className='heading-line'></div>
-            <RegiFee /> 
+            <RegiFee cityName={'India'} />
             <h1 className="main-heading">How to Raise Funds for NGOs?</h1>
             <div className='heading-line'></div>
-            <HowToRaise/>
+            <HowToRaise cityName={'India'} />
             <h1 className="main-heading">Why RegisterKaro?</h1>
             <div className='heading-line'></div>
             <WhyRegisterkaro />
             <h1 className="main-heading">FAQs</h1>
             <div className='heading-line'></div>
             <FaqTemplatePVT faqItems={faq} />
+            <RegistrationLinks formattedQuery={'NGO Registration'} state={state} Query={'ngo-registration'} city={city} />
         </div>
     )
 }

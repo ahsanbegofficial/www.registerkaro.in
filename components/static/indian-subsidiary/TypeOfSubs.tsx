@@ -1,13 +1,14 @@
 import Image from 'next/image'
 import types_of_subsidiaries_in_india from '../../../assets/images/static/Indian_subsidiary_registration/types_of_subsidiaries_in_india.svg'
 import ulArrow from '../../../assets/images/pvt-reg/ulArrow.svg'
-export const TypeOfSubs = () => {
+interface HeroProps { cityName: string; }
+export const TypeOfSubs = ({ cityName }: HeroProps) => {
   return (
     <div className='TypeOfSubs flex w-80 m-auto mobile-flex-column-reverse' id='TypeOfSubs'>
       <div className='flex-5'>
         <div className='flex-3'>
-        <p>India recognizes two primary types of subsidiaries:</p>
-      </div>
+          <p>{cityName} recognizes two primary types of subsidiaries:</p>
+        </div>
         <h3>Wholly Owned Subsidiary</h3>
         <ul className='tick list-unstyled'>
           <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} /> In a wholly-owned subsidiary, the parent company holds complete ownership, owning 100% of the subsidiary’s shares. However, it’s vital to understand that wholly owned subsidiaries can only be formed in sectors that permit 100% Foreign Direct Investment (FDI).</li>
@@ -20,11 +21,11 @@ export const TypeOfSubs = () => {
         <ul className='tick list-unstyled'>
           <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} />It’s a type Subsidiary Company formed as a Partnership. In addition, this type of Subsidiary provides liability protection to its partners, which doesn’t make them personally liable for debts/obligations of the Subsidiary Company.</li>
         </ul>
-        <p >Before initiating the establishment of a subsidiary in India, obtaining approval from the Reserve Bank of India is a crucial prerequisite. This regulatory step ensures adherence to the country’s foreign investment regulations and safeguards the interests of all stakeholders involved.</p>
+        <p >Before initiating the establishment of a subsidiary in {cityName}, obtaining approval from the Reserve Bank of {cityName} is a crucial prerequisite. This regulatory step ensures adherence to the country’s foreign investment regulations and safeguards the interests of all stakeholders involved.</p>
       </div>
       <div className='flex-3'>
-        <Image alt="Types of Subsidiaries in India,Wholly Owned Subsidiary,Joint Venture Subsidiary Company,LLP for Subsidiary Compan" className="TypeOfSubs-img w-100" loading="lazy" height={500} src={types_of_subsidiaries_in_india} />
-        </div>
+        <Image alt="Types of Subsidiaries in India,Wholly Owned Subsidiary,Joint Venture Subsidiary Company,LLP for Subsidiary Company" className="TypeOfSubs-img w-100" loading="lazy" height={600} src={types_of_subsidiaries_in_india} />
+      </div>
     </div>
   )
 }

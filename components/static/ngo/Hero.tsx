@@ -7,16 +7,18 @@ import { GoogleDiv } from '../GoogleDiv';
 
 let hero = {
     "pack_includes": [
-        "2 DIN and DSC for two Directors",
-        "Drafting of MoA & AoA",
-        "Registration fees and stamp duty",
-        "Company Incorporation Certificate",
-        "Company PAN and TAN",
-        "ZohoBooks subscription"
+        "COI, PAN, TAN",
+        "DIN & DSC",
+        "PF & ESIC",
+        "MOA & AOA",
+        "Bank A/c Opening",
+        "CA Support",
     ]
 }
 
-export const Hero = () => {
+interface HeroProps { cityName: string; }
+
+export const Hero = ({ cityName }: HeroProps) => {
     return (
         <div className="hero align-center mobile-flex-column">
             <Image
@@ -46,7 +48,7 @@ export const Hero = () => {
                 <GoogleDiv />
             </div>
             <div className="zoho">
-                <ZohoFormService service={'private-limited-company-registration'} />
+                <ZohoFormService service={'ngo-registration'} />
             </div>
         </div>
     )

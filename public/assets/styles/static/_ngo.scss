@@ -1,13 +1,39 @@
 .ngo-reg {
+  .certificate {
+    height: 37rem;
+    width: 35rem;
+  }
   @media screen and (max-width: 990px) {
-    .DifferentTypes-img {
-      height: 280px;
+    .certificate {
+      height: 100%;
+      width: 100% !important;
     }
-    .benefits-img {
-      height: 320px;
+    .Benefits-img {
+      height: 100%;
     }
-    .DocumentArrowWise-img {
-      height: 320px;
+    .Eligibility-img {
+      height: 100%;
+    }
+    .certificate {
+      height: 100%;
+    }
+    .TypeOfNgo-img {
+      height: 100%;
+    }
+    .Classification-img {
+      height: 100%;
+    }
+    .WhyNGO-img {
+      height: 100%;
+    }
+    .Benefits-img {
+      height: 100%;
+    }
+    .HowToRegister-img {
+      height: 100%;
+    }
+    .WhyNGO-img {
+      height: 100%;
     }
   }
 }

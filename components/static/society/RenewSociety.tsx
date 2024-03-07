@@ -1,8 +1,8 @@
 import Image from 'next/image'
 import React from 'react'
-import bft from '../../../assets/images/pvt-reg/benefit.svg'
-
-export const RenewSociety = () => {
+import bft from '../../../assets/images/static/society-registration/when_to_renew_society_registration.svg'
+interface HeroProps { cityName: string;}
+export const RenewSociety = ({ cityName }: HeroProps) => {
   return (
     <div>
    <p className='main-para'>Society Registration certificate is subject to renewal depending on the state and sometimes the kind of society you have registered. In order to renew the registration certificate, you need to keep following things in mind:</p>
@@ -15,7 +15,7 @@ export const RenewSociety = () => {
      <p><strong>3: </strong>Requesting society registration by providing covering letter, signed by all establishing members.</p>
    </div>
    <div className='flex-5'>
-       <Image alt="The benefits of private limited company in india and these are Separate Legal Entity, Ease in Raising Funds, Limited Liability, Easy Transferable, Limited Liability and ESOP" className="benefits-img w-100" height={600} loading="lazy" src={bft} />
+       <Image alt="When to Renew Society Registration Certificate in India?" className="RenewSociety-img w-100" height={450} loading="lazy" src={bft} />
    </div>
    </div>
    </div>
