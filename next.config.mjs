@@ -251,6 +251,47 @@ const nextConfig = {
         source: '/virtual-office-in-india/virtual-office-in-india-in-hyderabad',
         destination: '/virtual-office/virtual-office-in-hyderabad',
         permanent: true
+      },{
+        source: '/virtual-office-in-india/virtual-office-in-india-in-mumbai',
+        destination: '/virtual-office/virtual-office-in-mumbai',
+        permanent: true
+      },{
+        source: '/virtual-office-in-india/virtual-office-in-india-in-maharashtra',
+        destination: '/virtual-office/virtual-office-in-maharashtra',
+        permanent: true
+      },{
+        source: '/virtual-office-in-india/virtual-office-in-india-in-jharkhand',
+        destination: '/virtual-office/virtual-office-in-jharkhand',
+        permanent: true
+      },{
+        source: '/virtual-office-in-india/virtual-office-in-india-in-bangalore',
+        destination: '/virtual-office/virtual-office-in-bangalore',
+        permanent: true
+      },{
+        source: '/virtual-office-in-india/virtual-office-in-india-in-firozabad',
+        destination: '/virtual-office/virtual-office-in-firozabad',
+        permanent: true
+      },{
+        source: '/virtual-office-in-india/virtual-office-in-india-in-chennai',
+        destination: '/virtual-office/virtual-office-in-chennai',
+        permanent: true
+      },{
+        source: '/virtual-office-in-india/virtual-office-in-india-in-pune',
+        destination: '/virtual-office/virtual-office-in-pune',
+        permanent: true
+      }
+      ,{
+        source: '/virtual-office-in-india/virtual-office-in-india-in-madhya-pradesh',
+        destination: '/virtual-office/virtual-office-in-madhya-pradesh',
+        permanent: true
+      },{
+        source: '/virtual-office-in-india/:id',
+        destination: '/virtual-office/:id',
+        permanent: true
+      },{
+        source: '/private-company-registration/company-registration-in-bangalore',
+        destination: '/private-limited-company-registration',
+        permanent: true
       }
     ];
   },
