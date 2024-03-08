@@ -292,6 +292,10 @@ const nextConfig = {
         source: '/private-company-registration/company-registration-in-bangalore',
         destination: '/private-limited-company-registration',
         permanent: true
+      },{
+        source: '/virtual-office-in-india/virtual-office-in-india-in-delhi',
+        destination: '/virtual-office-/virtual-office-in-delhi',
+        permanent: true
       }
     ];
   },
