@@ -47,7 +47,7 @@ export const Process = ({ cityName }: HeroProps) => {
             <div className='flex-5'>
                 <p className="small-heading text-center">Startup {cityName} Registration Certificate [Sample]</p>
                 <div className='d-flex justify-content-center'>
-                    <Image alt="A Complete Analysis of Startup India Registration, Startup India Registration Certificate" className="certificate" loading="lazy" src={certificate} />
+                    <Image alt="A Complete Analysis of Startup India Registration, Startup India Registration Certificate" className="certificate h-100 w-100" loading="lazy" src={certificate} />
                 </div>
             </div>
         </div>

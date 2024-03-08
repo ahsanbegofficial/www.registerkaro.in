@@ -121,9 +121,9 @@ let state = [
     "uttar-pradesh",
     "uttarakhand",
     "west-bengal"
-  ]
-  
-  let city = [
+]
+
+let city = [
     "mumbai",
     "firozabad",
     "new-delhi",
@@ -370,10 +370,10 @@ let state = [
     "visakhapatnam",
     "warangal",
     "yamunanagar"
-  ]
+]
 
 
-  function formatString(input: string) {
+function formatString(input: string) {
     let words = input.split('-')
     let formattedString = words.map((word: string) => {
         return word.charAt(0).toUpperCase() + word.slice(1)
@@ -384,7 +384,7 @@ let state = [
 const Home = () => {
     const router = useRouter();
     const query = router.query.id as string;
-  
+
     useEffect(() => {
         console.log('q', query);
     }, [query]);
@@ -402,18 +402,15 @@ const Home = () => {
             <Head>
                 <title>Startup India Registration | RegisterKaro</title>
                 <meta name="description" content="The Official RegisterKaro" />
-                <meta name="robots" content="noindex,nofollow" />
-                <meta name="googlebot" content="noindex,nofollow" />
-                <meta name="robots" content="all" />
-                <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
-                <meta name="google" content="notranslate" key="notranslate" />
+                <link rel="canonical" href="https://www.registerkaro.in/startup-india-registration" />
                 <link rel="icon" href="/favicon.ico" />
-                {/* <link rel="canonical" href="https://www.registerkaro.in/ads/public-limited-company-registration" /> */}
+                <meta property="og:title" content="Startup India Registration | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
-            <Hero cityName={cityName}  />
+            <Hero cityName={cityName} />
             <h1 className='main-heading'>A Complete Analysis of Startup {cityName} Registration</h1>
             <div className='heading-line'></div>
-            <Process cityName={cityName}  />
+            <Process cityName={cityName} />
             <h1 className="main-heading">What is a Startup?</h1>
             <div className='heading-line'></div>
             <Startup cityName={cityName} />
@@ -425,7 +422,7 @@ const Home = () => {
             <Benefits cityName={cityName} />
             <h1 className="main-heading">Eligibility Criteria for the Registration</h1>
             <div className='heading-line'></div>
-            <Eligibility cityName={cityName}/>
+            <Eligibility cityName={cityName} />
             <h1 className="main-heading">Who is not eligible for Startup {cityName} Registration or Startup {cityName} Recognition?</h1>
             <div className='heading-line'></div>
             <Checklist cityName={cityName} />

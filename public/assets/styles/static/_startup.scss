@@ -1,32 +1,37 @@
 .startup-reg {
-  .certificate{
-    height: 40.5rem;
-    width: 38rem;
-  }
-    @media screen and (max-width: 990px) {
-     
-      .Objectives-img{
+  @media screen and (max-width: 990px) {
+    .certificate-img{
+      height: 100%;
 
-      }
-      .Benefits-img{
-        
-      }
-      .Eligibility-img{
-
-      }
-      .Checklist-img{
-
-      }
-      .DocRequired-img{
-
-      }
-      .Procedure-img {
-
-      }
-      .HowToRegister-img{
-        
-      }
     }
-   
+    .Objectives-img{
+      height: 100%;
+
+    }
+    .Benefits-img{
+      height: 100%;
+      
+    }
+    .Eligibility-img{
+      height: 100%;
+
+    }
+    .Checklist-img{
+      height: 100%;
+
+    }
+    .DocRequired-img{
+      height: 100%;
+
+    }
+    .Procedure-img {
+      height: 100%;
+
+    }
+    .HowToRegister-img{
+      height: 100%;
+      
+    }
   }
-  
+ 
+}
