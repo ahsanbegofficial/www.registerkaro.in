@@ -49,7 +49,7 @@ export default function Home() {
                     </div>
                     <div>
                         <h5>Compliance Helpline</h5>
-                        <p><Link href="tel:+918069137147">+91 80691 37147</Link></p>
+                        <p><Link href="tel:+919205817927">+91 92058 17927</Link></p>
                     </div>
                     <div>
                         <h5>For Urgent Escalations <br /> (10 AM to 5 PM)</h5>
@@ -59,7 +59,6 @@ export default function Home() {
                 <p className='note mb-40'><b>Note :</b> RegisterKaro is a renowned group of individual professionals that has established itself as a market leader in guiding corporate houses and entrepreneurs. We specialize in Company Incorporation, Tax, and all other services rendered by professionals independently. Our registered office is located at #101, Oxford Towers, 139, HAL Old Airport Rd, Kodihalli, Bengaluru, Karnataka 560008</p>
                 <div className="customer-billing-main-div mb-40">
                     <h3 className='h3-heading'>For Billing &amp; Payments - Connect With Us</h3>
-                    <p className='P-light'><strong>Phone: </strong> <a href="tel:+918448987342">+91 84489 87342</a></p>
                     <p className='P-light'><strong>Email: </strong><a href="mailto:accounting@registerkaro.in">accounting@registerkaro.in</a></p>
                 </div>
                 <div className="join-our-parent mb-40 flex">
@@ -76,7 +75,6 @@ export default function Home() {
                 <div className="join-our-parent mb-40 flex">
                     <div className="col-lg-4 col-md-4 col-sm-12 col-xs-12 m_b_15">
                         <h3 className='h3-heading'>Want to join our team?</h3>
-                        <p className="P-light"><strong>Phone: </strong><a href="tel:+919380547202">+91 93805 47202</a></p>
                         <p className="P-light"><strong>Email: </strong><a href="mailto:hr@registerkaro.in">hr@registerkaro.in</a></p>
                     </div>
                     <div className="col-lg-4 col-md-4 col-sm-12 col-xs-12 m_b_15">
