@@ -29,7 +29,7 @@ export const Procedure = ({ cityName }: HeroProps) => {
         </ul>
         <h3>Step 4: If you need Tax Exemption then mention it:</h3>
         <ul className='tick list-unstyled'>
-          <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} />Startups in {cityName} do not have to pay income tax for the 1st three years in {cityName} but avail of some benefits when the Company must be certified by the Inter-Ministerial Board (IMB). This is where the Company registered with DIPP gets relaxation as the Registration is enough to get the benefits. Then you must follow all the conditions as we mentioned above.</li>
+          <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} />After receiving recognition, a Startup has the opportunity to seek Tax exemption under Section 80 IAC of the Income Tax Act. Upon obtaining approval for Tax exemption, the Startup becomes eligible for a tax holiday spanning 3 consecutive financial years within its initial 10 years of incorporation.</li>
         </ul>
         <h3>Step 5: Get your recognition number:</h3>
         <ul className='tick list-unstyled'>

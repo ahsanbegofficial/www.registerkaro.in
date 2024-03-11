@@ -23,6 +23,10 @@ export default function Home() {
                     </div>
                 </div>
                 <div className="flex-main mb-40 flex">
+                <div>
+                        <h5>Sales</h5>
+                        <p><Link href="tel:+918447746183">+91 84477 46183</Link></p>
+                    </div>
                     <div>
                         <h5>Incorporation & Registrations</h5>
                         <p><Link href="tel:+918448789562">+91 84487 89562</Link></p>
