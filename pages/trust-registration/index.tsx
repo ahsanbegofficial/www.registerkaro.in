@@ -98,9 +98,9 @@ let state = [
     "uttar-pradesh",
     "uttarakhand",
     "west-bengal"
-  ]
-  
-  let city = [
+]
+
+let city = [
     "mumbai",
     "firozabad",
     "new-delhi",
@@ -347,8 +347,8 @@ let state = [
     "visakhapatnam",
     "warangal",
     "yamunanagar"
-  ]
-  
+]
+
 
 
 const Home = () => {
@@ -357,21 +357,18 @@ const Home = () => {
             <Head>
                 <title>Trust Registration | RegisterKaro</title>
                 <meta name="description" content="The Official RegisterKaro" />
-                <meta name="robots" content="noindex,nofollow" />
-                <meta name="googlebot" content="noindex,nofollow" />
-                <meta name="robots" content="all" />
-                <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
-                <meta name="google" content="notranslate" key="notranslate" />
+                <link rel="canonical" href="https://www.registerkaro.in/trust-registration" />
                 <link rel="icon" href="/favicon.ico" />
-                {/* <link rel="canonical" href="https://www.registerkaro.in/ads/public-limited-company-registration" /> */}
+                <meta property="og:title" content="Trust Registration | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
             <Hero cityName={'India'} />
             <h1 className='main-heading'>Get Online Trust Registration in India</h1>
             <div className='heading-line'></div>
-            <Process  cityName={'India'} />
+            <Process cityName={'India'} />
             <h1 className="main-heading">Trusts – A Comprehensive Overview</h1>
             <div className='heading-line'></div>
-            <TrustsComp cityName={'India'}/>
+            <TrustsComp cityName={'India'} />
             <h1 className='main-heading'>Parties Involved in the Trust Registration Process</h1>
             <div className='heading-line'></div>
             <PartiesInvolved cityName={'India'} />
@@ -380,31 +377,31 @@ const Home = () => {
             <Categories cityName={'India'} />
             <h1 className='main-heading'>Regulatory Oversight and Legislation for Trust Registration</h1>
             <div className='heading-line'></div>
-            <Regularity cityName={'India'}/>
+            <Regularity cityName={'India'} />
             <h1 className="main-heading">Importance of Trust Registration</h1>
             <div className='heading-line'></div>
-            <ImportanceTrust cityName={'India'}/>
+            <ImportanceTrust cityName={'India'} />
             <h1 className="main-heading">Advantages of Trust Registration</h1>
             <div className='heading-line'></div>
-            <Advantages  cityName={'India'}/>
+            <Advantages cityName={'India'} />
             <h1 className="main-heading">Prerequisites for Trust Registration</h1>
             <div className='heading-line'></div>
-            <Prerequisite  cityName={'India'}/>
+            <Prerequisite cityName={'India'} />
             <h1 className="main-heading">Components of a Trust Deed</h1>
             <div className='heading-line'></div>
-            <Components  cityName={'India'}/>
+            <Components cityName={'India'} />
             <h1 className="main-heading">Documentation for Trust Registration</h1>
             <div className='heading-line'></div>
-            <Documentation cityName={'India'}/>   
+            <Documentation cityName={'India'} />
             <h1 className="main-heading">Procedure for Trust Registration</h1>
             <div className='heading-line'></div>
-            <Procedure cityName={'India'}/>   
+            <Procedure cityName={'India'} />
             <h1 className="main-heading">Dissolution of a Trust</h1>
             <div className='heading-line'></div>
-            <Dissolution cityName={'India'}/>
+            <Dissolution cityName={'India'} />
             <h1 className="main-heading">How RegisterKaro Can Assist in Securing Trust Registration?</h1>
             <div className='heading-line'></div>
-            <RegiFee  cityName={'India'}/> 
+            <RegiFee cityName={'India'} />
             <h1 className="main-heading">Why RegisterKaro?</h1>
             <div className='heading-line'></div>
             <WhyRegisterkaro />

@@ -101,9 +101,9 @@ let state = [
     "uttar-pradesh",
     "uttarakhand",
     "west-bengal"
-  ]
-  
-  let city = [
+]
+
+let city = [
     "mumbai",
     "firozabad",
     "new-delhi",
@@ -350,11 +350,11 @@ let state = [
     "visakhapatnam",
     "warangal",
     "yamunanagar"
-  ]
-  
+]
 
 
-  function formatString(input: string) {
+
+function formatString(input: string) {
     let words = input.split('-')
     let formattedString = words.map((word: string) => {
         return word.charAt(0).toUpperCase() + word.slice(1)
@@ -365,7 +365,7 @@ let state = [
 const Home = () => {
     const router = useRouter();
     const query = router.query.id as string;
-  
+
     useEffect(() => {
         console.log('q', query);
     }, [query]);
@@ -383,21 +383,18 @@ const Home = () => {
             <Head>
                 <title>Trust Registration | RegisterKaro</title>
                 <meta name="description" content="The Official RegisterKaro" />
-                <meta name="robots" content="noindex,nofollow" />
-                <meta name="googlebot" content="noindex,nofollow" />
-                <meta name="robots" content="all" />
-                <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
-                <meta name="google" content="notranslate" key="notranslate" />
+                <link rel="canonical" href="https://www.registerkaro.in/trust-registration" />
                 <link rel="icon" href="/favicon.ico" />
-                {/* <link rel="canonical" href="https://www.registerkaro.in/ads/public-limited-company-registration" /> */}
+                <meta property="og:title" content="Trust Registration | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
             <Hero cityName={cityName} />
             <h1 className='main-heading'>Get Online Trust Registration in {cityName}</h1>
             <div className='heading-line'></div>
-            <Process cityName={cityName}/>
+            <Process cityName={cityName} />
             <h1 className="main-heading">Trusts – A Comprehensive Overview</h1>
             <div className='heading-line'></div>
-            <TrustsComp cityName={cityName}/>
+            <TrustsComp cityName={cityName} />
             <h1 className='main-heading'>Parties Involved in the Trust Registration Process</h1>
             <div className='heading-line'></div>
             <PartiesInvolved cityName={cityName} />
@@ -406,31 +403,31 @@ const Home = () => {
             <Categories cityName={cityName} />
             <h1 className='main-heading'>Regulatory Oversight and Legislation for Trust Registration</h1>
             <div className='heading-line'></div>
-            <Regularity cityName={cityName}/>
+            <Regularity cityName={cityName} />
             <h1 className="main-heading">Importance of Trust Registration</h1>
             <div className='heading-line'></div>
-            <ImportanceTrust cityName={cityName}/>
+            <ImportanceTrust cityName={cityName} />
             <h1 className="main-heading">Advantages of Trust Registration</h1>
             <div className='heading-line'></div>
-            <Advantages  cityName={cityName}/>
+            <Advantages cityName={cityName} />
             <h1 className="main-heading">Prerequisites for Trust Registration</h1>
             <div className='heading-line'></div>
-            <Prerequisite  cityName={cityName}/>
+            <Prerequisite cityName={cityName} />
             <h1 className="main-heading">Components of a Trust Deed</h1>
             <div className='heading-line'></div>
-            <Components  cityName={cityName}/>
+            <Components cityName={cityName} />
             <h1 className="main-heading">Documentation for Trust Registration</h1>
             <div className='heading-line'></div>
-            <Documentation cityName={cityName}/>   
+            <Documentation cityName={cityName} />
             <h1 className="main-heading">Procedure for Trust Registration</h1>
             <div className='heading-line'></div>
-            <Procedure cityName={cityName}/>   
+            <Procedure cityName={cityName} />
             <h1 className="main-heading">Dissolution of a Trust</h1>
             <div className='heading-line'></div>
-            <Dissolution cityName={cityName}/>
+            <Dissolution cityName={cityName} />
             <h1 className="main-heading">How RegisterKaro Can Assist in Securing Trust Registration?</h1>
             <div className='heading-line'></div>
-            <RegiFee  cityName={cityName}/> 
+            <RegiFee cityName={cityName} />
             <h1 className="main-heading">Why RegisterKaro?</h1>
             <div className='heading-line'></div>
             <WhyRegisterkaro />
