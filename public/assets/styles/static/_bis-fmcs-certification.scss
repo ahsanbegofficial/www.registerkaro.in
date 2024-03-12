@@ -1,0 +1,26 @@
+.bis-fmcs-certification-reg {
+  .line{
+    width: 4px;
+    background-color: #e9a038;
+  }
+  @media screen and (max-width: 990px) {
+    .line{
+      display: none;
+    }
+    .Requirements-img {
+      height: 100%;
+    }
+    .KeyGuidelines-img {
+      height: 100%;
+    }
+    .BisStandard-img {
+      height: 100%;
+    }
+    .Importance-img {
+      height: 100%;
+    }
+    .DocRequiredBIS-img {
+      height: 100%;
+    }
+  }
+}
