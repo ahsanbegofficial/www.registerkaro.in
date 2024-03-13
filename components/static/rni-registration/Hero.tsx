@@ -7,12 +7,12 @@ import { GoogleDiv } from '../GoogleDiv';
 
 let hero = {
     "pack_includes": [
-        "2 DIN and DSC for two Directors",
-        "Drafting of MoA & AoA",
-        "Registration fees and stamp duty",
-        "Company Incorporation Certificate",
-        "Company PAN and TAN",
-        "ZohoBooks subscription"
+        "Expert Advisory",
+        "Process Consultation",
+        "Comprehensive Documentation",
+        "Post-registration support",
+        "Notarization Services",
+        "Legal Compliances"
     ]
 }
 interface HeroProps {
@@ -32,8 +32,8 @@ export const Hero = ({ cityName }: HeroProps) => {
                 className="background-image"
             />
             <div className="header-content">
-            <h4 className='mb-4'>RNI Registration</h4>
-                <p>Obtain the authorization from office of Registrar of Newspapers of { cityName } (RNI), and begin the process of publishing your own newspaper. Get in touch with our RNI registration consultant to start the process of RNI online registration.</p>
+                <h4 className='mb-4'>RNI Registration</h4>
+                <p>Obtain the authorization from office of Registrar of Newspapers of {cityName} (RNI), and begin the process of publishing your own newspaper. Get in touch with our RNI registration consultant to start the process of RNI online registration.</p>
                 <div className="packages">
                     {hero.pack_includes?.map((i: any, n: number) => {
                         return (
