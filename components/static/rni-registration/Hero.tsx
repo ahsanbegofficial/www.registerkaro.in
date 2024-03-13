@@ -7,15 +7,19 @@ import { GoogleDiv } from '../GoogleDiv';
 
 let hero = {
     "pack_includes": [
-        "Expert Advisory",
-        "Bank Account opening",
-        "Application drafting and filing",
-        "Post registration Compliances",
-        "Comprehensive Documentation"
+        "2 DIN and DSC for two Directors",
+        "Drafting of MoA & AoA",
+        "Registration fees and stamp duty",
+        "Company Incorporation Certificate",
+        "Company PAN and TAN",
+        "ZohoBooks subscription"
     ]
 }
+interface HeroProps {
+    cityName: string;
+}
 
-export const Hero = () => {
+export const Hero = ({ cityName }: HeroProps) => {
     return (
         <div className="hero align-center mobile-flex-column">
             <Image
@@ -28,8 +32,8 @@ export const Hero = () => {
                 className="background-image"
             />
             <div className="header-content">
-            <h4 className='mb-4'>Company Registration in Oman</h4>
-                <p>All business sectors and corporate structures, including the Free Zones, are served by RegisterKaro’s company creation and management services in Oman, together with the government relations and employer support services necessary to reach long-term viability.</p>
+            <h4 className='mb-4'>RNI Registration</h4>
+                <p>Obtain the authorization from office of Registrar of Newspapers of { cityName } (RNI), and begin the process of publishing your own newspaper. Get in touch with our RNI registration consultant to start the process of RNI online registration.</p>
                 <div className="packages">
                     {hero.pack_includes?.map((i: any, n: number) => {
                         return (
@@ -45,7 +49,7 @@ export const Hero = () => {
                 <GoogleDiv />
             </div>
             <div className="zoho">
-                <ZohoFormService service={'oman-company-registration'} />
+                <ZohoFormService service={'rni-registration'} />
             </div>
         </div>
     )

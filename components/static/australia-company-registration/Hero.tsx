@@ -29,7 +29,7 @@ export const Hero = () => {
             />
             <div className="header-content">
             <h4 className='mb-4'>Company Registration in Australia</h4>
-                <p></p>
+                <p>Now grow your business beyond national borders. Go international with RegisterKaro. Register your company in Australia easily, that too in just a few clicks!</p>
                 <div className="packages">
                     {hero.pack_includes?.map((i: any, n: number) => {
                         return (
@@ -45,7 +45,7 @@ export const Hero = () => {
                 <GoogleDiv />
             </div>
             <div className="zoho">
-                <ZohoFormService service={'private-limited-company-registration'} />
+                <ZohoFormService service={'australia-company-registration'} />
             </div>
         </div>
     )
