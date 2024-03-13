@@ -7,16 +7,15 @@ import { GoogleDiv } from '../GoogleDiv';
 
 let hero = {
     "pack_includes": [
-        "2 DIN and DSC for two Directors",
-        "Drafting of MoA & AoA",
-        "Registration fees and stamp duty",
-        "Company Incorporation Certificate",
-        "Company PAN and TAN",
-        "ZohoBooks subscription"
+        "Virtual Office Address",
+        "Mail and Package Handling",
+        "Call Handling",
+        "Virtual Meeting Solutions",
+        "Flexible Workspace Access"
     ]
 }
 
-interface HeroProps { cityName: string;}
+interface HeroProps { cityName: string; }
 export const Hero = ({ cityName }: HeroProps) => {
     return (
         <div className="hero align-center mobile-flex-column">
@@ -30,7 +29,7 @@ export const Hero = ({ cityName }: HeroProps) => {
                 className="background-image"
             />
             <div className="header-content">
-            <h4 className='mb-4'>Virtual Office</h4>
+                <h4 className='mb-4'>Virtual Office</h4>
                 <p>Are you looking for Virtual Office anywhere in {cityName}? If yes, Avail the most cost effective & professional Virtual Office at a premium location without bearing its high rent. RegisterKaro provide Virtual Office at Premium business center and also you can avail a dedicated phone number and a virtual receptionist by paying additional charges.</p>
                 <div className="packages">
                     {hero.pack_includes?.map((i: any, n: number) => {
