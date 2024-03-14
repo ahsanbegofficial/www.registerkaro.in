@@ -36,7 +36,7 @@ const Terms = () => {
         </ul>
         <br />
         <h3>Refund Policy</h3>
-        <p>When you buy our products/services, your purchase is covered by our 2 hours money-back guarantee. If you are, for any reason, not entirely happy with your purchase, we will cheerfully issue a full refund, subject to deductions for legal documents or services provided. To request a refund under this guarantee, you must contact us within the first 2 hours of your payment. Just send an email to <Link href="mailto:support@registerkaro.in">support@registerkaro.in</Link> We{`'`}ll gladly refund you 100% of your fees within 24-72 hours of your refund request.</p>
+        <p>When you buy our products/services, your purchase is covered by our 2 hours money-back guarantee. If you are, for any reason, not entirely happy with your purchase, we will cheerfully issue a full refund, subject to deductions for legal documents or services provided. To request a refund under this guarantee, you must contact us within the first 2 hours of your payment. Just send an email to <Link href="mailto:accounting@registerkaro.in">accounting@registerkaro.in</Link> We{`'`}ll gladly refund you 100% of your fees within 24-72 hours of your refund request.</p>
         <br />
         <h3>Privacy Policy</h3>
         <p>This privacy policy sets out how Registerkaro uses and protects any information that you provide to RegisterKaro when you use this website.</p>
