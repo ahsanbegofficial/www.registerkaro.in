@@ -114,8 +114,30 @@
       }
     }
   }
+  .content-body {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    position: relative;
+    .content {
+      flex: 6;
+    }
+    .sidebar {
+      flex: 3;
+      margin-top: 80px;
+      .sticky {
+        position: sticky;
+        top: 80px;
+      }
+    }
+  }
   .related-blogs {
     margin-top: 40px;
+  }
+  @media screen and (max-width: 900px) {
+    .sidebar {
+      display: none;
+    }
   }
 }
 

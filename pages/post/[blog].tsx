@@ -11,6 +11,7 @@ import WebPage from "../../components/blogSchema/WebPage";
 import FAQPage from "../../components/blogSchema/FAQPage";
 import { CustomDefault } from "../../components/child_components/CustomDefault";
 import axios from "axios";
+import ZohoFormService from "../../components/child_components/ZohoformService";
 
 interface BlogData {
   title: {
@@ -157,8 +158,8 @@ export default function Home({ result }: { result: any }) {
         blog && (
           <section className="section-padding blog-details">
             <div className="container">
-              <div className="row gx-xl-5">
-                <div className="col-md-12 col-lg-8 mb-4 mb-md-0 blog-details__content">
+              <div className="content-body">
+                <div className="blog-details__content content">
                   <div className="post__top">
                     <div className="container">
                       <div className="row">
@@ -282,16 +283,18 @@ export default function Home({ result }: { result: any }) {
                           onChange={(e) => setContent(e.target.value)}
                         />
                         <span className="btn__primary">
-                        {/* <span className="btn__primary" onClick={handleSubmit}> */}
+                          {/* <span className="btn__primary" onClick={handleSubmit}> */}
                           <span>Comment</span>
                         </span>
                       </div>
                     </div>
                   </div>
                 </div>
-                <aside className="col-md-12 col-lg-4 mb-4 mb-md-0 sidebar">
-                  <SinglePageSidebar />
-                </aside>
+                <div className="sidebar display-1200-none">
+                  <div className="sticky">
+                    <ZohoFormService service={tl} />
+                  </div>
+                </div>
               </div>
               <div className="related-blogs">
                 <h3 className="mb-4">Related Blog</h3>

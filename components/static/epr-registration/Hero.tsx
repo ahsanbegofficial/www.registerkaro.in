@@ -10,7 +10,6 @@ let hero = {
         "Free Experts Assistance",
         "Minimum Price guaranteed",
         "Quick and Hassle-Free Process",
-        "20 years experience & Serving more than 1100+ companies",
         "Providing one stop solution for all Annual compliancesn"
     ]
 }
