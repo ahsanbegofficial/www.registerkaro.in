@@ -42,20 +42,17 @@ const faq = [
 ]
 
 
-  
+
 const Home = () => {
     return (
         <div className='services-pages canada-regi'>
             <Head>
-                {/* <title>Private Limited Company Registration | RegisterKaro</title> */}
-                {/* <meta name="description" content="The Official RegisterKaro" /> */}
-                <meta name="robots" content="noindex,nofollow" />
-                <meta name="googlebot" content="noindex,nofollow" />
-                <meta name="robots" content="all" />
-                <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
-                <meta name="google" content="notranslate" key="notranslate" />
+                <title>Company Registration in Canada | RegisterKaro</title>
+                <meta name="description" content="The Official RegisterKaro" />
+                <link rel="canonical" href="https://www.registerkaro.in/canada-company-registration" />
                 <link rel="icon" href="/favicon.ico" />
-                {/* <link rel="canonical" href="https://www.registerkaro.in/ads/public-limited-company-registration" /> */}
+                <meta property="og:title" content="Company Registration in Canada | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
             </Head>
             <Hero />
             <h1 className='main-heading'>An Overview of Company Registration in Canada</h1>
@@ -78,7 +75,7 @@ const Home = () => {
             <ProcessCompany />
             <h1 className='main-heading'>Why Choose RegisterKaro for Company Registration in Canada?</h1>
             <div className='heading-line'></div>
-            <WhyChoose/>
+            <WhyChoose />
             <h1 className="main-heading">Why RegisterKaro?</h1>
             <div className='heading-line'></div>
             <WhyRegisterkaro />

@@ -199,6 +199,10 @@ function generateSiteMap() {
 <loc>${GLOBAL_VARIABLE}/esi-registration</loc>
 <lastmod>2021-06-28</lastmod>
 </url>
+<url>
+<loc>${GLOBAL_VARIABLE}/canada-company-registration</loc>
+<lastmod>2021-06-28</lastmod>
+</url>
    </urlset>
  `;
 }
