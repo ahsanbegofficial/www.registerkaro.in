@@ -49,7 +49,7 @@ export const Hero = ({ cityName }: HeroProps) => {
                 <GoogleDiv />
             </div>
             <div className="zoho">
-                <ZohoFormService service={'private-limited-company-registration'} />
+                <ZohoFormService service={'medical-device-registration'} />
             </div>
         </div>
     )
