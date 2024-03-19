@@ -11,7 +11,7 @@ export const WhatConseq = () => {
         <Image
           alt="What are the Consequences of Non-Compliance for LLPs?"
           className="Consequences-img w-100"
-          height={280}
+          height={382}
           loading="lazy"
           src={documents}
         />

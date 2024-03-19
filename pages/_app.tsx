@@ -8,7 +8,7 @@ import ZohoSalesIQ from "../components/base_layout/ZohoSalesIq";
 
 export default function App({ Component, pageProps, router }: AppProps) {
   const excludeHeaderFolders = ['/404', '/ads/private-company-registration'];
-  const excludeFooterFolders = ['/404', '/ads/pvt-registration', '/ads/private-company-registration'];
+  const excludeFooterFolders = ['/404', '/ads/pvt-registration', '/ads/private-company-registration','/thank-you'];
   const excludeZohoSalesIQ = ['/404', '/ads/pvt-registration', '/ads/private-company-registration','/payment','/admin-dashboard','/payment-admin'];
 
   const shouldRenderHeader = !excludeHeaderFolders.some((path) =>

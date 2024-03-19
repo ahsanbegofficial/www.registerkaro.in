@@ -7,16 +7,18 @@ import { GoogleDiv } from '../GoogleDiv';
 
 let hero = {
     "pack_includes": [
-        "Drafting required documents for filing LLP compliance",
-        "Preparation of Forms to be filed",
-        "Online Filing of Annual Return",
-        "Online Filing of Statement of Accounts & Solvency",
+        "Consultancy with Expert",
+        "Documents preparation",
+        "Follow up with Department",
+        "Registration Certificate",
     ]
 }
 
+
 interface HeroProps {
-   cityName: string;
+    cityName: string;
 }
+
 
 export const Hero = ({ cityName }: HeroProps) => {
     return (
@@ -31,8 +33,8 @@ export const Hero = ({ cityName }: HeroProps) => {
                 className="background-image"
             />
             <div className="header-content">
-            <h4 className='mb-4'>Annual Compliance for LLP</h4>
-                <p>Avoid heavy penalties by timely filing Annual Compliance for LLP with RegisterKaro!</p>
+            <h4 className='mb-4'>DRUG LICENSE</h4>
+                <p>"Stay Legal, Stay Safe: Register Your Drug License Today!” To start a business in pharmaceutical industry including Ayurvedic & Unani Drugs, one must have to get a drug license to operate legally. As per Drugs Act, 1940, Drug license is mandatory throughout {cityName}. A particular license is needed on the type of business requirement. Obtain your Drug License from RegisterKaro hassle free.</p>
                 <div className="packages">
                     {hero.pack_includes?.map((i: any, n: number) => {
                         return (

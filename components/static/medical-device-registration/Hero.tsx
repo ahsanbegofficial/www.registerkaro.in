@@ -7,16 +7,17 @@ import { GoogleDiv } from '../GoogleDiv';
 
 let hero = {
     "pack_includes": [
-        "Drafting required documents for filing LLP compliance",
-        "Preparation of Forms to be filed",
-        "Online Filing of Annual Return",
-        "Online Filing of Statement of Accounts & Solvency",
+        "Consultancy with Expert",
+        "Documents preparation",
+        "Follow up with Department",
+        "Registration Certificate",
     ]
 }
 
 interface HeroProps {
-   cityName: string;
+    cityName: string;
 }
+
 
 export const Hero = ({ cityName }: HeroProps) => {
     return (
@@ -31,8 +32,8 @@ export const Hero = ({ cityName }: HeroProps) => {
                 className="background-image"
             />
             <div className="header-content">
-            <h4 className='mb-4'>Annual Compliance for LLP</h4>
-                <p>Avoid heavy penalties by timely filing Annual Compliance for LLP with RegisterKaro!</p>
+            <h4 className='mb-4'>Medical Device Registration</h4>
+                <p>Are you tired of doing all the work for Medical Device Registration by yourself? Don’t worry anymore when we are here. We offer Medical Device Registration hassle-free and at an affordable cost. So do not wait and contact us quickly.</p>
                 <div className="packages">
                     {hero.pack_includes?.map((i: any, n: number) => {
                         return (
