@@ -32,8 +32,9 @@ const TestimonialSmallContent = () => {
 
   return (
     <div className="col-lg-7 mx-auto test box-shadow">
-     <div className="hero-content">
-      <h1>Want to incorporate company</h1>
+     <div className="hero-content mt-4">
+      <h1 className="text-center">Thank you for submit your details</h1>
+      <p className="text-center">provide me your business details, so that we can connect with you!</p>
      </div>
     </div>
   );
