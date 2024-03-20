@@ -37,6 +37,9 @@ export default function Home() {
       <Script id="pagesense" src="https://cdn-in.pagesense.io/js/60026709743/82347cc123444452a9f555d135a7a4c5.js" />
       <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9BCLJM"
         height="0" width="0" style={{ display: 'none', visibility: 'hidden' }}></iframe></noscript>
+      <noscript><img height="0" width="0" style={{ display: 'none', visibility: 'hidden' }}
+        src="https://www.facebook.com/tr?id=3045522935711858&ev=PageView&noscript=1"
+      /></noscript>
     </div>
   );
 }
