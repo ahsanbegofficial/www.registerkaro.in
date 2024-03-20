@@ -8,8 +8,8 @@ import ZohoSalesIQ from "../components/base_layout/ZohoSalesIq";
 
 export default function App({ Component, pageProps, router }: AppProps) {
   const excludeHeaderFolders = ['/404', '/ads/private-company-registration'];
-  const excludeFooterFolders = ['/404', '/ads/pvt-registration', '/ads/private-company-registration','/thank-you'];
-  const excludeZohoSalesIQ = ['/404', '/ads/pvt-registration', '/ads/private-company-registration','/payment','/admin-dashboard','/payment-admin'];
+  const excludeFooterFolders = ['/404', '/ads/pvt-registration', '/ads/private-company-registration', '/thank-you'];
+  const excludeZohoSalesIQ = ['/404', '/ads/pvt-registration', '/ads/private-company-registration', '/payment', '/admin-dashboard', '/payment-admin'];
 
   const shouldRenderHeader = !excludeHeaderFolders.some((path) =>
     router.asPath.startsWith(path)
@@ -49,6 +49,21 @@ export default function App({ Component, pageProps, router }: AppProps) {
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer','GTM-M9BCLJM');
+          `,
+      }}
+      />
+      <Script id="facebook" dangerouslySetInnerHTML={{
+        __html: `
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '3045522935711858');
+        fbq('track', 'PageView');
           `,
       }}
       />

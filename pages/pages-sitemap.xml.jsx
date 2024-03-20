@@ -215,6 +215,14 @@ function generateSiteMap() {
 <loc>${GLOBAL_VARIABLE}/medical-device-registration</loc>
 <lastmod>2021-06-28</lastmod>
 </url>
+<url>
+<loc>${GLOBAL_VARIABLE}/mauritius-company-registration</loc>
+<lastmod>2021-06-28</lastmod>
+</url>
+<url>
+<loc>${GLOBAL_VARIABLE}/singapore-company-registration</loc>
+<lastmod>2021-06-28</lastmod>
+</url>
    </urlset>
  `;
 }
