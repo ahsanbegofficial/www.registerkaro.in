@@ -1,88 +1,70 @@
-import Image from 'next/image'
-import data from "../assets/data/testimonial.json"
-import circle from '../assets/images/ads/blueCircle.png'
-import { BusinessFormThankYou } from '../components/child_components/BusinessFormThankYou'
-import { BusinessFormMoblieThankYou } from '../components/child_components/BusinessFormMoblieThankYou'
-import { GoogleReview } from '../components/child_components/GoogleReview'
-import TestimonialSliderSmallPhone from '../components/child_components/TestimonialSliderSmallPhone'
-import TestimonialSmall from '../components/landing/TestimonialSmall'
-import { useState } from 'react'
-import info from '../assets/images/ads/info.png'
-import Whatsapp from '../components/child_components/Whatsapp'
-import TestimonialSmallContent from '../components/landing/TestimonialSmallContent'
+import Lottie from "react-lottie";
+import animationData from "../assets/data/payment-completed.json";
+import tick from "../assets/images/thank-you/payment-tick.webp";
+import first from "../assets/images/thank-you/first.webp";
+import second from "../assets/images/thank-you/second.webp";
+import third from "../assets/images/thank-you/third.webp";
+import Image from "next/image";
+import Card from 'react-bootstrap/Card';
+import Head from "next/head";
+
+const defaultOptions = {
+    loop: true,
+    autoplay: true,
+    animationData,
+    rendererSettings: {
+        preserveAspectRatio: "xMidYMid slice"
+    }
+};
 
 const Home = () => {
-    const { testimonial } = data;
-    const { review } = testimonial;
-    const [active, setActive] = useState('1')
-
-    const handleActive = (id: string) => {
-        setActive(id)
-    }
-    let hero = {
-        "pack_includes": [
-            "2 DIN and DSC for two Directors",
-            "Drafting of MoA & AoA",
-            "Registration fees and stamp duty",
-            "Company Incorporation Certificate",
-            "Company PAN and TAN",
-            "ZohoBooks subscription"
-        ],
-        "companyDes": "Get your Private Limited Company Registration",
-        "price": "Rs.1,999/-",
-        "days": "14 days",
-        "companyName": "Private Limited Company Registration In",
-        "subtitle": " of Private Limited Company Registration",
-        "subtitle2": " required For Private Limited Company Registration"
-    }
-
     return (
-        <>
-            <div className='pvt-registration-thank-you'>
-                <div className='position-thank-you'>
-                    <div className='business-main-form-thank-you'>
-                        <TestimonialSmallContent />
-                        <div className='right-main-form'>
-                            <BusinessFormThankYou />
-                            <GoogleReview />
-                        </div>
-                    </div>
+        <div className='thank-you'>
+            <Head>
+                <title>Thank You | RegisterKaro</title>
+                <meta name="description" content="The Official RegisterKaro" />
+                <link rel="icon" href="/favicon.ico" />
+                <link rel="canonical" href="https://www.registerkaro.in/thank-you" />
+                <meta property="og:title" content="Thank You | RegisterKaro" />
+                <meta property="og:description" content="The Official RegisterKaro" />
+            </Head>
+            <div className="upper">
+                <div className="left">
+                    <Lottie options={defaultOptions} />
                 </div>
-                <div className='business-main-form-bottom'></div>
-                <div className='circle-position'>
-                    <Image src={circle} alt={'circle-img'} height={250} width={150} />
-                </div>
-            </div>
-
-
-            <div className='pvt-registration-mobile-thank-you'>
-                <div className='position-thank-you'>
-                    <div className='business-main-form-thank-you'>
-                        <div className='right-main-form'>
-                            <BusinessFormMoblieThankYou />
-                            <GoogleReview />
-                        </div>
-                    </div>
-                    <div className="box-shadow active-main-container">
-                        <p className="text-first"><strong>30,000+</strong> Businesses registered</p>
-                        <p className="text-second"><strong>20% of all Indian businesses register with us</strong></p>
-                        <div className="first-div">
-                            <p><strong>Step 1: Enter Basic Company Details</strong></p>
-                            <p>Fill in your company name, indicate its size (small, medium, large), specify the number of employees, and select your company's state</p>
-                            <p><strong>Step 2: Submit Your Information</strong></p>
-                            <p>Click the submit button to send us your details</p>
-                            <p><strong>Step 3: Verification and Access</strong></p>
-                            <p>Our team will review your information. Once verified, you'll gain access to our services tailored to your company's needs</p>
-                        </div>
-                    </div>
-                </div>
-                <div className='business-main-form-bottom'></div>
-                <div className='circle-position'>
-                    <Image src={circle} alt={'circle-img'} height={250} width={150} />
+                <div className="right">
+                    <Image src={tick} alt='tick' />
+                    <p className="heading">Thank You!</p>
+                    <p>Please check your email. A detailed quotation to <span>register your <br />company</span> has been sent to your email address! <br />You can also reach us at <a href="tel:+918447746183" className="number">+918447746183</a></p>
                 </div>
             </div>
-            <Whatsapp Query={'thank-you'} />
-        </>
+            <p className="heading2">What's next?</p>
+            <div className='other-services'>
+                <div className="cardContainer container p-5 gap-5">
+                    <Card className="p-2 cardBorder cardBorderEffect">
+                        <Card.Body className='text-center'>
+                            <Image src={first} alt='image' />
+                            <Card.Title>1.Assigned</Card.Title>
+                            <Card.Text className="mt-4 mb-4 cardTextServices">A RegisterKaro business expert has been assigned to you.</Card.Text>
+                        </Card.Body>
+                    </Card>
+                    <Card className="p-2 cardBorder cardBorderEffect">
+                        <Card.Body className='text-center'>
+                            <Image src={second} alt='image' />
+                            <Card.Title>2.Check E-mail</Card.Title>
+                            <Card.Text className="mt-4 mb-4 cardTextServices">Check your email inbox. A detailed quotation along with the next steps are included.</Card.Text>
+                        </Card.Body>
+                    </Card>
+                    <Card className="p-2 cardBorder cardBorderEffect">
+                        <Card.Body className='text-center'>
+                            <Image src={third} alt='image' />
+                            <Card.Title>3.Talk to expert</Card.Title>
+                            <Card.Text className="mt-4 mb-4 cardTextServices">Meanwhile, A RegisterKaro business expert who has been assigned will get in touch with you shortly.</Card.Text>
+                        </Card.Body>
+                    </Card>
+                </div>
+            </div>
+        </div>
     )
 }
 export default Home
