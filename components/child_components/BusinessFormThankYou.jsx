@@ -79,7 +79,7 @@ export const BusinessFormThankYou = () => {
 
 
     return (
-        <div className='business-form'>
+        <div className='business-form-thank-you'>
             <form onSubmit={handleSubmit} className="form">
                 <h4 class="text-center">Fill in the bellow details to know which business structure suits you best</h4>
                 <div class="progressbar">

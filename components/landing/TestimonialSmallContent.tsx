@@ -31,11 +31,23 @@ const TestimonialSmallContent = () => {
   }
 
   return (
-    <div className="col-lg-7 mx-auto test box-shadow">
-     <div className="hero-content mt-4">
-      <h1 className="text-center">Thank you for submit your details</h1>
-      <p className="text-center">provide me your business details, so that we can connect with you!</p>
-     </div>
+    <div className="test box-shadow">
+      <div className="hero-content mt-4">
+        <p className="text-first"><strong>30,000+</strong> Businesses registered</p>
+        <p className="text-second"><strong>20% of all Indian businesses register with us</strong></p>
+        <div className="first-div">
+          <p><strong>Step 1: Enter Company Name</strong></p>
+          <p>Begin by entering your desired company name into the designated field</p>
+          <p className="mt-2"><strong>Step 2: Business Age</strong></p>
+          <p>Provide the age of your business by inputting the number of years since its establishment</p>
+          <p className="mt-2"><strong>Step 3: No. of Employees</strong></p>
+          <p>Specify the number of employees currently working in your business</p>
+          <p className="mt-2"><strong>Step 4: No. of Partners</strong></p>
+          <p>If applicable, indicate the number of partners involved in your business venture</p>
+          <p className="mt-2"><strong>Step 5: Submit</strong></p>
+          <p>Submit the form to proceed with the filing process and one of our expert will contact you</p>
+        </div>
+      </div>
     </div>
   );
 };
