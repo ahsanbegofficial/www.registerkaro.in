@@ -4,6 +4,7 @@ import { useState } from 'react'
 import RightArrow from '../../../assets/images/virtualoffice/RightArrow.svg'
 import access from '../../../assets/images/virtualoffice/access.png'
 import BG from "../../../assets/images/virtualoffice/bgVirtual.svg"
+import BG1 from "../../../assets/images/virtualoffice/bgimagew.webp"
 import cost from '../../../assets/images/virtualoffice/cost.png'
 import document from '../../../assets/images/virtualoffice/document.png'
 import Gurgaon from '../../../assets/images/virtualoffice/Gurgaon.svg'
@@ -16,7 +17,8 @@ import Chandigarh from '../../../assets/images/virtualoffice/Chandigarh.svg'
 import Chennai from '../../../assets/images/virtualoffice/Chennai.svg'
 import viewMore from '../../../assets/images/virtualoffice/viewMore.svg'
 import flexibility from '../../../assets/images/virtualoffice/flexibility.png'
-import importance from '../../../assets/images/virtualoffice/importance.jpg'
+import importance from '../../../assets/images/virtualoffice/startw.webp'
+// import importance from '../../../assets/images/virtualoffice/importance.jpg'
 import network from '../../../assets/images/virtualoffice/network.png'
 import process from '../../../assets/images/virtualoffice/process.png'
 import professional from '../../../assets/images/virtualoffice/professional.png'
@@ -47,7 +49,7 @@ const Home = () => {
       <ModalPopUp active={active} setActive={setActive} />
       <div className="hero mobile-flex-column">
         <Image
-          src={BG}
+          src={BG1}
           alt="Background Image"
           layout="fill"
           objectFit="cover"
