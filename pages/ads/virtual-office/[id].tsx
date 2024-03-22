@@ -2,32 +2,34 @@ import Head from 'next/head'
 import Image from 'next/image'
 import { useRouter } from 'next/router'
 import { useState } from 'react'
-import Ahmedabad from '../../../assets/images/virtualoffice/Ahmedabad.svg'
-import Bangalore from '../../../assets/images/virtualoffice/Bangalore.svg'
-import Chandigarh from '../../../assets/images/virtualoffice/Chandigarh.svg'
-import Chennai from '../../../assets/images/virtualoffice/Chennai.svg'
-import Delhi from '../../../assets/images/virtualoffice/Delhi.svg'
-import Gurgaon from '../../../assets/images/virtualoffice/Gurgaon.svg'
-import Mumbai from '../../../assets/images/virtualoffice/Mumbai.svg'
+import Ahmedabad from '../../../assets/images/virtualoffice/Ahmedabad.webp'
+import Bangalore from '../../../assets/images/virtualoffice/Bangalore.webp'
+import Chandigarh from '../../../assets/images/virtualoffice/Chandigarh.webp'
+import Chennai from '../../../assets/images/virtualoffice/Chennai.webp'
+import Delhi from '../../../assets/images/virtualoffice/Delhi.webp'
+import Gurgaon from '../../../assets/images/virtualoffice/Gurgaon.webp'
+import Mumbai from '../../../assets/images/virtualoffice/Mumbai.webp'
 import RightArrow from '../../../assets/images/virtualoffice/RightArrow.svg'
 import access from '../../../assets/images/virtualoffice/access.png'
 import BG from "../../../assets/images/virtualoffice/bgimagew.webp"
 import cost from '../../../assets/images/virtualoffice/cost.png'
 import document from '../../../assets/images/virtualoffice/document.png'
 import flexibility from '../../../assets/images/virtualoffice/flexibility.png'
+import Noida from '../../../assets/images/virtualoffice/noida.webp'
 // import importance from '../../../assets/images/virtualoffice/importance.jpg'
-import importance from '../../../assets/images/virtualoffice/startw.webp'
 import network from '../../../assets/images/virtualoffice/network.png'
-import Noida from '../../../assets/images/virtualoffice/noida.svg'
 import process from '../../../assets/images/virtualoffice/process.png'
 import professional from '../../../assets/images/virtualoffice/professional.png'
 import rupee from '../../../assets/images/virtualoffice/rupee.png'
+import importance from '../../../assets/images/virtualoffice/startw.webp'
 import tick from '../../../assets/images/virtualoffice/tick.svg'
 import viewMore from '../../../assets/images/virtualoffice/viewMore.svg'
 import ModalPopUp from '../../../components/child_components/Modal'
 import { Slider } from '../../../components/child_components/Slider'
 import { VirtualOfficeFaq } from '../../../components/child_components/VirtualOfficeFaq'
 import ZohoformVirtualOFCCity from '../../../components/child_components/ZohoformVirtualOFCCity'
+// import importance from '../../../assets/images/virtualoffice/importance.jpg'
+
 
 export default function Home() {
     const [active, setActive] = useState(false)
@@ -66,7 +68,7 @@ export default function Home() {
                     className="background-image"
                 />
                 <div className="header-content">
-                    <h4>Unlock the <span className='color-orange'>Benefits of Getting a Virtual Office</span> Services in {Query || ''}</h4>
+                    <h1>Unlock the <span className='color-orange'>Benefits of Getting a Virtual Office</span> Services in {Query || ''}</h1>
                     <p className='des'>Build your company's presence with a virtual office in {Query || ''}. Our extensive global network of workspaces gives you a real business address in prime locations, with a wide range of mail handling options and call answering services available, plus access to meeting rooms and desk space whenever you need it.</p>
                     <p className='price'>Only @ Rs. 1,500 per month.</p>
                     <div className="cities">

@@ -68,7 +68,7 @@ export default function Carroussel(props) {
                             key={card.key}
                             className={`testimonial-text-item ${index === centeredIndex ? 'active' : ''}`}
                         >
-                            <h6 className="testimonials__cite__name">{card.name}</h6>
+                            <h3 className="testimonials__cite__name">{card.name}</h3>
                             <small className="testimonials__cite__title">{card.title}</small>
                             <small className="testimonials__cite__locale">{card.locale}</small>
                         </div>

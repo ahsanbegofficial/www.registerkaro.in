@@ -1,23 +1,22 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import { useState } from 'react'
+import Ahmedabad from '../../../assets/images/virtualoffice/Ahmedabad.webp'
+import Bangalore from '../../../assets/images/virtualoffice/Bangalore.webp'
+import Chandigarh from '../../../assets/images/virtualoffice/Chandigarh.webp'
+import Chennai from '../../../assets/images/virtualoffice/Chennai.webp'
+import Delhi from '../../../assets/images/virtualoffice/Delhi.webp'
+import Gurgaon from '../../../assets/images/virtualoffice/Gurgaon.webp'
+import Mumbai from '../../../assets/images/virtualoffice/Mumbai.webp'
 import RightArrow from '../../../assets/images/virtualoffice/RightArrow.svg'
 import access from '../../../assets/images/virtualoffice/access.png'
-import BG from "../../../assets/images/virtualoffice/bgVirtual.svg"
 import BG1 from "../../../assets/images/virtualoffice/bgimagew.webp"
 import cost from '../../../assets/images/virtualoffice/cost.png'
 import document from '../../../assets/images/virtualoffice/document.png'
-import Gurgaon from '../../../assets/images/virtualoffice/Gurgaon.svg'
-import Delhi from '../../../assets/images/virtualoffice/Delhi.svg'
-import Noida from '../../../assets/images/virtualoffice/noida.svg'
-import Bangalore from '../../../assets/images/virtualoffice/Bangalore.svg'
-import Mumbai from '../../../assets/images/virtualoffice/Mumbai.svg'
-import Ahmedabad from '../../../assets/images/virtualoffice/Ahmedabad.svg'
-import Chandigarh from '../../../assets/images/virtualoffice/Chandigarh.svg'
-import Chennai from '../../../assets/images/virtualoffice/Chennai.svg'
-import viewMore from '../../../assets/images/virtualoffice/viewMore.svg'
 import flexibility from '../../../assets/images/virtualoffice/flexibility.png'
+import Noida from '../../../assets/images/virtualoffice/noida.webp'
 import importance from '../../../assets/images/virtualoffice/startw.webp'
+import viewMore from '../../../assets/images/virtualoffice/viewMore.svg'
 // import importance from '../../../assets/images/virtualoffice/importance.jpg'
 import network from '../../../assets/images/virtualoffice/network.png'
 import process from '../../../assets/images/virtualoffice/process.png'
@@ -58,7 +57,7 @@ const Home = () => {
           className="background-image"
         />
         <div className="header-content">
-          <h4>Unlock the <span className='color-orange'>Benefits of Getting a Virtual Office</span> Services in Banglore</h4>
+          <h1>Unlock the <span className='color-orange'>Benefits of Getting a Virtual Office</span> Services in Banglore</h1>
           <p className='des'>Build your company's presence with a virtual office in Banglore. Our extensive global network of workspaces gives you a real business address in prime locations, with a wide range of mail handling options and call answering services available, plus access to meeting rooms and desk space whenever you need it.</p>
           <p className='price'>Only @ Rs. 1,500 per month.</p>
           <div className="cities">
