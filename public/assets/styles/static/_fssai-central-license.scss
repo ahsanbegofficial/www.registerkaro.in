@@ -1,0 +1,48 @@
+.fssai-central-license-reg {
+  .line{
+    width: 4px;
+    background-color: #E9A038;
+    margin: 0 0.5rem;
+  }
+  .parallelContent{
+    display: flex;
+  }
+
+  @media screen and (max-width: 990px) {
+    // partition setion
+    .line{
+      width: 0;
+      display: none;
+    }
+    .parallelContent{
+      flex-direction: column;
+    }
+    .line-start{
+      padding :0 auto;
+      margin-bottom: 0;
+    }
+    .line-end{
+      margin-top: 0;
+      padding :0 auto;
+
+    }
+
+
+    // other cocomponents
+
+    .FundamentalDuties-img{
+      
+      height: 400px;
+    }
+    .AdvantagesAcquiring-img{
+      height: 600px;
+    }
+    .RequiredDocuments-img{
+      height: 1080px;
+    }
+
+    .ValidityRenewal-img{
+      height: 400px;
+    }
+  }
+}

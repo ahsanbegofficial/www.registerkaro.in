@@ -1,13 +1,25 @@
 .private-limited-company-compliance-reg {
   @media screen and (max-width: 990px) {
-    .DifferentTypes-img {
-      height: 280px;
-    }
-    .benefits-img {
-      height: 320px;
-    }
-    .DocumentArrowWise-img {
-      height: 220px;
-    }
+  .Benefits-img{
+    height: 500px;
+  }
+  .TypeOfComp-img{
+    height: 400px;
+  }
+  .External-img{
+    height: 900px;
+  }
+  .Internal-img{
+    height: 500px;
+  }
+  .Mandatory-img{
+    height: 900px;
+  }
+  .Other-img{
+    height: 700px;
+  }
+  .EventBased-img{
+    height: 400px;
+  }
   }
 }

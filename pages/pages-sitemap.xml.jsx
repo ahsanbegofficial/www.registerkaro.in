@@ -231,6 +231,14 @@ function generateSiteMap() {
 <loc>${GLOBAL_VARIABLE}/thailand-company-registration</loc>
 <lastmod>2021-06-28</lastmod>
 </url>
+<url>
+<loc>${GLOBAL_VARIABLE}/private-limited-company-compliance</loc>
+<lastmod>2021-06-28</lastmod>
+</url>
+<url>
+<loc>${GLOBAL_VARIABLE}/fssai-central-license</loc>
+<lastmod>2021-06-28</lastmod>
+</url>
    </urlset>
  `;
 }
