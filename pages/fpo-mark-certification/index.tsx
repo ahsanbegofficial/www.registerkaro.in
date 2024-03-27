@@ -333,25 +333,25 @@ const Home = () => {
             <h1 className='main-heading'>Get Online FPO Mark Certification in India</h1>
             <div className='heading-line'></div>
             <Process cityName={'India'} />
-            <h1 className='main-heading'>Food Products Requiring FPO Mark</h1>
+            <h2 className='main-heading'>Food Products Requiring FPO Mark</h2>
             <div className='heading-line'></div>
             <FoodProduct cityName={'India'} />
-            <h1 className='main-heading'>FPO Mark Certification Application</h1>
+            <h2 className='main-heading'>FPO Mark Certification Application</h2>
             <div className='heading-line'></div>
             <FPOMark cityName={'India'} />
-            <h1 className='main-heading'>Documents required for FPO Mark Certification</h1>
+            <h2 className='main-heading'>Documents required for FPO Mark Certification</h2>
             <div className='heading-line'></div>
             <DocumentsRequired cityName={'India'} />
-            <h1 className='main-heading'>Procedure to get FPO Mark Certification</h1>
+            <h2 className='main-heading'>Procedure to get FPO Mark Certification</h2>
             <div className='heading-line'></div>
             <ProcedureGetFPO cityName={'India'} />
-            <h1 className='main-heading'>How much time does it takes to obtain the FPO mark?</h1>
+            <h2 className='main-heading'>How much time does it takes to obtain the FPO mark?</h2>
             <div className='heading-line'></div>
             <HowMuchTime cityName={'India'} />
-            <h1 className="main-heading">Why RegisterKaro?</h1>
+            <h2 className="main-heading">Why RegisterKaro?</h2>
             <div className='heading-line'></div>
             <WhyRegisterkaro />
-            <h1 className="main-heading">FAQs</h1>
+            <h2 className="main-heading">FAQs</h2>
             <div className='heading-line'></div>
             <FaqTemplatePVT faqItems={faq} />
             <RegistrationLinks formattedQuery={'FPO Mark Registration'} state={state} Query={'fpo-mark-certification'} city={city} />
