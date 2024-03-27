@@ -10,7 +10,7 @@ import { EventBased } from '../../components/static/isi-mark-certification/Event
 import { KeyInitiatives } from '../../components/static/isi-mark-certification/KeyInitiatives'
 import { ObjectivesChecklist } from '../../components/static/isi-mark-certification/ObjectivesChecklist'
 import { AdvantagesBIS } from '../../components/static/isi-mark-certification/AdvantagesBIS'
-import { Checklist } from '../../components/static/isi-mark-certification/Checklist'
+import  Checklist  from '../../components/static/isi-mark-certification/Checklist'
 import { RegistrationLinks } from '../../components/child_components/RegistrationLinks'
 
 let state = [
@@ -51,8 +51,8 @@ let state = [
     "uttar-pradesh",
     "uttarakhand",
     "west-bengal"
-]
-
+  ]
+  
 let city = [
     "mumbai",
     "firozabad",
@@ -300,12 +300,12 @@ let city = [
     "visakhapatnam",
     "warangal",
     "yamunanagar"
-]
+  ]
 
 const Home = () => {
     return (
         <div className='services-pages isi-mark-certification-reg'>
-            <Head>
+           <Head>
                 <title>ISI mark certification- Fees, Process & Documents</title>
                 <meta name="description" content="Get ISI Mark Certification hassle-free with RegisterKaro. Our expert team ensures your products meet stringent quality standards. Boost consumer trust and compliance effortlessly. Register now!" />
                 <link rel="canonical" href="https://www.registerkaro.in/isi-mark-certification" />
@@ -313,10 +313,10 @@ const Home = () => {
                 <meta property="og:title" content="ISI mark certification- Fees, Process & Documents" />
                 <meta property="og:description" content="Get ISI Mark Certification hassle-free with RegisterKaro. Our expert team ensures your products meet stringent quality standards. Boost consumer trust and compliance effortlessly. Register now!" />
             </Head>
-            <Hero cityName={'India'} />
+            <Hero cityName={'India'}  />
             <h1 className='main-heading'>Get ISI Mark Certification Online in India</h1>
             <div className='heading-line'></div>
-            <Process cityName={'India'} />
+            <Process cityName={'India'}  />
             <h2 className='main-heading'>Primary Objectives of ISI Certification</h2>
             <div className='heading-line'></div>
             <EventBased cityName={'India'} />
@@ -340,11 +340,10 @@ const Home = () => {
             <PartnershipDeed cityName={'India'} />
             <h2 className='main-heading'>Reasons for ISI Application Rejection</h2>
             <div className='heading-line'></div>
-            <OtherAnnual cityName={'India'} />
+            <OtherAnnual/>
             <h2 className="main-heading">Why RegisterKaro?</h2>
             <div className='heading-line'></div>
             <WhyRegisterkaro />
-            <div className='mb-4'></div>
             <RegistrationLinks formattedQuery={'ISI Mark Certification'} state={state} Query={'isi-mark-certification'} city={city} />
         </div>
     )

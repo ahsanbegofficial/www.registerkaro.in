@@ -1,18 +1,12 @@
 import Image from 'next/image'
 import React from 'react'
-import bft from '../../../assets/images/static/private-reg/benefit.svg'
+import bft from '../../../assets/images/static/isi-mark-certification/reasons.svg'
 
-interface HeroProps {
-  cityName: string;
-}
-
-export const OtherAnnual = ({ cityName }: HeroProps) => {
+export const OtherAnnual = () => {
   return (
     <div id='OtherAnnual'>
-    <div className='benefits flex w-80 m-auto mobile-flex-column' >
-       <div className='flex-4 mt-5'>
-          <Image alt="The benefits of private limited company in india and these are Separate Legal Entity, Ease in Raising Funds, Limited Liability, Easy Transferable, Limited Liability and ESOP" className="benefits-img w-100" height={450} loading="lazy" src={bft} />
-      </div>
+    <div className='benefits flex w-80 m-auto mobile-flex-column-reverse' >
+      
       <div className='flex-7 pt-5'>
           <p>BIS may reject an ISI application under certain non-compliance conditions. The reasons for rejection include:</p>
       <p><strong>1: </strong>Failure to submit samples for testing post ISI application submission.</p>
@@ -25,6 +19,9 @@ export const OtherAnnual = ({ cityName }: HeroProps) => {
       <p><strong>8: </strong>Test failure of samples drawn for testing.</p>
       <p><strong>9: </strong>Lack of testing facilities by the manufacturer.</p>
       <p><strong>10: </strong>Non-conformity in factory testing of sample products during the second stage.</p>
+      </div>
+      <div className='flex-4 mt-5'>
+          <Image alt="Reasons for ISI Application Rejection" className="Reasons-img w-100" height={510} loading="lazy" src={bft} />
       </div>
      </div>
      <p className='main-para'><strong>Note:</strong>  Before rejecting the ISI Certification application, BIS provides a 21-day notice period. During this period, the applicant must present their case either in person or through a representative. If the reasons provided are deemed unsatisfactory, the BIS reserves the right to reject the application.</p>

@@ -1,22 +1,18 @@
 
 import Image from 'next/image'
-import React, { useState } from 'react'
-import one from '../../../assets/images/pvt-reg/HowToRegister/one.svg'
-import two from '../../../assets/images/pvt-reg/HowToRegister/two.svg'
-import three from '../../../assets/images/pvt-reg/HowToRegister/three.svg'
-import four from '../../../assets/images/pvt-reg/HowToRegister/four.svg'
+import { useState } from 'react'
 import five from '../../../assets/images/pvt-reg/HowToRegister/five.svg'
-import six from '../../../assets/images/pvt-reg/HowToRegister/six.svg'
-import seven from '../../../assets/images/pvt-reg/HowToRegister/seven.svg'
+import four from '../../../assets/images/pvt-reg/HowToRegister/four.svg'
+import one from '../../../assets/images/pvt-reg/HowToRegister/one.svg'
+import three from '../../../assets/images/pvt-reg/HowToRegister/three.svg'
+import two from '../../../assets/images/pvt-reg/HowToRegister/two.svg'
 
 
 import arrow from '../../../assets/images/pvt-reg/HowToRegister/arrow.svg'
-
 interface HeroProps {
-  cityName: string;
+    cityName: string;
 }
-
-export const AdvantagesBIS = ({ cityName }: HeroProps) => {
+export const AdvantagesBIS = ({ cityName }: HeroProps)  => {
   const [active, setActive] = useState('1')
 
   const handleActive = (id: string) => {
@@ -28,12 +24,12 @@ export const AdvantagesBIS = ({ cityName }: HeroProps) => {
         <div className='flex justify-content-center'>
         <p className='main-para mb-2'>To obtain ISI Certification in {cityName}, manufacturers follow a systematic procedure outlined as follows:</p>
       </div>
-      <div className="main flex justify-content-between align-center m-auto mobile-flex-column">
+      <div className="main flex justify-content-between align-center m-auto mobile-flex-column-reverse">
       <div className='flex-5 text-justify fs-20 p-color-black'>
           <div className={`${active === '1' ? 'active' : 'none'}`}>
             <h3>Step 1: Select Product Code:</h3>
             <p className='mb-0'>
-             In the initial stage, manufacturers must choose the appropriate product quality by aligning with the guidelines set by the Bureau of {cityName}n Standards (BIS). This involves identifying and selecting an ISI standard product code for their specific product.
+             In the initial stage, manufacturers must choose the appropriate product quality by aligning with the guidelines set by the Bureau of Indian Standards (BIS). This involves identifying and selecting an ISI standard product code for their specific product.
             </p>
           </div>
           <div className={`${active === '2' ? 'active' : 'none'}`}>
@@ -53,7 +49,7 @@ export const AdvantagesBIS = ({ cityName }: HeroProps) => {
           </div>
           <div className={`${active === '5' ? 'active' : 'none'}`}>
             <h3>Step 5: Grant of ISI Certificate:</h3>
-            <p className='mb-0'>Upon completion of the application and inspection process, the Bureau of {cityName}n Standards issues the ISI Certificate. Typically, the entire process of obtaining ISI Certification is completed within 30 days from the date of application.
+            <p className='mb-0'>Upon completion of the application and inspection process, the Bureau of Indian Standards issues the ISI Certificate. Typically, the entire process of obtaining ISI Certification is completed within 30 days from the date of application.
             </p>
           </div>
         </div>

@@ -7,21 +7,16 @@ import { GoogleDiv } from '../GoogleDiv';
 
 let hero = {
     "pack_includes": [
-        "Determine if product falls under BIS purview and complies with standards.",
-        "We provides expert guidance for ISI certification.",
-        "Experienced consultants assist in documentation and evaluation.",
-        "Offer virtual and on-site pre-audits.",
-        "Schedule factory audit with BIS officer.",
-        "Assistance in setting up in-house testing facility if needed.",
-        "Coordinate with BIS accredited lab for product testing.",
-        "Assist in custom clearance of sample products."
+        "Obtain PWMA from CPCB/SPCB.",
+        "Seek expert help for documentation.",
+        "Simplify authorization process with CPCB/SPCB guidelines.",
+        "Build networks with plastic waste suppliers.",
+        "Ensure transparency and compliance.",
     ]
 }
-
 interface HeroProps {
     cityName: string;
 }
-
 export const Hero = ({ cityName }: HeroProps)  => {
     return (
         <div className="hero align-center mobile-flex-column">
@@ -35,8 +30,8 @@ export const Hero = ({ cityName }: HeroProps)  => {
                 className="background-image"
             />
             <div className="header-content">
-            <h4 className='mb-4'>ISI Mark Certification</h4>
-                <p>ISI Mark Certification is a symbol of quality and trust approved by ISI. Get your ISI Certificate online with the help of RegisterKaro.</p>
+            <h4 className='mb-4'>Plastic Waste Authorization</h4>
+                <p>Get Expert Authorisation Assistance to Start your Business Trouble-Free with RegisterKaro</p>
                 <div className="packages">
                     {hero.pack_includes?.map((i: any, n: number) => {
                         return (
@@ -52,7 +47,7 @@ export const Hero = ({ cityName }: HeroProps)  => {
                 <GoogleDiv />
             </div>
             <div className="zoho">
-                <ZohoFormService service={'isi-mark-certification'} />
+                <ZohoFormService service={'plastic-waste-authorization'} />
             </div>
         </div>
     )

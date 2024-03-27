@@ -1,22 +1,16 @@
 import Image from 'next/image'
 import React from 'react'
-import dft from '../../../assets/images/static/private-reg/differentType.svg'
+import bft from '../../../assets/images/static/isi-mark-certification/9.svg'
 import ulArrow from '../../../assets/images/pvt-reg/ulArrow.svg'
-
 interface HeroProps {
-  cityName: string;
+    cityName: string;
 }
-
-export const KeyInitiatives = ({ cityName }: HeroProps) => {
+export const KeyInitiatives = ({ cityName }: HeroProps)  => {
   return (
-    <div >
-        
-      <div className='flex justify-content-center' id='KeyInitiatives'>
-        <Image alt="Types of business structures in {cityName} and these structures are private limited company, public limited company, one person company, limited and sole proprietorship" className="DifferentTypes-img w-100" height={482} loading="lazy" src={dft} />
-      </div>
-     <div className='DocumentArrowWise flex w-80 m-auto mobile-flex-column-reverse'>
 
-      <div className='flex-7'>
+    <div id='KeyInitiatives'>
+     <div className='DocumentArrowWise flex w-80 m-auto mobile-flex-column-reverse'>
+      <div className='flex-6'>
         <p>To obtain ISI Mark Certification, the following essential documents are required:</p>
         <h3>Address Proof of the Manufacturing Unit:</h3>
         <ul className='tick list-unstyled'>
@@ -58,9 +52,9 @@ export const KeyInitiatives = ({ cityName }: HeroProps) => {
         <ul className='tick list-unstyled'>
           <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} />A visual representation outlining the steps involved in the manufacturing process.</li>
           </ul>
-        <h3>{cityName}n Residency Proof:</h3>
+        <h3>Indian Residency Proof:</h3>
         <ul className='tick list-unstyled'>
-          <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} />Documentation confirming the {cityName}n residency status of the manufacturing unit.</li>
+          <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} />Documentation confirming the Indian residency status of the manufacturing unit.</li>
           </ul>
         <h3>Particulars Regarding Raw Material Used:</h3>
         <ul className='tick list-unstyled'>
@@ -75,6 +69,16 @@ export const KeyInitiatives = ({ cityName }: HeroProps) => {
           <li><Image alt="ulArrow" className="ulArrow-img" loading="lazy" height={30} width={30} src={ulArrow} />Detailed drawings or specifications of the product or its components.</li>
           </ul>
       </div>
+      <div className="flex-5">
+        <Image
+            alt="Validity and Renewal of ISI Certificate"
+            className="Documents-img w-100"
+            height={1390}
+            loading="lazy"
+            src={bft}
+          />
+        </div>
+
       </div>
       <p className='main-para'>These documents collectively contribute to the thorough evaluation and verification process required for obtaining ISI Certification.</p>
     </div>

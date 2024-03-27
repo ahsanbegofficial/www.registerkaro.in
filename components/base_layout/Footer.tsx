@@ -130,7 +130,7 @@ const Footer = () => {
           <div className="hr"></div>
           <div className='text-white text-center footer-bottom'>
             <p>By continuing this page, you agree to our <Link href="/terms-and-conditions">Terms & Conditions, Privacy Policy and Refund Policy.</Link></p>
-            <p>© 2023 - Safe Ledger Private Limited. All rights reserved.</p>
+            <p>© 2024 - Safe Ledger Private Limited. All rights reserved.</p>
             <p>Please note that we are a facilitating platform enabling access to reliable professionals. We are not a law firm and do not provide legal services ourselves. The information on this website is for the purpose of knowledge only and should not be relied upon as legal advice or opinion.</p>
           </div>
         </footer>

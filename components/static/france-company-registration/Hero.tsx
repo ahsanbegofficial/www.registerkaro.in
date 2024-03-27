@@ -7,22 +7,16 @@ import { GoogleDiv } from '../GoogleDiv';
 
 let hero = {
     "pack_includes": [
-        "Determine if product falls under BIS purview and complies with standards.",
-        "We provides expert guidance for ISI certification.",
-        "Experienced consultants assist in documentation and evaluation.",
-        "Offer virtual and on-site pre-audits.",
-        "Schedule factory audit with BIS officer.",
-        "Assistance in setting up in-house testing facility if needed.",
-        "Coordinate with BIS accredited lab for product testing.",
-        "Assist in custom clearance of sample products."
+        "Expert Advisory",
+        "Comprehensive Documentation",
+        "Post Registration Compliance",
+        "Company Annual Filing",
+        "Process Consultation",
+        "Certificate Procurement",
     ]
 }
 
-interface HeroProps {
-    cityName: string;
-}
-
-export const Hero = ({ cityName }: HeroProps)  => {
+export const Hero = () => {
     return (
         <div className="hero align-center mobile-flex-column">
             <Image
@@ -35,8 +29,8 @@ export const Hero = ({ cityName }: HeroProps)  => {
                 className="background-image"
             />
             <div className="header-content">
-            <h4 className='mb-4'>ISI Mark Certification</h4>
-                <p>ISI Mark Certification is a symbol of quality and trust approved by ISI. Get your ISI Certificate online with the help of RegisterKaro.</p>
+            <h4 className='mb-4'>Company Registration in France</h4>
+                <p>Take advantage of Our Company Registration Services right now for a quick and simple procedure. Our team of professionals will efficiently set up your business process so you can concentrate on growing your enterprise.</p>
                 <div className="packages">
                     {hero.pack_includes?.map((i: any, n: number) => {
                         return (
@@ -52,7 +46,7 @@ export const Hero = ({ cityName }: HeroProps)  => {
                 <GoogleDiv />
             </div>
             <div className="zoho">
-                <ZohoFormService service={'isi-mark-certification'} />
+                <ZohoFormService service={'france-company-registration'} />
             </div>
         </div>
     )
