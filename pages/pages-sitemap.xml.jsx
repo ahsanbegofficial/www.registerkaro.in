@@ -251,6 +251,14 @@ function generateSiteMap() {
 <loc>${GLOBAL_VARIABLE}/shop-and-establishment-act-registration</loc>
 <lastmod>2021-06-28</lastmod>
 </url>
+<url>
+<loc>${GLOBAL_VARIABLE}/plastic-waste-authorization</loc>
+<lastmod>2021-06-28</lastmod>
+</url>
+<url>
+<loc>${GLOBAL_VARIABLE}/france-company-registration</loc>
+<lastmod>2021-06-28</lastmod>
+</url>
    </urlset>
  `;
 }
