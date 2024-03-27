@@ -373,11 +373,11 @@ const Home = () => {
         <div className='services-pages fssai-registration-reg'>
             <Head>
                 <title>FSSAI Registration | RegisterKaro</title>
-                <meta name="description" content="The Official RegisterKaro" />
+                <meta name="description" content="Ensure your food business meets FSSAI standards by registering with us. Stay compliant and build trust with your customers." />
                 <link rel="canonical" href="https://www.registerkaro.in/fssai-registration" />
                 <link rel="icon" href="/favicon.ico" />
-                <meta property="og:title" content="FSSAI Registration | RegisterKaro" />
-                <meta property="og:description" content="The Official RegisterKaro" />
+                <meta property="og:title" content="Apply for fssai registration - Registerkaro" />
+                <meta property="og:description" content="Ensure your food business meets FSSAI standards by registering with us. Stay compliant and build trust with your customers." />
             </Head>
             <Hero cityName={'India'} />
             <h1 className='main-heading'>FSSAI Registration Online in India</h1>

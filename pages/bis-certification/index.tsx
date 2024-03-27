@@ -351,11 +351,11 @@ const Home = () => {
         <div className='services-pages bis-certification-reg'>
             <Head>
                 <title>BIS Certification | RegisterKaro</title>
-                <meta name="description" content="The Official RegisterKaro" />
+                <meta name="description" content="Secure BIS Certification for your products easily and efficiently with RegisterKaro. Our services include BIS certification for various products, ensuring safety, quality, and reliability. Get a free consultation and all-inclusive quote today." />
                 <link rel="canonical" href="https://www.registerkaro.in/bis-certification" />
                 <link rel="icon" href="/favicon.ico" />
                 <meta property="og:title" content="BIS Certification | RegisterKaro" />
-                <meta property="og:description" content="The Official RegisterKaro" />
+                <meta property="og:description" content="Secure BIS Certification for your products easily and efficiently with RegisterKaro. Our services include BIS certification for various products, ensuring safety, quality, and reliability. Get a free consultation and all-inclusive quote today." />
             </Head>
             <Hero cityName={'India'} />
             <h1 className='main-heading'>Get Online BIS Certification in India</h1>

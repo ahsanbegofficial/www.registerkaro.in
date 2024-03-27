@@ -374,11 +374,11 @@ const Home = () => {
         <div className='services-pages section-8-reg'>
             <Head>
                 <title>Section 8 Company Registration | RegisterKaro</title>
-                <meta name="description" content="The Official RegisterKaro" />
+                <meta name="description" content="Easily register your Section 8 Company online with RegisterKaro.in. Expert assistance for swift, compliant incorporation. Get started today!" />
                 <link rel="canonical" href="https://www.registerkaro.in/section-8-company-registration" />
                 <link rel="icon" href="/favicon.ico" />
                 <meta property="og:title" content="Section 8 Company Registration | RegisterKaro" />
-                <meta property="og:description" content="The Official RegisterKaro" />
+                <meta property="og:description" content="Easily register your Section 8 Company online with RegisterKaro.in. Expert assistance for swift, compliant incorporation. Get started today!" />
             </Head>
             <Hero cityName={'India'}/>
             <h1 className='main-heading'>An Overview of Section 8 Company Registration</h1>

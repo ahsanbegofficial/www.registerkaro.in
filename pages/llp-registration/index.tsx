@@ -361,12 +361,12 @@ const Home = () => {
     return (
         <div className='services-pages llp-reg'>
             <Head>
-                <title>LLP Regstration | RegisterKaro</title>
-                <meta name="description" content="The Official RegisterKaro" />
+                <title>LLP Registration Services | RegisterKaro</title>
+                <meta name="description" content="Looking to register your LLP? Our experts provide seamless LLP registration services. Begin your business venture now." />
                 <link rel="canonical" href="https://www.registerkaro.in/llp-regstration" />
                 <link rel="icon" href="/favicon.ico" />
-                <meta property="og:title" content="LLP Regstration | RegisterKaro" />
-                <meta property="og:description" content="The Official RegisterKaro" />
+                <meta property="og:title" content="LLP Registration Services | RegisterKaro" />
+                <meta property="og:description" content="Looking to register your LLP? Our experts provide seamless LLP registration services. Begin your business venture now." />
             </Head>
             <Hero cityName={'India'} />
             <h1 className='main-heading'>Limited Liability Registration (LLP) Registration in India</h1>

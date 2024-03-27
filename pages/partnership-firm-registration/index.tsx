@@ -376,11 +376,11 @@ const Home = () => {
         <div className='services-pages partnership-firm-reg'>
              <Head>
                 <title>Partnership Firm Registration | RegisterKaro</title>
-                <meta name="description" content="The Official RegisterKaro" />
+                <meta name="description" content="Get your partnership firm registered hassle-free with our experts, who ensure seamless processing. Register now to embark on your entrepreneurial journey effortlessly!" />
                 <link rel="canonical" href="https://www.registerkaro.in/partnership-firm-registration" />
                 <link rel="icon" href="/favicon.ico" />
                 <meta property="og:title" content="Partnership Firm Registration | RegisterKaro" />
-                <meta property="og:description" content="The Official RegisterKaro" />
+                <meta property="og:description" content="Get your partnership firm registered hassle-free with our experts, who ensure seamless processing. Register now to embark on your entrepreneurial journey effortlessly!" />
             </Head>
             <Hero cityName={'India'}/>
             <h1 className='main-heading'>Online Partnership Firm Registration in India</h1>

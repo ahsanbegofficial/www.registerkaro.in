@@ -374,16 +374,16 @@ let city = [
 
     return (
         <div className='services-pages bis-fmcs-certification-reg'>
-            <Head>
+             <Head>
                 
-              <title>BIS FMCS Certification | RegisterKaro</title>
-              <meta name="description" content="The Official RegisterKaro" />
-              <link rel="canonical" href="https://www.registerkaro.in/bis-fmcs-certification" />
-              <link rel="icon" href="/favicon.ico" />
-              <meta property="og:title" content="BIS FMCS Certification  | RegisterKaro" />
-              <meta property="og:description" content="The Official RegisterKaro" />
-            
-            </Head>
+                <title>Get BIS FMC Certification Services with RegisterKaro</title>
+                <meta name="description" content="Ensure compliance with BIS FMC standards with RegisterKaro. Get certified hassle-free today! " />
+                <link rel="canonical" href="https://www.registerkaro.in/bis-fmcs-certification" />
+                <link rel="icon" href="/favicon.ico" />
+                <meta property="og:title" content="Get BIS FMC Certification Services with RegisterKaro" />
+                <meta property="og:description" content="Ensure compliance with BIS FMC standards with RegisterKaro. Get certified hassle-free today! " />
+              
+              </Head>
             <Hero cityName={cityName} />
             <h1 className='main-heading'>An Overview of BIS FMCS Certification</h1>
             <div className='heading-line'></div>

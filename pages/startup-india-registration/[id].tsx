@@ -401,11 +401,11 @@ const Home = () => {
         <div className='services-pages startup-reg'>
             <Head>
                 <title>Startup India Registration | RegisterKaro</title>
-                <meta name="description" content="The Official RegisterKaro" />
+                <meta name="description" content="Need reliable trademark registration services? Our experienced team offers expert guidance to protect your brand. Contact us today to get started!" />
                 <link rel="canonical" href="https://www.registerkaro.in/startup-india-registration" />
                 <link rel="icon" href="/favicon.ico" />
                 <meta property="og:title" content="Startup India Registration | RegisterKaro" />
-                <meta property="og:description" content="The Official RegisterKaro" />
+                <meta property="og:description" content="Need reliable trademark registration services? Our experienced team offers expert guidance to protect your brand. Contact us today to get started!" />
             </Head>
             <Hero cityName={cityName} />
             <h1 className='main-heading'>A Complete Analysis of Startup {cityName} Registration</h1>

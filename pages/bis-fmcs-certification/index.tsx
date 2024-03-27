@@ -351,12 +351,12 @@ const Home = () => {
         <div className='services-pages bis-fmcs-certification-reg'>
             <Head>
                 
-              <title>BIS FMCS Certification | RegisterKaro</title>
-              <meta name="description" content="The Official RegisterKaro" />
+              <title>Get BIS FMC Certification Services with RegisterKaro</title>
+              <meta name="description" content="Ensure compliance with BIS FMC standards with RegisterKaro. Get certified hassle-free today! " />
               <link rel="canonical" href="https://www.registerkaro.in/bis-fmcs-certification" />
               <link rel="icon" href="/favicon.ico" />
-              <meta property="og:title" content="BIS FMCS Certification  | RegisterKaro" />
-              <meta property="og:description" content="The Official RegisterKaro" />
+              <meta property="og:title" content="Get BIS FMC Certification Services with RegisterKaro" />
+              <meta property="og:description" content="Ensure compliance with BIS FMC standards with RegisterKaro. Get certified hassle-free today! " />
             
             </Head>
             <Hero cityName={'India'} />

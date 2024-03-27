@@ -361,12 +361,12 @@ const Home = () => {
     return (
         <div className='services-pages virtual-office-reg'>
             <Head>
-                <title>Virtual Office | RegisterKaro</title>
-                <meta name="description" content="The Official RegisterKaro" />
+                <title>Get Virtual Office Services with RegisterKaro</title>
+                <meta name="description" content="Unlock the potential of remote work with our virtual office solutions at RegisterKaro.in. Establish a professional business presence with us." />
                 <link rel="canonical" href="https://www.registerkaro.in/virtual-office" />
                 <link rel="icon" href="/favicon.ico" />
-                <meta property="og:title" content="Virtual Office | RegisterKaro" />
-                <meta property="og:description" content="The Official RegisterKaro" />
+                <meta property="og:title" content="Get Virtual Office Services with RegisterKaro" />
+                <meta property="og:description" content="Unlock the potential of remote work with our virtual office solutions at RegisterKaro.in. Establish a professional business presence with us." />
             </Head>
             <Hero  cityName={'India'}  />
             <h1 className='main-heading'>An Overview of Virtual Office in India</h1>

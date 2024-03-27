@@ -347,12 +347,12 @@ const Home = () => {
     return (
         <div className='services-pages fpo-mark-certification-reg'>
             <Head>
-                <link rel="canonical" href="https://www.registerkaro.in/fpo-mark-certification" />
                 <title>FPO Mark Registration | RegisterKaro</title>
-                <meta name="description" content="The Official RegisterKaro" />
+                <link rel="canonical" href="https://www.registerkaro.in/fpo-mark-certification" />
+                <meta name="description" content="RegisterKaro offers hassle-free FPO mark certification services in India. Get your FPO mark certification quickly and efficiently." />
                 <link rel="icon" href="/favicon.ico" />
                 <meta property="og:title" content="FPO Mark Registration | RegisterKaro" />
-                <meta property="og:description" content="The Official RegisterKaro" />
+                <meta property="og:description" content="RegisterKaro offers hassle-free FPO mark certification services in India. Get your FPO mark certification quickly and efficiently." />
             </Head>
             <Hero cityName={cityName} />
             <h1 className='main-heading'>Get Online FPO Mark Certification in {cityName}</h1>

@@ -400,12 +400,12 @@ const Home = () => {
     return (
         <div className='services-pages ngo-reg'>
             <Head>
-                <title>NGO Registration | RegisterKaro</title>
-                <meta name="description" content="The Official RegisterKaro" />
+                <title>Online NGO registration - RegisterKaro</title>
+                <meta name="description" content="Discover hassle-free NGO registration services in India with RegisterKaro. Start your nonprofit organization and make a difference today. " />
                 <link rel="canonical" href="https://www.registerkaro.in/ngo-registration" />
                 <link rel="icon" href="/favicon.ico" />
-                <meta property="og:title" content="NGO Registration | RegisterKaro" />
-                <meta property="og:description" content="The Official RegisterKaro" />
+                <meta property="og:title" content="Online NGO registration - RegisterKaro" />
+                <meta property="og:description" content="Discover hassle-free NGO registration services in India with RegisterKaro. Start your nonprofit organization and make a difference today. " />
             </Head>
             <Hero cityName={'India'} />
             <h1 className='main-heading'>Online NGO Registration in India</h1>

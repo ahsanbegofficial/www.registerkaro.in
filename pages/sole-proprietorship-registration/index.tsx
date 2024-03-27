@@ -378,11 +378,11 @@ const Home = () => {
         <div className='services-pages sole-reg'>
             <Head>
                 <title>Sole Proprietorship Registration | RegisterKaro</title>
-                <meta name="description" content="The Official RegisterKaro" />
+                <meta name="description" content="Register your sole proprietorship effortlessly with RegisterKaro. Get expert assistance and start your business journey today. " />
                 <link rel="canonical" href="https://www.registerkaro.in/sole-proprietorship-registration" />
                 <link rel="icon" href="/favicon.ico" />
                 <meta property="og:title" content="Sole Proprietorship Registration | RegisterKaro" />
-                <meta property="og:description" content="The Official RegisterKaro" />
+                <meta property="og:description" content="Register your sole proprietorship effortlessly with RegisterKaro. Get expert assistance and start your business journey today. " />
             </Head>
             <Hero cityName={'India'} />
             <h1 className='main-heading'>Online Sole Proprietorship Registration in India</h1>

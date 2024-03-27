@@ -389,7 +389,7 @@ function formatString(input: string) {
 const Home = () => {
     const router = useRouter();
     const query = router.query.id as string;
-  
+
     useEffect(() => {
         console.log('q', query);
     }, [query]);
@@ -405,12 +405,12 @@ const Home = () => {
     return (
         <div className="services-pages trademark-registration-reg">
             <Head>
-                <title>Trademark Registration | RegisterKaro</title>
-                <meta name="description" content="The Official RegisterKaro" />
+                <title>Online Trademark registration - Simple and easy with Registerkaro </title>
+                <meta name="description" content="Register your trademark hassle-free with RegisterKaro. Our expert team ensures seamless trademark registration process.  Get started now!" />
                 <link rel="canonical" href="https://www.registerkaro.in/trademark-registration" />
                 <link rel="icon" href="/favicon.ico" />
-                <meta property="og:title" content="Trademark Registration | RegisterKaro" />
-                <meta property="og:description" content="The Official RegisterKaro" />
+                <meta property="og:title" content="Online Trademark registration - Simple and easy with Registerkaro " />
+                <meta property="og:description" content="Register your trademark hassle-free with RegisterKaro. Our expert team ensures seamless trademark registration process.  Get started now!" />
             </Head>
             <Hero cityName={cityName} />
             <h1 className="main-heading">An Overview of Trademark Registration Online</h1>

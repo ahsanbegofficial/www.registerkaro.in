@@ -396,12 +396,12 @@ const Home = () => {
   return (
     <div className="services-pages iec-registration-reg">
        <Head>
-        <title>IEC Registration | RegisterKaro</title>
-        <meta name="description" content="The Official RegisterKaro" />
+        <title>IEC registration in India- Process , Documents & Benefits </title>
+        <meta name="description" content="Streamline your import-export business with hassle-free IEC registration online. Start trading globally today!" />
         <link rel="canonical" href="https://www.registerkaro.in/iec-registration" />
         <link rel="icon" href="/favicon.ico" />
-        <meta property="og:title" content="IEC Registration | RegisterKaro" />
-        <meta property="og:description" content="The Official RegisterKaro" />
+        <meta property="og:title" content="IEC registration in India- Process , Documents & Benefits " />
+        <meta property="og:description" content="Streamline your import-export business with hassle-free IEC registration online. Start trading globally today!" />
       </Head>
       <Hero cityName={'India'} />
       <h1 className="main-heading">Online IEC Registration in India</h1>

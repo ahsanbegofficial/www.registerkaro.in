@@ -398,11 +398,11 @@ const Home = () => {
         <div className='services-pages opc-reg'>
             <Head>
                 <title>One Person Company | RegisterKaro</title>
-                <meta name="description" content="The Official RegisterKaro" />
+                <meta name="description" content="Streamline your business with hassle-free MSME registration online. Unlock benefits and incentives for your enterprise with RegisterKaro.in. Get started today!" />
                 <link rel="canonical" href="https://www.registerkaro.in/one-person-company" />
                 <link rel="icon" href="/favicon.ico" />
                 <meta property="og:title" content="One Person Company | RegisterKaro" />
-                <meta property="og:description" content="The Official RegisterKaro" />
+                <meta property="og:description" content="Streamline your business with hassle-free MSME registration online. Unlock benefits and incentives for your enterprise with RegisterKaro.in. Get started today!" />
             </Head>
             <Hero cityName={cityName} />
             <h1 className='main-heading'>What is One Person Company Registration in India?</h1>

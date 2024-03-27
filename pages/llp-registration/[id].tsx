@@ -387,41 +387,41 @@ const Home = () => {
     return (
         <div className='services-pages llp-reg'>
             <Head>
-                <title>LLP Regstration | RegisterKaro</title>
-                <meta name="description" content="The Official RegisterKaro" />
+                <title>LLP Registration Services | RegisterKaro</title>
+                <meta name="description" content="Looking to register your LLP? Our experts provide seamless LLP registration services. Begin your business venture now." />
                 <link rel="canonical" href="https://www.registerkaro.in/llp-regstration" />
                 <link rel="icon" href="/favicon.ico" />
-                <meta property="og:title" content="LLP Regstration | RegisterKaro" />
-                <meta property="og:description" content="The Official RegisterKaro" />
+                <meta property="og:title" content="LLP Registration Services | RegisterKaro" />
+                <meta property="og:description" content="Looking to register your LLP? Our experts provide seamless LLP registration services. Begin your business venture now." />
             </Head>
-            <Hero cityName={cityName}/>
+            <Hero cityName={cityName} />
             <h1 className='main-heading'>Limited Liability Registration (LLP) Registration in India</h1>
             <div className='heading-line'></div>
-            <Process cityName={cityName}/>
+            <Process cityName={cityName} />
             <h2 className='main-heading'>What is a “Limited Liability Partnership” or “LLP”?</h2>
             <div className='heading-line'></div>
-            <LLPReg cityName={cityName}/>
+            <LLPReg cityName={cityName} />
             <h2 className="main-heading">What are the Features of an LLP in India?</h2>
             <div className='heading-line'></div>
-            <Characteristics cityName={cityName}/>
+            <Characteristics cityName={cityName} />
             <h2 className="main-heading">Benefits of LLP Registration in India</h2>
             <div className='heading-line'></div>
-            <Benefits cityName={cityName}/>
+            <Benefits cityName={cityName} />
             <h2 className="main-heading">What are the Different Types of LLP Forms in India?</h2>
             <div className='heading-line'></div>
-            <DifferentTypes cityName={cityName}/>
+            <DifferentTypes cityName={cityName} />
             <h2 className="main-heading">Checklist for the LLP Registration</h2>
             <div className='heading-line'></div>
-            <Checklist cityName={cityName}/>
+            <Checklist cityName={cityName} />
             <h2 className="main-heading">What are the vital documents required for LLP Registration in India?</h2>
             <div className='heading-line'></div>
-            <DocumentRequired cityName={cityName}/>
+            <DocumentRequired cityName={cityName} />
             <h2 className="main-heading">Know the LLP Registration Process</h2>
             <div className='heading-line'></div>
-            <HowToRegister cityName={cityName}/>
+            <HowToRegister cityName={cityName} />
             <h2 className="main-heading">LLP Compliance</h2>
             <div className='heading-line'></div>
-            <TableCom cityName={cityName}/>
+            <TableCom cityName={cityName} />
             <h2 className="main-heading">Why RegisterKaro?</h2>
             <div className='heading-line'></div>
             <WhyRegisterkaro />

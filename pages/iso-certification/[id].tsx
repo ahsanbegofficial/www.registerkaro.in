@@ -400,12 +400,12 @@ const Home = () => {
     return (
         <div className='services-pages iso-certification-reg'>
             <Head>
-                <title>ISO Certification | RegisterKaro</title>
-                <meta name="description" content="The Official RegisterKaro" />
+                <title>Get ISO Certification Services - RegisterKaro</title>
+                <meta name="description" content="Enhance your business reputation with ISO certification. Discover how to get certified quickly. Join us!" />
                 <link rel="canonical" href="https://www.registerkaro.in/iso-certification" />
                 <link rel="icon" href="/favicon.ico" />
-                <meta property="og:title" content="ISO Certification | RegisterKaro" />
-                <meta property="og:description" content="The Official RegisterKaro" />
+                <meta property="og:title" content="Get ISO Certification Services - RegisterKaro" />
+                <meta property="og:description" content="Enhance your business reputation with ISO certification. Discover how to get certified quickly. Join us!" />
             </Head>
             <Hero cityName={cityName} />
             <h1 className='main-heading'>Online ISO Certification in {cityName}</h1>
