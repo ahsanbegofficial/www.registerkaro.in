@@ -1,0 +1,32 @@
+.environmental-clearance-reg {
+  .Procedure-parent{
+    display: flex;
+    gap: 50px;
+    div{
+      padding: 0;
+    }
+  }
+  @media screen and (max-width: 990px) {
+    .Applicable-img{
+      height: 100%;
+    }
+    .Prerequisites-img{
+      height: 100%;
+    }
+    .Types-img{
+      height: 100%;
+    }
+    .DocumentRequired-img{
+      height: 100%;
+    }
+    .Procedure-img{
+      height: 100%;
+    }
+    .Certificate-img-one{
+      height: 100%;
+    }
+    .Certificate-img-two{
+      height: 100%;
+    }
+  }
+}

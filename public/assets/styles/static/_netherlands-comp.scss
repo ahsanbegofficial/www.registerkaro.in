@@ -1,0 +1,30 @@
+.netherlands-comp-reg {
+  .mt-10 {
+    margin: auto;
+    margin-top:40px;
+  }
+  @media screen and (max-width: 990px) {
+    .mt-10 {
+      margin: auto;
+      margin-top:0px;
+    }
+    .WhyStart-img {
+      height: 100%;
+    }
+    .Types-img {
+      height: 100%;
+    }
+    .DocumentRequired-img {
+      height: 100%;
+    }
+    .ProcessCompany-img {
+      height: 100%;
+    }
+    .Registration-img {
+      height: 100%;
+    }
+    .WhyChoose-img {
+      height: 100%;
+    }
+  }
+}
